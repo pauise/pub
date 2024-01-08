@@ -397,11 +397,11 @@ Which migration strategy will meet these requirements?
  
 > The Database Migration Option (DMO) within the SAP Software Update Manager (SUM) is the recommended tool to convert your existing SAP ERP database to SAP HANA. This is because DMO is able to update the existing SAP system and migrate the database to SAP HANA in one step, hence reducing the total downtime required for the migration.
 
-Option A: AWS Application Migration Service (CloudEndure Migration) doesn't support database transformation (such as converting IBM DB2 to SAP HANA).
+> Option A: AWS Application Migration Service (CloudEndure Migration) doesn't support database transformation (such as converting IBM DB2 to SAP HANA).
 
-Option C: AWS Server Migration Service (AWS SMS) is used for migrating on-premise servers to AWS, but it does not handle database conversions from IBM Db2 to SAP HANA.
+> Option C: AWS Server Migration Service (AWS SMS) is used for migrating on-premise servers to AWS, but it does not handle database conversions from IBM Db2 to SAP HANA.
 
-Option D: AWS Database Migration Service (AWS DMS) helps you migrate databases to AWS easily and securely, but as of my knowledge cutoff in September 2021, it doesn't support SAP HANA as a target for migration.
+> Option D: AWS Database Migration Service (AWS DMS) helps you migrate databases to AWS easily and securely, but as of my knowledge cutoff in September 2021, it doesn't support SAP HANA as a target for migration.
 </details> 
 
 
@@ -439,19 +439,49 @@ Which change should the SAP solutions architect make to the IAM permissions to r
 </details> 
 
 
-## Question 
+## Question 27
 
-<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: ?
+A company wants to deploy an SAP HANA database on AWS by using AWS Launch Wizard for SAP. An SAP solutions architect needs to run a custom post-deployment script on the Amazon EC2 instance that Launch Wizard provisions.
+Which actions can the SAP solutions architect take to provide the post-deployment script in the Launch Wizard console? **(Choose two.)**
+
+ - A. Provide the FTP URL of the script.
+ - B. Provide the HTTPS URL of the script on a web server.
+ - C. Provide the Amazon S3 URL of the script.
+ - D. Write the script inline.
+ - E. Upload the script.
+<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: CE
  
-> 
+> C. Providing the Amazon S3 URL of the script allows the SAP solutions architect to reference the location of the script stored in an Amazon S3 bucket. The Launch Wizard can then retrieve the script from the specified S3 URL during the deployment process.
+
+> E. Uploading the script directly in the Launch Wizard console provides the option to upload the script file directly from the local system. This allows the script to be included as part of the deployment package and be available for execution during the provisioning of the EC2 instance.
+
+> See https://catalog.us-east-1.prod.workshops.aws/workshops/754ba343-2704-404a-8abe-be7b21c4d9d5/en-US/800-other/802-prepostscript
+
 </details> 
 
 
-## Question 
+## Question 28
 
-<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: ?
+A company is planning to move its on-premises SAP HANA database to AWS. The company needs to migrate this environment to AWS as quickly as possible. An SAP solutions architect will use AWS Launch Wizard for SAP to deploy this SAP HANA workload.
+Which combination of steps should the SAP solutions architect follow to start the deployment of this workload on AWS? **(Choose three.)**
+ - A. Download the SAP HANA software.
+ - B. Download the AWS CloudFormation template for the SAP HANA deployment.
+ - C. Download and extract the SAP HANA software. Upload the SAP HANA software to an FTP server that Launch Wizard can access.
+ - D. Upload the unextracted SAP HANA software to an Amazon S3 destination bucket. Follow the S3 file path syntax for the software in accordance with Launch Wizard recommendations.
+ - E. Bring the operating system AMI by using the Bring Your Own Image (BYOI) model, or purchase the subscription for the operating system AMI from AWS Marketplace.
+ - F. Create the SAP file system by using Amazon Elastic Block Store (Amazon EBS) before the deployment.
+<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: ABD
  
-> 
+> The first step is to download the SAP HANA software. This is a prerequisite for setting up an SAP HANA system.
+
+> Next, you need to upload the unextracted SAP HANA software to an Amazon S3 bucket. AWS Launch Wizard will use the software from this S3 bucket for the deployment.
+
+> Lastly, you need an AMI for the operating system. You can either use the BYOI model or purchase a subscription for the operating system AMI from AWS Marketplace.
+
+> AWS Launch Wizard does not require a pre-existing CloudFormation template (option B), nor does it need you to upload the SAP HANA software to an FTP server (option C). Launch Wizard creates necessary AWS resources, like the SAP file system, as part of the deployment process, so you don't need to create the SAP file system using Amazon EBS before the deployment (option F).
+
+> See https://docs.aws.amazon.com/launchwizard/latest/userguide/launch-wizard-sap-setting-up.html
+https://docs.aws.amazon.com/launchwizard/latest/userguide/launch-wizard-sap-structure.html
 </details> 
 
 
