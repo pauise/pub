@@ -238,16 +238,43 @@ What should the SAP solutions architect do to meet these requirements?
 
 </details>
 
+## Question 16
+
+A company is running its SAP workloads on premises and needs to migrate the workloads to AWS. All the workloads are running on SUSE Linux Enterprise Server and Oracle Database. The company’s landscape consists of SAP ERP Central Component (SAP ECC), SAP Business Warehouse (SAP BW), and SAP NetWeaver systems. The company has a dedicated AWS Direct Connect connection between its on-premises environment and AWS. The company needs to migrate the systems to AWS with the least possible downtime.
+Which migration solution will meet these requirements?
+
+ - A. Use SAP Software Provisioning Manager to perform an export of the systems. Copy the export to Amazon S3. Use SAP Software Provisioning Manager to perform an import of the systems to SUSE Linux Enterprise Server and Oracle Database on AWS.
+ - B. Use SAP Software Provisioning Manager to perform parallel export/import of the systems to migrate the systems to SUSE Linux Enterprise Server and Oracle Database on AWS.
+ - C. Use SAP Software Provisioning Manager to perform parallel export/import of the systems to migrate the systems to Oracle Enterprise Linux and Oracle Database on AWS.
+ - D. Use SAP Software Provisioning Manager to perform an export of the systems. Copy the export to Amazon S3. Use SAP Software Provisioning Manager to perform an import of the systems to Oracle Enterprise Linux and Oracle Database on AWS.
+
+<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: C
+ 
+> SUSE does not support Oracle on AWS. So A and B are eliminated. Of C and D, parallel exp/imp will take less time so less outage. See https://launchpad.support.sap.com/#/notes/1656250
+
+</details>
+
+## Question 17
+
+A company is designing a disaster recovery (DR) strategy for an SAP HANA database that runs on an Amazon EC2 instance in a single Availability Zone. The company can tolerate a long RTO and an RPO greater than zero if it means that the company can save money on its DR process.
+The company has configured an Amazon CloudWatch alarm to automatically recover the EC2 instance if the instance experiences an unexpected issue. The company has set up AWS Backint Agent for SAP HANA to save the backups into Amazon S3.
+What is the MOST cost-effective DR option for the company's SAP HANA database?
+
+ - A. Set up AWS CloudFormation to automatically launch a new EC2 instance for the SAP HANA database in a second Availability Zone from backups that are stored in Amazon S3. When the SAP HANA database is operational, perform a database restore by using the standard SAP HANA restore process.
+ - B. Launch a secondary EC2 instance for the SAP HANA database on a less powerful EC2 instance type in a second Availability Zone. Configure SAP HANA system replication with the preload option turned off.
+ - C. Launch a secondary EC2 instance for the SAP HANA database on an equivalent EC2 instance type in a second Availability Zone. Configure SAP HANA system replication with the preload option turned on.
+ - D. Set up AWS CloudFormation to automatically launch a new EC2 instance for the SAP HANA database in a second Availability Zone from backups that are stored in Amazon Elastic Block Store (Amazon EBS). When the SAP HANA database is operational, perform a database restore by using the standard SAP HANA restore process.
+
+<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: A
+ 
+> This option leverages the existing backups stored in Amazon S3 and does not require running additional, potentially costly, EC2 instances until needed. The new instance is only launched in the event of a disaster, and data is then restored from the S3 backup. This is a cost-effective method, as you only pay for the S3 storage of your backup and the EC2 resources when you need them.
+
+> See https://docs.aws.amazon.com/sap/latest/sap-hana/hana-ops-ha-dr.html#backint-hana-hadr
+
+</details>
 
 
-<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: ?
- 
-> 
-</details>
-<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: ?
- 
-> 
-</details>
+
 <details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: ?
  
 > 
