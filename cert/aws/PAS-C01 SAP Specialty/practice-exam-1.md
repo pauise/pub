@@ -136,40 +136,123 @@ Which migration solution will meet these requirements?
 > The following REDHAT site describes the conversion of SAP HANA from SUSE to REDHAT.
 SAP HANA system replication is used.
 https://www.redhat.com/en/resources/migrating-sap-workloads-linux-detail
-> SolMan DB does not matter, question is about "least possible DT for S/4 and BW/4", therefore D shoud be correct
-> https://docs.aws.amazon.com/sap/latest/sap-hana/migrating-hana-hana-to-aws.html
-> https://docs.aws.amazon.com/migrationhub-orchestrator/latest/userguide/migrate-sap.html
+> SolMan DB does not matter, question is about "least possible DT for S/4 and BW/4", therefore D shoud be correct. See also https://docs.aws.amazon.com/sap/latest/sap-hana/migrating-hana-hana-to-aws.html and  https://docs.aws.amazon.com/migrationhub-orchestrator/latest/userguide/migrate-sap.html
 
-</details> nn. lalala.
-- A. lala
-- B. lala
-- C. lala
-- D. lala
+</details> 
+
+## Question 10
+A company is running an SAP on Oracle system on IBM Power architecture in an on-premises data center. The company wants to migrate the SAP system to AWS. The Oracle database is 15 TB in size. The company has set up a 100 Gbps AWS Direct Connect connection to AWS from the on-premises data center.
+Which solution should the company use to migrate the SAP system MOST quickly?
+
+ - A. Before the migration window, build a new installation of the SAP system on AWS by using SAP Software Provisioning Manager. During the migration window, export a copy of the SAP system and database by using the heterogeneous system copy process and R3load. Copy the output of the SAP system files to AWS through the Direct Connect connection. Import the SAP system to the new SAP installation on AWS. Switch over to the SAP system on AWS.
+ - B. Before the migration window, build a new installation of the SAP system on AWS by using SAP Software Provisioning Manager. Back up the Oracle database by using native Oracle tools. Copy the backup of the Oracle database to AWS through the Direct Connect connection. Import the Oracle database to the SAP system on AWS. Configure Oracle Data Guard to begin replicating on-premises database log changes from the SAP system to the new AWS system. During the migration window, use Oracle to replicate any remaining changes to the Oracle database hosted on AWS. Switch over to the SAP system on AWS.
+ - C. Before the migration window, build a new installation of the SAP system on AWS by using SAP Software Provisioning Manager. Create a staging Oracle database on premises to perform Cross Platform Transportable Tablespace (XTTS) conversion on the Oracle database. Take a backup of the converted staging database. Copy the converted backup to AWS through the Direct Connect connection. Import the Oracle database backup to the SAP system on AWS. Take regularly scheduled incremental backups and XTTS conversions of the staging database. Transfer these backups and conversions to the AWS target database. During the migration window, perform a final incremental Oracle backup. Convert the final Oracle backup by using XTTS. Replay the logs in the target Oracle database hosted on AWS. Switch over to the SAP system on AWS.
+ - D. Before the migration window, launch an appropriately sized Amazon EC2 instance on AWS to receive the migrated SAP database. Create an AWS Server Migration Service (AWS SMS) job to take regular snapshots of the on-premises Oracle hosts. Use AWS SMS to copy the snapshot as an AMI to AWS through the Direct Connect connection. Create a new SAP on Oracle system by using the migrated AMI. During the migration window, take a final incremental SMS snapshot and copy the snapshot to AWS. Restart the SAP system by using the new up-to-date AMI. Switch over to the SAP system on AWS.
+<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: C
+
+> See https://aws.amazon.com/blogs/awsforsap/reducing-downtime-with-oracle-xtts-method-for-cross-platform-sap-migrations/.
+</details> 
+
+## Question 11
+
+An SAP solutions architect is designing an SAP HANA scale-out architecture for SAP Business Warehouse (SAP BW) on SAP HANA on AWS. The SAP solutions architect identifies the design as a three-node scale-out deployment of xte.32xiarge Amazon EC2 instances.
+The SAP solutions architect must ensure that the SAP HANA scale-out nodes can achieve the low-latency and high-throughput network performance that are necessary for node-to-node communication.
+Which combination of steps should the SAP solutions architect take to meet these requirements? **(Choose two.)**
+
+ - A. Create a cluster placement group. Launch the instances into the cluster placement group.
+ - B. Create a spread placement group. Launch the instances into the spread placement group.
+ - C. Create a partition placement group. Launch the instances into the partition placement group.
+ - D. Based on the operating system version, verify that enhanced networking is enabled on all the nodes.
+ - E. Switch to a different instance family that provides network throughput that is greater than 25 Gbps.
+<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: AD
+ 
+> Spread and Partition placement groups ensure distinct underlying hardware, but Cluster is the one that guarantees same Availability Zone and achieve lowest latency network performance. Additionally, enhanced networking operating system setting should be always enabled on SAP servers. See https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/placement-groups.html.
+</details> 
+
+## Question 12
+
+A company needs to migrate its critical SAP workloads from an on-premises data center to AWS. The company has a few source production databases that are 10 TB or more in size. The company wants to minimize the downtime for this migration.
+As part of the proof of concept, the company used a low-speed, high-latency connection between its data center and AWS. During the actual migration, the company wants to maintain a consistent connection that delivers high bandwidth and low latency. The company also wants to add a layer of connectivity resiliency. The backup connectivity does not need to be as fast as the primary connectivity.
+An SAP solutions architect needs to determine the optimal network configuration for data transfer. The solution must transfer the data with minimum latency.
+Which configuration will meet these requirements?
+
+ - A. Set up one AWS Direct Connect connection for connectivity between the on-premises data center and AWS. Add an AWS Site-to-Site VPN connection as a backup to the Direct Connect connection.
+ - B. Set up an AWS Direct Connect gateway with multiple Direct Connect connections that use a link aggregation group (LAG) between the on-premises data center and AWS.
+ - C. Set up Amazon Elastic File System (Amazon EFS) file system storage between the on-premises data center and AWS. Configure a cron job to copy the data into this EFS mount. Access the data in the EFS file system from the target environment.
+ - D. Set up two redundant AWS Site-to-Site VPN connections for connectivity between the on-premises data center and AWS.
+
+<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: A
+ 
+> One Direct Connect, one VPN.
+</details>
+
+## Question 13
+
+A company wants to migrate its SAP ERP landscape to AWS. The company will use a highly available distributed deployment for the new architecture. Clients will access SAP systems from a local data center through an AWS Site-to-Site VPN connection that is already in place. An SAP solutions architect needs to design the network access to the SAP production environment.
+Which configuration approaches will meet these requirements? **(Choose two.)**
+
+ - A. For the ASCS instance, configure an overlay IP address that is within the production VPC CIDR range. Create an AWS Transit Gateway. Attach the VPN to the transit gateway. Use the transit gateway to route the communications between the local data center and the production VPC. Create a static route on the production VPC to route traffic that is directed to the overlay IP address to the ASCS instance.
+ - B. For the ASCS instance, configure an overlay IP address that is outside the production VPC CIDR range. Create an AWS Transit Gateway. Attach the VPN to the transit gateway. Use the transit gateway to route the communications between the local data center and the production VPC. Create a static route on the production VPC to route traffic that is directed to the overlay IP address to the ASCS instance.
+ - C. For the ASCS instance, configure an overlay IP address that is within the production VPC CIDR range. Create a target group that points to the overlay IP address. Create a Network Load Balancer, and register the target group. Create a static route on the production VPC to route traffic that is directed to the overlay IP address to the ASCS instance.
+ - D. For the ASCS instance, configure an overlay IP address that is outside the production VPC CIDR range. Create a target group that points to the overlay IP address. Create a Network Load Balancer, and register the target group. Create a static route on the production VPC to route traffic that is directed to the overlay IP address to the ASCS instance.
+ - E. For the ASCS instance, configure an overlay IP address that is outside the production VPC CIDR range. Create a target group that points to the overlay IP address. Create an Application Load Balancer, and register the target group. Create a static route on the production VPC to route traffic that is directed to the overlay IP address to the ASCS instance.
+<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: BD
+ 
+> Overlay IP should be outside Prod VPC CIDR, thus A and C are eliminated.
+HA of ASCS uses Network load balancer and not application load balancer, so E is eliminated. Application load balancer cannot be attached with Overlay IP
+
+> SAP on AWS High Availability with Overlay IP Address Routing：
+AWS Transit Gateway serves as central hub to facilitate network connection to an overlay IP address.
+Elastic Load Balancing where a Network Load Balancer enables network access to an overlay IP addres
+https://docs.aws.amazon.com/sap/latest/sap-hana/sap-ha-overlay-ip.html
+</details>
+
+## Question 14
+
+A company is running an SAP HANA database on AWS. The company is running AWS Backint Agent for SAP HANA (AWS Backint agent) on an Amazon EC2 instance. AWS Backint agent is configured to back up to an Amazon S3 bucket. The backups are failing with an AccessDenied error in the AWS Backint agent log file.
+What should an SAP basis administrator do to resolve this error?
+
+ - A. Assign execute permissions at the operating system level for the AWS Backint agent binary and for AWS Backint agent.
+ - B. Assign an IAM role to an EC2 instance. Attach a policy to the IAM role to grant access to the target S3 bucket.
+ - C. Assign the correct Region ID for the S3BucketAwsRegion parameter in AWS Backint agent for the SAP HANA configuration file.
+ - D. Assign the value for the EnableTagging parameter in AWS Backint agent for the SAP HANA configuration file.
+
+<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: B
+
+> [AccessDenied appears in agent logs](https://docs.aws.amazon.com/sap/latest/sap-hana/aws-backint-agent-troubleshooting.html)
+</details>
+
+## Question 15
+
+A company is starting a new project to implement an SAP landscape with multiple accounts that belong to multiple teams in the us-east-2 Region. These teams include procurement, finance, sales, and human resources. An SAP solutions architect has started designing this new landscape and the AWS account structures.
+The company wants to use automation as much as possible. The company also wants to secure the environment, implement federated access to accounts, centralize logging, and establish cross-account security audits. In addition, the company’s management team needs to receive a top-level summary of policies that are applied to the AWS accounts.
+What should the SAP solutions architect do to meet these requirements?
+
+ - A. Use AWS CloudFormation StackSets to apply SCPs to multiple accounts in multiple Regions. Use an Amazon CloudWatch dashboard to check the applied policies in the accounts.
+ - B. Use an AWS Elastic Beanstalk blue/green deployment to create IAM policies and apply them to multiple accounts together. Use an Amazon CloudWatch dashboard to check the applied policies in the accounts.
+ - C. Implement guardrails by using AWS CodeDeploy and AWS CodePipeline to deploy SCPs into each account. Use the CodePipeline deployment dashboard to check the applied policies in the accounts.
+ - D. Apply SCPs through AWS Control Tower. Use the AWS Control Tower integrated dashboard to check the applied policies in the accounts.
+<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: D
+ 
+> AWS Control Tower is a service that automates the set-up of a multi-account AWS environment and provides guardrails to help enforce compliance and security best practices. By using AWS Control Tower, the company can apply SCPs to multiple accounts, monitor policies across multiple accounts, and receive a top-level summary of policies that are applied to the AWS accounts. Additionally, the integrated dashboard of AWS Control Tower can be used to check the applied policies in the accounts. See https://aws.amazon.com/blogs/mt/managing-the-multi-account-environment-using-aws-organizations-and-aws-control-tower/
+
+</details>
+
+
+
 <details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: ?
  
-> bla.
-</details> nn. lalala.
-- A. lala
-- B. lala
-- C. lala
-- D. lala
+> 
+</details>
 <details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: ?
  
-> bla.
-</details> nn. lalala.
-- A. lala
-- B. lala
-- C. lala
-- D. lala
+> 
+</details>
 <details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: ?
  
-> bla.
-</details> nn. lalala.
-- A. lala
-- B. lala
-- C. lala
-- D. lala
-<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: ?
+> 
+</details>
+
  
 > bla.
 </details> nn. lalala.
