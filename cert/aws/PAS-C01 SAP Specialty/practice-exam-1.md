@@ -122,7 +122,7 @@ The UploadChannelSize parameter is used to determine how many files can be uploa
 
 </details> 
 
-##Question 9
+## Question 9
 A company wants to migrate its SAP workloads to AWS from another cloud provider. The company’s landscape consists of SAP S/4HANA, SAP BW/4HANA, SAP Solution Manager, and SAP Web Dispatcher. SAP Solution Manager is running on SAP HANA.
 The company wants to change the operating system from SUSE Linux Enterprise Server to Red Hat Enterprise Linux as a part of this migration. The company needs a solution that results in the least possible downtime for the SAP S/4HANA and SAP BW/4HANA systems.
 Which migration solution will meet these requirements?
