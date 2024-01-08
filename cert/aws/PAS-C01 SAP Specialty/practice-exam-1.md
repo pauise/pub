@@ -6,6 +6,34 @@ If this practice exam has been helpful to you please share it with others and re
 
 ---
 
+✅1. A global enterprise is running SAP ERP Central Component (SAP ECC) workloads on Oracle in an on-premises environment. The enterprise plans to migrate to SAP S/4HANA on AWS.
+The enterprise recently acquired two other companies. One of the acquired companies is running SAP ECC on Oracle as its ERP system. The other acquired company is running an ERP system that is not from SAP. The enterprise wants to consolidate the three ERP systems into one ERP system on SAP S/4HANA on AWS. Not all the data from the acquired companies needs to be migrated to the final ERP system. The enterprise needs to complete this migration with a solution that minimizes cost and maximizes operational efficiency.
+Which solution will meet these requirements?
+ - A. Perform a lift-and-shift migration of all the systems to AWS. Migrate the ERP system that is not from SAP to SAP ECC. Convert all three systems to SAP S/4HANA by using SAP Software Update Manager (SUM) Database Migration Option (DMO). Consolidate all three SAP S/4HANA systems into a final SAP S/4HANA system. Decommission the other systems.
+ - B. Perform a lift-and-shift migration of all the systems to AWS. Migrate the enterprise's initial system to SAP HANA, and then perform a conversion to SAP S/4HANA. Consolidate the two systems from the acquired companies with this SAP S/4HANA system by using the Selective Data Transition approach with SAP Data Management and Landscape Transformation (DMLT).
+ - C. Use SAP Software Update Manager (SUM) Database Migration Option (DMO) with System Move to re-architect the enterprise’s initial system to SAP S/4HANA and to change the platform to AWS. Consolidate the two systems from the acquired companies with this SAP S/4HANA system by using the Selective Data Transition approach with SAP Data Management and Landscape Transformation (DMLT).
+ - D. Use SAP Software Update Manager (SUM) Database Migration Option (DMO) with System Move to re-architect all the systems to SAP S/4HANA and to change the platform to AWS. Consolidate all three SAP S/4HANA systems into a final SAP S/4HANA system. Decommission the other systems.
+
+<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: C
+    
+> This option minimizes cost and maximizes operational efficiency by using the DMO with System Move to migrate the initial system to SAP S/4HANA on AWS. The Selective Data Transition approach with DMLT allows for the consolidation of the two acquired companies' systems with the new SAP S/4HANA system, enabling the migration of only necessary data and reducing overall complexity.
+A and D are wrong as one of the system is non-sap.
+B gives the expected end result but C is more cost effective and efficient approach.
+</details> 
+
+✅2. A global retail company is running its SAP landscape on AWS. Recently, the company made changes to its SAP Web Dispatcher architecture. The company added an additional SAP Web Dispatcher for high availability with an Application Load Balancer (ALB) to balance the load between the two SAP Web Dispatchers.
+When users try to access SAP through the ALB, the system is reachable. However, the SAP backend system is showing an error message. An investigation reveals that the issue is related to SAP session handling and distribution of requests. The company confirmed that the system was working as expected with one SAP Web Dispatcher. The company replicated the configuration of that SAP Web Dispatcher to the new SAP Web Dispatcher.
+How can the company resolve the error?
+ - A. Maintain persistence by using session cookies. Enable session stickiness (session affinity) on the SAP Web Dispatchers by setting the wdisp/HTTP/esid_support parameter to True.
+ - B. Maintain persistence by using session cookies. Enable session stickiness (session affinity) on the ALB.
+ - C. Turn on host-based routing on the ALB to route traffic between the SAP Web Dispatchers.
+ - D. Turn on URL-based routing on the ALB to route traffic to the application based on URL.
+<details markdown=1><summary markdown='span'>Answer</summary>
+    Correct Answer: B
+ > Must be B, the setting on webdispatcher affects how requests are distributed among the application servers - if the issue wasn't existing before, it must be connected to the multiple dispatchers setup. We must to make sure that once the user is connected to given dispatcher, it will remain so. B is the best answer then.
+</details> 
+
+
 1. A company is starting a new project to implement an SAP landscape with multiple accounts that belong to multiple teams in the us-east-2 Region. These teams include procurement finance sales and human resources An SAP solutions
 architect has started designing this new landscape and the AWS account structures The company wants to use automation as much as possible The company also wants to secure the environment implement federated access to accounts
 centralize logging and establish cross-account security audits in addition the company's management team needs to receive a top-level summary of policies that are applied to the AWS accounts.
@@ -124,32 +152,7 @@ Which solution will meet these requirements MOST cost-effectively?
 </details> 
 
 
-✅10. A global enterprise is running SAP ERP Central Component (SAP ECC) workloads on Oracle in an on-premises environment. The enterprise plans to migrate to SAP S/4HANA on AWS.
-The enterprise recently acquired two other companies. One of the acquired companies is running SAP ECC on Oracle as its ERP system. The other acquired company is running an ERP system that is not from SAP. The enterprise wants to consolidate the three ERP systems into one ERP system on SAP S/4HANA on AWS. Not all the data from the acquired companies needs to be migrated to the final ERP system. The enterprise needs to complete this migration with a solution that minimizes cost and maximizes operational efficiency.
-Which solution will meet these requirements?
- - A. Perform a lift-and-shift migration of all the systems to AWS. Migrate the ERP system that is not from SAP to SAP ECC. Convert all three systems to SAP S/4HANA by using SAP Software Update Manager (SUM) Database Migration Option (DMO). Consolidate all three SAP S/4HANA systems into a final SAP S/4HANA system. Decommission the other systems.
- - B. Perform a lift-and-shift migration of all the systems to AWS. Migrate the enterprise's initial system to SAP HANA, and then perform a conversion to SAP S/4HANA. Consolidate the two systems from the acquired companies with this SAP S/4HANA system by using the Selective Data Transition approach with SAP Data Management and Landscape Transformation (DMLT).
- - C. Use SAP Software Update Manager (SUM) Database Migration Option (DMO) with System Move to re-architect the enterprise’s initial system to SAP S/4HANA and to change the platform to AWS. Consolidate the two systems from the acquired companies with this SAP S/4HANA system by using the Selective Data Transition approach with SAP Data Management and Landscape Transformation (DMLT).
- - D. Use SAP Software Update Manager (SUM) Database Migration Option (DMO) with System Move to re-architect all the systems to SAP S/4HANA and to change the platform to AWS. Consolidate all three SAP S/4HANA systems into a final SAP S/4HANA system. Decommission the other systems.
 
-<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: C
-    
-> This option minimizes cost and maximizes operational efficiency by using the DMO with System Move to migrate the initial system to SAP S/4HANA on AWS. The Selective Data Transition approach with DMLT allows for the consolidation of the two acquired companies' systems with the new SAP S/4HANA system, enabling the migration of only necessary data and reducing overall complexity.
-A and D are wrong as one of the system is non-sap.
-B gives the expected end result but C is more cost effective and efficient approach.
-</details> 
-
-✅11. A global retail company is running its SAP landscape on AWS. Recently, the company made changes to its SAP Web Dispatcher architecture. The company added an additional SAP Web Dispatcher for high availability with an Application Load Balancer (ALB) to balance the load between the two SAP Web Dispatchers.
-When users try to access SAP through the ALB, the system is reachable. However, the SAP backend system is showing an error message. An investigation reveals that the issue is related to SAP session handling and distribution of requests. The company confirmed that the system was working as expected with one SAP Web Dispatcher. The company replicated the configuration of that SAP Web Dispatcher to the new SAP Web Dispatcher.
-How can the company resolve the error?
- - A. Maintain persistence by using session cookies. Enable session stickiness (session affinity) on the SAP Web Dispatchers by setting the wdisp/HTTP/esid_support parameter to True.
- - B. Maintain persistence by using session cookies. Enable session stickiness (session affinity) on the ALB.
- - C. Turn on host-based routing on the ALB to route traffic between the SAP Web Dispatchers.
- - D. Turn on URL-based routing on the ALB to route traffic to the application based on URL.
-<details markdown=1><summary markdown='span'>Answer</summary>
-    Correct Answer: B
-> Must be B, the setting on webdispatcher affects how requests are distributed among the application servers - if the issue wasn't existing before, it must be connected to the multiple dispatchers setup. We must to make sure that once the user is connected to given dispatcher, it will remain so. B is the best answer then.
-</details> 
 
 12. A company is planning to move its on-premises SAP HANA database to AWS. The company needs to migrate this environment to AWS as quickly as possible An SAP solutions architect will use AWS Launch Wizard for SAP to deploy this
 SAP HANA workload.
