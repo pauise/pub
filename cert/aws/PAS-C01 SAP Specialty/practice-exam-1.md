@@ -26,9 +26,9 @@ Database on AWS
     - C. Use SAP Software Provisioning Manager to perform parallel export/import of the systems to migrate the systems to Oracle Enterprise Linux and Oracle Database on AWS
     - D. Use SAP Software Provisioning Manager to perform an export of the systems Copy the export to Amazon S3 Use SAP Software Provisioning Manager to perform an import of the systems to Oracle Enterprise Linux and Oracle Database
 on AWS.
-    <details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: C
-
+<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: C
 </details> 
+
 3. A company wants 10 run SAP HANA on AWS m the eu-centrai-1 Region. The company must make the SAP HANA system highly available by using SAP HANA system replication in addition the company must create a disaster recovery
 (DR) solution that uses SAP HANA system replication in the eu-west-1 Region As prerequisites the company has confirmed that inter-AZ latency is less than 1 ms and that Inter-Region latency is greater than 1 ms.
 Which solutions will meet these requirements? (Select TWO.)
@@ -122,22 +122,20 @@ Which solution will meet these requirements MOST cost-effectively?
     <details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: C
 
 </details> 
-10. A global enterprise is running SAP ERP Central Component (SAP ECC) workloads on Oracle in an onpremises environment. The enterprise plans to migrate to SAP S 4HANA on AWS.
-The enterprise recently acquired two other companies One of the acquired companies is running SAP ECC on Oracle as its ERP system The other acquired company is running an ERP system that is not from SAP The enterprise wants to
-consolidate the three ERP systems into one ERP system on SAP S 4HANA on AWS Not all the data from the acquired companies needs to be migrated to the final ERP system The enterprise needs to complete this migration with a solution
-that minimizes cost and maximizes operational efficiency.
-Which solution will meet these requirements?
-    - A. Perform a lift-and-shift migration of all the systems to AWS Migrate the ERP system that is not from SAP to SAP ECC Convert all three systems to SAP S/4HANA by using SAP Software Update Manager (SUM) Database Migration
-Option (DMO) Consolidate all three SAP S4HANA systems into a final SAP &4HANAsystem Decommission the other systems
-    - B. Perform a lift-and-shift migration of an the systems to AWS Migrate the enterprise's initial system to SAP HANA, and then perform a conversion to SAP S/4HANA Consolidate the two systems from the acquired companies with this SAP
-S4HANA system by using the Selective Data Transition approach with SAP Data Management and Landscape Transformation (DMLT)
-    - C. Use SAP Software Update Manager (SUM) Database Migration Option (DMO) with System Move to re-architect the enterprise initial system to SAP S'4HANA and to change the platform to AWS Consolidate the two systems from the
-acquired companies with this SAP S 4HANA system by using the Selective Data Transition approach with SAP Data Management and Landscape Transformation (DMLT)
-    - D. Use SAP Software Update Manager (SUM) Database Migration Option (DMO) with System Move to re-architect all the systems to SAP S/4HANA and to change the platform to AWS Consolidate all three SAP S-4HANA systems two a final
-SAP S/4HANA system Decommission the other systems
-    <details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: A
 
+✅10. A global enterprise is running SAP ERP Central Component (SAP ECC) workloads on Oracle in an on-premises environment. The enterprise plans to migrate to SAP S/4HANA on AWS.
+The enterprise recently acquired two other companies. One of the acquired companies is running SAP ECC on Oracle as its ERP system. The other acquired company is running an ERP system that is not from SAP. The enterprise wants to consolidate the three ERP systems into one ERP system on SAP S/4HANA on AWS. Not all the data from the acquired companies needs to be migrated to the final ERP system. The enterprise needs to complete this migration with a solution that minimizes cost and maximizes operational efficiency.
+Which solution will meet these requirements?
+    - A. Perform a lift-and-shift migration of all the systems to AWS. Migrate the ERP system that is not from SAP to SAP ECC. Convert all three systems to SAP S/4HANA by using SAP Software Update Manager (SUM) Database Migration Option (DMO). Consolidate all three SAP S/4HANA systems into a final SAP S/4HANA system. Decommission the other systems.
+    - B. Perform a lift-and-shift migration of all the systems to AWS. Migrate the enterprise's initial system to SAP HANA, and then perform a conversion to SAP S/4HANA. Consolidate the two systems from the acquired companies with this SAP S/4HANA system by using the Selective Data Transition approach with SAP Data Management and Landscape Transformation (DMLT).
+    - C. Use SAP Software Update Manager (SUM) Database Migration Option (DMO) with System Move to re-architect the enterprise’s initial system to SAP S/4HANA and to change the platform to AWS. Consolidate the two systems from the acquired companies with this SAP S/4HANA system by using the Selective Data Transition approach with SAP Data Management and Landscape Transformation (DMLT).
+    - D. Use SAP Software Update Manager (SUM) Database Migration Option (DMO) with System Move to re-architect all the systems to SAP S/4HANA and to change the platform to AWS. Consolidate all three SAP S/4HANA systems into a final SAP S/4HANA system. Decommission the other systems.
+    <details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: C
+This option minimizes cost and maximizes operational efficiency by using the DMO with System Move to migrate the initial system to SAP S/4HANA on AWS. The Selective Data Transition approach with DMLT allows for the consolidation of the two acquired companies' systems with the new SAP S/4HANA system, enabling the migration of only necessary data and reducing overall complexity.
+A and D are wrong as one of the system is non-sap.
+B gives the expected end result but C is more cost effective and efficient approach.
 </details> 
+
 11. A global retail company is running its SAP landscape on AWS Recently the company made changes to its SAP Web Dispatcher architecture The company added an additional SAP Web Dispatcher for high availability with an Application
 Load Balancer (ALB) to balance the load between the two SAP Web Dispatchers When users try to access SAP through the ALB the system is reachable However the SAP backend system is showing an error message An investigation
 reveals that the issue is related to SAP session handling and distribution of requests . The company confirmed that the system was working as expected with one SAP Web Dispatcher. The company replicated the configuration of that SAP
