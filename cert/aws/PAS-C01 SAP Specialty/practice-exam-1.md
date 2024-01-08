@@ -139,17 +139,18 @@ A and D are wrong as one of the system is non-sap.
 B gives the expected end result but C is more cost effective and efficient approach.
 </details> 
 
-11. A global retail company is running its SAP landscape on AWS Recently the company made changes to its SAP Web Dispatcher architecture The company added an additional SAP Web Dispatcher for high availability with an Application
-Load Balancer (ALB) to balance the load between the two SAP Web Dispatchers When users try to access SAP through the ALB the system is reachable However the SAP backend system is showing an error message An investigation
-reveals that the issue is related to SAP session handling and distribution of requests . The company confirmed that the system was working as expected with one SAP Web Dispatcher. The company replicated the configuration of that SAP
-Web Dispatcher to the new SAP Web Dispatcher How can the company resolve the error?
-    - A. Maintain persistence by using session cookies Enable session stickiness (session affinity) on the SAP Web Dispatchers by setting the wdisp/HTTP/esid_support parameter to True
-    - B. Maintain persistence by using session cookies Enable session stickiness (session affinity) on the ALB
-    - C. Turn on host-based routing on the ALB to route traffic between the SAP Web Dispatchers
-    - D. Turn on URL-based routing on the ALB to route traffic to the application based on URL
-    <details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: C
-
+✅11. A global retail company is running its SAP landscape on AWS. Recently, the company made changes to its SAP Web Dispatcher architecture. The company added an additional SAP Web Dispatcher for high availability with an Application Load Balancer (ALB) to balance the load between the two SAP Web Dispatchers.
+When users try to access SAP through the ALB, the system is reachable. However, the SAP backend system is showing an error message. An investigation reveals that the issue is related to SAP session handling and distribution of requests. The company confirmed that the system was working as expected with one SAP Web Dispatcher. The company replicated the configuration of that SAP Web Dispatcher to the new SAP Web Dispatcher.
+How can the company resolve the error?
+ - A. Maintain persistence by using session cookies. Enable session stickiness (session affinity) on the SAP Web Dispatchers by setting the wdisp/HTTP/esid_support parameter to True.
+ - B. Maintain persistence by using session cookies. Enable session stickiness (session affinity) on the ALB.
+ - C. Turn on host-based routing on the ALB to route traffic between the SAP Web Dispatchers.
+ - D. Turn on URL-based routing on the ALB to route traffic to the application based on URL.
+<details markdown=1><summary markdown='span'>Answer</summary>
+    Correct Answer: B
+> Must be B, the setting on webdispatcher affects how requests are distributed among the application servers - if the issue wasn't existing before, it must be connected to the multiple dispatchers setup. We must to make sure that once the user is connected to given dispatcher, it will remain so. B is the best answer then.
 </details> 
+
 12. A company is planning to move its on-premises SAP HANA database to AWS. The company needs to migrate this environment to AWS as quickly as possible An SAP solutions architect will use AWS Launch Wizard for SAP to deploy this
 SAP HANA workload.
 Which combination of steps should the SAP solutions architect follow to start the deployment of this workload on AWS? (Select THREE.)
