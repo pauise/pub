@@ -15,6 +15,7 @@ Which solution will meet these requirements?
  - D. Use SAP Software Update Manager (SUM) Database Migration Option (DMO) with System Move to re-architect all the systems to SAP S/4HANA and to change the platform to AWS. Consolidate all three SAP S/4HANA systems into a final SAP S/4HANA system. Decommission the other systems.
 
 <details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: C
+ 
 > This option minimizes cost and maximizes operational efficiency by using the DMO with System Move to migrate the initial system to SAP S/4HANA on AWS. The Selective Data Transition approach with DMLT allows for the consolidation of the two acquired companies' systems with the new SAP S/4HANA system, enabling the migration of only necessary data and reducing overall complexity.
 A and D are wrong as one of the system is non-sap.
 B gives the expected end result but C is more cost effective and efficient approach.
@@ -28,6 +29,7 @@ How can the company resolve the error?
  - C. Turn on host-based routing on the ALB to route traffic between the SAP Web Dispatchers.
  - D. Turn on URL-based routing on the ALB to route traffic to the application based on URL.
 <details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: B
+ 
 > Must be B, the setting on webdispatcher affects how requests are distributed among the application servers - if the issue wasn't existing before, it must be connected to the multiple dispatchers setup. We must to make sure that once the user is connected to given dispatcher, it will remain so. B is the best answer then.
 </details> 
 
