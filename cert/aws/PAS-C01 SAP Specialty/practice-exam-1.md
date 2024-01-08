@@ -123,17 +123,19 @@ Which solution will meet these requirements MOST cost-effectively?
 
 </details> 
 
+
 ✅10. A global enterprise is running SAP ERP Central Component (SAP ECC) workloads on Oracle in an on-premises environment. The enterprise plans to migrate to SAP S/4HANA on AWS.
 The enterprise recently acquired two other companies. One of the acquired companies is running SAP ECC on Oracle as its ERP system. The other acquired company is running an ERP system that is not from SAP. The enterprise wants to consolidate the three ERP systems into one ERP system on SAP S/4HANA on AWS. Not all the data from the acquired companies needs to be migrated to the final ERP system. The enterprise needs to complete this migration with a solution that minimizes cost and maximizes operational efficiency.
 Which solution will meet these requirements?
+
     - A. Perform a lift-and-shift migration of all the systems to AWS. Migrate the ERP system that is not from SAP to SAP ECC. Convert all three systems to SAP S/4HANA by using SAP Software Update Manager (SUM) Database Migration Option (DMO). Consolidate all three SAP S/4HANA systems into a final SAP S/4HANA system. Decommission the other systems.
     - B. Perform a lift-and-shift migration of all the systems to AWS. Migrate the enterprise's initial system to SAP HANA, and then perform a conversion to SAP S/4HANA. Consolidate the two systems from the acquired companies with this SAP S/4HANA system by using the Selective Data Transition approach with SAP Data Management and Landscape Transformation (DMLT).
     - C. Use SAP Software Update Manager (SUM) Database Migration Option (DMO) with System Move to re-architect the enterprise’s initial system to SAP S/4HANA and to change the platform to AWS. Consolidate the two systems from the acquired companies with this SAP S/4HANA system by using the Selective Data Transition approach with SAP Data Management and Landscape Transformation (DMLT).
     - D. Use SAP Software Update Manager (SUM) Database Migration Option (DMO) with System Move to re-architect all the systems to SAP S/4HANA and to change the platform to AWS. Consolidate all three SAP S/4HANA systems into a final SAP S/4HANA system. Decommission the other systems.
-    <details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: C
-This option minimizes cost and maximizes operational efficiency by using the DMO with System Move to migrate the initial system to SAP S/4HANA on AWS. The Selective Data Transition approach with DMLT allows for the consolidation of the two acquired companies' systems with the new SAP S/4HANA system, enabling the migration of only necessary data and reducing overall complexity.
-A and D are wrong as one of the system is non-sap.
-B gives the expected end result but C is more cost effective and efficient approach.
+<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: C
+    This option minimizes cost and maximizes operational efficiency by using the DMO with System Move to migrate the initial system to SAP S/4HANA on AWS. The Selective Data Transition approach with DMLT allows for the consolidation of the two acquired companies' systems with the new SAP S/4HANA system, enabling the migration of only necessary data and reducing overall complexity.
+    A and D are wrong as one of the system is non-sap.
+    B gives the expected end result but C is more cost effective and efficient approach.
 </details> 
 
 11. A global retail company is running its SAP landscape on AWS Recently the company made changes to its SAP Web Dispatcher architecture The company added an additional SAP Web Dispatcher for high availability with an Application
