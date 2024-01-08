@@ -33,6 +33,172 @@ How can the company resolve the error?
 > Must be B, the setting on webdispatcher affects how requests are distributed among the application servers - if the issue wasn't existing before, it must be connected to the multiple dispatchers setup. We must to make sure that once the user is connected to given dispatcher, it will remain so. B is the best answer then.
 </details> 
 
+✅3. A company hosts its SAP NetWeaver workload on SAP HANA in the AWS Cloud. The SAP NetWeaver application is protected by a cluster solution that uses Red Hat Enterprise Linux. High Availability Add-On. The cluster solution uses an overlay IP address to ensure that the high availability cluster is still accessible during failover scenarios.
+An SAP solutions architect needs to facilitate the network connection to this overlay IP address from multiple locations. These locations include more than 25 VPCs, other AWS Regions, and the on-premises environment. The company already has set up an AWS Direct Connect connection between the on-premises environment and AWS.
+What should the SAP solutions architect do to meet these requirements in the MOST scalable manner?
+ - A. Use VPC peering between the VPCs to route traffic between them.
+ - B. Use AWS Transit Gateway to connect the VPCs and on-premises networks together.
+ - C. Use a Network Load Balancer to route connections to various targets within VPCs.
+ - D. Deploy a Direct Connect gateway to connect the Direct Connect connection over a private VIF to one or more VPCs in any accounts.
+<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: B
+ 
+> AWS Transit Gateway is a network transit hub that can interconnect thousands of VPCs and on-premises networks through a central gateway. This simplifies the network architecture and eliminates the need for complex peering relationships. AWS Transit Gateway also supports inter-Region peering, which enables the connection of transit gateways across different AWS Regions using the AWS global network. This way, the SAP NetWeaver workload on SAP HANA can be accessed from multiple locations with high performance and security.
+</details> 
+
+✅4. A company is implementing SAP HANA on AWS. According to the company’s security policy, SAP backups must be encrypted. Only authorized team members can have the ability to decrypt the SAP backups.
+What is the MOST operationally efficient solution that meets these requirements?
+
+ - A. Configure AWS Backint Agent for SAP HANA to create SAP backups in an Amazon S3 bucket. After a backup is created, encrypt the backup by using client-side encryption. Share the encryption key with authorized team members only.
+ - B. Configure AWS Backint Agent for SAP HANA to use AWS Key Management Service (AWS KMS) for SAP backups. Create a key policy to grant decryption permission to authorized team members only.
+ - C. Configure AWS Storage Gateway to transfer SAP backups from a file system to an Amazon S3 bucket. Use an S3 bucket policy to grant decryption permission to authorized team members only.
+ - D. Configure AWS Backint Agent for SAP HANA to use AWS Key Management Service (AWS KMS) for SAP backups. Grant object ACL decryption permission to authorized team members only.
+<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: B
+ 
+> AWS Backint Agent for SAP HANA to use AWS Key Management Service (AWS KMS) for SAP backups. AWS Backint Agent for SAP HANA is a tool that integrates SAP HANA with Amazon S3 and enables you to create and manage SAP HANA backups in Amazon S3 https://docs.aws.amazon.com/sap/latest/sap-hana/aws-backint-agent-Amazon-S3.html. AWS KMS is a service that allows you to create and manage encryption keys and use them to encrypt and decrypt data in AWS services and in your applications https://docs.aws.amazon.com/aws-backup/latest/devguide/encryption.html. By using AWS Backint Agent for SAP HANA with AWS KMS, you can encrypt your SAP backups with a customer master key (CMK) that you control and specify in the AWS Backup vault that stores your backups https://docs.aws.amazon.com/sap/latest/sap-hana/aws-backint-agent-Amazon-S3.html. You can also create a key policy to grant decryption permission to authorized team members only, which will ensure that only they can access and restore the encrypted backups https://docs.aws.amazon.com/aws-backup/latest/devguide/encryption.html.
+</details> 
+ 
+
+5. A data analysis company has two SAP landscapes that consist of sandbox, development, QA, pre-production, and production servers. One landscape is on Windows, and the other landscape is on Red Hat Enterprise Linux. The servers reside in a room in a building that other tenants share.
+An SAP solutions architect proposes to migrate the SAP applications to AWS. The SAP solutions architect wants to move the production backups to AWS and wants to make the backups highly available to restore in case of unavailability of an on-premises server.
+Which solution will meet these requirements MOST cost-effectively?
+
+ - A. Take a backup of the production servers. Implement an AWS Storage Gateway Volume Gateway. Create file shares by using the Storage Gateway Volume Gateway. Copy the backup files to the file shares through NFS and SMB.
+ - B. Take a backup of the production servers. Send those backups to tape drives. Implement an AWS Storage Gateway Tape Gateway. Send the backups to Amazon S3 Standard-Infrequent Access (S3 Standard-IA) through the S3 console. Move the backups immediately to S3 Glacier Deep Archive.
+ - C. Implement a third-party tool to take images of the SAP application servers and database server. Take regular snapshots at 1-hour intervals. Send the snapshots to Amazon S3 Glacier directly through the S3 Glacier console. Store the same images in different S3 buckets in different AWS Regions.
+ - D. Take a backup of the production servers. Implement an Amazon S3 File Gateway. Create file shares by using the S3 File Gateway. Copy the backup files to the file shares through NFS and SMB. Map backup files directly to Amazon S3. Configure an S3 Lifecycle policy to send the backup files to S3 Glacier based on the company’s data retention policy.
+<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: D
+ 
+> This solution will allow the company to store their backups in Amazon S3, which is highly available and durable, and automate the movement of data to S3 Glacier based on the company's data retention policy, providing cost-effective data storage. See https://aws.amazon.com/blogs/storage/integrate-an-sap-ase-database-to-amazon-s3-using-aws-storage-gateway/ and https://aws.amazon.com/blogs/awsforsap/passive-disaster-recovery-for-sap-applications-using-aws-backup-and-aws-backint-agent/
+
+</details>
+
+6. A company’s SAP basis team is responsible for database backups in Amazon S3. The company frequently needs to restore the last 3 months of backups into the pre-production SAP system to perform tests and analyze performance. Previously, an employee accidentally deleted backup files from the S3 bucket. The SAP basis team wants to prevent accidental deletion of backup files in the future.
+Which solution will meet these requirements?
+
+ - A. Create a new resource-based policy that prevents deletion of the S3 bucket.
+ - B. Enable versioning and multi-factor authentication (MFA) on the S3 bucket.
+ - C. Create signed cookies for the backup files in the S3 bucket. Provide the signed cookies to authorized users only.
+ - D. Apply an S3 Lifecycle policy to move the backup files immediately to S3 Glacier.
+<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: B
+
+> This option will allow the SAP basis team to enable versioning and multi-factor authentication (MFA) on the S3 bucket. Versioning is a feature that allows you to preserve, retrieve, and restore every version of every object stored in an S3 buckethttps://aws.amazon.com/getting-started/hands-on/protect-data-on-amazon-s3/. MFA is a security feature that requires users to provide two forms of authentication when performing certain actions on an S3 buckethttps://stackoverflow.com/questions/72634045/aws-s3-how-to-protect-against-accidental-deletion. By enabling versioning and MFA on the S3 bucket, the SAP basis team can protect their backup files from being overwritten or deleted by mistake or by unauthorized users. They can also recover any deleted versions of their backup files from the S3 bucket.
+</details>
+
+7. A company wants to run SAP HANA on AWS in the eu-central-1 Region. The company must make the SAP HANA system highly available by using SAP HANA system replication. In addition, the company must create a disaster recovery (DR) solution that uses SAP HANA system replication in the eu-west-1 Region. As prerequisites, the company has confirmed that Inter-AZ latency is less than 1 ms and that Inter-Region latency is greater than 1 ms.
+Which solutions will meet these requirements? **(Choose two.)**
+
+ - A. Install the tier 1 primary system and the tier 2 secondary system in eu-central-1. Configure the tier 1 system in Availability Zone 1. Configure the tier 2 system in Availability Zone 2. Configure SAP HANA system replication between tier 1 and tier 2 by using ASYNC replication mode. Install the DR tier 3 secondary system in eu-west-1 by using SYNC replication mode.
+ - B. Install the tier 1 primary system and the tier 2 secondary system in eu-central-1. Configure the tier 1 system in Availability Zone 1. Configure the tier 2 system in Availability Zone 2. Configure SAP HANA system replication between tier 1 and tier 2 by using SYNC replication mode. Install the DR tier 3 secondary system in eu-west-1 by using ASYNC replication mode.
+ - C. Install the tier 1 primary system and the tier 2 secondary system in eu-central-1. Configure the tier 1 system in Availability Zone 1. Configure the tier 2 system in Availability Zone 2. Configure SAP HANA system replication between tier 1 and tier 2 by using SYNC replication mode. Install the DR tier 3 secondary system in eu-west-1. Store daily backups from tier 1 in an Amazon S3 bucket in eu-central-1. Use S3 Cross-Region Replication to copy the daily backups to eu-west-1, where they can be restored if needed.
+ - D. Install the tier 1 primary system in eu-central-1. Install the tier 2 secondary system and the DR tier 3 secondary system in eu-west-1. Configure the tier 2 system in Availability Zone 1. Configure the tier 3 system in Availability Zone 2. Configure SAP HANA system replication between all tiers by using ASYNC replication mode.
+ - E. Install the tier 1 primary system and the tier 2 secondary system in eu-central-1. Configure the tier 1 system in Availability Zone 1. Configure the tier 2 system in Availability Zone 2. Configure SAP HANA system replication between tier 1 and tier 2 by using SYNCMEM replication mode. Install the DR tier 3 secondary system in eu-west-1 by using ASYNC replication mode.
+<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: BE
+ 
+> The problem statement says that HANA system replication is used for both high availability and DR. Therefore, for High Availability, it would be SYNC replication mode or SYNCMEM replication mode, and for DR, it would be ASYNC replication mode. So, the answer is B and E.
+Option C does not use HANA system replication in DR.
+</details> 
+
+8. A company is running an SAP ERP Central Component (SAP ECC) system on an SAP HANA database that is 10 TB in size. The company is receiving notifications about long-running database backups every day. The company uses AWS Backint Agent for SAP HANA (AWS Backint agent) on an Amazon EC2 instance to back up the database. An SAP NetWeaver administrator needs to troubleshoot the problem and propose a solution.
+Which solution will help resolve this problem?
+
+ - A. Ensure that AWS Backint agent is configured to send the backups to an Amazon S3 bucket over the internet. Ensure that the EC2 instance is configured to access the internet through a NAT gateway.
+ - B. Check the UploadChannelSize parameter for AWS Backint agent. Increase this value in the aws-backint-agent-config.yaml configuration file based on the EC2 instance type and storage configurations.
+ - C. Check the MaximumConcurrentFilesForRestore parameter for AWS Backint agent. Increase the parameter from 5 to 10 by using the aws-backint-agent-config.yaml configuration file.
+ - D. Ensure that the backups are compressed. If necessary, configure AWS Backint agent to compress the backups and send them to an Amazon S3 bucket.
+<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: ?
+ 
+> The performance of backup and restore depends on many factors, such as the type of EC2 instance used, the EBS volumes, and the number of SAP HANA channels. If your database size is less than 128 GB, SAP HANA defaults to a single channel, or your SAP HANA parameter parallel_data_backup_backint_channels is set to 1.
+> Check the UploadChannelSize parameter
+The UploadChannelSize parameter is used to determine how many files can be uploaded in parallel to the S3 bucket during backups. [https://docs.aws.amazon.com/sap/latest/sap-hana/aws-backint-agent-installing-configuring.html]
+> (The connection between AWS Backint agent and S3 fails due to high throughput [https://docs.aws.amazon.com/sap/latest/sap-hana/aws-backint-agent-troubleshooting.html])
+
+</details> 
+
+
+nn. lalala.
+- A. lala
+- B. lala
+- C. lala
+- D. lala
+<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: ?
+ 
+> bla.
+</details> nn. lalala.
+- A. lala
+- B. lala
+- C. lala
+- D. lala
+<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: ?
+ 
+> bla.
+</details> nn. lalala.
+- A. lala
+- B. lala
+- C. lala
+- D. lala
+<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: ?
+ 
+> bla.
+</details> nn. lalala.
+- A. lala
+- B. lala
+- C. lala
+- D. lala
+<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: ?
+ 
+> bla.
+</details> nn. lalala.
+- A. lala
+- B. lala
+- C. lala
+- D. lala
+<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: ?
+ 
+> bla.
+</details> nn. lalala.
+- A. lala
+- B. lala
+- C. lala
+- D. lala
+<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: ?
+ 
+> bla.
+</details> nn. lalala.
+- A. lala
+- B. lala
+- C. lala
+- D. lala
+<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: ?
+ 
+> bla.
+</details> nn. lalala.
+- A. lala
+- B. lala
+- C. lala
+- D. lala
+<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: ?
+ 
+> bla.
+</details> 
+
+
+
+
+
+nn. lalala.
+- A. lala
+- B. lala
+- C. lala
+- D. lala
+<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: ?
+ 
+> bla.
+</details> 
+
+
+
+
+
 
 1. A company is starting a new project to implement an SAP landscape with multiple accounts that belong to multiple teams in the us-east-2 Region. These teams include procurement finance sales and human resources An SAP solutions
 architect has started designing this new landscape and the AWS account structures The company wants to use automation as much as possible The company also wants to secure the environment implement federated access to accounts
