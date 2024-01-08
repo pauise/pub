@@ -6,7 +6,7 @@ If this practice exam has been helpful to you please share it with others and re
 
 ---
 
-## Question 1##
+## Question 1
 A global enterprise is running SAP ERP Central Component (SAP ECC) workloads on Oracle in an on-premises environment. The enterprise plans to migrate to SAP S/4HANA on AWS.
 The enterprise recently acquired two other companies. One of the acquired companies is running SAP ECC on Oracle as its ERP system. The other acquired company is running an ERP system that is not from SAP. The enterprise wants to consolidate the three ERP systems into one ERP system on SAP S/4HANA on AWS. Not all the data from the acquired companies needs to be migrated to the final ERP system. The enterprise needs to complete this migration with a solution that minimizes cost and maximizes operational efficiency.
 Which solution will meet these requirements?
@@ -22,7 +22,7 @@ A and D are wrong as one of the system is non-sap.
 B gives the expected end result but C is more cost effective and efficient approach.
 </details> 
 
-## Question 2##
+## Question 2
 A global retail company is running its SAP landscape on AWS. Recently, the company made changes to its SAP Web Dispatcher architecture. The company added an additional SAP Web Dispatcher for high availability with an Application Load Balancer (ALB) to balance the load between the two SAP Web Dispatchers.
 When users try to access SAP through the ALB, the system is reachable. However, the SAP backend system is showing an error message. An investigation reveals that the issue is related to SAP session handling and distribution of requests. The company confirmed that the system was working as expected with one SAP Web Dispatcher. The company replicated the configuration of that SAP Web Dispatcher to the new SAP Web Dispatcher.
 How can the company resolve the error?
@@ -35,7 +35,7 @@ How can the company resolve the error?
 > Must be B, the setting on webdispatcher affects how requests are distributed among the application servers - if the issue wasn't existing before, it must be connected to the multiple dispatchers setup. We must to make sure that once the user is connected to given dispatcher, it will remain so. B is the best answer then.
 </details> 
 
-## Question 3##
+## Question 3
 A company hosts its SAP NetWeaver workload on SAP HANA in the AWS Cloud. The SAP NetWeaver application is protected by a cluster solution that uses Red Hat Enterprise Linux. High Availability Add-On. The cluster solution uses an overlay IP address to ensure that the high availability cluster is still accessible during failover scenarios.
 An SAP solutions architect needs to facilitate the network connection to this overlay IP address from multiple locations. These locations include more than 25 VPCs, other AWS Regions, and the on-premises environment. The company already has set up an AWS Direct Connect connection between the on-premises environment and AWS.
 What should the SAP solutions architect do to meet these requirements in the MOST scalable manner?
@@ -48,7 +48,7 @@ What should the SAP solutions architect do to meet these requirements in the MOS
 > AWS Transit Gateway is a network transit hub that can interconnect thousands of VPCs and on-premises networks through a central gateway. This simplifies the network architecture and eliminates the need for complex peering relationships. AWS Transit Gateway also supports inter-Region peering, which enables the connection of transit gateways across different AWS Regions using the AWS global network. This way, the SAP NetWeaver workload on SAP HANA can be accessed from multiple locations with high performance and security.
 </details> 
 
-## Question 4##
+## Question 4
 A company is implementing SAP HANA on AWS. According to the company’s security policy, SAP backups must be encrypted. Only authorized team members can have the ability to decrypt the SAP backups.
 What is the MOST operationally efficient solution that meets these requirements?
 
@@ -62,7 +62,7 @@ What is the MOST operationally efficient solution that meets these requirements?
 </details> 
  
 
-## Question 5##
+## Question 5
 A data analysis company has two SAP landscapes that consist of sandbox, development, QA, pre-production, and production servers. One landscape is on Windows, and the other landscape is on Red Hat Enterprise Linux. The servers reside in a room in a building that other tenants share.
 An SAP solutions architect proposes to migrate the SAP applications to AWS. The SAP solutions architect wants to move the production backups to AWS and wants to make the backups highly available to restore in case of unavailability of an on-premises server.
 Which solution will meet these requirements MOST cost-effectively?
@@ -77,7 +77,7 @@ Which solution will meet these requirements MOST cost-effectively?
 
 </details>
 
-## Question 6##
+## Question 6
 A company’s SAP basis team is responsible for database backups in Amazon S3. The company frequently needs to restore the last 3 months of backups into the pre-production SAP system to perform tests and analyze performance. Previously, an employee accidentally deleted backup files from the S3 bucket. The SAP basis team wants to prevent accidental deletion of backup files in the future.
 Which solution will meet these requirements?
 
@@ -90,7 +90,7 @@ Which solution will meet these requirements?
 > This option will allow the SAP basis team to enable versioning and multi-factor authentication (MFA) on the S3 bucket. Versioning is a feature that allows you to preserve, retrieve, and restore every version of every object stored in an S3 buckethttps://aws.amazon.com/getting-started/hands-on/protect-data-on-amazon-s3/. MFA is a security feature that requires users to provide two forms of authentication when performing certain actions on an S3 buckethttps://stackoverflow.com/questions/72634045/aws-s3-how-to-protect-against-accidental-deletion. By enabling versioning and MFA on the S3 bucket, the SAP basis team can protect their backup files from being overwritten or deleted by mistake or by unauthorized users. They can also recover any deleted versions of their backup files from the S3 bucket.
 </details>
 
-## Question 7##
+## Question 7
 A company wants to run SAP HANA on AWS in the eu-central-1 Region. The company must make the SAP HANA system highly available by using SAP HANA system replication. In addition, the company must create a disaster recovery (DR) solution that uses SAP HANA system replication in the eu-west-1 Region. As prerequisites, the company has confirmed that Inter-AZ latency is less than 1 ms and that Inter-Region latency is greater than 1 ms.
 Which solutions will meet these requirements? **(Choose two.)**
 
@@ -105,7 +105,7 @@ Which solutions will meet these requirements? **(Choose two.)**
 Option C does not use HANA system replication in DR.
 </details> 
 
-## Question 8##
+## Question 8
 A company is running an SAP ERP Central Component (SAP ECC) system on an SAP HANA database that is 10 TB in size. The company is receiving notifications about long-running database backups every day. The company uses AWS Backint Agent for SAP HANA (AWS Backint agent) on an Amazon EC2 instance to back up the database. An SAP NetWeaver administrator needs to troubleshoot the problem and propose a solution.
 Which solution will help resolve this problem?
 
@@ -113,7 +113,7 @@ Which solution will help resolve this problem?
  - B. Check the UploadChannelSize parameter for AWS Backint agent. Increase this value in the aws-backint-agent-config.yaml configuration file based on the EC2 instance type and storage configurations.
  - C. Check the MaximumConcurrentFilesForRestore parameter for AWS Backint agent. Increase the parameter from 5 to 10 by using the aws-backint-agent-config.yaml configuration file.
  - D. Ensure that the backups are compressed. If necessary, configure AWS Backint agent to compress the backups and send them to an Amazon S3 bucket.
-<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: ?
+<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: B
  
 > The performance of backup and restore depends on many factors, such as the type of EC2 instance used, the EBS volumes, and the number of SAP HANA channels. If your database size is less than 128 GB, SAP HANA defaults to a single channel, or your SAP HANA parameter parallel_data_backup_backint_channels is set to 1.
 > Check the UploadChannelSize parameter
@@ -122,15 +122,24 @@ The UploadChannelSize parameter is used to determine how many files can be uploa
 
 </details> 
 
+##Question 9
+A company wants to migrate its SAP workloads to AWS from another cloud provider. The company’s landscape consists of SAP S/4HANA, SAP BW/4HANA, SAP Solution Manager, and SAP Web Dispatcher. SAP Solution Manager is running on SAP HANA.
+The company wants to change the operating system from SUSE Linux Enterprise Server to Red Hat Enterprise Linux as a part of this migration. The company needs a solution that results in the least possible downtime for the SAP S/4HANA and SAP BW/4HANA systems.
+Which migration solution will meet these requirements?
 
-nn. lalala.
-- A. lala
-- B. lala
-- C. lala
-- D. lala
-<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: ?
- 
-> bla.
+ - A. Use SAP Software Provisioning Manager to perform a system export/import for SAP S/4HANA, SAP BW/4HANA, SAP Solution Manager, and SAP Web Dispatcher.
+ - B. Use backup and restore for SAP S/4HANA, SAP BW/4HANA, and SAP Solution Manager. Reinstall SAP Web Dispatcher on AWS with the necessary configuration.
+ - C. Use backup and restore for SAP S/4HANA and SAP BW/4HANA. Use SAP Software Provisioning Manager to perform a system export/import for SAP Solution Manager. Reinstall SAP Web Dispatcher on AWS with the necessary configuration.
+ - D. Use SAP HANA system replication to replicate the data between the source system and the target AWS system for SAP S/4HANA and SAP BW/4HANA. Use SAP Software Provisioning Manager to perform a system export/import for SAP Solution Manager. Reinstall SAP Web Dispatcher on AWS with the necessary configuration.
+<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: D
+
+> The following REDHAT site describes the conversion of SAP HANA from SUSE to REDHAT.
+SAP HANA system replication is used.
+https://www.redhat.com/en/resources/migrating-sap-workloads-linux-detail
+> SolMan DB does not matter, question is about "least possible DT for S/4 and BW/4", therefore D shoud be correct
+> https://docs.aws.amazon.com/sap/latest/sap-hana/migrating-hana-hana-to-aws.html
+> https://docs.aws.amazon.com/migrationhub-orchestrator/latest/userguide/migrate-sap.html
+
 </details> nn. lalala.
 - A. lala
 - B. lala
