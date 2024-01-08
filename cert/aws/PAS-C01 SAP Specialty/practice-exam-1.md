@@ -485,102 +485,237 @@ https://docs.aws.amazon.com/launchwizard/latest/userguide/launch-wizard-sap-stru
 </details> 
 
 
-## Question 
+## Question 29
 
-<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: ?
- 
-> 
+A company wants to implement SAP HANA on AWS with the Multi-AZ deployment option by using AWS Launch Wizard for SAP. The solution will use SUSE Linux Enterprise High Availability Extension for the high availability deployment. An SAP solutions architect must ensure that all the prerequisites are met. The SAP solutions architect also must ensure that the user inputs to start the guided deployment of Launch Wizard are valid.
+Which combination of steps should the SAP solutions architect take to meet these requirements? **(Choose two.)**
+
+ - A. Before starting the Launch Wizard deployment, create the underlying Amazon Elastic Block Store (Amazon EBS) volume types to use for SAP HANA data and log volumes based on the performance requirements.
+ - B. Use a value for the PaceMakerTag parameter that is not used by any other Amazon EC2 instances in the AWS Region where the system is being deployed.
+ - C. Ensure that the virtual hostname for the SAP HANA database that is used for the SUSE Linux Enterprise High Availability Extension configuration is not used in any other deployed accounts.
+ - D. Ensure that the VirtuallPAddress parameter is outside the VPC CIDR and is not being used in the route table that is associated with the subnets where primary and secondary SAP HANA instances will be deployed.
+ - E. Before starting the Launch Wizard deployment, set up the SUSE Linux Enterprise High Availability Extension network configuration and security group.
+
+<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: BD
+
+> Overlay IP address. Enter the overlay IP address to assign to the active node. The IP address should be outside of the VPC CIDR and must not be used by any other HA cluster. It is configured to always point to the active SAP HANA node.
+
+> Pacemaker tag name. Enter the tag to assign to each EC2 instance. This tag is used by the pacemaker component of SLES HAE and RHEL for SAP high availability solutions and must not be used by any other EC2 instance in your account.
+
+> See https://docs.aws.amazon.com/launchwizard/latest/userguide/launch-wizard-sap-deploying.html#launch-wizard-hana
 </details> 
 
 
-## Question 
+## Question 30
 
-<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: ?
+A company that has SAP workloads on premises plans to migrate an SAP environment to AWS. The company is new to AWS and has no prior setup. The company has the following requirements:
+The application server and database server must be placed in isolated network configurations.
+SAP systems must be accessible to the on-premises end users over the internet.
+The cost of communications between the application server and the database server must be minimized.
+Which combination of steps should an SAP solutions architect take to meet these requirements? **(Choose two.)**
+
+ - A. Configure a Network Load Balancer for incoming connections from end users.
+ - B. Set up an AWS Site-to-Site VPN connection between the company’s on-premises network and AWS.
+ - C. Separate the application server and the database server by using different VPCs.
+ - D. Separate the application server and the database server by using different subnets and network security groups within the same VPC.
+ - E. Set up an AWS Direct Connect connection with a private VIF between the company’s on-premises network and AWS.
+
+<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: BD
  
-> 
+> NLB is irrelevant. S2S is cheaper than Direct Connect. Different subnets is enough to accomplish the isolation requirement, different VPC does not has sense and it would need a VPC Peering eventually.
 </details> 
 
-## Question 
+## Question 31
 
-<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: ?
+A company is running its SAP workload on AWS. The company’s security team has implemented the following requirements:
+All Amazon EC2 instances for SAP must be SAP certified instance types.
+Encryption must be enabled for all Amazon S3 buckets and Amazon Elastic Block Store (Amazon EBS) volumes.
+AWS CloudTrail must be activated.
+SAP system parameters must be compliant with business rules.
+Detailed monitoring must be enabled for all instances.
+The company wants to develop an automated process to review the systems for compliance with the security team’s requirements. The process also must provide notification about any deviation from these standards.
+Which solution will meet these requirements?
+
+ - A. Use AWS AppConfig to model configuration data in an AWS Systems Manager Automation runbook. Schedule this Systems Manager Automation runbook to monitor for compliance with all the requirements. Integrate AWS AppConfig with Amazon CloudWatch for notification purposes.
+ - B. Use AWS Config managed rules to monitor for compliance with all the requirements. Use Amazon EventBridge (Amazon CloudWatch Events) and Amazon Simple Notification Service (Amazon SNS) for email notification when a resource is flagged as noncompliant.
+ - C. Use AWS Trusted Advisor to monitor for compliance with all the requirements. Use Trusted Advisor preferences for email notification when a resource is flagged as noncompliant.
+ - D. Use AWS Config managed rules to monitor for compliance with the requirements, except for the SAP system parameters. Create AWS Config custom rules to validate the SAP system parameters. Use Amazon EventBridge (Amazon CloudWatch Events) and Amazon Simple Notification Service (Amazon SNS) for email notification when a resource is flagged as noncompliant.
+
+<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: D
  
-> 
-</details> 
+> AWS Config managed rules can monitor AWS resources for compliance with specified configurations. However, AWS Config does not have built-in functionality to monitor SAP system parameters, so you would need to create custom rules for this purpose. AWS Config can then use Amazon EventBridge (formerly known as Amazon CloudWatch Events) to trigger notifications via Amazon SNS when a resource is found to be noncompliant. This solution provides the needed automation and compliance review capabilities.
 
+> https://aws.amazon.com/blogs/awsforsap/audit-your-sap-systems-with-aws-config-part-i/
+> https://aws.amazon.com/blogs/awsforsap/audit-your-sap-systems-with-aws-config-part-ii/
 
-## Question 
-
-<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: ?
- 
-> 
-</details> 
-
-
-## Question 
-
-<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: ?
- 
-> 
-</details> 
-
-
-## Question 
-
-<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: ?
- 
-> 
-</details> 
-
-
-## Question 
-
-<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: ?
- 
-> 
-</details> 
-
-
-## Question 
-
-<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: ?
- 
-> 
 </details> 
 
 
-## Question 
+## Question 32
 
-<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: ?
+A company is hosting its SAP workloads on AWS. An SAP solutions architect is designing high availability architecture for the company’s production SAP S/4HANA and SAP BW/4HANA workloads. These workloads have the following requirements:
+Redundant SAP application servers that consist of a primary application server (PAS) and an additional application server (AAS)
+ASCS and ERS instances that use a failover cluster
+Database high availability with a primary DB instance and a secondary DB instance
+How should the SAP solutions architect design the architecture to meet these requirements?
+
+ - A. Deploy ASCS and ERS cluster nodes in different subnets within the same Availability Zone. Deploy the PAS instance and AAS instance in different subnets within the same Availability Zone. Deploy the primary DB instance and secondary DB instance in different subnets within the same Availability Zone. Deploy all the components in the same VPC.
+ - B. Deploy ASCS and ERS cluster nodes in different subnets within the same Availability Zone. Deploy the PAS instance and AAS instance in different subnets within the same Availability Zone. Deploy the primary DB instance and secondary DB instance in different subnets within the same Availability Zone. Deploy the ASCS instance, PAS instance, and primary DB instance in one VPC. Deploy the ERS instance, AAS instance, and secondary DB instance in a different VPC.
+ - C. Deploy ASCS and ERS cluster nodes in different subnets across two Availability Zones. Deploy the PAS instance and AAS instance in different subnets across two Availability Zones. Deploy the primary DB instance and secondary DB instance in different subnets across two Availability Zones. Deploy all the components in the same VPC.
+ - D. Deploy ASCS and ERS cluster nodes in different subnets across two Availability Zones. Deploy the PAS instance and AAS instance in different subnets across two Availability Zones. Deploy the primary DB instance and secondary DB instance in different subnets across two Availability Zones. Deploy the ASCS instance, PAS instance, and primary DB instance in one VPC. Deploy the ERS instance, AAS instance, and secondary DB instance in a different VPC.
+
+<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: C
  
-> 
+> This setup meets all the high availability requirements. Different VPCs is irrelevant.
 </details> 
 
 
-## Question 
+## Question 33
 
-<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: ?
+A company has deployed SAP HANA in the AWS Cloud. The company needs its SAP HANA database to be highly available. An SAP solutions architect has deployed the SAP HANA database in separate Availability Zones in a single AWS Region. SUSE Linux Enterprise High Availability Extension is configured with an overlay IP address. The overlay IP resource agent has the following IAM policy:
+![image](https://github.com/pauise/pub/assets/155977504/45040430-11e5-4322-b585-88a36942b4af)
+During a test of failover, the SAP solutions architect finds that the overlay IP address does not change to the secondary Availability Zone.
+Which change should the SAP solutions architect make in the policy statement for Sid oip1 to fix this error?
+
+ - A. Change the Action element to ec2:CreateRoute.
+ - B. Change the Action element to ec2:ReplaceRoute.
+ - C. Change the Action element to ec2:ReplaceRouteTableAssociation.
+ - D. Change the Action element to ec2:ReplaceTransitGatewayRoute.
+<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: B
  
-> 
+> See https://docs.aws.amazon.com/sap/latest/sap-hana/sap-hana-on-aws-oip.html and 
+https://docs.aws.amazon.com/sap/latest/sap-hana/sap-hana-on-aws-cluster-configuration-prerequisites.html
+
 </details> 
 
 
-## Question 
+## Question 34
 
-<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: ?
+A company wants to improve the RPO and RTO for its SAP disaster recovery (DR) solution by running the DR solution on AWS. The company is running SAP ERP Central Component (SAP ECC) on SAP HANA. The company has set an RPO of 15 minutes and an RTO of 4 hours.
+The production SAP HANA database is running on a physical appliance that has x86 architecture. The appliance has 1 TB of memory, and the SAP HANA global allocation limit is set to 768 GB. The SAP application servers are running as VMs on VMware, and they store data on an NFS file system. The company does not want to change any existing SAP HANA parameters that are related to data and log backup for its on-premises systems.
+What should an SAP solutions architect do to meet the DR objectives MOST cost-effectively?
+
+ - A. For the SAP HANA database, change the log backup frequency to 5 minutes. Move the data and log backups to Amazon S3 by using the AWS CLI or AWS DataSync. Launch the SAP HANA database. For the SAP application servers, export the VMs as AMIs by using the VM Import/Export feature from AWS. For NFS file shares /sapmnt and /usr/sap/trans, establish real-time synchronization from DataSync to Amazon Elastic File System (Amazon EFS).
+ - B. For the SAP HANA database, change the log backup frequency to 5 minutes. Move the data and log backups to Amazon S3 by using AWS Storage Gateway File Gateway. For the SAP application servers, export the VMs as AMIs by using the VM Import/Export feature from AWS. For NFS file shares /sapmnt and /usr/sap/trans, establish real-time synchronization from AWS DataSync to Amazon Elastic File System (Amazon EFS).
+ - C. For the SAP HANA database, SAP application servers, and NFS file shares, use CloudEndure Disaster Recovery to replicate the data continuously from on premises to AWS. Use CloudEndure Disaster Recovery to launch target instances in the event of a disaster.
+ - D. For the SAP HANA database, use a smaller SAP certified Amazon EC2 instance. Use SAP HANA system replication with ASYNC replication mode to replicate the data continuously from on premises to AWS. For the SAP application servers, use CloudEndure Disaster Recovery for continuous data replication. For NFS file shares /sapmnt and /usr/sap/trans, establish real-time synchronization from AWS DataSync to Amazon Elastic File System (Amazon EFS).
+
+<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: D
  
-> 
+> D meets all the requirements. A and B gets eliminated as they are talking about parameter change which is against the ask in question. Cloud endure is block level replication so can not guarantee consistency of DB. Hence C gets eliminated.
 </details> 
 
 
-## Question 
+## Question 35
 
-<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: ?
+A company is planning to migrate its on-premises SAP applications to AWS. The applications are based on Windows operating systems. A file share stores the transport directories and third-party application data on the network-attached storage of the company’s on-premises data center. The company’s plan is to lift and shift the SAP applications and the file share to AWS. The company must follow AWS best practices for the migration.
+Which AWS service should the company use to host the transport directories and third-party application data on AWS?
+
+A. Amazon Elastic Block Store (Amazon EBS)
+B. AWS Storage Gateway
+C. Amazon Elastic File System (Amazon EFS)
+D. Amazon FSx for Windows File Server
+<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: D
  
-> 
+> Usually, Keyword Windows = Amazon FSx for Windows File Server.
+
+> Amazon FSx for Windows File Server is a fully managed service that provides cost-effective, highly reliable, and scalable file storage that is accessible over the industry-standard Server Message Block (SMB) protocol. It is built on Windows Server and offers a rich set of enterprise storage capabilities with the scalability, reliability, and low cost of AWS. Amazon FSx integrates with AWS managed Active Directory, allowing you to access your file systems using your existing Windows-based environments. It's an ideal choice for use cases like lift-and-shift enterprise applications, home directories, and software development. See https://aws.amazon.com/blogs/awsforsap/how-to-setup-sap-netweaver-on-windows-mscs-for-sap-ascs-ers-on-aws-using-amazon-fsx/
+
 </details> 
 
 
-## Question 
+## Question 36
+
+A company hosts an SAP HANA database on an Amazon EC2 instance in the us-east-1 Region. The company needs to implement a disaster recovery (DR) site in the us-west-1 Region. The company needs a cost-optimized solution that offers a guaranteed capacity reservation, an RPO of less than 30 minutes, and an RTO of less than 30 minutes.
+Which solution will meet these requirements?
+
+ - A. Deploy a single EC2 instance to support the secondary database in us-west-1 with additional storage. Use this secondary database instance to support QA and production. Configure the primary SAP HANA database in us-east-1 to constantly replicate the data to the secondary SAP HANA database in us-west-1 by using SAP HANA system replication with preload off. During DR, shut down the QA SAP HANA instance and restart the production services at the secondary site.
+ - B. Deploy a secondary staging server on an EC2 instance in us-west-1. Use CloudEndure Disaster Recovery to replicate changes at the database level from us-east-1 to the secondary staging server on an ongoing basis. During DR, initiate cutover, increase the size of the secondary EC2 instance to match the primary EC2 instance, and start the secondary EC2 instance.
+ - C. Set up the primary SAP HANA database in us-east-1 to constantly replicate the data to a secondary SAP HANA database in us-west-1 by using SAP HANA system replication with preload on. Keep the secondary SAP HANA instance as a hot standby that is ready to take over in case of failure.
+ - D. Create an SAP HANA database AMI by using Amazon Elastic Block Store (Amazon EBS) snapshots. Replicate the database and log backup files from a primary Amazon S3 bucket in us-east-1 to a secondary S3 bucket in us-west-1. During DR, launch the EC2 instance in us-west-1 based on AMIs that are replicated. Update host information. Download database and log backups from the secondary S3 bucket. Perform a point-in-time recovery.
+
+<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: A
+ 
+> A is the only cost-effective option that offers guaranteed capacity reservation. CloudEndure would work but it doesn't solve the capacity reservation requirement as it uses a staging area and launch the instances in case of a disaster. What it there is no spare capacity in the DR region?
+</details> 
+
+
+## Question 37
+
+An SAP solutions architect is leading the SAP basis team for a company. The company’s SAP landscape includes SAP HANA database instances for the following systems: sandbox, development, quality assurance test (QAT), system performance test (SPT), and production. The sandbox, development, and QAT systems are running on Amazon EC2 On-Demand Instances. The SPT and production systems are running on EC2 Reserved instances. All the EC2 instances are using Provisioned IOPS SSO (io2) Amazon Elastic Block Store (Amazon EBS) volumes.
+The entire development team is in the same time zone and works from 8 AM to 6 PM. The sandbox system is for research and testing that are not critical. The SPT and production systems are business critical. The company runs load-testing jobs and stress-testing jobs on the QAT systems overnight to reduce testing duration. The company wants to optimize infrastructure cost for the existing AWS resources.
+How can the SAP solutions architect meet these requirements with the LEAST amount of administrative effort?
+
+ - A. Use a Spot Fleet instead of the Reserved Instances and On-Demand Instances.
+ - B. Use Amazon EventBridge (Amazon CloudWatch Events) and Amazon CloudWatch alarms to stop the development and sandbox EC2 instances from 7 PM every night to 7 AM the next day.
+ - C. Make the SAP basis team available 24 hours a day, 7 days a week to use the AWS CLI to stop and start the development and sandbox EC2 instances manually.
+ - D. Change the EBS volume type to Throughput Optimized HDD (st1) for the /hana/data and /hana/log file systems for the production and non-production SAP HANA databases.
+
+<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: B
+ 
+> Amazon EventBridge can automate your AWS services and respond to system events such as application availability issues or resource changes. Events from AWS services are delivered to EventBridge in near-real time. You can write simple rules to indicate which events are of interest to you and what automated actions to take when an event matches a rule. Amazon CloudWatch Alarms watches a single metric over a time period you specify and performs one or more actions based on the value of the metric relative to a threshold over time.
+
+> Therefore, in this scenario, you can automate stopping of the development and sandbox EC2 instances during the off-peak hours to save costs without requiring the SAP basis team to manually stop and start the instances, which will save time and reduce administrative effort.
+</details> 
+
+
+## Question 38
+
+A company is hosting an SAP HANA database on AWS. The company is automating operational tasks, including backup and system refreshes. The company wants to use SAP HANA Studio to perform data backup of an SAP HANA tenant database to a backint interface. The SAP HANA database is running in multi-tenant database container (MDC) mode. The company receives the following error message during an attempt to perform the backup:
+![image](https://github.com/pauise/pub/assets/155977504/54a60c21-7fc2-4cf7-b8e2-5743ad116f4d)
+What should an SAP solutions architect do to resolve this issue?
+
+ - A. Set the execute permission for AWS Backint agent binary aws-backint-agent and for the launcher script aws-backint-agent-launcher.sh in the installation directory.
+ - B. Verify the installation steps. Create symbolic links (symlinks).
+ - C. Ensure that the catalog_backup_using_backint SAP HANA parameter is set to true. Ensure that the data_backup_parameter_file and log_backup_parameter_file parameters have the correct path location in the global.ini file.
+ - D. Add the SAP HANA system to SAP HANA Studio. Select multiple container mode, and then try to initiate the backup again.
+
+<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: D
+ 
+> See https://docs.aws.amazon.com/sap/latest/sap-hana/aws-backint-agent-troubleshooting.html and https://me.sap.com/notes/0002512397
+
+
+</details> 
+
+
+## Question 39
+
+A company is planning to migrate its on-premises SAP ERP Central Component (SAP ECC) system on SAP HANA to AWS. Each month, the system experiences two peaks in usage. The first peak is on the 21st day of the month when the company runs payroll. The second peak is on the last day of the month when the company processes and exports credit data. Both peak workloads are of high importance and cannot be rescheduled.
+The current SAP ECC system has six application servers, all of a similar size. During normal operation outside of peak usage, four application servers would suffice.
+Which purchasing option will meet the company’s requirements MOST cost-effectively on AWS?
+
+ - A. Four Reserved Instances and two Spot Instances
+ - B. Six On-Demand Instances
+ - C. Six Reserved Instances
+ - D. Four Reserved Instances and two On-Demand Instances
+<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: D
+ 
+> Spot instances cannot be used even them are cheaper than On-Demmand since the peak usage can not be rescheduled as stated. So 4 RIs + 2 OIs
+</details> 
+
+
+## Question 40
+
+A company has an SAP environment that runs on AWS. The company wants to enhance security by restricting Amazon EC2 Instance Metadata Service (IMDS) to IMDSv2 only. The company’s current configuration option supports both IMDSv1 and IMDSv2. The security enhancement must not create an SAP outage.
+What should the company do before it applies the security enhancement on EC2 instances that are running the SAP environment?
+
+ - A. Ensure that the SAP kernel versions are 7.45 or later.
+ - B. Ensure that the EC2 instances are Nitro based.
+ - C. Ensure that the AWS Data Provider for SAP is installed on each EC2 instance.
+ - D. Stop the EC2 instances.
+
+<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: A
+ 
+> Before applying the security enhancement on EC2 instances running the SAP environment to restrict IMDS to IMDSv2 only, the company should ensure that the SAP kernel versions are 7.45 or later. This is because kernel version 7.45 and later supports the IMDSv2 protocol, while earlier versions only support IMDSv1. If the company applies the security enhancement before upgrading to kernel version 7.45 or later, it could result in an SAP outage or other issues.
+
+> See https://me.sap.com/notes/1656250
+
+</details> 
+
+
+## Question 41
+
+
 
 <details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: ?
  
