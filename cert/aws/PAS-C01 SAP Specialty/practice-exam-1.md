@@ -715,778 +715,415 @@ What should the company do before it applies the security enhancement on EC2 ins
 
 ## Question 41
 
+A company is running an SAP HANA database on AWS. The company wants to manage historical, infrequently accessed warm data for a native SAP HANA use case. An SAP solutions architect needs to recommend a solution that can provide online data storage in extended store, available for queries and updates. The solution must be an integrated component of the SAP HANA database and must allow the storage of up to five times more data in the warm tier than in the hot tier.
+Which solution will meet these requirements?
 
+ - A. Use Amazon Data Lifecycle Manager (Amazon DLM) with SAP Data Hub to move data in and out of the SAP HANA database to Amazon S3.
+ - B. Use an SAP HANA extension node.
+ - C. Use SAP HANA dynamic tiering as an optional add-on to the SAP HANA database.
+ - D. Use Amazon Data Lifecycle Manager (Amazon DLM) with SAP HANA spark controller so that SAP HANA can access the data through the Spark SQL SDA adapter.
 
-<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: ?
- 
-> 
-</details> 
-
-
-## Question 
-
-<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: ?
- 
-> 
-</details> 
-
-## Question 
-
-<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: ?
- 
-> 
-</details> 
-
-
-## Question 
-
-<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: ?
- 
-> 
-</details> 
-
-
-## Question 
-
-<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: ?
- 
-> 
-</details> 
-
-
-## Question 
-
-<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: ?
- 
-> 
-</details> 
-
-
-## Question 
-
-<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: ?
- 
-> 
-</details> 
-
-
-## Question 
-
-<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: ?
- 
-> 
-</details> 
-
-
-## Question 
-
-<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: ?
- 
-> 
-</details> 
-
-
-## Question 
-
-<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: ?
- 
-> 
-</details> 
-
-
-## Question 
-
-<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: ?
- 
-> 
-</details> 
-
-
-## Question 
-
-<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: ?
- 
-> 
-</details> 
-
-
-## Question 
-
-<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: ?
- 
-> 
-</details> 
-
-
-## Question 
-
-<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: ?
- 
-> 
-</details> 
-
-## Question 
-
-<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: ?
- 
-> 
-</details> 
-
-
-## Question 
-
-<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: ?
- 
-> 
-</details> 
-
-
-## Question 
-
-<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: ?
- 
-> 
-</details> 
-
-
-## Question 
-
-<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: ?
- 
-> 
-</details> 
-
-
-## Question 
-
-<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: ?
- 
-> 
-</details> 
-
-
-## Question 
-
-<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: ?
- 
-> 
-</details> 
-
-
-## Question 
-
-<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: ?
- 
-> 
-</details> 
-
-
-## Question 
-
-<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: ?
- 
-> 
-</details> 
-
-
-## Question 
-
-<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: ?
- 
-> 
-</details> 
-
-
-## Question 
-
-<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: ?
- 
-> 
-</details> 
-
-
-## Question 
-
-<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: ?
- 
-> 
-</details> 
-
-
-## Question 
-
-<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: ?
- 
-> 
-</details> 
-
-## Question 
-
-<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: ?
- 
-> 
-</details> 
-
-
-## Question 
-
-<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: ?
- 
-> 
-</details> 
-
-
-## Question 
-
-<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: ?
- 
-> 
-</details> 
-
-
-## Question 
-
-<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: ?
- 
-> 
-</details> 
-
-
-## Question 
-
-<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: ?
- 
-> 
-</details> 
-
-
-## Question 
-
-<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: ?
- 
-> 
-</details> 
-
-
-## Question 
-
-<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: ?
- 
-> 
-</details> 
-
-
-## Question 
-
-<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: ?
- 
-> 
-</details> 
-
-
-## Question 
-
-<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: ?
- 
-> 
-</details> 
-
-
-## Question 
-
-<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: ?
- 
-> 
-</details> 
-
-
-## Question 
-
-<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: ?
- 
-> 
-</details> 
-
-
-## Question 
-
-<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: ?
- 
-> 
-</details> 
-
-## Question 
-
-<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: ?
- 
-> 
-</details> 
-
-
-## Question 
-
-<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: ?
- 
-> 
-</details> 
-
-
-## Question 
-
-<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: ?
- 
-> 
-</details> 
-
-
-## Question 
-
-<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: ?
+<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: C
  
-> 
-</details> 
+> SAP HANA dynamic tiering is an integrated component of the SAP HANA database that allows the storage of warm data in an extended store. This solution enables the storage of up to five times more data in the warm tier compared to the hot tier. Dynamic tiering is available as an optional add-on for SAP HANA and provides online data storage in the extended store, making it available for queries and updates. This solution meets the requirement for an integrated component of the SAP HANA database and provides the ability to manage historical, infrequently accessed warm data for a native SAP HANA use case. See https://docs.aws.amazon.com/sap/latest/sap-hana/warm-data-tiering-options.html
 
-
-## Question 
-
-<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: ?
- 
-> 
 </details> 
-
 
-## Question 
-
-<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: ?
- 
-> 
-</details> 
 
+## Question 42
 
-## Question 
+A company plans to migrate its SAP NetWeaver deployment to AWS. The deployment runs on a Microsoft SQL Server database. The company plans to change the source database from SQL Server to SAP HANA as part of this process.
+Which migration tools or methods should an SAP solutions architect use to meet these requirements? **(Choose two.)**
 
-<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: ?
+ - A. SAP HANA classical migration
+ - B. SAP HANA system replication
+ - C. SAP Software Update Manager (SUM) Database Migration Option (DMO) with System Move
+ - D. SAP HANA backup and restore
+ - E. SAP homogeneous system copy
+<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: AC
  
-> 
-</details> 
-
-
-## Question 
+> A. SAP HANA classical migration: This is a two-step process where first you upgrade the existing system (if needed) and then perform the database migration. It's applicable when migrating from anyDB to SAP HANA.
 
-<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: ?
- 
-> 
+> C. SAP Software Update Manager (SUM) Database Migration Option (DMO) with System Move: DMO of the SUM is a tool that combines the upgrade and the migration of the SAP system to SAP HANA database into one process. In a one-step procedure, you can update an existing SAP system to a higher software version and migrate to SAP HANA.
 </details> 
-
 
-## Question 
-
-<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: ?
- 
-> 
-</details> 
+## Question 43
 
+A company has an SAP Business One system that runs on SUSE Linux Enterprise Server 12 SP3. The company wants to migrate the system to AWS. An SAP solutions architect selects a homogeneous migration strategy that uses AWS Application Migration Service (CloudEndure Migration).
+After the server migration process is finished, the SAP solutions architect launches an Amazon EC2 test instance from the R5 instance family. After a few minutes, the EC2 console reports that the test instance has failed an instance status check. Network connections to the instance are refused.
+How can the SAP solutions architect solve this problem?
 
-## Question 
+A. Reboot the instance to initiate instance migration to another host.
+B. Request an instance limit increase for the AWS Region where the test instance is being launched.
+C. Create a ticket for AWS Support that documents the test server instance ID. Wait for AWS to update the host of the R5 instance.
+D. Install the missing drivers on the source system. Wait for the completion of migration synchronization. Launch the test instance again.
 
-<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: ?
+<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: D
  
-> 
-</details> 
+> This issue might occur if the source system lacks certain drivers required by the selected Amazon EC2 instance type. Before migrating, it's essential to ensure that the source system has all necessary drivers installed. If the drivers are missing, the server will not start correctly after the migration. Thus, the SAP solutions architect should install the missing drivers on the source system, wait for migration synchronization to complete, and then launch the test instance again. See https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-instance-lifecycle.html#lifecycle-differences. For the record, instance reboot will not trigger host change, only stop can change host, but D is correct.
 
-
-## Question 
-
-<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: ?
- 
-> 
 </details> 
 
 
-## Question 
+## Question 44
 
-<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: ?
- 
-> 
-</details> 
+An SAP basis architect is configuring high availability for a critical SAP system on AWS. The SAP basis architect is using an overlay IP address to route traffic to the subnets across multiple Availability Zones within an AWS Region for the system’s SAP HANA database.
+What should the SAP basis architect do to route the traffic to the Amazon EC2 instance of the active SAP HANA database?
 
-## Question 
+ - A. Edit the route in the route table of the VPC that includes the EC2 instance that runs SAP HANA. Specify the overlay IP address as the destination. Specify the private IP address of the EC2 instance as the target.
+ - B. Edit the inbound and outbound rules in the security group of the EC2 instance that runs SAP HANA. Allow traffic for SAP HANA specific ports from the overlay IP address.
+ - C. Edit the network ACL of the subnet that includes the EC2 instance that runs SAP HANA. Allow traffic for SAP HANA specific ports from the overlay IP address.
+ - D. Edit the route in the route table of the VPC that includes the EC2 instance that runs SAP HANA. Specify the overlay IP address as the destination. Specify the elastic network interface of the EC2 instance as the target.
 
 <details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: ?
  
-> 
-</details> 
-
-
-## Question 
+> See https://docs.aws.amazon.com/sap/latest/sap-hana/sap-hana-on-aws-cluster-configuration-prerequisites.html
 
-<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: ?
- 
-> 
 </details> 
-
 
-## Question 
 
-<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: ?
- 
-> 
-</details> 
+## Question 45
 
+A company is running SAP ERP Central Component (SAP ECC) with a Microsoft SQL Server database on AWS. A solutions architect must attach an additional 1 TB Amazon Elastic Block Store (Amazon EBS) volume. The company needs to write the SQL Server database backups to this EBS volume before moving the database backups to Amazon S3 for long-term storage.
+Which EBS volume type will meet these requirements MOST cost-effectively?
 
-## Question 
+ - A. Throughput Optimized HDD (st1)
+ - B. Provisioned IOPS SSD (io2)
+ - C. General Purpose SSD (gp3)
+ - D. Cold HDD (sc1)
 
-<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: ?
+<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: A
  
-> 
-</details> 
-
+> For workloads involving frequent, large, and sequential I/O operations, such as log processing and big data workloads, the st1 volume type is an economical and high-performance choice. Since database backups involve sequential write operations, Throughput Optimized HDD (st1) volumes, which are designed for large, sequential I/O workloads, will meet these requirements most cost-effectively.
 
-## Question 
-
-<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: ?
- 
-> 
+> SQL native tools to take backup on disk: Backup requires high throughput compared to IOPS. We recommend using Throughput Optimized HDD (st1) which provides maximum throughput of 500 MB/s per volume. Once the backup completes on disk, you can use scripts to move it to an Amazon S3 bucket.
 </details> 
-
 
-## Question 
 
-<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: ?
- 
-> 
-</details> 
+## Question 46
 
+Business users are reporting timeouts during periods of peak query activity on an enterprise SAP HANA data mart. An SAP system administrator has discovered that at peak volume, the CPU utilization increases rapidly to 100% for extended periods on the x1.32xlarge Amazon EC2 instance where the database is installed. However, the SAP HANA database is occupying only 1,120 GiB of the available 1,952 GiB on the instance. I/O wait times are not increasing. Extensive query tuning and system tuning have not resolved this performance problem.
+Which solutions should the SAP system administrator use to improve the performance? **(Choose two.)**
 
-## Question 
+ - A. Reduce the global_allocation_limit parameter to 1,120 GiB.
+ - B. Migrate the SAP HANA database to an EC2 High Memory instance with a larger number of available vCPUs.
+ - C. Move to a scale-out architecture for SAP HANA with at least three x1.16xlarge instances.
+ - D. Modify the Amazon Elastic Block Store (Amazon EBS) volume type from General Purpose to Provisioned IOPS for all SAP HANA data volumes.
+ - E. Change to a supported compute optimized instance type for SAP HANA.
 
-<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: ?
+<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: BE
  
-> 
+> This problem is about high CPU usage. The SAP HANA database is not fully utilizing the available memory, but CPU utilization is reaching 100% during peak query times. This suggests that the workload is CPU-bound. Therefore, you can alleviate this issue by adding more CPU resources, either by moving to a larger High Memory instance or switching to a compute-optimized instance type that has more vCPUs available.
 </details> 
 
 
-## Question 
-
-<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: ?
- 
-> 
-</details> 
+## Question 47
 
+A company is moving to the AWS Cloud gradually. The company has multiple SAP landscapes on VMware. The company already has sandbox, development, and QA systems on AWS. The company’s production system is still running on premises. The company has 2 months to cut over the entire landscape to the AWS Cloud.
+The company has adopted a hybrid architecture for the next 2 months and needs to synchronize its shared file systems between the landscapes. These shared file systems include /trans directory mounts, /software directory mounts, and third-party integration mounts. In the on-premises landscape, the company has NFS mounts between the servers. On the AWS infrastructure side, the company is using Amazon Elastic File System (Amazon EFS) to share the common files.
+An SAP solutions architect needs to design a solution to schedule transfer of these shared files bidirectionally four times each day. The data transfer must be encrypted.
+Which solution will meet these requirements?
 
-## Question 
+ - A. Write an rsync script. Schedule the script through cron for four times each day in the on-premises VMware servers to transfer the data from on premises to AWS.
+ - B. Install an AWS DataSync agent on the on-premises VMware platform. Use the DataSync endpoint to synchronize between the on-premises NFS server and Amazon EFS on AWS.
+ - C. Order an AWS Snowcone device. Use the Snowcone device to transfer data between the on-premises servers and AWS.
+ - D. Set up a separate AWS Direct Connect connection for synchronization between the on-premises servers and AWS.
 
-<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: ?
+<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: B
  
-> 
-</details> 
-
+> The solution is to install an AWS DataSync agent on the on-premises VMware platform. Use the DataSync endpoint to synchronize between the on-premises NFS server and Amazon EFS on AWS.
 
-## Question 
+> AWS DataSync is an online data movement and discovery service that simplifies data migration and helps you quickly, easily, and securely move your file or object data to, from, and between AWS storage services. DataSync can copy data to and from Network File System (NFS) file servers, Server Message Block (SMB) file servers, Amazon S3 buckets, Amazon EFS file systems, and AWS Snowcone.
 
-<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: ?
- 
-> 
+> Rsync is a utility for efficiently transferring and synchronizing files between a computer and an external hard drive and across networked computers by comparing the modification times and sizes of files. It is not designed for transferring data between on-premises servers and AWS.
 </details> 
 
 
-## Question 
+## Question 48
 
-<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: ?
- 
-> 
-</details> 
+A company is planning to move to AWS. The company wants to set up sandbox and test environments on AWS to perform proofs of concept (POCs). Development and production environments will remain on premises until the POCs are completed.
+At the company’s on-premises location, SAProuter is installed on the same server as SAP Solution Manager. The company uses SAP Solution Manager to monitor the entire landscape. The company uses SAProuter to connect to SAP Support. The on-premises SAP Solution Manager instance must monitor the performance and server metrics of the newly created POC systems on AWS. The existing SAProuter must be able to report any issues to SAP.
+What should an SAP solutions architect do to set up this hybrid infrastructure MOST cost-effectively?
 
+ - A. Install a new SAP Solution Manager instance and a new SAProuter instance in the AWS environment. Connect the POC systems to these new instances. Use these new instances in parallel with the on-premises SAP Solution Manager instance and the on-premises SAProuter instance.
+ - B. Install a new SAP Solution Manager instance and a new SAProuter instance in the AWS environment. Install the Amazon CloudWatch agent on all on-premises instances. Push the monitoring data to the new SAP Solution Manager instance. Connect all on-premises systems and POC systems on AWS to the new SAP Solution Manager instance and the new SAProuter instance. Remove the on-premises SAP Solution Manager instance and the on-premises SAProuter instance. Use the new instances on AWS.
+ - C. Use AWS Site-to-Site VPN to connect the on-premises network to the AWS environment. Connect the POC systems on AWS to the on-premises SAP Solution Manager instance and the on-premises SAProuter instance.
+ - D. Add the POC systems on AWS to the existing SAP Transport Management System that is configured in the on-premises SAP systems.
 
-## Question 
-
-<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: ?
+<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: C
  
-> 
-</details> 
+> C is the most cost effective in terms of infrastructure and services. See https://docs.aws.amazon.com/sap/latest/general/overview-sap-planning.html#figure-4 amd https://docs.aws.amazon.com/sap/latest/general/overview-router-hybrid.html
 
-## Question 
-
-<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: ?
- 
-> 
 </details> 
 
 
-## Question 
-
-<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: ?
- 
-> 
-</details> 
+## Question 49
 
+An SAP solutions architect is using AWS Systems Manager Distributor to install the AWS Data Provider for SAP on production SAP application servers and SAP HANA database servers. The SAP application servers and the SAP HANA database servers are running on Red Hat Enterprise Linux.
+The SAP solutions architect chooses instances manually in Systems Manager Distributor and schedules installation. The installation fails with an access and authorization error related to Amazon CloudWatch and Amazon EC2 instances. There is no error related to AWS connectivity.
+What should the SAP solutions architect do to resolve the error?
 
-## Question 
+ - A. Install the CloudWatch agent on the servers before installing the AWS Data Provider for SAP.
+ - B. Download the AWS Data Provider for SAP installation package from AWS Marketplace. Use an operating system super user to install the agent manually or through a script.
+ - C. Create an IAM role. Attach the appropriate policy to the role. Attach the role to the appropriate EC2 instances.
+ - D. Wait until Systems Manager Agent is fully installed and ready to use on the EC2 instances. Use Systems Manager Patch Manager to perform the installation.
 
-<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: ?
+<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: C
  
-> 
+> The AWS Data Provider for SAP requires access to Amazon CloudWatch and Amazon EC2 instances. It retrieves this access by assuming an IAM role that is attached to the EC2 instances. If this role is missing or doesn't have the appropriate permissions, the AWS Data Provider for SAP installation will fail with an access and authorization error. To resolve this error, you must create an IAM role and attach the appropriate policy to it, then attach this role to the EC2 instances. See https://docs.aws.amazon.com/sap/latest/general/data-provider-troubleshooting.html
 </details> 
-
 
-## Question 
 
-<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: ?
- 
-> 
-</details> 
+## Question 50
 
+A company is running its SAP applications on Oracle Database. Oracle Database is hosted on physical servers that are running SUSE Linux Enterprise Server. Because of compliance requirements, the company cannot install any additional software on its on-premises database servers. The company needs to migrate the SAP landscape to AWS and must continue to use Oracle Database.
+Which migration solution should the company use to meet these requirements?
 
-## Question 
+ - A. AWS Server Migration Service (AWS SMS)
+ - B. AWS Application Migration Service (CloudEndure Migration)
+ - C. SAP Software Update Manager (SUM) Database Migration Option (DMO) with System Move
+ - D. Oracle Database replication with Oracle Data Guard
 
-<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: ?
+<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: D
  
-> 
-</details> 
-
+> This option would allow the company to continue using Oracle Database while meeting its compliance requirements, as it would not need to install additional software on its on-premises servers. They can use Oracle Data Guard to replicate their existing Oracle Database to an instance running on AWS, providing a way to migrate their SAP landscape to AWS while still using the same database.
 
-## Question 
+> A) AWS SMS is for virtualized servers only. B) No additional software installation is allowed on-prem, so you cannot install CloudEndure Agent on-prem. C) SAP Software Update Manager (SUM) Database Migration Option (DMO) with System Move works only from AnyDB to SAP HANA migration (but here, the target system should be Oracle).
 
-<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: ?
- 
-> 
 </details> 
 
 
-## Question 
-
-<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: ?
- 
-> 
-</details> 
+## Question 51
 
+A company is planning to migrate its SAP workloads to AWS. The company will use two VPCs. One VPC will be for production systems, and one VPC will be for non-production systems. The company will host the non-production systems and the primary node of all the production systems in the same Availability Zone.
+What is the MOST cost-effective way to establish a connection between the production systems and the non-production systems?
 
-## Question 
+A. Create an AWS Transit Gateway. Attach the VPCs to the transit gateway. Add the appropriate routes in the subnet route tables.
+B. Establish a VPC peering connection between the two VPCs. Add the appropriate routes in the subnet route tables.
+C. Create an internet gateway in each VPUse an AWS Site-to-Site VPN connection between the two VPCs. Add the appropriate routes in the subnet route tables.
+D. Set up an AWS Direct Connect connection between the two VPCs. Add the appropriate routes in the subnet route tables.
 
-<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: ?
+<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: B
  
-> 
-</details> 
-
-
-## Question 
+> VPC peering is a networking connection between two VPCs that enables you to route traffic between them using private IPv4 addresses or IPv6 addresses. It's a low-cost solution for interconnecting two VPCs, especially when they're located in the same AWS region.
 
-<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: ?
- 
-> 
+> Option A (AWS Transit Gateway) is a scalable and centralized solution, but it may introduce additional complexity and cost for this scenario, which involves only two VPCs. Option C (AWS Site-to-Site VPN) is typically used for secure connections between on-premises networks and AWS, and may not be necessary in this case where both VPCs are within AWS. Option D (AWS Direct Connect) is a dedicated network connection and may be overkill for connecting two VPCs within the same Availability Zone.
 </details> 
-
 
-## Question 
 
-<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: ?
- 
-> 
-</details> 
+## Question 52
 
+An SAP engineer has deployed an SAP S/4HANA system on an Amazon EC2 instance that runs Linux. The SAP license key has been installed. After a while, the newly installed SAP instance presents an error that indicates that the SAP license key is not valid because the SAP system’s hardware key changed. There have been no changes to the EC2 instance or its configuration.
+Which solution will permanently resolve this issue?
 
-## Question 
+ - A. Perform SAP kernel patching.
+ - B. Apply a new SAP license that uses a new hardware key. Install the new key.
+ - C. Set the SLIC_HW_VERSION Linux environment variable.
+ - D. Reboot the EC2 instance.
 
-<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: ?
+<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: C
  
-> 
+> In certain cases, the hardware key can change even when there have been no changes to the EC2 instance or its configuration. This situation can cause the SAP license to become invalid. To prevent the hardware key from changing, you should set the Linux environment variable SLIC_HW_VERSION to the desired value. This value ensures a constant hardware key and prevents the SAP license from becoming invalid. See https://d0.awsstatic.com/enterprise-marketing/SAP/sap-on-aws-high-availability-guide.pdf and https://me.sap.com/notes/1178686
 </details> 
 
 
-## Question 
+## Question 53
 
-<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: ?
- 
-> 
-</details> 
+An SAP technology consultant needs to scale up a primary application server (PAS) instance. The PAS currently runs on a c5a.xlarge Amazon EC2 instance. The SAP technology consultant needs to change the instance type to c5a.2xlarge.
+How can the SAP technology consultant meet this requirement?
 
-## Question 
+ - A. Stop the complete SAP system. Stop the EC2 instance. Use the AWS Management Console or the AWS CLI to change the instance type. Start the EC2 instance. Start the complete SAP system.
+ - B. While SAP is running, use the AWS Management Console or the AWS CLI to change the instance type without stopping the EC2 instance.
+ - C. Stop the complete SAP system. Terminate the EC2 instance. Use the AWS Management Console or the AWS CLI to change the instance type. Start the EC2 instance. Start the complete SAP system.
+ - D. While SAP is running, log in to the EC2 instance. Run the following AWS CLI command: aws ec2 modify-instance-attribute --instance-id <INSTANCEID> --instance-type "{\"Value\": \"c5a.2xlargel\"}".
 
-<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: ?
+<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: A
  
-> 
+> To change the instance type in AWS, you need to stop the EC2 instance first. After stopping the instance, you can change its instance type using the AWS Management Console or the AWS CLI. Then, you can start the instance again. Keep in mind that all applications running on the instance should be stopped before stopping the instance itself.
 </details> 
-
 
-## Question 
 
-<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: ?
- 
-> 
-</details> 
+## Question 54
 
+A company has moved all of its SAP workloads to AWS. During peak business hours, end users are reporting performance issues because work processes are going into PRIV mode on an SAP S/4HANA system. An SAP support engineer indicates that SAP cannot provide support for this issue because some specific performance metrics are not available.
+Which combination of actions must the company perform to comply with SAP support requirements? **(Choose three.)**
 
-## Question 
+ - A. Buy an SAP license from AWS. Ensure that the SAP license is installed.
+ - B. Select only an AWS Migration Acceleration Program (MAP) certified managed service provider (MSP).
+ - C. Enable detailed monitoring for Amazon CloudWatch on each Amazon EC2 instance where SAP workloads are running.
+ - D. Install, configure, and run the AWS Data Provider for SAP on each Amazon EC2 instance where SAP workloads are running.
+ - E. Integrate AWS Systems Manager with SAP Solution Manager to provide alerts about SAP parameter configuration drift.
+ - F. Enable SAP enhanced monitoring through a SAPOSCOL enhanced function.
 
-<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: ?
+<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: CDF
  
-> 
+> See https://me.sap.com/notes/1656250
 </details> 
-
 
-## Question 
-
-<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: ?
- 
-> 
-</details> 
+## Question 55
 
+A company needs to implement high availability for its SAP S/4HANA system on AWS. The company will use a SUSE Linux Enterprise Server clustering solution in private subnets across two Availability Zones. An SAP solutions architect must ensure that the solution can route traffic to the active SAP instance in this clustered configuration.
+What should the SAP solutions architect do to meet these requirements?
 
-## Question 
+A. Implement the SAP cluster solution by using a secondary private IP address. Reassign the secondary private IP address from one network interface to another network interface in the event of any failure that affects the primary instance.
+B. Implement the SAP cluster solution by using an Elastic IP address. Mask the failure of an instance or software by rapidly remapping the address to another instance in the account.
+C. Implement the SAP cluster solution by using a public IP address. Use this public IP address for communication between the instances and the internet.
+D. Implement the SAP cluster solution by using an overlay IP address that is outside the CIDR block of the VPC. Use overlay IP address routing to dynamically update the route table to point to the active node and provide external access by using a Network Load Balancer or AWS Transit Gateway.
 
-<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: ?
+<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: D
  
-> 
+> In a SUSE Linux Enterprise Server cluster for SAP, an overlay IP address is used for high availability. This overlay IP address is associated with the active node in the cluster and gets reassigned to another node in case of a failure. To make this work, it's necessary to dynamically update the routing table to point the overlay IP address to the correct, active instance. See https://docs.aws.amazon.com/sap/latest/sap-netweaver/cluster-configuration-prereqs-sap-netweaver-ha.html#enable-cluster-instances-overlay-ip-sap-netweaver-ha
 </details> 
 
 
-## Question 
-
-<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: ?
- 
-> 
-</details> 
+## Question 56
 
+A company is migrating its SAP workloads to AWS. The company’s IT team installs a highly available SAP S/4HANA system that uses the SAP HANA system replication cluster package on SUSE Linux Enterprise Server. The IT team deploys the system by using cluster nodes in different Availability Zones within the same AWS Region.
+After the initial launch of the SAP application, the application is accessible. However, after failover, the IT team cannot access the application even though the system is up and running on the secondary node. After investigation, an SAP solutions architect discovers that the virtual IP address has not been used correctly.
+Which combination of steps should the SAP solutions architect take to resolve this problem? **(Choose two.)**
 
-## Question 
+ - A. Use an overlay IP address as a secondary IP address with the primary node of the cluster.
+ - B. Choose an overlay IP address within the VPC CIDR block that corresponds with the secondary node of the cluster.
+ - C. Use an overlay IP address as a virtual IP address.
+ - D. Choose an overlay IP address within the VPC CIDR block that corresponds with the primary node of the cluster.
+ - E. Choose an overlay IP address outside the VPC CIDR block that hosts the application and the database.
 
-<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: ?
+<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: CE
  
-> 
 </details> 
-
 
-## Question 
 
-<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: ?
- 
-> 
-</details> 
+## Question 57
 
+A company wants to migrate its on-premises servers to AWS. These servers include SAP ERP Central Component (SAP ECC) on Oracle Database. The company is running SAP ECC application servers and Oracle Database servers on AIX. The company must migrate the SAP workloads to AWS with minimal changes.
+Which solution will meet these requirements?
 
-## Question 
+ - A. Perform a heterogeneous migration for SAP on AWS. Specify the SAP ECC application servers to run on SUSE Linux Enterprise Server. Specify Oracle Database to run on Oracle Enterprise Linux on a Dedicated Host.
+ - B. Perform a homogeneous migration for SAP on AWS. Specify the SAP ECC application servers and Oracle Database to run on AIX.
+ - C. Perform a heterogeneous migration for SAP on AWS. Specify the SAP ECC application servers and Oracle Database to run on Oracle Enterprise Linux.
+ - D. Perform a heterogeneous migration for SAP on AWS. Specify the SAP ECC application servers and Oracle Database to run on Windows.
 
-<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: ?
+<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: C
  
-> 
+> Oracle requires that the Amazon Machine Image (AMI) used for Amazon EC2 instances is based on Oracle Linux 6.4 or later, 7.1 or later and 8.2 or later "**for both Oracle Database Server and SAP NetWeaver Application Servers**" with Oracle Instant Client. See SAP Note [2358420](https://me.sap.com/notes/2358420)
 </details> 
 
 
-## Question 
-
-<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: ?
- 
-> 
-</details> 
+## Question 58
 
+A company has deployed its SAP applications into multiple Availability Zones in the same AWS Region. To accommodate storage of media files, database table export and import, and files dropped by third-party tools, the company has mounted Amazon Elastic File System (Amazon EFS) file systems between the SAP instances. The company needs to retrieve the files quickly for installations, updates, and system refreshes.
+Over time, the EFS file systems have grown exponentially to multiple terabytes. An SAP solutions architect must optimize storage cost for the files that are stored in Amazon EFS.
+Which solution will meet this requirement with the LEAST administrative overhead?
 
-## Question 
+ - A. Scan the files manually to identify unnecessary files. Delete the unnecessary files.
+ - B. Move the files to Amazon S3 Glacier Deep Archive.
+ - C. Apply a lifecycle policy on the files in Amazon EFS to move the files to EFS Standard-Infrequent Access (Standard-IA).
+ - D. Move the files to Amazon S3 Glacier. Apply an S3 Glacier vault lock policy to the files.
 
-<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: ?
+<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: C
  
-> 
+> This solution meets the requirement to optimize storage cost for the files stored in Amazon EFS with the least administrative overhead. By applying a lifecycle policy, the files will be automatically moved to the lower-cost Standard-IA storage class, reducing the storage cost for infrequently accessed data. This eliminates the manual process of identifying and deleting unnecessary files, or moving files to different storage services, which would require more administrative effort.
 </details> 
 
 
-## Question 
+## Question 59
 
-<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: ?
- 
-> 
-</details> 
+An SAP specialist is building an SAP environment. The SAP environment contains Amazon EC2 instances that run in a private subnet in a VPC. The VPC includes a NAT gateway.
+The SAP specialist is setting up IBM Db2 high availability disaster recovery for the SAP cluster. After configuration of overlay IP address routing, traffic is not routing to the database EC2 instances.
+What should the SAP specialist do to resolve this issue?
 
-## Question 
+ - A. Open a security group for SAP ports to allow traffic on port 443.
+ - B. Create route table entries to allow traffic from the database EC2 instances to the NAT gateway.
+ - C. Turn off the source/destination check for the database EC2 instances.
+ - D. Create an IAM role that has permission to access network traffic. Associate the role with the database EC2 instances.
 
-<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: ?
+<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: B
  
-> 
-</details> 
+> When you use an overlay IP address for a cluster, AWS doesn't recognize that IP address as belonging to the EC2 instances in your cluster. By default, AWS only allows an instance to send and receive traffic with the IP address assigned to its network interface. For routing to work properly with an overlay IP address, you need to disable the source/destination check on the EC2 instances in the cluster. See https://docs.aws.amazon.com/vpc/latest/userguide/VPC_NAT_Instance.html#EIP_Disable_SrcDestCheck and https://docs.aws.amazon.com/sap/latest/sap-hana/sap-hana-on-aws-cluster-configuration-prerequisites.html
 
 
-## Question 
-
-<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: ?
- 
-> 
 </details> 
 
 
-## Question 
-
-<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: ?
- 
-> 
-</details> 
+## Question 60
 
+A company uses an SAP application that runs batch jobs that are performance sensitive. The batch jobs can be restarted safely. The SAP application has six application servers. The SAP application functions reliably as long as the SAP application availability remains greater than 60%. The company wants to migrate the SAP application to AWS. The company is using a cluster with two Availability Zones.
+How should the company distribute the SAP application servers to maintain system reliability?
 
-## Question 
+ - A. Distribute the SAP application servers equally across three partition placement groups.
+ - B. Distribute the SAP application servers equally across three Availability Zones.
+ - C. Distribute the SAP application servers equally across two Availability Zones.
+ - D. Create an Amazon EC2 Auto Scaling group across two Availability Zones. Set a minimum capacity value of 4.
 
-<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: ?
+<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: D
  
-> 
+> First, 60% of 6 is 4. So, Option A is incorrect because partition placement groups are used to logically separate instances within a single Availability Zone. Option B with 3 AZs guarantees the 60% in case of 1 AZ down but B and C are irrelevant since none is cost-efficient and finally Option D guarantees the HA (2 AZs), the minimum capacity (4) and is cost-efficient (auto-scaling).
 </details> 
 
 
-## Question 
+## Question 61
 
-<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: ?
- 
-> 
-</details> 
+A company wants to migrate its SAP landscape from on premises to AWS.
+What are the MINIMUM requirements that the company must meet to ensure full support of SAP on AWS? **(Choose three.)**
 
+ - A. Enable detailed monitoring for Amazon CloudWatch on each instance in the landscape.
+ - B. Deploy the infrastructure by using SAP Cloud Appliance Library.
+ - C. Install, configure, and run the AWS Data Provider for SAP on each instance in the landscape.
+ - D. Protect all production instances by using Amazon EC2 automatic recovery.
+ - E. Deploy the infrastructure for the SAP landscape by using AWS Launch Wizard for SAP.
+ - F. Deploy the SAP landscape on an AWS account that has either an AWS Business Support plan or an AWS Enterprise Support plan.
 
-## Question 
-
-<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: ?
+<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: ACF
  
-> 
+> See https://docs.aws.amazon.com/sap/latest/general/overview-sap-on-aws.html and 1656250 - SAP on AWS: Support prerequisites
 </details> 
 
 
-## Question 
-
-<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: ?
- 
-> 
-</details> 
+## Question 62
 
+A company wants to migrate its SAP S/4HANA software from on premises to AWS in a few weeks. An SAP solutions architect plans to use AWS Launch Wizard for SAP to automate the SAP deployment on AWS.
+Which combination of steps must the SAP solutions architect take to use Launch Wizard to meet these requirements? **(Choose two.)**
 
-## Question 
+ - A. Download the SAP software files from the SAP Support Portal. Upload the SAP software files to Amazon S3. Provide the S3 bucket path as an input to Launch Wizard.
+ - B. Provide the SAP S-user ID and password as inputs to Launch Wizard to download the software automatically.
+ - C. Format the S3 file path syntax according to the Launch Wizard deployment recommendation.
+ - D. Use an AWS CloudFormation template for the automated deployment of the SAP landscape.
+ - E. Provision Amazon EC2 instances. Tag the instances to install SAP S/4HANA on them.
 
-<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: ?
+<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: AC
  
-> 
+> The AWS Launch Wizard for SAP requires the SAP software to be uploaded to an Amazon S3 bucket. This process involves downloading the software from the SAP Support Portal and uploading it to S3. The S3 bucket path is then provided to the Launch Wizard. The S3 file path syntax must be formatted according to the deployment recommendations provided by the Launch Wizard. See https://docs.aws.amazon.com/launchwizard/latest/userguide/launch-wizard-sap-structure.html
 </details> 
 
 
-## Question 
-
-<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: ?
- 
-> 
-</details> 
+## Question 63
 
+A company runs its SAP ERP 6.0 EHP 8 system on SAP HANA on AWS. The system is deployed on an r4.16xlarge Amazon EC2 instance with default tenancy. The company needs to migrate the SAP HANA database to an x2gd.16xlarge High Memory instance. After an operations engineer changes the instance type and starts the instance, the AWS Management Console shows a failed instance status check.
+What is the cause of this problem?
 
-## Question 
+ - A. The operations engineer missed the network configuration step during the post-migration activities.
+ - B. The operations engineer missed the Amazon CloudWatch configuration step during the post-migration activities.
+ - C. The operations engineer did not install Elastic Network Adapter (ENA) drivers before changing the instance type.
+ - D. The operations engineer did not create a new AMI from the original instance and did not launch a new instance with dedicated tenancy from the AMI.
 
-<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: ?
+<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: C
  
-> 
+> The cause of the problem is that the operations engineer did not install Elastic Network Adapter (ENA) drivers before changing the instance type. The r4.16xlarge instance type uses the Intel 82599 network interface card (NIC), while the x2gd.16xlarge instance type uses the Elastic Network Adapter (ENA) NIC. The ENA driver is required for the new instance type to work properly. Option D is incorrect because creating a new AMI from the original instance and launching a new instance with dedicated tenancy from the AMI is not required for this migration. See https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/TroubleshootingInstances.html
 </details> 
-
 
-## Question 
 
-<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: ?
- 
-> 
-</details> 
+## Question 64
 
+A company is running SAP on anyDB at a remote location that has slow and inconsistent internet connectivity. The company wants to migrate its system to AWS and wants to convert its database to SAP HANA during this process. Because of the inconsistent internet connection, the company has not established connectivity between the remote location and the company’s VPC in the AWS Cloud.
+How should the company perform this migration?
 
-## Question 
+ - A. Migrate by using SAP HANA system replication over the internet connection. Specify a public IP address on the target system.
+ - B. Migrate by using SAP Software Update Manager (SUM) Database Migration Option (DMO) with System Move. Use an AWS Snowball Edge Storage Optimized device to transfer the SAP export files to AWS.
+ - C. Migrate by using SAP HANA system replication with initialization through backup and restore. Use an AWS Snowball Edge Storage Optimized device to transfer the SAP export files to AWS.
+ - D. Migrate by using SAP Software Update Manager (SUM) Database Migration Option (DMO) with System Move. Use Amazon Elastic File System (Amazon EFS) to transfer the SAP export files to AWS.
 
-<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: ?
+<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: B
  
-> 
+> Given the unreliable internet connection, using the AWS Snowball Edge device to physically transfer data is a good option. The SUM DMO with System Move option allows migration and conversion of the database to SAP HANA in one step, which reduces downtime. See https://docs.aws.amazon.com/sap/latest/sap-hana/migrating-hana-tools.html#migrating-hana-snowball
 </details> 
 
