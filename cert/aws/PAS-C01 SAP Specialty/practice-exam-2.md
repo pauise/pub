@@ -17,7 +17,7 @@ A US-based Banking and Insurance company is running their SAP workloads on-premi
 <details markdown=1><summary markdown='span'>Answer</summary>
 Correct answer: C
 
-    > Glacier Deep Archive is specifically ideal for 1 or 2 retrievals per year with 12 hours from request. As stated, the company knows when these backups are needed in advance and it's only 2 times a year. All other options are more expensive.
+> Glacier Deep Archive is specifically ideal for 1 or 2 retrievals per year with 12 hours from request. As stated, the company knows when these backups are needed in advance and it's only 2 times a year. All other options are more expensive.
 </details>
 
 
@@ -34,7 +34,7 @@ A company is running their SAP workloads on-premise. They are planning to migrat
 <details markdown=1><summary markdown='span'>Answer</summary>
 Correct answer: ADF
 
-    > "Non-prod first" is the typical change management golden rule; so A is valid and B not. By other hand, Oracle DB is supported on OEL only, so the solution is then export/import to OEL keeping Oracle DB as per requirement and then no necessity to move to HANA (C and E discarded and D valid) and finally you will need a migration key (F valid).
+> "Non-prod first" is the typical change management golden rule; so A is valid and B not. By other hand, Oracle DB is supported on OEL only, so the solution is then export/import to OEL keeping Oracle DB as per requirement and then no necessity to move to HANA (C and E discarded and D valid) and finally you will need a migration key (F valid).
     
 </details>
 
@@ -52,7 +52,7 @@ A customer is running their SAP workloads in a Hybrid cloud model. The non-produ
 <details markdown=1><summary markdown='span'>Answer</summary>
 Correct answer: BE
 
-    > SAP workloads always in private subnet, so A discarded. The HANA version of the restore target must be always greater or equal to the backup source one, so B valid and C discarded. And to perform any system copy with HANA you always need SYSTEMDB and tenant db, so E valid and D discarded.
+> SAP workloads always in private subnet, so A discarded. The HANA version of the restore target must be always greater or equal to the backup source one, so B valid and C discarded. And to perform any system copy with HANA you always need SYSTEMDB and tenant db, so E valid and D discarded.
 </details>
 
 
@@ -69,7 +69,7 @@ A European manufacturing company wants to migrate one of their production SAP HA
 <details markdown=1><summary markdown='span'>Answer</summary>
 Correct answer: AD
 
-    > Launch Wizard for SAP software deployment is always the fastest, so D is valid for the initial deployment. But in this list appears the option to use the SAP CAL. SAP CAL launched recently a template of S/4HANA for Production usage only based on Azure https://community.sap.com/topics/cloud-appliance-library/production-ready-systems. So at this moment, we should consider that SAP CAL on AWS can not be used for production at all, then C discarded. By other side, AWS Quick Start is not used anymore for SAP deployments even if it's still valid for other products, then B discarded. Option A could have sense in the case of a great amount of HANA but the requirement is move just one in a very simple configuration, so CloudFormation script does not make sense here. Finally, once the deployment is completed, we need to move the data, and this is the option D regarding S3 Transfer Acceleration. 
+> Launch Wizard for SAP software deployment is always the fastest, so D is valid for the initial deployment. But in this list appears the option to use the SAP CAL. SAP CAL launched recently a template of S/4HANA for Production usage only based on Azure https://community.sap.com/topics/cloud-appliance-library/production-ready-systems. So at this moment, we should consider that SAP CAL on AWS can not be used for production at all, then C discarded. By other side, AWS Quick Start is not used anymore for SAP deployments even if it's still valid for other products, then B discarded. Option A could have sense in the case of a great amount of HANA but the requirement is move just one in a very simple configuration, so CloudFormation script does not make sense here. Finally, once the deployment is completed, we need to move the data, and this is the option D regarding S3 Transfer Acceleration. 
 </details>
 
 
@@ -85,7 +85,7 @@ A customer who is running their SAP workloads on-premise wants to deploy the SAP
 <details markdown=1><summary markdown='span'>Answer</summary>
 Correct answer: A
 
-    > This is completely obsolete and this question does not apply https://docs.aws.amazon.com/quickstart/latest/sap-hana/welcome.html. 
+> This is completely obsolete and this question does not apply https://docs.aws.amazon.com/quickstart/latest/sap-hana/welcome.html. 
 </details>
 
 
@@ -101,7 +101,7 @@ A US-based OTT platform company is running their SAP workloads on-premise. To re
 <details markdown=1><summary markdown='span'>Answer</summary>
 Correct answer: AD
 
-    > saprouttab is necessary to adapt with the new CIDR address space of SAP systems on AWS, while the Backbone connectivity remains unaltered since the saprouter host has been kept in on-premise.
+> saprouttab is necessary to adapt with the new CIDR address space of SAP systems on AWS, while the Backbone connectivity remains unaltered since the saprouter host has been kept in on-premise.
 </details>
 
 
@@ -117,7 +117,7 @@ A US-based banking customer is running their SAP workloads on AWS. They have set
 <details markdown=1><summary markdown='span'>Answer</summary>
 Correct answer: A
 
-    > Considering the statement of "malicious activity" the only option that guarantees that one single person can not destroy all the information is to have all the relevant backups replicated in different S3 buckets of different accounts and never provide access to both to the same person. Different regions is accessory but justified in this case because is the DR design.
+> Considering the statement of "malicious activity" the only option that guarantees that one single person can not destroy all the information is to have all the relevant backups replicated in different S3 buckets of different accounts and never provide access to both to the same person. Different regions is accessory but justified in this case because is the DR design.
 </details>
 
 
@@ -133,7 +133,7 @@ A US-based Financial company is running their SAP S/4 HANA system in the us-east
 <details markdown=1><summary markdown='span'>Answer</summary>
 Correct answer: A
 
-    > For DR, always ASYNC, specially if the locations are separated by thousands of kms.
+> For DR, always ASYNC, specially if the locations are separated by thousands of kms.
 </details>
 
 
@@ -149,7 +149,7 @@ A company is planning to deploy their SAP BW/4HANA workloads on AWS. They are pl
 <details markdown=1><summary markdown='span'>Answer</summary>
 Correct answer: C
 
-    > A cluster placement is required to guarantee the lowest latency, so B and D discarded and additionally a cluster pg is always in the same AZ, so A discarded. https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/placement-groups.html
+> A cluster placement is required to guarantee the lowest latency, so B and D discarded and additionally a cluster pg is always in the same AZ, so A discarded. https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/placement-groups.html
 </details>
 
 
@@ -165,7 +165,6 @@ A company that is migrating their SAP workloads on AWS is looking for an option 
 <details markdown=1><summary markdown='span'>Answer</summary>
 Correct answer: A
 
-    > No comments.
 </details>
 
 
@@ -180,7 +179,7 @@ A customer is running their SAP workloads on their on-premise environment. The c
 <details markdown=1><summary markdown='span'>Answer</summary>
 Correct answer: B
 
-    > If the cost is not an issue A and B are valid options. C can not be used to connect networks, just a user. And D is the artifact to define the on-premise route.
+> If the cost is not an issue A and B are valid options. C can not be used to connect networks, just a user. And D is the artifact to define the on-premise route.
 </details>
 
 
@@ -195,7 +194,7 @@ A Singapore based Financial customer that has been running their SAP workloads o
 <details markdown=1><summary markdown='span'>Answer</summary>
 Correct answer: AD
 
-    > Shared Responsibility Model: AWS controls the infra, you control the data and config of AWS artifacts.
+> Shared Responsibility Model: AWS controls the infra, you control the data and config of AWS artifacts.
 </details>
 
 
@@ -212,7 +211,7 @@ A company is running its SAP S/4 HANA production system on the AWS cloud. Both t
 <details markdown=1><summary markdown='span'>Answer</summary>
 Correct answer: B
 
-    > Must be B because it was after an OS hardening activity and the symptom is that the DB is running but SAP is not reaching it. So HANA ports 30015-39915 involved and never the 3600-3699 that corresponds to message server.
+> Must be B because it was after an OS hardening activity and the symptom is that the DB is running but SAP is not reaching it. So HANA ports 30015-39915 involved and never the 3600-3699 that corresponds to message server.
 </details>
 
 
@@ -229,7 +228,7 @@ A US-based retail company is running its SAP workloads on AWS. They are using mu
 <details markdown=1><summary markdown='span'>Answer</summary>
 Correct answer: B
 
-    > Transit Gateway is the solution to interconnect multiple VPCs. RAM is used to share the access with other accounts. https://docs.aws.amazon.com/vpc/latest/tgw/transit-gateway-share.html
+> Transit Gateway is the solution to interconnect multiple VPCs. RAM is used to share the access with other accounts. https://docs.aws.amazon.com/vpc/latest/tgw/transit-gateway-share.html
 </details>
 
 
@@ -247,7 +246,7 @@ An EMEA region customer is planning to run their SAP workloads on AWS. The custo
 <details markdown=1><summary markdown='span'>Answer</summary>
 Correct answer: AC
 
-    > The equivalent to a DMZ is a public subnet and the Elastic IP is a public IP. A security group is an artifact at EC2 instance level to allow or deny inbound/outbound connections and the typical usage is to allow the SAP Support public SAProuter IP to reach the SAProuter port 3299.
+> The equivalent to a DMZ is a public subnet and the Elastic IP is a public IP. A security group is an artifact at EC2 instance level to allow or deny inbound/outbound connections and the typical usage is to allow the SAP Support public SAProuter IP to reach the SAProuter port 3299.
 </details>
 
 
@@ -264,7 +263,7 @@ A company is running a 15 TB production HANA database on AWS. The company has re
 <details markdown=1><summary markdown='span'>Answer</summary>
 Correct answer: B
 
-    > It's obviously a permissions error and the IAM role is necessary to perform the initial setup HANA Backint.
+> It's obviously a permissions error and the IAM role is necessary to perform the initial setup HANA Backint.
 </details>
 
 
@@ -283,7 +282,7 @@ A Germany based automobile company is running a 20 TB size SAP S/4 HANA 2020 sys
 <details markdown=1><summary markdown='span'>Answer</summary>
 Correct answer: BDE
 
-    > As per https://me.sap.com/notes/1656250 just AWS Data Provider agent configured, Enhanced monitoring and CloudWatch Detailed monitoring enabled. The rest are also strongly recommended to open a case if you want SAP Support engineer connects to your system to reproduce the issue, but not mandatory for opening the case at all.
+> As per https://me.sap.com/notes/1656250 just AWS Data Provider agent configured, Enhanced monitoring and CloudWatch Detailed monitoring enabled. The rest are also strongly recommended to open a case if you want SAP Support engineer connects to your system to reproduce the issue, but not mandatory for opening the case at all.
 </details>
 
 
@@ -300,7 +299,7 @@ A company has recently set up a new SAP S/4 HANA 2021 environment on AWS in the 
 <details markdown=1><summary markdown='span'>Answer</summary>
 Correct answer: B
 
-    > Does not exist any CloudWatch agent, it's a known issue and this is the reason why AWS Data Provider for SAP must be configured (on every SAP instance).
+> Does not exist any CloudWatch agent, it's a known issue and this is the reason why AWS Data Provider for SAP must be configured (on every SAP instance).
 </details>
 
 
@@ -318,7 +317,7 @@ A US-based customer is planning to deploy 10 TB of SAP HANA database with high a
 <details markdown=1><summary markdown='span'>Answer</summary>
 Correct answer: AC
 
-    > https://docs.aws.amazon.com/sap/latest/sap-hana/sap-oip-overlay-ip-routing-using-aws-transit-gateway.html and https://docs.aws.amazon.com/sap/latest/sap-hana/sap-oip-overlay-ip-routing-with-network-load-balancer.html
+> See https://docs.aws.amazon.com/sap/latest/sap-hana/sap-oip-overlay-ip-routing-using-aws-transit-gateway.html and https://docs.aws.amazon.com/sap/latest/sap-hana/sap-oip-overlay-ip-routing-with-network-load-balancer.html
 </details>
 
 
@@ -334,8 +333,6 @@ A SAP Solution architect in a Pharma company is designing a high availability so
 
 <details markdown=1><summary markdown='span'>Answer</summary>
 Correct answer: B
-
-    > .
 </details>
 
 
