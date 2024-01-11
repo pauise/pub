@@ -376,6 +376,7 @@ A customer is running their SAP workloads on AWS. Their SAP landscape includes S
 
 <details markdown=1><summary markdown='span'>Answer</summary>
 Correct answer: A*
+ 
 * CloudEndure DR are not supported anymore since 1st Dec 2023 except China. Use Elastic DR instead: https://docs.aws.amazon.com/prescriptive-guidance/latest/patterns/use-cloudendure-for-disaster-recovery-of-an-on-premises-database.html
 
 > Option A because they do not want multiple solutions, so CloudEndure DR should be the valid. By other hand, CloudEndure (now Elastic DR) can be used for database DR while DataSync is intended for files. See https://aws.amazon.com/disaster-recovery/when-to-choose-aws-drs/?cloud-endure-blogs.sort-by=item.additionalFields.createdDate&cloud-endure-blogs.sort-order=desc
@@ -413,62 +414,94 @@ Correct answer: A
 </details>
 
 
-## Question 
+## Question 26
+
+A customer is planning for a greenfield implementation of the SAP S/4 HANA system on the AWS cloud. They have performed the sizing of the HANA database using the SAP Quick Sizer report and have the required value for SAPS (SAP Application Performance Standard). The next step is to select an EC2 instance for the HANA database. Which of the following sources can the customer refer to choose an appropriate EC2 instance for the HANA database on the AWS cloud? **(select TWO)**
+ - A. The customer can refer to the SAP Community Network (SCN) blog for selecting the EC2 instance
+ - B. The customer can refer to the AWS blog for selecting the EC2 instance
+ - C. The customer can refer to the ‘SAP Certified and Supported SAP HANA Hardware Directory‘ page for selecting the EC2 instance
+ - D. The customer can refer to ‘SAP Note 1656099 - SAP Applications on AWS: Supported DB/OS and Amazon EC2 products‘ for selecting the EC2 instance
+ - E. The customer can refer to the SAP Product Availability Matrix (PAM) for selecting the EC2 instance
+
+
+<details markdown=1><summary markdown='span'>Answer</summary>
+Correct answer: CD
+
+    > SCN neither AWS blog are trustable sources compared with PAM, OSS or the SAP Certified HANA page. But PAM does not contain this information but only software release info.
+</details>
+
+
+## Question 27
+
+A customer is deploying SAP S/4 HANA landscape on AWS Cloud. The landscape consists of development (DEV), quality (QAS) and production (PRD) systems. The SAP applications are running on the Windows Server 2016 operating system. The DEV and QAS systems are located in a single AWS Account and the PRD system is in a different AWS Account. The customer is looking for a storage solution for the \usr\sap\trans directory which is scalable and highly available. Which of the following AWS storage services meet the customer requirement?
+ - A. Amazon Elastic File System (Amazon EFS)
+ - B. Amazon Elastic Block Store (Amazon EBS)
+ - C. Amazon S3
+ - D. Amazon FSx
+
+<details markdown=1><summary markdown='span'>Answer</summary>
+Correct answer: D
+
+    > Windows keyword => FSx
+</details>
+
+
+## Question 28
+
+A US-based financial company is planning to deploy its SAP S/4 HANA workloads on the AWS cloud. The HANA database will be launched in an EC2 instance with SUSE Linux as an operating system. For /hana/data and /hana/log directory they will be using EBS volumes. The company‘s SAP solution architect wants to understand the encryption for EBS volumes. Which of the following statements are TRUE for encrypted EBS volume in the AWS cloud? **(Select THREE)**
+ - A. Data at rest inside the volume is encrypted
+ - B. All data moving between the volume and S3 storage is encrypted
+ - C. All data moving between the volume and the instance is encrypted
+ - D. All snapshots created from the encrypted volume are encrypted
+ - E. All data moving between the volume and EFS storage is encrypted
+
+<details markdown=1><summary markdown='span'>Answer</summary>
+Correct answer: ACD
+
+    > Obviously data inside the volume is encrypted, also data in transit with instance where the volume is attached and all its snapshots. See https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EBSEncryption.html
+</details>
+
+
+## Question 29
+
+A European automobile company has deployed their 5 TB of production HANA database on a single u-6tb1.metal server. On the upcoming Sunday, they plan to perform patching of their HANA database. The SAP Basis team has approval for the downtime of 6 hrs. The SAP Basis team is looking for a disk-based backup solution so that in case there are issues with patching, they can restore the database quickly. Which of the following storage solutions can help the Basis team meet their requirements with minimum cost?
+ - A. Elastic Block Store (EBS) General Purpose SSD (gp2)
+ - B. AWS Simple storage service (S3)
+ - C. Elastic File System (EFS)
+ - D. Elastic Block Store (EBS) Throughput Optimized HDD (st1)
+
+<details markdown=1><summary markdown='span'>Answer</summary>
+Correct answer: D
+
+    > S3 is the cheapest but can not be used for a "disk-based backup". EFS could be used for this but it's not the best option to "restore the database quickly". EBS General Purpose is the most expensive while EBS Throughput is cheap and ideal for backup/restore.
+</details>
+
+
+## Question 30
+
+A global retail company is looking to migrate their SAP S/4 HANA landscape to AWS. The landscape includes Sandbox (SBX), Development (DEV), Quality Assurance (QAS) and Production (PRD) systems. The SBX, DEV and QAS systems need to be available for 8 hrs per day, only on weekdays. The PRD system is expected to run 24*7. It is also expected that the size of the PRD system may increase after 8 months of usage as the company‘s business grows. Which of the following would be the most cost-efficient purchase option for the EC2 instances running the SAP systems?
+ - A. Use On-demand billing for SBX, DEV, QAS systems and dedicated hosts for the PRD system.
+ - B. Use On-demand billing for SBX, DEV, QAS and Standard Reserved Instance for the PRD system.
+ - C. Use On-demand billing for SBX, DEV, QAS and Convertible Reserved Instance for the PRD system.
+ - D. Use On-demand billing for SBX, DEV, QAS and Compute Savings Plans for the PRD system.
+ - E. Use Spot instances for SBX, DEV, QAS and Standard Reserved Instance for the PRD system.
 
 
 
 <details markdown=1><summary markdown='span'>Answer</summary>
-Correct answer: A
+Correct answer: C
 
-    > 
+    > Standard Reserve can not be scaled up 8-months after. Convertible is the most cost-efficient.
 </details>
 
 
-## Question 
+## Question 31
 
-
-
-<details markdown=1><summary markdown='span'>Answer</summary>
-Correct answer: A
-
-    > 
-</details>
-
-
-## Question 
-
-
-
-<details markdown=1><summary markdown='span'>Answer</summary>
-Correct answer: A
-
-    > 
-</details>
-
-
-## Question 
-
-
-
-<details markdown=1><summary markdown='span'>Answer</summary>
-Correct answer: A
-
-    > 
-</details>
-
-
-## Question 
-
-
-
-<details markdown=1><summary markdown='span'>Answer</summary>
-Correct answer: A
-
-    > 
-</details>
-
-
-## Question 
+You are an SAP architect with a US-based Pharma company that is running their SAP workloads on AWS in the us-east-1 (N. Virginia) region. The company is planning to set up a disaster recovery (DR) solution in the us-west-2 (Oregon) region. The company‘s management has agreed that they can tolerate the RPO and RTO in hours but are looking for a low operational cost DR solution. Which of the following Disaster Recovery architecture do you propose for minimum operational cost?
+ - A. Set up a Passive DR by backing up the data to S3. Use S3 cross-region replication (CRR) to replicate the backups to the us-west-2 (Oregon) region. Create and replicate the AMIs of application servers and databases to the us-west-2 (Oregon) region. Build the DR environment using AMIs and backups in case of a switchover.
+ - B. Set up a Passive DR by backing up the data to S3. Use S3 cross-region replication (CRR) to replicate the backups to the us-west-2 (Oregon) region. Create and replicate the AMIs of application servers and databases to the us-west-2 (Oregon) region. Build the SAP systems on DR using AMIs and backups. Switchover to the DR region in case of a disaster.
+ - C. Set up a Pilot light DR by ensuring that all the systems running on us-east-1 (N. Virginia) are also built in the us-west-2 (Oregon) region. Shut down the application servers and keep the database in standby mode in the DR region. Replicate the data using a native database high availability/ disaster recovery solution. Start the database and application servers in case of a switchover.
+ - D. Set up a Pilot light DR by ensuring that all the systems running on us-east-1 (N. Virginia) are also built in the us-west-2 (Oregon) region. Ensure that the application servers and database are running in the DR region. Replicate the data using a native database high availability/ disaster recovery solution. Switchover to the DR region in case of a disaster.
 
 
 
