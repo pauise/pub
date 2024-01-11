@@ -336,58 +336,80 @@ Correct answer: B
 </details>
 
 
-## Question 
+## Question 21
 
-
+A European OTT platform company is planning to deploy 24TB of SAP HANA database as a highly available system on AWS cloud. The primary and secondary SAP HANA databases are running in separate private subnets in different Availability Zones within an AWS Region. The company is looking for a database native solution for high availability. Which of the following options will provide the lowest possible recovery time objective (RTO)?
+ - A. Use SAP HANA system replication in synchronous mode with the preload option for data replication between primary and secondary. Use a smaller EC2 instance for the secondary database than the primary
+ - B. Use SAP HANA system replication in a synchronous mode without the preload option for data replication between primary and secondary. Use a smaller EC2 instance for the secondary database than the primary
+ - C. Use SAP HANA system replication in synchronous mode with the preload option for data replication between primary and secondary. Use the same sized EC2 instance for the secondary database as the primary
+ - D. Use SAP HANA system replication in a synchronous mode without the preload option for data replication between primary and secondary. Use a same-sized EC2 instance for the secondary database as primary
 
 <details markdown=1><summary markdown='span'>Answer</summary>
-Correct answer: A
+Correct answer: C
 
-    > 
+    > Since cost-effective is not required, C is the option with lowest RTO.
 </details>
 
 
-## Question 
+## Question 22
 
-
+A Singapore – based public sector company has deployed their SAP workloads on AWS in ap-southeast-1 region, which is the only available AWS region in the country. As per the company‘s policy, the data must reside within the country. They are looking for a solution that will ensure High Availability(HA) and Disaster Recovery (DR). Which of the following options meets the company‘s requirements?
+ - A. Set up High Availability for SAP workloads in AZ-1 & AZ-2 of the ap-southeast-1 region. Set up DR for SAP workloads in AZ1 of the ap-south-1 region
+ - B. Set up High Availability for SAP workloads in AZ-1 & AZ-2 of the ap-southeast-1 region. Set up DR for SAP workloads in AZ-3 of the ap-southeast-1 region
+ - C. Set up High Availability for SAP workloads in AZ-1 of the ap-southeast-1 region. Set up DR for SAP workloads in AZ-2 of the ap-southeast-1 region
+ - D. Set up High Availability for SAP workloads in AZ-1 & AZ-2 of the ap-southeast-1 region. Set up DR for SAP workloads in AZ-1 & AZ-2 of the ap-south-1 region
 
 <details markdown=1><summary markdown='span'>Answer</summary>
-Correct answer: A
+Correct answer: B
 
-    > 
+    > ap-south-1 does not exist.
 </details>
 
 
-## Question 
+## Question 23
 
-
+A customer is running their SAP workloads on AWS. Their SAP landscape includes SAP S/4 HANA, SAP Adobe Document Services (ADS), and SAP Solution Manager system. The ADS and SAP solution manager are running on the Oracle database. They are looking for a solution that can fulfill their disaster recovery (DR) needs without the administrative overhead of using multiple solutions for data replication. Which of the following solutions meets the customer‘s requirements?
+ - A. Use CloudEndure disaster recovery for data replication
+ - B. Use HANA System Replication (HSR) for data replication
+ - C. Use Oracle DataGuard for data replication
+ - D. Use AWS DataSync for data replication
 
 <details markdown=1><summary markdown='span'>Answer</summary>
-Correct answer: A
+Correct answer: A*
+* CloudEndure DR are not supported anymore since 1st Dec 2023 except China. Use Elastic DR instead: https://docs.aws.amazon.com/prescriptive-guidance/latest/patterns/use-cloudendure-for-disaster-recovery-of-an-on-premises-database.html
 
-    > 
+    > Option A because they do not want multiple solutions, so CloudEndure DR should be the valid. By other hand, CloudEndure (now Elastic DR) can be used for database DR while DataSync is intended for files. See https://aws.amazon.com/disaster-recovery/when-to-choose-aws-drs/?cloud-endure-blogs.sort-by=item.additionalFields.createdDate&cloud-endure-blogs.sort-order=desc
 </details>
 
 
-## Question 
+## Question 24
 
+A customer is running their SAP workloads on-premise. The landscape consists of multiple SAP systems running on SAP Adaptive Server Enterprise (ASE) database on Linux operating systems. The customer is looking for a method to directly backup the database on the AWS cloud in an S3 bucket using the NFS protocol. Which of the following is a valid solution that meets the customer‘s requirement?
+ - A. Create an Amazon S3 File Gateway using AWS Storage Gateway. Create an NFS file share and connect it to Amazon S3. Create a mount point on a database host and mount the NFS file share
+ - B. Create an Amazon S3 Volume Gateway using AWS Storage Gateway. Create an NFS file share and connect it to Amazon S3. Create a mount point on a database host and mount the NFS file share
+ - C. Create an Amazon S3 Tape Gateway using AWS Storage Gateway. Create an NFS file share and connect it to Amazon S3. Create a mount point on a database host and mount the NFS file share
+ - D. Create an Amazon Transit Gateway. Create an NFS file share and connect it to Amazon S3. Create a mount point on a database host and mount the NFS file share
 
 
 <details markdown=1><summary markdown='span'>Answer</summary>
 Correct answer: A
 
-    > 
+    > Storage Gateway is the S3 in the edge. Tape for tape, volume for iSCSI volumes, and file for NFS. So, B and C discarded, A valid. About D could be valid for one small backup but not for all backups of all SAP systems due to it would collapse the connection to AWS. See https://docs.aws.amazon.com/en_en/filegateway/latest/files3/what-is-file-s3.html and https://docs.aws.amazon.com/storagegateway/.
 </details>
 
 
-## Question 
+## Question 25
 
-
+A US-based Pharma company is planning to deploy the SAP HANA database on the AWS cloud. The database size is around 10 TB. They will be deploying the database in a private subnet of a VPC. They are looking for an operating system to host the HANA database, which provides inherent high availability capabilities. Which of the following operating systems, available in AWS Marketplace meets the company‘s requirements?
+ - A. SUSE Linux Enterprise Server (SLES) 15.1 for SAP
+ - B. SUSE Linux Enterprise Server (SLES) 15.1
+ - C. Red Hat Enterprise Linux (RHEL) 8.1
+ - D. Microsoft Windows Server 2016
 
 <details markdown=1><summary markdown='span'>Answer</summary>
 Correct answer: A
 
-    > 
+    > Currently both (SLES for SAP and RHEL **for SAP** / Red Hat Enterprise Linux **for SAP Solutions**) are certified for HANA HA on AWS. See https://docs.aws.amazon.com/sap/latest/sap-hana/sap-hana-on-aws-automated-deployment-of-sap-hana-on-aws-with-high-availability.html and https://me.sap.com/notes/2765525.
 </details>
 
 
