@@ -347,7 +347,7 @@ A European OTT platform company is planning to deploy 24TB of SAP HANA database 
 <details markdown=1><summary markdown='span'>Answer</summary>
 Correct answer: C
 
-    > Since cost-effective is not required, C is the option with lowest RTO.
+> Since cost-effective is not required, C is the option with lowest RTO.
 </details>
 
 
@@ -362,7 +362,7 @@ A Singapore – based public sector company has deployed their SAP workloads on 
 <details markdown=1><summary markdown='span'>Answer</summary>
 Correct answer: B
 
-    > ap-south-1 does not exist.
+> ap-south-1 does not exist.
 </details>
 
 
@@ -378,7 +378,7 @@ A customer is running their SAP workloads on AWS. Their SAP landscape includes S
 Correct answer: A*
 * CloudEndure DR are not supported anymore since 1st Dec 2023 except China. Use Elastic DR instead: https://docs.aws.amazon.com/prescriptive-guidance/latest/patterns/use-cloudendure-for-disaster-recovery-of-an-on-premises-database.html
 
-    > Option A because they do not want multiple solutions, so CloudEndure DR should be the valid. By other hand, CloudEndure (now Elastic DR) can be used for database DR while DataSync is intended for files. See https://aws.amazon.com/disaster-recovery/when-to-choose-aws-drs/?cloud-endure-blogs.sort-by=item.additionalFields.createdDate&cloud-endure-blogs.sort-order=desc
+> Option A because they do not want multiple solutions, so CloudEndure DR should be the valid. By other hand, CloudEndure (now Elastic DR) can be used for database DR while DataSync is intended for files. See https://aws.amazon.com/disaster-recovery/when-to-choose-aws-drs/?cloud-endure-blogs.sort-by=item.additionalFields.createdDate&cloud-endure-blogs.sort-order=desc
 </details>
 
 
@@ -394,7 +394,7 @@ A customer is running their SAP workloads on-premise. The landscape consists of 
 <details markdown=1><summary markdown='span'>Answer</summary>
 Correct answer: A
 
-    > Storage Gateway is the S3 in the edge. Tape for tape, volume for iSCSI volumes, and file for NFS. So, B and C discarded, A valid. About D could be valid for one small backup but not for all backups of all SAP systems due to it would collapse the connection to AWS. See https://docs.aws.amazon.com/en_en/filegateway/latest/files3/what-is-file-s3.html and https://docs.aws.amazon.com/storagegateway/.
+> Storage Gateway is the S3 in the edge. Tape for tape, volume for iSCSI volumes, and file for NFS. So, B and C discarded, A valid. About D could be valid for one small backup but not for all backups of all SAP systems due to it would collapse the connection to AWS. See https://docs.aws.amazon.com/en_en/filegateway/latest/files3/what-is-file-s3.html and https://docs.aws.amazon.com/storagegateway/.
 </details>
 
 
@@ -409,7 +409,7 @@ A US-based Pharma company is planning to deploy the SAP HANA database on the AWS
 <details markdown=1><summary markdown='span'>Answer</summary>
 Correct answer: A
 
-    > Currently both (SLES for SAP and RHEL **for SAP** / Red Hat Enterprise Linux **for SAP Solutions**) are certified for HANA HA on AWS. See https://docs.aws.amazon.com/sap/latest/sap-hana/sap-hana-on-aws-automated-deployment-of-sap-hana-on-aws-with-high-availability.html and https://me.sap.com/notes/2765525.
+> Currently both (SLES for SAP and RHEL **for SAP** / Red Hat Enterprise Linux **for SAP Solutions**) are certified for HANA HA on AWS. See https://docs.aws.amazon.com/sap/latest/sap-hana/sap-hana-on-aws-automated-deployment-of-sap-hana-on-aws-with-high-availability.html and https://me.sap.com/notes/2765525.
 </details>
 
 
