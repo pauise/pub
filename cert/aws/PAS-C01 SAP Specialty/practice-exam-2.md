@@ -577,7 +577,11 @@ Correct answer: B
 
 > AWS RAM usage is not part of the best practice because it breaks the security isolation between the VPCs, so option A can be discarded.
 
-> Finally, option B is most consistent from a security point of view and Well-Architected, but it's true that the transport directory will have to be replicated in some way but in an scenario like this could be possible to have one for non-prod and one for prod and transfer the TRs via RFC from STMS via VPC peering or with Transit Gateway.
+> Finally, option B is most consistent from a security point of view and Well-Architected, but it's true that the transport directory will have to be replicated/interconnected in some way but in an scenario like this two options:
+
+> - Replication: Have one for non-prod and one for prod and transfer the TRs via RFC from STMS via VPC peering or with Transit Gateway.
+
+> - Shared FS: Use an EFS for /usr/sap/trans and mount it from the other VPC. See https://docs.aws.amazon.com/en_en/efs/latest/ug/efs-different-vpc.html.
 </details>
 
 
