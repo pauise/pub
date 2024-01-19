@@ -512,47 +512,72 @@ Correct answer: A
 </details>
 
 
-## Question 
+## Question 32
 
-
+A company is running their SAP S/4 HANA landscape on AWS. The company is building its disaster recovery (DR) solution in another region and is looking for a way to replicate the saptrans and sapglobal files to the DR region. Currently, these files are hosted on the Amazon Elastic File System(EFS) on the primary side. Which of the following Amazon services can help companies meet this requirement? (**Select TWO**)
+ - A. AWS Backup
+ - B. AWS Backint Agent
+ - C. AWS DataSync
+ - D. AWS Cross Region Replication
+ - E. AWS Elastic File System (EFS) snapshots.
 
 <details markdown=1><summary markdown='span'>Answer</summary>
-Correct answer: A
+Correct answer: AC
 
-    > 
+> Since the company is lookiing for **replicate** the file systems based on EFS, the options are DataSync and Backup according to https://docs.aws.amazon.com/sap/latest/general/arch-guide-architecture-guidelines-and-decisions.html: *AWS DataSync supports Amazon EFS to Amazon EFS transfer between Regions and different AWS Accounts, allowing the replication of key SAP file based data across Regions. AWS Backup can also be used to replicate backups of Amazon EFS file systems across Regions.*. Option B is directly discarded since the Backint Agent is only for SAP HANA Backup on AWS. Option D is discarded since the volume is an EFS, not an S3. Option E could also be an option for a DR but it's not prescribed for this scenario.
 </details>
 
 
-## Question 
+## Question 33
 
-
+A customer is planning to migrate their 10 TB of production HANA enterprise edition database from on-premise to AWS cloud. They are looking for an option to license the HANA database on AWS. Which of the following statements is TRUE?
+ - A. The customer can use an existing license by using AWS ‘Bring your own license (BYOL)‘ model.
+ - B. The customer can purchase the license for the HANA database from AWS Marketplace.
+ - C. The customer does not need a license for the HANA database since it is included in the on-demand EC2 instances pricing for SAP.
+ - D. The customer can use the Trial and developer license from CAL (Cloud Appliance Library).
 
 <details markdown=1><summary markdown='span'>Answer</summary>
 Correct answer: A
 
-    > 
+> Option A is TRUE because the customer has its own HANA license on-premise and the most cost-effective is move that license to the new host in AWS. This model is BYOL. Option B is FALSE because the HANA database can not be purchased in AWS Marketplace, only the OS (SLES|RHEL[4SAP]). Option C is FALSE because the HANA license is not included at all with any on-demand neither reserved neither any payment model of EC2 (only the OS license is always included for on-demmand EC-2). Finally option D is FALSE because its DB size is 10TB which is greater than the 32 GB limit of HANA express (developer) edition and customer wants it for production while CAL is not for PROD and the Trial license is just for a short period (30-days usually). See https://aws.amazon.com/sap/solutions/saphana/.
+
 </details>
 
 
-## Question 
+## Question 34
 
-
+A company wants to migrate an on-premises SAP BusinessObjects Business Intelligence Platform workload to AWS. The company needs to use the most cost-effective database solution that will support the workload on AWS. Which database solution will meet these requirements?
+ - A. SAP HANA
+ - B. Amazon RDS for MySQL
+ - C. Amazon Redshift
+ - D. IBM Db2
 
 <details markdown=1><summary markdown='span'>Answer</summary>
-Correct answer: A
+Correct answer: B
 
-    > 
+> According to PAM and OSS 1656099, SAP BusinessObjects Business Intelligence, versions 4.2 or higher, 4.3 or higher are supported on Amazon Relational Database Service (RDS) for MySQL and for SQL Server. By other hand, Data Services is only supported in RDS for MSSQL. See SAP note https://me.sap.com/notes/1656099. See deployment guide https://docs.aws.amazon.com/sap/latest/sap-businessobjects/bobi-windows-deployment.html. MySQL is opensource, then the most cost-effective option is B. Options A and D requires license from SAP and IBM respectively and option C does not apply because Redshift is for OLAP while the underlying DB for BO is always OLTP even the usage is to process/present data from OLTP/OLAP sources.
 </details>
 
 
-## Question 
+## Question 35
 
+A company is planning to migrate its existing SAP workloads to AWS. An SAP solutions architect needs to design a highly available solution for SAP ERP Central Component (SAP ECC) on an SAP HANA production system on AWS. The company already has existing non-SAP workloads that run on AWS with AWS Organizations. The company uses AWS Resource Access Manager (AWS RAM) to share VPCs across multiple existing accounts. The company has decided to use SUSE Linux Enterprise Server to host the SAP workloads. How should the SAP solutions architect deploy the SAP workloads to meet these requirements?
+- A. Create separate production and non-production AWS accounts for SAP workloads. Use AWS RAM to share VPCs and subnets with the newly created accounts.
+- B. Create separate production and non-production AWS accounts for SAP workloads. Set up dedicated VPCs and subnets for the newly created accounts.
+- C. Deploy SAP solutions with SUSE Linux Enterprise High Availability Extension configured in a single existing AWS account for production and non-production workloads.
+- D. Create a single separate AWS account for SAP workloads. Use AWS RAM to share VPCs and subnets with the newly created account.
 
 
 <details markdown=1><summary markdown='span'>Answer</summary>
-Correct answer: A
+Correct answer: B
 
-    > 
+> Option D can be discarded because the HA is only required for PROD. Option D can be discarded because use separate accounts for prod and non-prod is a best practice.
+
+> *Using multiple AWS accounts to help isolate and manage your business applications and data can help you optimize across most of the AWS Well-Architected Framework pillars, including operational excellence, security, reliability, and cost optimization.* https://docs.aws.amazon.com/whitepapers/latest/organizing-your-aws-environment/organizing-your-aws-environment.html
+
+> AWS RAM usage is not part of the best practice because it breaks the security isolation between the VPCs, so option A can be discarded.
+
+> Finally, option B is most consistent from a security point of view and Well-Architected, but it's true that the transport directory will have to be replicated in some way but in an scenario like this could be possible to have one for non-prod and one for prod and transfer the TRs via RFC from STMS via VPC peering or with Transit Gateway.
 </details>
 
 
