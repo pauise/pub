@@ -50,9 +50,9 @@ A customer is running their SAP workloads in a Hybrid cloud model. The non-produ
 
 
 <details markdown=1><summary markdown='span'>Answer</summary>
-Correct answer: BE
+Correct answer: BD
 
-> SAP workloads always in private subnet, so A discarded. The HANA version of the restore target must be always greater or equal to the backup source one, so B valid and C discarded. And to perform any system copy with HANA you always need SYSTEMDB and tenant db, so E valid and D discarded.
+> SAP workloads always in private subnet, so A discarded. The HANA version of the restore target must be always greater or equal to the backup source one, so B valid and C discarded. And to perform any system copy with HANA you ONLY need the tenant db, so D valid and E discarded.
 </details>
 
 
@@ -932,170 +932,152 @@ Correct answer: D
 </details>
 
 
-## Question 
+## Question 57
+
+A London based Banking customer wants to deploy SAP S/4 HANA 2021 on the AWS environment. The customer wants to deploy the development and quality system as a single-system deployment, however, wants high availability for the production system. The production SAP application, as well as the database, must have an availability of 99.9% or more. Which solution design will meet these requirements for the production system?
+
+ - A. Install SAP ASCS instance and ERS instance on one Amazon EC2 instance. Use an SAP-certified cluster monitoring solution in different Availability zones. Create Amazon Elastic Block Store (Amazon EBS) snapshots each hour. Configure an active-standby database setup. Deploy at least two SAP application servers in a single Availability Zone Install SAP ASCS
+ - B. instance and ERS instance on separate Amazon EC2 instances. Use an SAP-certified cluster monitoring solution in different Availability zones. Configure an active-standby database setup with cluster monitoring. Deploy at least two application servers that extend across multiple availability zones within the region
+ - C. Install SAP ASCS instances, primary application server (PAS), and a database instance on separate Amazon EC2 instances. Schedule Amazon Elastic Block Store (EBS) snapshots every 10 minutes. Schedule database log backups every 10 minutes
+ - D. Install SAP ASCS instances, ERS instances, and a database instance on one Amazon EC2 instance. Install SAP application servers in the same subnet as the database instance. User AWS Elastic Disaster Recovery( CloudEndure Disaster Recovery) to continuously replicate the SAP S/4 HANA system to the standby AWS Region
+ - E. Install SAP ASCS instance and ERS instance on separate Amazon EC2 instances. Use an SAP-certified cluster monitoring solution in different Availability zones. Configure an active-standby database setup with cluster monitoring. Deploy at least one application server in one Availability Zone
+
+<details markdown=1><summary markdown='span'>Answer</summary>
+Correct answer: B
+
+> 
+</details>
 
 
+## Question 58
+
+A company that is planning to migrate to AWS are currently running their SAP workloads on-premise on ECC 6 on Oracle database. The entire SAP solution is running on SUSE Enterprise Linux Server (SLES). The company has no plans to migrate to S/4 HANA systems in near future. What are the changes in architecture a solution architect needs to support the existing SAP + Oracle workload on AWS? (**Select Two**)
+
+ - A. Migrate the database to HANA as Oracle is not supported on AWS
+ - B. Migrate the database to Amazon Aurora as Oracle is not supported on AWS
+ - C. Migrate the database operating system to Redhat Enterprise Linux (RHEL)
+ - D. Migrate the database operating system to Oracle Linux (OL)
+ - E. No change is required in the operating system type
+ - F. No change is required in the database type
+
+<details markdown=1><summary markdown='span'>Answer</summary>
+Correct answer: DF
+
+> 
+</details>
+
+
+## Question 59
+
+A US-based oil and gas company is planning to migrate their existing SAP landscape from On-premise to AWS cloud. Their SAP landscape consists of both Linux and Windows-based SAP systems. The company is planning to use a high availability setup for the SAP application servers where multiple application servers will be deployed across two availability zones for a single highly available SAP system. What type of storage solution should the company choose for the transport directory in SAP? (**Select Two**)
+
+ - A. Choose Elastic Block Store(EBS) volumes for both Linux and Windows-based SAP systems as they can span across multiple availability zones
+ - B. Choose Amazon FSx for Window-based SAP systems as they can span across availability zones
+ - C. Choose Elastic File System (EFS) for Linux-based SAP systems as they can span across multiple availability zones
+ - D. Choose an S3 bucket for both Linux and Windows-based SAP systems as they can span across multiple availability zones
+
+<details markdown=1><summary markdown='span'>Answer</summary>
+Correct answer: C
+
+> 
+</details>
+
+
+## Question 60
+
+You are an SAP Technical architect with a US-based firm from N. Virginia, which is planning to start its SAP operations in Europe. Your company wants to use AWS for this new SAP Workload. The users and customers for this workload will be primarily from Germany. As per the law, you must comply with the GDPR requirements. Your company also have rigid multi-country disaster recovery requirement. Which of the following Disaster Recovery architecture do you propose for maximum resiliency?
+
+ - A. Select the AWS Region in us-east-1 (N. Virginia) for the new SAP Workload. Use multiple availability zones to place the SAP Workload
+ - B. Select the AWS Region in eu-central-1 (Frankfurt) for their new SAP Workload. Use us-east-1 (N. Virginia) as Disaster Recovery Region
+ - C. Select the AWS Region in eu-central-1 (Frankfurt) for their new SAP Workload. Use eu-west-3 (Paris) as a Disaster Recovery Region
+ - D. Select the AWS Region in us-east-1 (N. Virginia) for their new SAP Workload. Use eu-central-1 (Frankfurt) as Disaster Recovery Region
+
+<details markdown=1><summary markdown='span'>Answer</summary>
+Correct answer: C
+
+> GDPR means that EU data can not leave EU
+</details>
+
+
+## Question 61
+
+A US-based company from the media and entertainment sector has acquired a business in Europe. They plan to set up a new SAP S/4 HANA 2020 landscape in the AWS eu-central-1 (Frankfurt) region. They are looking for a high availability setup for the production environment and have very tight deadlines to build the environment. Which of the following solution will help the company to achieve this requirement ?
+
+ - A. Create an AWS CloudFormation template to automate the deployment of the SAP S/4 HANA systems and related compute and storage resources for all the environments
+ - B. Create and Launch EC2 instance by using launch templates. Use Software Provisioning Manager (SWPM) to install S/4 HANA 2020 non-production environment. Manually deploy a high availability cluster for the production S/4 HANA 2020 instance
+ - C. Create and Launch EC2 instance by using launch templates. Use Software Provisioning Manager (SWPM) to install S/4 HANA 2020 non-production environment. Use AWS launch wizard for SAP to deploy a high availability cluster for the production SAP S/4HANA 2020 instance
+ - D. Use AWS launch wizard for SAP to deploy S/4 HANA 2020 in single-instance deployment mode for non-production systems and in high availability deployment mode for production systems
+ - E. Use SAP Cloud Appliance Library (CAL) to deploy S/4 HANA 2020 for both production and non-production environments. Manually deploy a high availability cluster for the production S/4 HANA 2020 instance
+
+<details markdown=1><summary markdown='span'>Answer</summary>
+Correct answer: D
+
+> 
+</details>
+
+
+## Question 62
+
+You are an SAP solution architect in a manufacturing company. They are running their workloads on SAP ECC 6 EHP 4 system on DB2 on SUSE Linux. The company‘s hardware support with the current vendor will be ending within 2 years. They want to utilize this opportunity to migrate to AWS. They are also planning to upgrade their system to S/4 HANA 2020 FPS 2. As an SAP solution architect, which of the following migration paths should you recommend for migration with minimum downtime?
+
+ - A. Upgrade SAP ECC 6 EHP 4 system to EHP 8. Perform an export with SUM DMO with system move. Build the target system on AWS. Run the import process of SUM DMO with system move
+ - B. Upgrade SAP ECC 6 EHP 4 system to EHP 8. Perform a heterogeneous export with SWPM. Build the target system on AWS. Run the import process of SWPM on the target system
+ - C. Upgrade SAP ECC 6 EHP 4 system to EHP 8. Upgrade the system from EHP 8 to S/4 HANA 2021 with SUM DMO
+ - D. Upgrade SAP ECC 6 EHP 4 system to EHP 8. Perform a backup of the source database. Build the target system on AWS. Restore the database on the target system
 
 <details markdown=1><summary markdown='span'>Answer</summary>
 Correct answer: A
 
-    > 
+> Keyword DMO with system move is usually the correct one. Options B, C and D discarded because at the end you only have an EHP8 on AWS or a different S/4HANA release. 
 </details>
 
 
-## Question 
+## Question 63
 
+A customer is running SAP S/4 HANA 2021 on-premise. The customer‘s data center is connected to the AWS network with a Direct Connect connection. Which of the following approaches will help the customer to move their S/4 HANA system to AWS with the least amount of downtime?
 
+ - A. SAP HANA backup and restore method
+ - B. SAP HANA homogeneous system copy using SWPM
+ - C. SAP HANA System Replication (HSR)
+ - D. SAP HANA heterogeneous system copy using SWPM
 
 <details markdown=1><summary markdown='span'>Answer</summary>
-Correct answer: A
+Correct answer: C
 
-    > 
+> 
 </details>
 
 
-## Question 
+## Question 64
 
+A customer is planning to migrate their SAP Netweaver BW 7.4 system running on Oracle database on SUSE Linux, on-premise to AWS. Which of the following methods will take the shortest amount of time?
 
+ - A. A migration of virtual machine using AWS Server Migration Service (SMS)
+ - B. A heterogeneous SAP copy using Software Provisioning Manager (SWPM)
+ - C. A SAP SUM database Migration option (DMO) with system move
+ - D. A migration of BW application using AWS Application Migration Service (MGN)
+ - E. A homogeneous SAP copy using Software Provisioning Manager (SWPM)
 
 <details markdown=1><summary markdown='span'>Answer</summary>
-Correct answer: A
+Correct answer: E
 
-    > 
+> Option A must be discarded because the current OS is different than Oracle Linux. Option B seems valid but it's not typically the "shortest". Option C can not be used if target is Oracle. Option D can not be used for an SAP BW. Option E is valid since the OS endianness from source to target is the same and if DB release be kept, then it's feasible and it typically offers shorter times than export/import.
 </details>
 
 
-## Question 
+## Question 65
 
+A global utility company is running an SAP S/4HANA system with 15TB of data on-premises. They want to migrate their SAP landscape to AWS to reduce operational costs. The on-premises data center is connected to an AWS Region through a Direct Connect connection and full bandwidth is available for the SAP migration project. Which of the following solutions will meet these requirements with minimal downtime?
 
+ - A. Use SAP Software Update Manager (SUM) Database Migration Option (DMO) with System Move for migration
+ - B. Use SAP classical R3load export/import
+ - C. Use SAP HANA system replication
+ - D. Use SAP HANA backup and restore method
 
 <details markdown=1><summary markdown='span'>Answer</summary>
-Correct answer: A
+Correct answer: C
 
-    > 
+> Move of HANA data from A to B with minimal downtime always HSR
 </details>
-
-
-## Question 
-
-
-
-<details markdown=1><summary markdown='span'>Answer</summary>
-Correct answer: A
-
-    > 
-</details>
-
-
-## Question 
-
-
-
-<details markdown=1><summary markdown='span'>Answer</summary>
-Correct answer: A
-
-    > 
-</details>
-
-
-## Question 
-
-
-
-<details markdown=1><summary markdown='span'>Answer</summary>
-Correct answer: A
-
-    > 
-</details>
-
-
-## Question 
-
-
-
-<details markdown=1><summary markdown='span'>Answer</summary>
-Correct answer: A
-
-    > 
-</details>
-
-
-## Question 
-
-
-
-<details markdown=1><summary markdown='span'>Answer</summary>
-Correct answer: A
-
-    > 
-</details>
-
-
-## Question 
-
-
-
-<details markdown=1><summary markdown='span'>Answer</summary>
-Correct answer: A
-
-    > 
-</details>
-
-
-## Question 
-
-
-
-<details markdown=1><summary markdown='span'>Answer</summary>
-Correct answer: A
-
-    > 
-</details>
-
-
-## Question 
-
-
-
-<details markdown=1><summary markdown='span'>Answer</summary>
-Correct answer: A
-
-    > 
-</details>
-
-
-## Question 
-
-
-
-<details markdown=1><summary markdown='span'>Answer</summary>
-Correct answer: A
-
-    > 
-</details>
-
-
-## Question 
-
-
-
-<details markdown=1><summary markdown='span'>Answer</summary>
-Correct answer: A
-
-    > 
-</details>
-
-
-## Question 
-
-
-
-<details markdown=1><summary markdown='span'>Answer</summary>
-Correct answer: A
-
-    > 
-</details>
-
-Please feel free to comment below if any information is inaccurate or if any answers need correction.
 
 
