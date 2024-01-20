@@ -585,69 +585,101 @@ Correct answer: B
 </details>
 
 
-## Question 
+## Question 36
 
+A company runs an SAP S/4HANA system that includes critical business processes. An SAP solutions architect must design a highly available SAP application. The SAP application must have availability of 99.9% or more. The SAP database also must have availability of 99.9% or more. Which solution will meet these requirements?
 
+- A. Install SAP ASCS instances and ERS instances on separate Amazon EC2 instances with an SAP certified cluster monitoring solution in different Availability Zones within an AWS Region. Configure an active-standby database setup with cluster monitoring. Deploy at least two SAP application servers that extend across multiple Availability Zones within the Region.
+- B. Install SAP ASCS instances and ERS instances on one Amazon EC2 instance. Create Amazon Elastic Block Store (Amazon EBS) snapshots each hour. Configure an active-standby database setup. Deploy at least two SAP application servers in one Availability Zone.
+- C. Install SAP ASCS instances, primary application server (PAS) instances, and a database instance on separate Amazon EC2 instances. Schedule Amazon Elastic Block Store (Amazon EBS) snapshots for every 10 minutes. Schedule database log backups for every 10 minutes.
+- D. Install SAP ASCS instances, ERS instances, and a database instance on one Amazon EC2 instance. Install SAP application servers in the same subnet as the database instance. Use AWS Elastic Disaster Recovery (CloudEndure Disaster Recovery) to continuously replicate the SAP S/4HANA system to the standby AWS Region.
 
 <details markdown=1><summary markdown='span'>Answer</summary>
 Correct answer: A
 
-    > 
+> 99.9% can only be reached with HA in different AZ but always in same Region. Option B, C and D are discarded since these options are not HA but based on one single EC2 instance. So, option A is the only that accomplishes or at least approach the 99.9% requirement.
 </details>
 
 
-## Question 
+## Question 37
 
+A company is running a 5 TB SAP Business Warehouse (SAP BW) 7.5 system on SAP HANA 2.0 SPS 04. The SAP BW system and the SAP HANA database are hosted in an on-premises data center in a SUSE Linux Enterprise Server environment. The company wants to migrate the system to AWS without changing the type of the underlying operating system. The company has established a 1 Gbps IPsec VPN tunnel for networking between the AWS Cloud and the data center. The company needs a migration solution that minimizes downtime and cost. Which solution will meet these requirements?
 
+ - A. Use the SAP HANA native backup and restore. Transfer the backup files to AWS by using an AWS Snowball Edge Storage Optimized device. Restore the files from the destination Amazon S3 bucket.
+ - B. Use the SAP HANA classical migration method by using SAP Software Provisioning Manager (R3load based) with parallel export/import. Use the IPsec VPN tunnel for the network connectivity.
+ - C. Use a third-party migration tool that is licensed and certified for SAP migration. Use the IPsec VPN tunnel for the network connectivity.
+ - D. Use SAP HANA system replication. Use the IPsec VPN tunnel for the network connectivity.
 
 <details markdown=1><summary markdown='span'>Answer</summary>
-Correct answer: A
+Correct answer: D
 
-    > 
+> HANA replication is the option with less downtime. Does not matter if DB is 5TBs, 50TBs or 5GB
+
 </details>
 
 
-## Question 
+## Question 38
 
+A company uses AWS Backint Agent for SAP HANA (AWS Backint agent) to store SAP HANA backups. The backups are stored in an Amazon S3 Standard bucket that is replicated to a secondary AWS Region. An SAP engineer must reduce the cost of the backups without degrading the current RPO and RTO during recovery in the secondary Region. Currently, database backups are scheduled to run every 12 hours. What should the SAP engineer do to meet these requirements?
 
+ - A. Configure a retention policy in SAP HANA Cockpit.
+ - B. Configure AWS Backint agent to save backups in S3 Glacier Deep Archive instead of in S3 Standard.
+ - C. Remove S3 Cross-Region Replication (CRR).
+ - D. Reduce the frequency of SAP HANA backups.
 
 <details markdown=1><summary markdown='span'>Answer</summary>
 Correct answer: A
 
-    > 
+> Reducing the retention policy from SAP HANA Cockpit reduces the total size used of CRR S3 bucket used by Backint. Option B is discarded due to S3 Glacier Deep Archive has a 12-h of access time and it would affect the current RTO. Option C is cheaper but it clearly would degrade the current resilience impacting on RPO. Option D would be cheaper in terms of cross-region data transfer but it degrades clearly the current RPO since the backup frequency is reduced.
 </details>
 
 
-## Question 
+## Question 39
 
+A company wants to deploy SAP S/4HANA 2020 in a new environment. The company wants a high availability setup for production. The company wants a single-system deployment for its development system and its quality system. An SAP solutions architect must design a solution on AWS to accelerate the deployment. Which solution will require the LEAST amount of time to complete the deployment?
+
+ - A. Create Amazon EC2 launch templates. Launch EC2 instances by using the templates. Use SAP Software Provisioning Manager to install SAP S/4HANA 2020 for the development system and the quality system. Manually deploy a high availability cluster for the production SAP S/4HANA 2020 instance.
+ - B. Create Amazon EC2 launch templates. Launch EC2 instances by using the templates. Use SAP Software Provisioning Manager to install SAP S/4HANA 2020 for the development system and the quality system. Use AWS Launch Wizard for SAP to deploy a high availability cluster for the production SAP S/4HANA 2020 instance.
+ - C. Use AWS Launch Wizard for SAP to deploy SAP S/4HANA 2020 on listed Amazon EC2 instance types in single-instance deployment mode for the development system and the quality system. For production, use Launch Wizard for SAP to deploy SAP S/4HANA 2020 on listed EC2 instance types in high availability deployment mode.
+ - D. Create an AWS CloudFormation template to automate the deployment of SAP S/4HANA 2020 and related compute and storage resources for all environments.
 
 
 <details markdown=1><summary markdown='span'>Answer</summary>
-Correct answer: A
+Correct answer: C
 
-    > 
+> Keywords "LEAST amount of time", "Launch Wizard".
 </details>
 
 
-## Question 
+## Question 40
 
+A company in the United States is planning to deploy a new SAP HANA instance on AWS. The company needs a highly available solution for the SAP HANA instance with an RPO of zero. An SAP solutions architect is using SAP HANA system replication between a primary node and a secondary node for this setup. How should the SAP solutions architect place the nodes to meet these requirements?
 
+ - A. Place the primary node in one AWS Region. Place the secondary node in a different Region. Set up SAP HANA system replication between the primary node and the secondary node in SYNC mode.
+ - B. Place the primary node in one AWS Region. Place the secondary node in a different Availability Zone within the same Region. Set up SAP HANA system replication between the primary node and the secondary node in SYNC mode.
+ - C. Place the primary node and the secondary node in the same Availability Zone. Create and use a spread placement group. Set up SAP HANA system replication between the primary node and the secondary node in ASYNC mode.
+ - D. Place the primary node and the secondary node in the same Availability Zone. Create and use a cluster placement group. Set up SAP HANA system replication between the primary node and the secondary node in SYNC mode.
 
 <details markdown=1><summary markdown='span'>Answer</summary>
-Correct answer: A
+Correct answer: B
 
-    > 
+> RPO zero on SAP HANA can only be reached by SYNC mode of SAP HANA system replication, so option C discarded. SYNC mode can only run between EC2 instances on same region, so option A discarded. RPO zero can only be reached using EC2 instances of different AZs, so now option D discarded. So, it's B.
 </details>
 
 
-## Question 
+## Question 41
 
+A company‘s SAP solutions architect needs to implement a disaster recovery (DR) plan for a production SAP S/4HANA solution. The solution includes a single 512 GB database instance, one primary application server (PAS) instance, and two additional application server (AAS) instances. The company runs its production systems in one Availability Zone in the us-east-2 Region. The company runs its non-production systems in a separate Availability Zone in us-east-2. The production instances are the same size as the non-production instances. In a disaster scenario, the company must meet an RPO of 15 minutes and must meet an RTO of 2 hours. The DR target site must be in a separate AWS Region. Which solution will meet these requirements at the LOWEST cost?
 
+ - A. In a separate Region, create a full-size copy of the production SAP S/4HANA environment, including the PAS and AAS instances. Set up asynchronous SAP HANA system replication with data preload to the standby SAP HANA database in the separate Region. In the event of a production failure, point the end users to the SAP S/4HANA system in the separate Region.
+ - B. In a separate Region, create a standby database instance that uses a smaller instance type than the current SAP HANA DB uses. Set up asynchronous SAP HANA system replication without data preload to the standby SAP HANA DB in the separate Region. Back up the most recent AMI and Amazon EBS snapshots of all instances to the separate Region. In the event of a production failure, resize the SAP HANA database instance so that it is the same size as the source database instance, restore the PAS and AAS instances from snapshots, and point the end users to the SAP S/4HANA system in the separate Region.
+ - C. In us-east-2, set up synchronous SAP HANA system replication without data preload from the existing production SAP HANA database in one Availability Zone to the existing non-production SAP HANA database in a separate Availability Zone. Back up the most recent AMI and Amazon Elastic Block Store (Amazon EBS) snapshots of all instances to us-east-2. In the event of a production failure, stop the non-production system, reload from the production storage, restore the PAS and AAS instances from snapshots, and point the end users to the SAP S/4HANA system in the new Availability Zone.
+ - D. Copy all SAP HANA backup files, all SAP HANA database logs, and all instance AMIs and Amazon Elastic Block Store (Amazon EBS) snapshots to Amazon S3 as they are created. Set up S3 Cross-Region Replication to an S3 bucket in a separate Region. In the event of a production failure, copy the replicated files to EBS volumes, restore the SAP HANA database, restore the PAS and AAS instances from snapshots, and point the end users to the SAP S/4HANA system in the separate Region.
 
 <details markdown=1><summary markdown='span'>Answer</summary>
-Correct answer: A
+Correct answer: C
 
-    > 
+> Option A discarded since "data preload" is exactly the worst in terms of cost. Option D is discarded since this does not accomplishes the RTO of 15 minutes. Option C is cheaper than B and in certain mode accomplishes the requirements even the "synchronous" replication mode since it is without data preload.
 </details>
 
 
