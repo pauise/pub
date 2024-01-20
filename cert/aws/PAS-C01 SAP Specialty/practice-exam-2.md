@@ -683,168 +683,252 @@ Correct answer: C
 </details>
 
 
-## Question 
+## Question 42
+
+A company is onboarding 10 new users in its Singapore office for its SAP S/4HANA 2020 system with the SAP Fiori front-end server (FES) embedded. The users in Singapore are experiencing poor performance across all functionality. The performance for United States-based users is as expected. The SAP S/4HANA system is deployed in the us-east-1 Region. An SAP basis administrator discovers that network latency seems to be the primary issue. The users are connecting through the internet. How should the SAP basis administrator improve the Singapore users‘ front-end experience for all SAP S/4HANA functionality?
+
+ - A. Set up a separate SAP Fiori FES in the ap-southeast-1 (Singapore) Region. Configure the Singapore users‘ browsers to connect to this instance. Use AWS Transit Gateway to direct traffic to the SAP S/4HANA solution in us-east-1.
+ - B. Establish an AWS Site-to-Site VPN connection from the Singapore office to us-east-1. Route the Singapore users‘ connections over the VPN.
+ - C. Instruct the Singapore users to adopt SAP GUI for Windows instead of SAP Fiori. Deploy SAP GUI in an Amazon AppStream 2.0 image in a VPC in the ap-southeast-1 (Singapore) Region. Set up an inter-Region VPC peering connection to us-east-1. Instruct the Singapore users to access SAP GUI in AppStream 2.0 from their browsers.
+ - D. Create an internet-facing Application Load Balancer (ALB) in us-east-1. Connect the ALB to the SAP S/4HANA system. Create an Amazon CloudFront distribution, and point the origin domain name to the ALB. Create an AWS Global Accelerator accelerator that has an endpoint that points to the ALB. Use Amazon Route 53 to set up the appropriate alias. Instruct the Singapore users to use this alias for connectivity through their browsers.
 
 
 
 <details markdown=1><summary markdown='span'>Answer</summary>
-Correct answer: A
+Correct answer: D
+
+> First of all we have to consider that between Singapore and US East there are thousands of kms. Even if the connection is over internet of over VPN the latencies will not differ. A Direct Connect is not listed, so option B is clearly discarded. Fiori applications perform lot of roundtrips to OData layer of NW Gateway in comparison with typical SAPGUI but Option C is discarded since recommend get back to the SAP GUI is not the appropiate. Option A will not improve the experience so much since even the roundtrips between Fiori and GW via HTTPS are usually more than between GW and Backend via RFC it will not offer such performance like implement any kind of netwoek accelerator solution. Finally option D speaks about Global Accelerator and CloudFront and these are the keys to improve the latency between separated locations over internet.
+</details>
+
+
+## Question 43
+
+A company migrated its SAP S/4HANA workload to run on memory optimized Amazon EC2 instances with SUSE Linux Enterprise Server as the operating system. The company wants to modify the architecture to ensure that the SAP S/4HANA deployment is highly available. The company also wants to support the lowest possible RPO and RTO. Which solution will meet these requirements?
+
+ - A. Create an Auto Scaling group that has a minimum capacity of one instance and a maximum capacity of one instance. Use Amazon Data Lifecycle Manager (Amazon DLM) to automate Amazon Elastic Block Store (Amazon EBS) volume snapshots.
+ - B. Set up an Amazon CloudWatch alarm to recover the EC2 instances automatically. In case of failure, use Amazon Elastic Block Store (Amazon EBS) volume snapshots to recover the SAP S/4HANA system to the most recent state.
+ - C. Implement a Cross-AZ SAP S/4HANA high availability system by using AWS Launch Wizard for SAP. Deploy EC2 instances for ASCS, ERS, and SAP HANA databases across two Availability Zones. Spread the deployment of application servers across the EC2 instances.
+ - D. Perform a daily backup of the SAP S/4HANA system with automatic log backup to an Amazon S3 bucket. In case of failure, perform a point-in-time recovery of the system from the backup that is stored in the S3 bucket.
+
+<details markdown=1><summary markdown='span'>Answer</summary>
+Correct answer: C
+
+> Clearly the only option that meets the "highly available" and "lowest possible RPO and RTO" is the one that speaks about cross-AZ deployment of S/4HANA.
+</details>
+
+
+## Question 44
+
+A company migrates an existing SAP Java system to an Amazon EC2 instance. After the migration, the SAP application server is shutting down because the SAP license has expired or is not valid. Which actions should an SAP solutions architect take to make the SAP application server operational again? (**Select TWO.**)
+
+ - A. Reinstall the SAP application server.
+ - B. Purchase a license from SAP.
+ - C. Ensure that SAP is running on a supported EC2 instance type.
+ - D. Apply for a new regular SAP license for the new hardware key that was generated for the EC2 instance.
+ - E. Ensure that the Amazon CloudWatch agent is installed at the operating system level.
+
+<details markdown=1><summary markdown='span'>Answer</summary>
+Correct answer: CD
+
+> 
+</details>
+
+
+## Question 45
+
+An SAP solutions architect needs to secure an Amazon EC2 instance that hosts an SAP HANA database on AWS. The SAP solutions architect must encrypt the database at rest. In addition, the data in transit between the frontend users and the SAP application on AWS must always be encrypted from end to end. Which combination of steps should the SAP solutions architect take to meet these requirements? (**Select TWO.**)
+
+ - A. Stop the EC2 instance. Enable encryption on the existing Amazon Elastic Block Store (Amazon EBS) volumes. Start the EC2 instance with encrypted EBS volumes for the SAP HANA database.
+ - B. Stop the EC2 instance. Create a snapshot of the Amazon Elastic Block Store (Amazon EBS) volumes. Create an encrypted copy of the snapshots. Create new encrypted EBS volumes from the encrypted snapshots. Attach the new volumes to the EC2 instance. Start the EC2 instance.
+ - C. Use AWS Client VPN to connect the frontend users to the SAP application on AWS.
+ - D. Configure TLS encryption at the SAP application level for encryption of data in transit.
+ - E. Use AWS Direct Connect and AWS Site-to-Site VPN for encryption of data in transit.
+
+<details markdown=1><summary markdown='span'>Answer</summary>
+Correct answer: BE
+
+> https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EBSEncryption.html#encryption-parameters
+</details>
+
+
+## Question 46
+
+A company is implementing SAP S/4HANA on AWS. The company‘s operating system is SUSE Linux Enterprise Server for SAP. The company is deploying its development instances and QA instances in one Availability Zone. The company is deploying its production instance in a different Availability Zone. The company wants to avoid a single point of failure when creating the SAP transport directory. Which storage solution should the company use to meet these requirements?
+
+ - A. Amazon S3
+ - B. Amazon Elastic Block Store (Amazon EBS) Multi-Attach volume
+ - C. Amazon Elastic File System (Amazon EFS)
+ - D. AWS Storage Gateway Volume Gateway
+
+<details markdown=1><summary markdown='span'>Answer</summary>
+Correct answer: C
+
+>  
+</details>
+
+
+## Question 47
+
+A company plans to migrate its SAP workloads to AWS. The company needs to install an SAProuter that has a connection to the SAP support network. Which combination of steps should an SAP solutions architect take to meet this requirement? (**Select THREE.**)
+
+ - A. Launch the instance that the SAProuter software is installed on into a public subnet of the VPC.
+ - B. Launch the instance that the SAProuter software is installed on into a private subnet of the VPC.
+ - C. Assign the SAProuter instance an Elastic Fabric Adapter (EFA) and a dynamic IP address.
+ - D. Assign the SAProuter instance an elastic network interface and a static Elastic IP address.
+ - E. Create a specific security group for the SAProuter instance with rules to allow the required access to the SAP support network.
+ - F. Create a specific network ACL for the SAProuter instance with rules to allow the required access to the SAP support network.
+
+<details markdown=1><summary markdown='span'>Answer</summary>
+Correct answer: ADE
+
+> SAProuter needs an EC2 deployed into a public subnet with an Elastic IP (fixed public IP) with a Security group to enable the SAP support network inbound/outbound connections.
+</details>
+
+
+## Question 48
+
+A company runs SAP on AWS and has deployed a production SAP S/4HANA database on an Amazon EC2 instance. The company decides to use AWS Backint Agent for SAP HANA (AWS Backint agent) to back up the database directly to Amazon S3. A solutions architect installs and configures the first AWS Backint agent on Friday and schedules a backup on Sunday morning. On Monday, the solutions architect notices that the backup failed. The solutions architect observes the following error in the logs: “Error performing backup AccessDenied: Access Denied status code: 403“ Which of the following could be the cause of this error?
+
+ - A. The S3 bucket that is used to store the backup is not publicly accessible.
+ - B. S3 Versioning is not enabled, so the SAP HANA database cannot guarantee consistency in the backups.
+ - C. The SAP HANA SYSTEM database user is deactivated.
+ - D. The IAM role that was configured during the setup of the SAP HANA database EC2 instance does not have the required permissions
+
+<details markdown=1><summary markdown='span'>Answer</summary>
+Correct answer: D
+
+> 
+</details>
+
+
+## Question 49
+
+A company recently migrated its SAP workloads to AWS. An SAP technology administrator needs to create an incident with SAP OSS Support. After 2 hours, the incident comes back with the status of “Pending Customer.“ SAP OSS Support cannot access the required performance and configuration data on the system. Which combination of steps should the SAP technology administrator take to resolve this issue? (**Select TWO.**)
+
+ - A. Restart the SAProuter that is being used for the SAP support network.
+ - B. Enable Amazon CloudWatch detailed monitoring.
+ - C. Turn on AWS CloudTrail.
+ - D. Run SAP transaction OSS1 and configure the AWS specific settings.
+ - E. Install and activate the AWS Data Provider for SAP.
+
+<details markdown=1><summary markdown='span'>Answer</summary>
+Correct answer: BE
+
+> 
+</details>
+
+
+## Question 50
+
+An SAP engineer deploys an SAP S/4HANA system on AWS. After logging in to the system by using the SAP GUI, the SAP engineer receives an alert that transaction ST06N is missing. What should the SAP engineer do to resolve this error?
+
+ - A. Reboot the SAP S/4HANA application server.
+ - B. Configure the AWS CLI on the SAP instance. Develop a script by using the AWS CLI to get related data.
+ - C. Install the Amazon CloudWatch agent on the SAP instance.
+ - D. Install the AWS Data Provider for SAP on the SAP instance.
+
+<details markdown=1><summary markdown='span'>Answer</summary>
+Correct answer: D
 
     > 
 </details>
 
 
-## Question 
+## Question 51
 
+A company is planning to move its production SAP S/4HANA workload to AWS. The company needs high availability for the workload. An SAP consultant needs to use private network settings for all communications between the on-premises environment and the VPC that contains the Amazon EC2 instances that host the SAP S/4HANA workload. The SAP consultant is planning to use Red Hat Enterprise Linux for SAP to configure the systems for high availability. The SAP consultant must ensure that the end users can access the SAP S/4HANA system by using SAP GUI from the on-premises network. Which solutions will meet these requirements? (**Select TWO**)
 
+ - A. Overlay IP address with AWS Transit Gateway
+ - B. Overlay IP address with an Application Load Balancer
+ - C. Overlay IP address with a Network Load Balancer
+ - D. Elastic IP address with AWS Transit Gateway
+ - E. Elastic IP address with a Network Load Balancer
 
 <details markdown=1><summary markdown='span'>Answer</summary>
-Correct answer: A
+Correct answer: AC
 
-    > 
+> D and E discarded since HA implies overlay IP (elastic IP means fixed public IP). B discarded because SAPGUI is not compliant with ALB.
 </details>
 
 
-## Question 
+## Question 52
 
+A company has an on-premises SAP NetWeaver ABAP 7.4 system that runs on an AIX operating system with IBM Db2 as the database platform. The company plans to migrate the system to AWS with no change to the SAP version or the Db2 version. On AWS, the SAP workload will use SUSE Linux Enterprise Server as the operating system and will use Db2 as the database platform. How should the company export data from the current system to build the SAP system on AWS?
 
+ - A. Use SAP Software Provisioning Manager 1.0.
+ - B. Use AWS Database Migration Service (AWS DMS).
+ - C. Use AWS Server Migration Service (AWS SMS).
+ - D. Use AWS Application Migration Service (CloudEndure Migration).
 
 <details markdown=1><summary markdown='span'>Answer</summary>
 Correct answer: A
 
-    > 
+> It's an heterogeneous system copy, so SWPM must be used to perform the export/import due to the change of endianness from AIX to x64 on AWS.
 </details>
 
 
-## Question 
+## Question 53
 
+A power utility company needs to migrate its SAP IS-U system to AWS. The company‘s on-premises SAP ERP Central Component (SAP ECC) 6 system runs on a Microsoft SQL Server database and is hosted on Windows Server 2019 physical servers. The company wants to migrate its SAP system by using the least effort and amount of time. The migration solution also requires the least possible number of system changes during the move. Which migration solution will meet these requirements?
 
+ - A. Use AWS Application Migration Service (CloudEndure Migration) to replicate the SAP system to AWS. Continue replicating storage until migration cutover.
+ - B. Perform a system export of the source database content from the on-premises SAP system by using R3load. Use SAP Software Provisioning Manager to install a new SAP system on AWS. Import the database content to the new SAP system on AWS. Replay the database logs from the on-premises SAP system during the migration cutover window to catch up business transactions.
+ - C.  Perform a native SQL Server database backup for the on-premises SAP system. Use SAP Software Provisioning Manager to install a new SAP system on AWS. Restore the SQL Server database backup from the on-premises SAP system to the new system on AWS. Replay the database logs from the on-premises SAP system during the migration cutover window to catch up business transactions.
+ - D. Perform a native SQL Server database backup for the on-premises SAP system. Use SAP Software Provisioning Manager to install a new SAP system on AWS. Restore the SQL Server database backup from the on-premises SAP system to the new system on AWS. Set up SQL Server Always On replication between the on-premises SAP system and the SAP system on AWS.
 
 <details markdown=1><summary markdown='span'>Answer</summary>
 Correct answer: A
 
-    > 
+> 
 </details>
 
 
-## Question 
+## Question 54
 
+A Singapore based retail company wants to host their SAP S/4 HANA system with the production HANA database size of 18 TB on AWS. The company management wants to closely monitor the cost associated with running the production workloads on AWS. This will be the first time the company will be using AWS to run its workloads. How should an SAP solution architect deploy the SAP workload to meet these requirements?
 
+ - A. Create separate production and non-production AWS accounts for SAP workloads. Set up dedicated VPCs and subnets for the newly created accounts
+ - B. Create separate production and non-production AWS accounts for SAP workloads. Use AWS Resource Access Manager (RAM) to share the VPCs and subnets between the newly created accounts
+ - C. Create a single account for SAP workloads. Set up dedicated VPCs and subnets for production and non-production SAP systems. Use tagging to mark the EC2 instances as production or non-production
+ - D. Create a single account for SAP workloads. Set up a single VPC and dedicated subnets for production and non-production SAP systems. Use tagging to mark the EC2 instances as production or non-production
 
 <details markdown=1><summary markdown='span'>Answer</summary>
 Correct answer: A
 
-    > 
+> Options C and D discarded because separate non-prod vs prod in different accounts is a best practice. The idea to split them is to keep different administration, so RAM is no prescribed here for this.
 </details>
 
 
-## Question 
+## Question 55
 
+A US based financial company is implementing SAP S/4 HANA on AWS. The database size is 12 TB, and they will implement the HANA database on SUSE Linux Enterprise Server (SLES) for SAP. The database instance needs to access S3 to store backups and access files. The requirement is that the data transfer should happen within the AWS network for security reasons. How can this be achieved?
 
+ - A. Place the HANA database in a public subnet and access S3 using the Internet Gateway
+ - B. Place the HANA database in a private subnet and access S3 using NAT Gateway
+ - C. Place the HANA database in a private subnet and access S3 using the Internet Gateway
+ - D. Place the HANA database in a private subnet and access S3 using Gateway Endpoints
 
 <details markdown=1><summary markdown='span'>Answer</summary>
-Correct answer: A
+Correct answer: D
 
-    > 
+> Gateway VPC endpoints provide reliable connectivity to Amazon S3 and DynamoDB without requiring an internet gateway or a NAT device for your VPC. Gateway endpoints do not use AWS PrivateLink, unlike other types of VPC endpoints. See https://docs.aws.amazon.com/vpc/latest/privatelink/gateway-endpoints.html.
 </details>
 
 
-## Question 
+## Question 56
 
+You are an SAP solution architect with a company that is running their SAP S/4 HANA 1909 system on AWS. The SAP application is running on a single m6i.8xlarge EC2 instance. It has been observed in the last few months, that during the month-end payroll run, the workload on the system suddenly increases, and users report performance problems. After doing the root cause analysis it was found that the performance problem is because of the shortage of resources. What is the most cost-effective approach you would suggest to address this problem?
 
-
-<details markdown=1><summary markdown='span'>Answer</summary>
-Correct answer: A
-
-    > 
-</details>
-
-
-## Question 
-
-
+ - A. Scale up the SAP application server to m6i.16xlarge instance
+ - B. Add the required resources by spinning up the spot instances during the duration of the payroll run
+ - C. Scale out the SAP application server by adding another m6i.8xlarge instance
+ - D. Add the required resources by spinning up the on-demand instances during the duration of the payroll run
+ - E. Add the required resources by spinning up the reserved instances during the duration of the payroll run
 
 <details markdown=1><summary markdown='span'>Answer</summary>
-Correct answer: A
+Correct answer: D
 
-    > 
-</details>
-
-
-## Question 
-
-
-
-<details markdown=1><summary markdown='span'>Answer</summary>
-Correct answer: A
-
-    > 
-</details>
-
-
-## Question 
-
-
-
-<details markdown=1><summary markdown='span'>Answer</summary>
-Correct answer: A
-
-    > 
-</details>
-
-
-## Question 
-
-
-
-<details markdown=1><summary markdown='span'>Answer</summary>
-Correct answer: A
-
-    > 
-</details>
-
-
-## Question 
-
-
-
-<details markdown=1><summary markdown='span'>Answer</summary>
-Correct answer: A
-
-    > 
-</details>
-
-
-## Question 
-
-
-
-<details markdown=1><summary markdown='span'>Answer</summary>
-Correct answer: A
-
-    > 
-</details>
-
-
-## Question 
-
-
-
-<details markdown=1><summary markdown='span'>Answer</summary>
-Correct answer: A
-
-    > 
-</details>
-
-
-## Question 
-
-
-
-<details markdown=1><summary markdown='span'>Answer</summary>
-Correct answer: A
-
-    > 
+> Spot instances can be stopped unexpectedly. On-Demmand could not be available when required but it's the most cost-effective compared with a reserved additional EC2 instance.
 </details>
 
 
