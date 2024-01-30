@@ -11,3 +11,4 @@ If this guide has been helpful to you please share it with others and react to t
 ### Exam List
 
 - [Practice Exam - 1](./practice-exam-1.md)
+- [Practice Exam - 2](./practice-exam-2.md)
