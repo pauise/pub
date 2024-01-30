@@ -17,10 +17,10 @@ If this practice exam has been helpful to you please share it with others and re
     </details>
 
 2. ¿Cómo se deberían combinar los siete principios guía cuando la organización está tomando una decisión?
- - A. Se deberían usar todos los principios guía en igual medida cuando se toma cualquier decisión.
- - B. Se deberían usar uno o dos principios guía que sean los más relevantes para la decisión específica.
- - C. Se debería usar el principio guía "enfocarse en el valor" y uno o dos de los otros principios que sean relevantes para la decisión específica.
- - D. Se debería revisar cada principio guía para decidir qué tan relevante es con respecto a la decisión específica.
+    - A. Se deberían usar todos los principios guía en igual medida cuando se toma cualquier decisión.
+    - B. Se deberían usar uno o dos principios guía que sean los más relevantes para la decisión específica.
+    - C. Se debería usar el principio guía "enfocarse en el valor" y uno o dos de los otros principios que sean relevantes para la decisión específica.
+    - D. Se debería revisar cada principio guía para decidir qué tan relevante es con respecto a la decisión específica.
     
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: D
