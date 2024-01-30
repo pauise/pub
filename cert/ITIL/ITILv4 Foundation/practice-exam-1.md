@@ -32,7 +32,7 @@ If this practice exam has been helpful to you please share it with others and re
    - C. Los cambios de emergencia deberían ser autorizados por tantas personas como sea posible para reducir el riesgo.
    - D. Los cambios normales suelen implementarse como solicitudes de servicio, con autorización de la mesa de servicios
 
-<details markdown=1><summary markdown='span'>Answer</summary>
+    <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: B
     </details>
 
@@ -43,7 +43,7 @@ If this practice exam has been helpful to you please share it with others and re
    - C. Asegurar que una única autoridad de cambios revise cada cambio
    - D. Ayudar a planear cambios, respaldar la comunicación y evitar conflictos
 
-<details markdown=1><summary markdown='span'>Answer</summary>
+    <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: D
     </details>
 
