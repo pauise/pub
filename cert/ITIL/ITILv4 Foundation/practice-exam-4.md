@@ -277,7 +277,7 @@ If this practice exam has been helpful to you please share it with others and re
     - C. Revisión del cuadro de mando integral
     - D. Herramientas y técnicas de colaboración
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: D, but I'm sure it's B
+      Correct answer: D
     </details>
 
 
