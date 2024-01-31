@@ -6,228 +6,164 @@ If this practice exam has been helpful to you please share it with others and re
 
 ---
 
-1. ¿Qué principio guía propicia una respuesta más rápida a las necesidades de los clientes mediante actividades con tiempos reviamente acordados para su cumplimiento y el aprendizaje a partir de las salidas de actividades anteriores?
-    - A. Progrese de forma iterativa con retroalimentación
-    - B. Optimice y automatice
-    - C. Foco en el valor
-    - D. Colabore y promueva la visibilidad
+1. ¿Cuáles de las siguientes acciones son importantes en un "registro de mejora continua" (CIR)?
+    - A. Documentar, evaluar y priorizar las ideas de mejora
+    - B. Guardar en un solo CIR las ideas de mejora de muchas fuentes
+    - C. Eliminar del CIR las ideas de mejora que no se apliquen de manera inmediata
+    - D. Probar, acordar y financiar las ideas de mejora
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: A
     </details>
 
-2. ¿Qué práctica tiene un propósito que incluye maximizar el número de adiciones, modificaciones o eliminaciones exitosas de cualquier aspecto que pueda tener un efecto en un servicio?
-   - A. Habilitación del cambio
-   - B. Gestión de solicitudes de servicio
-   - C. Gestión de incidencias
-   - D. Mesa de servicios
-    <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: A
-    </details>
-
-3. ¿En qué situación gestión de incidentes utilizará NORMALMENTE un proceso independiente?
-   - A. Cuando debe diagnosticarse la causa
-   - B. Para incidentes de bajo impacto
-   - C. Cuando no exista un plazo de resolución objetivo
-   - D. Para incidentes de seguridad de la información
+2. ¿Qué métricas del nivel de servicio permiten medir MEJOR la experiencia del usuario?
+    - A. Métricas basadas en un único sistema
+    - B. Métricas para el porcentaje de tiempo de funcionamiento de un servicio
+    - C. Métricas operacionales
+    - D. Métricas vinculadas con resultados definidos
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: D
     </details>
 
-4. ¿Qué práctica minimiza el impacto en la operación normal del servicio al gestionar recursos en respuesta a reducciones no planificadas de la calidad del servicio?
-   - A. Gestión de niveles de servicio
-   - B. Habilitación del cambio
-   - C. Mejora continua
-   - D. Gestión de incidentes
-    <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: D
-    </details>
 
-5. ¿Qué práctica utiliza los métodos de Lean, Agile y DevOps?
-   - A. Gestión de incidentes
-   - B. Mejora continua
-   - C. Mesa de servicios
-   - D. Gestión de problemas
+3. ¿Qué actividad contribuye al paso "¿Dónde estamos ahora?" del modelo de mejora continua?
+    - A. Ejecutar acciones de mejora
+    - B. Realizar evaluaciones de línea base
+    - C. Definir el plan de mejora
+    - D. Comprender la misión del negocio
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: B
     </details>
 
-6. Identifique la palabra que falta en el siguiente enunciado.
-   Patrocinador es el rol que autoriza el presupuesto para el/la [?] de servicios.
-   - A. Provisión
-   - B. Valor
-   - C. gestión
-   - D. consumo
+
+4. ¿Cuál es la MEJOR descripción del valor de un servicio para un cliente?
+    - A. La cantidad de dinero que el cliente paga por usar el servicio.
+    - B. El retorno financiero que el cliente obtiene por usar el servicio.
+    - C. Los resultados que el cliente percibe del uso del servicio.
+    - D. La percepción del cliente sobre los beneficios de usar el servicio.
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: D
     </details>
 
-7. ¿Qué afirmación sobre las ofertas de servicios es CORRECTA?
-   - A. El mismo producto puede servir de base para más de una oferta de servicios
-   - B. Las ofertas de servicios describen cómo proveedores y consumidores cooperan para co-crear valor
-   - C. Cada servicio debería ser descrito a los consumidores como una única oferta de servicios
-   - D. Las ofertas de servicios incluyen la transferencia de bienes del consumidor hacia el proveedor
-    <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: A
-    </details>
 
-8. ¿Para cuál de las siguientes opciones se utiliza un calendario de cambios?
-   - A. Proporcionar información sobre los cambios implementados para ayudar a gestionar incidentes y problemas
-   - B. Realizar el seguimiento y gestionar ideas de mejora desde la identificación hasta la acción final
-   - C. Acelerar la planificación y autorización de los cambios de emergencia
-   - D. Proporcionar un medio para iniciar y evaluar los cambios normales.
-    <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: A
-    </details>
-
-
-9. ¿Qué afirmación sobre los flujos de valor es CORRECTA?
-    - A. Cada flujo de valor debe diseñarse para una situación específica
-    - B. Cada flujo de valor debe incluir proveedores o socios
-    - C. Cada flujo de valor debe incluir todas las seis actividades de la acadena de valor
-    - D. Cada flujo de valor debe incliur todas las 34 prácticas de ITIL
-    <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: A
-    </details>
-
-
-10. ¿Cuál de las opciones siguientes forma parte de las propuestas de valor de un servicio?
-    - A. Costos que el servicio impone al consumidor
-    - B. Salidas del servicio recibidas por el consumidor
-    - C. Costos que el servicio elimina al consumidor
-    - D. Riesgos que el servicio impone al consumidor
+5. ¿De qué manera contribuye un consumidor de servicios a la reducción del riesgo?
+    - A. Al pagar por el servicio
+    - B. Al gestionar el hardware del servidor
+    - C. Al comunicar restricciones
+    - D. Al gestionar la disponibilidad del personal
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: C
     </details>
 
 
-11. ¿Por qué un gerente de niveles de servicio debería realizar revisiones periódicas del servicio?
-    - A. Para asegurar la mejora continua de los servicios, de modo que respondan a las necesidades cambiantes de los consumidores de servicios
-    - B. Para capturar información sobre las problemáticas y el desempeño del servicio con respecto a los objetivos acordados
-    - C. Para asegurar que los acuerdos están redactados de forma sencilla y son fáciles de entender
-    - D. Para recopilar información sobre las metas y objetivos de los consumidores de servicios
+6. ¿Qué opción describe los cambios normales?
+    - A. Cambios de riesgo bajo y que cuentan con autorización previa
+    - B. Cambios que se necesitan programar y evaluar mediante un proceso
+    - C. Cambios que a menudo se inician como solicitudes de servicio
+    - D. Cambios que deben implementarse lo antes posible
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: B
     </details>
 
 
-12. Un defecto en una aplicación puede provocar que un servicio falle. El personal de TI está analizando activamente la aplicación para tratar de entender qué sucede. ¿Cuál es el nombre correcto de este tipo de defecto?
-    - A. Error conocido
-    - B. Incidente
-    - C. Problema
-    - D. Evento
+7. Identifique las palabras que faltan en el siguiente enunciado.
+    El uso de [?] debería respaldar, no reemplazar lo que se observa, cuando se usa el principio "comenzar donde esté".
+    - A. una medición
+    - B. herramientas
+    - C. planes
+    - D. un proceso
+    <details markdown=1><summary markdown='span'>Answer</summary>
+      Correct answer: A
+    </details>
+
+
+8. ¿Cuál es un medio para posibilitar la creación conjunta de valor al facilitar las consecuencias que los clientes desean obtener sin que estos asuman costos ni riesgos específicos?
+    - A. Gestión de servicios
+    - B. Mejora continua
+    - C. Un servicio
+    - D. Un activo de TI
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: C
     </details>
 
 
-13. ¿Qué actividad de la cadena de valor soporta que la actividad de servicio continuo cumple las expectativas de los usuarios?
-    - A. Obtener/construir
-    - B. Involucrar
-    - C. Planear
-    - D. Entregar y soportar
+9. ¿Cuáles son las tres etapas de la gestión de problemas?
+    - A. Registro de problemas, clasificación de problemas y resolución de problemas
+    - B. Gestión de incidentes, gestión de problemas y control de cambios
+    - C. Identificación de problemas, control de problemas y control de errores
+    - D. Análisis de problemas, identificación de errores y resolución de incidentes
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: D
+      Correct answer: C
     </details>
 
 
-14. ¿Qué propósito de la práctica incluye la creación de relaciones más estrechas y colaborativas?
-    - A. Gestión de liberaciones
-    - B. Gestión de proveedores
-    - C. Gestión de la configuración de servicios
-    - D. Gestión de la seguridad de la información
+10. ¿Cuál de las siguientes opciones ejemplifica MEJOR un cambio estándar?
+    - A. La revisión y la autorización de un cambio solicitado por el cliente
+    - B. La implementación de un parche en un software crítico como respuesta a una problemática de seguridad de un proveedor
+    - C. La instalación de una aplicación de software como respuesta a una solicitud de servicio
+    - D. El reemplazo de un componente como respuesta a un incidente mayor
+    <details markdown=1><summary markdown='span'>Answer</summary>
+      Correct answer: C
+    </details>
+
+
+11. ¿Qué afirmación acerca de los resultados es CORRECTA?
+    - A. Los resultados son uno o más servicios que satisfacen las necesidades de un consumidor de servicios.
+    - B. Los proveedores de servicios ayudan a que los consumidores de servicios perciban los resultados.
+    - C. Los resultados ayudan a que los consumidores de servicios obtengan salidas.
+    - D. Ayudar a los consumidores de servicios a obtener resultados reduce los costos del proveedor de servicios.
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: B
     </details>
-
-
-15. ¿Cuáles DOS de las siguientes opciones son entradas para el sistema de valor de servicio?
-    1. Demanda
-    2. Productos
-    3. Valor
-    4. Oportunidad
     
-    - A. 3 y 4
-    - B. 2 y 3
-    - C. 1 y 4
-    - D. 1 y 2
+12. ¿Qué dimensión considera la manera en que deberían protegerse los activos de conocimiento?
+    - A. Organizaciones y personas
+    - B. Socios y proveedores
+    - C. Información y tecnología
+    - D. Procesos y flujos de valor
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: C
     </details>
 
-
-16. ¿Qué rol sería el MÁS adecuado para alguien con amplia experiencia de trabajo en roles de TI y del negocio? También tiene experiencia en la gestión de las relaciones con diversas partes interesadas, incluidos proveedores y gerentes del negocio.
-    - A. Gerente de niveles de servicio
-    - B. Analista de problemas
-    - C. Autoridad de cambios
-    - D. Agente de la mesa de servicios
+13. ¿De qué manera la información sobre problemas y errores conocidos contribuye a la gestión de incidentes?
+    - A. Permite un diagnóstico rápido y eficiente de los incidentes.
+    - B. Elimina la necesidad de actualizaciones regulares hacia los clientes.
+    - C. Elimina la necesidad de colaboración durante la resolución de los incidentes.
+    - D. Permite volver a evaluar errores conocidos.
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: A
     </details>
 
 
-17. ¿Qué representa la adición, modificación o eliminación de cualquier aspecto que pueda afectar a los servicios?
-    - A. Un incidente
-    - B. Un cambio
-    - C. Un evento
-    - D. Un problema
+14. ¿Qué se debe hacer siempre antes de automatizar una actividad?
+    - A. Comprobar que ya se haya optimizado la actividad
+    - B. Comprobar que se hayan comprado tecnologías nuevas adecuadas
+    - C. Asegurar que DevOps se haya implementado correctamente
+    - D. Asegurar que la solución elimine la necesidad de intervención humana
+    <details markdown=1><summary markdown='span'>Answer</summary>
+      Correct answer: A
+    </details>
+
+15. ¿Qué práctica se usa para confirmar los requerimientos del cliente para los servicios?
+    - A. Gestión de solicitudes de servicio
+    - B. Gestión de niveles de servicio
+    - C. Mesa de servicios
+    - D. Gestión de incidentes
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: B
     </details>
 
-
-18. ¿Qué principio guía recomienda tener en cuenta las cuatro dimensiones para que algo sea tan eficaz y útil como debe ser?
-    - A. Optimice y automatice
-    - B. Piense y trabaje holísticamente
-    - C. Comience donde se encuentre
-    - D. Foco en el valor
-    <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: B
-    </details>
-
-
-19. ¿Qué práctica es MÁS PROBABLE que haga uso de inteligencia artificial, automatización robótica de procesos y chatbots?
-    - A. Gestión de incidentes
-    - B. Mesa de servicios
-    - C. Gestión de problemas
-    - D. Mejora continua
-    <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: B
-    </details>
-
-
-20. ¿Qué es un problema que se ha analizado, pero no se ha resuelto?
-    - A. Incidente
-    - B. Error conocido
-    - C. Evento
-    - D. Solución temporal
-    <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: B
-    </details>
-
-
-21. ¿Qué se describe en la dimensión “organizaciones y personas” de la gestión de servicios?
-    - A. Entrada y salidas
-    - B. Flujos de trabajo y controles
-    - C. Contratos y acuerdos
-    - D. Comunicación y colaboración
+16. ¿Qué dimensión incluye actividades y flujos de trabajo?
+    - A. Organizaciones y personas
+    - B. Información y tecnología
+    - C. Socios y proveedores
+    - D. Procesos y flujos de valor
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: D
     </details>
 
-
-22. ¿Qué facilita los resultados que los clientes desean conseguir?
-    - A. Activo de TI
-    - B. Garantía
-    - C. Organización
-    - D. Servicio
-    <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: D
-    </details>
-
-
-23. ¿Qué práctica recomienda que las organizaciones desarrollen competencias en técnicas como análisis de fortalezas, oportunidades, debilidades y amenazas (FODA) y cuadros de mando integral?
+17. ¿Cuál de las siguientes prácticas usa técnicas como el análisis SWOT, las revisiones del cuadro de mando integral (balanced scorecard) y las evaluaciones de madurez?
     - A. Gestión de incidentes
-    - B. Habilitación del cambio
+    - B. Gestión de problemas
     - C. Mejora continua
     - D. Gestión de solicitudes de servicio
     <details markdown=1><summary markdown='span'>Answer</summary>
@@ -235,179 +171,239 @@ If this practice exam has been helpful to you please share it with others and re
     </details>
 
 
-24. ¿Qué concepto de ITIL ayuda a una organización a tomar buenas decisiones?
-    - A. Principios guía
-    - B. Prácticas
-    - C. Cadena de valor del servicio
-    - D. Cuatro dimensiones de la gestión de servicios
+18. ¿Cuál es el propósito de la práctica de gestión de relaciones?
+    - A. Establecer y promover vínculos entre la organización y otras partes interesadas
+    - B. Alinear las prácticas y los servicios de la organización con las necesidades cambiantes del negocio
+    - C. Definir con claridad los objetivos de desempeño comercial de los servicios
+    - D. Respaldar la calidad acordada de un servicio mediante la gestión de todas las solicitudes de servicio acordadas iniciadas por el usuario
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: A
     </details>
 
 
-25. ¿Cuál de las siguientes opciones es una recomendación para aplicar el principio guía “manténgalo simple y práctico”?
-    - A. A veces, no hay nada del estado actual que pueda reutilizarse
-    - B. Rápido no es sinónimo de incompleto
-    - C. Comuníquese de forma que el público pueda escuchar
-    - D. Si una práctica es más fácil de seguir, es más probable que se adopte
+19. ¿Cuál de estas opciones se debería registrar y gestionar como un problema?
+    - A. Cuando un usuario solicita la entrega de una laptop
+    - B. Cuando una herramienta de monitoreo detecta un cambio de estado de un servicio
+    - C. Cuando el análisis de tendencias muestra un alto número de incidentes similares
+    - D. Cuando la práctica de mejora continua necesita priorizar una oportunidad de mejora
+    <details markdown=1><summary markdown='span'>Answer</summary>
+      Correct answer: C
+    </details>
+
+
+20. ¿Qué práctica requiere que el personal demuestre excelentes habilidades de servicio al cliente, como empatía e inteligencia emocional?
+    - A. Gestión de problemas
+    - B. Gestión de proveedores
+    - C. Gestión de liberaciones
+    - D. Mesa de servicios
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: D
     </details>
 
 
-26. ¿Qué práctica tiene un propósito que incluye la respuesta a las condiciones que podrían provocar fallas o incidentes potenciales?
-    - A. Habilitación del cambio
-    - B. Gestión de incidentes
-    - C. Monitoreo y gestión de eventos
-    - D. Gestión de solicitudes de servicio
+21. Identifique las palabras que faltan en el siguiente enunciado. El propósito de la práctica de gestión de la configuración de servicios consiste en asegurar que la información precisa y confiable sobre la configuración de servicios y los [?] detrás de estos, esté disponible en el momento y lugar que se requiera.
+    - A. proveedores
+    - B. elementos de configuración
+    - C. clientes
+    - D. activos
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: C
+      Correct answer: B
     </details>
 
 
-27. ¿Qué rol sería el MÁS adecuado para un recién graduado con grandes niveles de empatía y entendimiento de las problemáticas del negocio? También tiene buenas habilidades de comunicación, elevada inteligencia emocional y un amplio entendimiento de la tecnología de TI.
-    - A. Analista de problemas
-    - B. Autoridad de cambios
-    - C. Agente de la mesa de servicios
-    - D. Gerente de niveles de servicio
+22. ¿Qué opción describe MEJOR el propósito de la actividad "mejorar" de la cadena de valor?
+    - A. Organizar una iniciativa de mejora mayor en muchas iniciativas más pequeñas
+    - B. Hacer que funciones y servicios, tanto nuevos como mejorados, estén disponibles para usarse
+    - C. Asegurar la comprensión compartida de la visión y el objetivo de mejora para todos los productos y servicios
+    - D. Mejorar de forma continua todos los productos y servicios en todas las actividades de la cadena de valor
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: C
+      Correct answer: D
     </details>
 
 
-28. ¿Qué práctica fomenta los vínculos con las partes interesadas a nivel estratégico y táctico?
-    - A. Gestión de relaciones
-    - B. Mejora continua
-    - C. Gestión de niveles de servicio
-    - D. Gestión de proveedores
+23. ¿Cuál es el propósito de la práctica de gestión de la seguridad de la información?
+    - A. Proteger la información que la organización necesita para llevar a cabo sus actividades empresariales
+    - B. Observar los servicios y sus componentes
+    - C. Asegurar que la información precisa y confiable sobre la configuración de servicios esté disponible cuando y donde se requiera
+    - D. Planificar y gestionar el ciclo de vida completo de todos los activos de TI
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: A
     </details>
 
 
-29. ¿Cuál de las siguientes opciones es una forma de aplicar el principio guía “foco en el valor”?
-    - A. Comprendiendo la totalidad, pero sin dejar de avanzar
-    - B. Reconociendo la complejidad de los sistemas
-    - C. Haciendo menos cosas, pero haciéndolas mejor
-    - D. Entendiendo cómo los consumidores de servicios utilizan los servicios
-    <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: D
-    </details>
-
-
-30. ¿Cuál de las siguientes opciones NO está recomendada por el principio guía “comience donde se encuentre”?
-    - A. Plantear preguntas que parezcan estúpidas
-    - B. Identificar qué está disponible para ser aprovechado
-    - C. Recopilar datos directamente de la fuente
-    - D. Construir algo completamente nuevo
-    <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: D
-    </details>
-
-
-31. ¿Cuál de las opciones siguientes es un uso de un registro de mejora continua?
-    - A. Describir los servicios diseñados para cumplir con las necesidades de un grupo de consumidores
-    - B. Seleccionar el método, modelo o técnica adecuados para identificar mejoras
-    - C. Planificar los cambios, asistir en la comunicación, evitar conflictos y asignar recursos
-    - D. Realizar el seguimiento y gestionar ideas de mejora desde la identificación hasta la acción final
-    <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: D
-    </details>
-
-
-32. ¿Qué práctica utiliza procedimientos definidos y estandarizados para habilitar la comunicación clara de los plazos de cumplimiento?
+24. ¿A qué práctica corresponde la gestión y propiedad de problemáticas, consultas y solicitudes de los usuarios?
     - A. Gestión de incidentes
-    - B. Gestión de solicitudes de servicio
-    - C. Gestión de niveles de servicio
+    - B. Mesa de servicios
+    - C. Control de cambios
     - D. Gestión de problemas
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: B
     </details>
 
 
-33. ¿Cuáles DOS de las opciones siguientes son consideraciones de la habilitación del cambio?
-    1. Gestionar los aspectos del cambio relacionados con las personas
-    2. Asegurar que las transformaciones organizacionales son exitosas
-    3. Maximizar el número de cambios de servicio exitosos
-    4. Asegurar que los cambios se evalúen adecuadamente
-    
-    A. 3 y 4
-    B. 1 y 2
-    C. 1 y 4
-    D. 2 y 3
-    <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: A
-    </details>
-
-
-34. ¿Cómo puede un consumidor de servicios contribuir con la reducción del riesgo?
-    - A. Al asegurar que los recursos del proveedor de servicios están correctamente configurados
-    - B. Al gestionar el nivel de riesgo detallado en representación del proveedor de servicios
-    - C. Al proveer el servicio de acuerdo con los requerimientos
-    - D. Al entender plenamente sus propios requerimientos para el servicio
-    <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: D
-    </details>
-
-
-35. ¿En qué caso se registraría un problema?
-    - A. Cuando se identifica la causa, pero no se resuelve
-    - B. Tras identificar y documentar una solución temporal
-    - C. Tras el análisis de la información sobre errores de un proveedor
-    - D. Cuando un usuario informa de una interrupción no planificada del servicio
-    <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: C
-    </details>
-
-
-36. Identifique la palabra que falta en el siguiente enunciado.
-    El propósito de la práctica de gestión de la configuración de servicios consiste en asegurar que la información precisa y confiable sobre la configuración de [?], y los elementos de configuración (CI) que los soportan, esté disponible en el momento y lugar que se requiera.
-    - A. Organizaciones
-    - B. Resultados
-    - C. Servicios
-    - D. Relaciones
-    <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: C
-    </details>
-
-
-37. ¿Qué práctica ayuda a asegurar que los servicios que se entregan a los clientes están alineados con sus necesidades?
-    - A. Gestión de niveles de servicio
-    - B. Gestión de problemas
-    - C. Habilitación del cambio
-    - D. Gestión de solicitudes de servicio
-    <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: A
-    </details>
-
-
-38. ¿Qué decisiones de gestión de solicitudes de servicio requieren que las políticas sean establecidas?
-    - A. Decidir cómo se resuelven las degradaciones del servicio
-    - B. Decidir qué solicitudes de servicio requieren aprobación
-    - C. Decidir cómo manejar las solicitudes de servicio cuando los pasos son desconocidos
-    - D. Decidir cuándo deberían utilizarse soluciones temporales
+25. ¿Qué práctica tiene el propósito de asegurar que los proveedores de una organización y sus niveles de desempeño se gestionan adecuadamente para posibilitar el suministro de productos y servicios de calidad sin interrupciones?
+    - A. Gestión de liberaciones
+    - B. Gestión de proveedores
+    - C. Gestión de servicios
+    - D. Gestión de relaciones
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: B
     </details>
 
 
-39. ¿Qué dimensión de la gestión de servicios tiene en cuenta cómo se coordinan las actividades?
-    - A. Procesos y flujos de valor
-    - B. Socios y proveedores
-    - C. Información y tecnología
-    - D. Organizaciones y personas
+26. ¿Cuáles son las habilidades MÁS importantes que debe tener el personal de la mesa de servicios?
+    - A. Habilidades para el análisis de incidentes
+    - B. Habilidades técnicas
+    - C. Habilidades para la resolución de problemas
+    - D. Habilidades para la gestión de proveedores
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: A
     </details>
 
 
-40. Un usuario se pone en contacto con la mesa de servicios para preguntar cómo puede crear un informe. ¿Qué práctica es MÁS PROBABLE que contribuya a resolver esta problemática?
-    - A. Gestión de niveles de servicio
-    - B. Gestión de solicitudes de servicio
-    - C. Habilitación del cambio
-    - D. Gestión de incidentes
+27. ¿Dónde se definen todos los detalles de los resultados de desempeño requeridos de un servicio?
+    - A. Acuerdos de niveles de servicio
+    - B. Solicitudes de servicio
+    - C. Componentes de servicio
+    - D. Ofertas de servicios
+    <details markdown=1><summary markdown='span'>Answer</summary>
+      Correct answer: A
+    </details>
+
+
+28. Una organización le pide a una parte interesada revisar un cambio planificado. ¿Qué principio guía demuestra esto?
+    - A. Colaborar y promover la visibilidad
+    - B. Comenzar donde esté
+    - C. Enfocarse en el valor
+    - D. Mantenerlo sencillo y práctico
+    <details markdown=1><summary markdown='span'>Answer</summary>
+      Correct answer: C
+    </details>
+
+
+29. ¿Cuál es el propósito de la práctica de gestión de la implementación?
+    - A. Asegurar que los servicios logren el desempeño acordado y esperado
+    - B. Hacer que los servicios nuevos o modificados estén disponibles para su uso
+    - C. Pasar los componentes nuevos o modificados a entornos de producción
+    - D. Definir con claridad los objetivos de desempeño comercial de los servicios
+    <details markdown=1><summary markdown='span'>Answer</summary>
+      Correct answer: C
+    </details>
+
+
+30. ¿Cuándo se debería hacer una evaluación de riesgos completa y la autorización en el caso de un cambio estándar?
+    - A. Cada vez que se implemente el cambio estándar
+    - B. Cuando se crea el procedimiento para el cambio estándar
+    - C. Por lo menos una vez al año
+    - D. Cuando se requiere un cambio de emergencia
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: B
+    </details>
+
+
+31. ¿Cuáles son dos prácticas que usan soluciones temporales?
+    - A. Control de cambios y mejora continua
+    - B. Control de cambios y gestión de problemas
+    - C. Gestión de problemas y gestión de incidentes
+    - D. Gestión de incidentes y mejora continua
+    <details markdown=1><summary markdown='span'>Answer</summary>
+      Correct answer: C
+    </details>
+
+
+32. ¿Qué afirmaciones acerca de la práctica de gestión de solicitudes de servicio son CORRECTAS? Selecciona DOS opciones.
+    1. Las solicitudes de servicio son parte normal de la entrega del servicio.
+    2. Las quejas se pueden tratar como solicitudes de servicio.
+    3. Las solicitudes de servicio son el resultado de una falla en el servicio.
+    4. Los cambios normales se deberían tratar como solicitudes de servicio.
+    - A. 1 y 2
+    - B. 2 y 3
+    - C. 3 y 4
+    - D. 1 y 4
+    <details markdown=1><summary markdown='span'>Answer</summary>
+      Correct answer: B
+    </details>
+
+
+33. ¿Qué práctica mejora la satisfacción del cliente y el usuario al reducir el impacto negativo de las interrupciones de servicio?
+    - A. Gestión de solicitudes de servicio
+    - B. Gestión de niveles de servicio
+    - C. Gestión de incidentes
+    - D. Control de cambios
+    <details markdown=1><summary markdown='span'>Answer</summary>
+      Correct answer: C
+    </details>
+
+
+34. ¿Qué dimensión se relaciona MÁS con las habilidades, las competencias, los roles y las responsabilidades?
+    - A. Organizaciones y personas
+    - B. Información y tecnología
+    - C. Socios y proveedores
+    - D. Procesos y flujos de valor
+    <details markdown=1><summary markdown='span'>Answer</summary>
+      Correct answer: A
+    </details>
+
+
+35. ¿En qué situaciones se deberían tener en cuenta los principios guía de ITIL? Selecciona DOS opciones.
+    1. En todas las iniciativas
+    2. En las relaciones con todas las partes interesadas
+    3. Solo en iniciativas específicas donde el principio sea relevante
+    4. Solo en relaciones específicas con partes interesadas donde el principio sea relevante
+    - A. 1 y 2
+    - B. 2 y 3
+    - C. 3 y 4
+    - D. 1 y 4
+    <details markdown=1><summary markdown='span'>Answer</summary>
+      Correct answer: A
+    </details>
+
+
+36. ¿Cuál de las siguientes opciones es un propósito de la gestión de liberaciones?
+    - A. Proteger la información de la organización
+    - B. Gestionar las solicitudes de servicio iniciadas por el usuario
+    - C. Hacer que tanto servicios nuevos como modificados estén disponibles para su uso
+    - D. Mover el hardware y el software a los entornos de producción
+    <details markdown=1><summary markdown='span'>Answer</summary>
+      Correct answer: C
+    </details>
+
+
+37. ¿Qué afirmación acerca de los pasos para satisfacer una solicitud de servicio es CORRECTA?
+    - A. Deberían ser complejos y detallados.
+    - B. Deberían ser conocidos y verificados.
+    - C. Deberían incluir el manejo de incidentes.
+    - D. Deberían ser breves y sencillos.
+    <details markdown=1><summary markdown='span'>Answer</summary>
+      Correct answer: B
+    </details>
+
+
+38. ¿Cuál es un requerimiento clave para lograr un acuerdo de nivel de servicio exitoso?
+    - A. Debería estar escrito en lenguaje legal.
+    - B. Debería estar escrito de manera simple y fácil de entender.
+    - C. Debería basarse en el punto de vista que el proveedor tiene del servicio.
+    - D. Debería estar relacionado con métricas operacionales simples.
+    <details markdown=1><summary markdown='span'>Answer</summary>
+      Correct answer: B
+    </details>
+
+39. ¿Qué se define como "cualquier componente que se necesite gestionar para entregar un servicio de TI"?
+    - A. Una solicitud de servicio
+    - B. Un elemento de configuración (CI)
+    - C. Un incidente
+    - D. Un activo de TI
+    <details markdown=1><summary markdown='span'>Answer</summary>
+      Correct answer: B
+    </details>
+
+40. ¿Qué opción representa una entrada externa en la cadena de valor del servicio?
+    - A. La actividad "mejorar" de la cadena de valor
+    - B. Un plan general
+    - C. Los requerimientos del cliente
+    - D. Los bucles de retroalimentación
+    <details markdown=1><summary markdown='span'>Answer</summary>
+      Correct answer: C
     </details>
 
 
