@@ -413,7 +413,7 @@ If this practice exam has been helpful to you please share it with others and re
     - C. Objetivos de negocio
     - D. Resultados de evaluación
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: D
+      Correct answer: ⚠️D, but as discussed with instructor it should be A⚠️
     </details>
 
 
