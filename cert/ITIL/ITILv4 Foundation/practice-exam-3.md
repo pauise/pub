@@ -411,5 +411,3 @@ If this practice exam has been helpful to you please share it with others and re
     </details>
 
 
-Please feel free to comment below if any information is inaccurate or if any answers need correction.
-
