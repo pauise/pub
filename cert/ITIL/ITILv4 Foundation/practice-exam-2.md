@@ -321,7 +321,7 @@ If this practice exam has been helpful to you please share it with others and re
     - C. 3 y 4
     - D. 1 y 4
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: B
+      Correct answer: A
     </details>
 
 
