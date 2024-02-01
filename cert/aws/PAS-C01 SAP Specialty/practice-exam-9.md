@@ -29,10 +29,10 @@ internet connection and an OpenVPN-compatible client. This approach meets the re
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: A
 
-> A – When you set up an SAP environment on AWS, you need to set up an SAP Solution Manager system and SAProuter with a connection to the SAP support network. When you set up the SAProuter and SAP support network connection, follow these guidelines:
-> Launch the instance that the SAProuter software is installed on into a public subnet of the VPC. Assign the instance an Elastic IP address.
-> Create a specific security group for the SAProuter instance with the necessary rules to allow the required inbound and outbound access to the SAP support network.
-> Use the Secure Network Communications (SNC. type of internet connection. For more information, see Remote Support in the SAP Support Portal. The SAP all-on-AWS architecture diagram provides an illustration of this architecture. In VPC security groups, it is possible to specify allow rules, but not deny rules.
+   > A – When you set up an SAP environment on AWS, you need to set up an SAP Solution Manager system and SAProuter with a connection to the SAP support network. When you set up the SAProuter and SAP support network connection, follow these guidelines:
+   > Launch the instance that the SAProuter software is installed on into a public subnet of the VPC. Assign the instance an Elastic IP address.
+   > Create a specific security group for the SAProuter instance with the necessary rules to allow the required inbound and outbound access to the SAP support network.
+   > Use the Secure Network Communications (SNC. type of internet connection. For more information, see Remote Support in the SAP Support Portal. The SAP all-on-AWS architecture diagram provides an illustration of this architecture. In VPC security groups, it is possible to specify allow rules, but not deny rules.
     </details>
 
 3. An SAP solutions architect needs to design a three-system SAP landscape that consists of a development system, a quality system, and a production system. The systems will run on Amazon EC2 instances. The development system and the quality system will run for 8 hours during weekdays. The production system will run 24 hours a day, 7 days a week. The size of the production system will increase significantly during the next year. The SAP solutions architect must create a design to ensure that production capacity is always available. Which combination of EC2 instance purchasing options will meet these requirements MOST cost-effectively? (**Select TWO.**)
@@ -46,7 +46,7 @@ internet connection and an OpenVPN-compatible client. This approach meets the re
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: AD
 
-> A, D – Because the development system and the quality system will run for only 8 hours each day on weekdays, On-Demand Instances are the most cost-effective purchasing option for these systems. SAP systems are stateful and cannot be abruptly interrupted, so Spot Instances are not appropriate for this scenario. The production system will continue to grow in size, and capacity needs to be guaranteed. A combination of Savings Plans and On-Demand Capacity Reservations will provide the most cost-effective purchasing option for the production system while also ensuring that capacity is available when it is needed. For more information about purchasing recommendations for SAP systems, see SAP on AWS Pricing Fundamentals in AWS documentation.
+   > A, D – Because the development system and the quality system will run for only 8 hours each day on weekdays, On-Demand Instances are the most cost-effective purchasing option for these systems. SAP systems are stateful and cannot be abruptly interrupted, so Spot Instances are not appropriate for this scenario. The production system will continue to grow in size, and capacity needs to be guaranteed. A combination of Savings Plans and On-Demand Capacity Reservations will provide the most cost-effective purchasing option for the production system while also ensuring that capacity is available when it is needed. For more information about purchasing recommendations for SAP systems, see SAP on AWS Pricing Fundamentals in AWS documentation.
     </details>
 
 4. An SAP technical architect is working on a high availability setup of an SAP application that is running
@@ -67,7 +67,7 @@ What should the SAP technical architect do to resolve this issue?
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: C
 
-> C – An overlay IP address must be configured to use a non-VPC CIDR block to access the active SAP instance. With overlay IP routing, you can allow the AWS network to use a non-overlapping RFC1918 private IP address that resides outside a VPC CIDR range and direct the SAP traffic to any instance setup across the Availability Zone within the VPC by changing the routing entry in AWS. Version 1.0 PAS-C01 © 2021, Amazon Web Services, Inc. or its affiliates. All rights reserved | aws.amazon.com 7 | PAGE IP address assignments within a VPC cannot extend across multiple Availability Zones or be reassigned to a secondary instance in a different Availability Zone during a failover scenario. For more information, see SAP on AWS High Availability Setup in AWS documentation.
+   > C – An overlay IP address must be configured to use a non-VPC CIDR block to access the active SAP instance. With overlay IP routing, you can allow the AWS network to use a non-overlapping RFC1918 private IP address that resides outside a VPC CIDR range and direct the SAP traffic to any instance setup across the Availability Zone within the VPC by changing the routing entry in AWS. Version 1.0 PAS-C01 © 2021, Amazon Web Services, Inc. or its affiliates. All rights reserved | aws.amazon.com 7 | PAGE IP address assignments within a VPC cannot extend across multiple Availability Zones or be reassigned to a secondary instance in a different Availability Zone during a failover scenario. For more information, see SAP on AWS High Availability Setup in AWS documentation.
     </details>
 
 5. A company has been using SAP S/4HANA with terabytes of data on premises to run its financial
@@ -86,7 +86,7 @@ Which solution will meet these requirements?
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: C
 
-> C – SAP HANA system replication will synchronize the new SAP HANA instance with the existing on-premises environment, as described in the AWS SAP migration guide. When the systems are synchronized, the company can cut over to this system without the need for the downtime that the other options would cause.
+   > C – SAP HANA system replication will synchronize the new SAP HANA instance with the existing on-premises environment, as described in the AWS SAP migration guide. When the systems are synchronized, the company can cut over to this system without the need for the downtime that the other options would cause.
     </details>
 
 6. A company's SAP production workloads are running in an on-premises environment on VMs on the
@@ -105,7 +105,7 @@ Which solution meets these requirements?
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: D
 
-> D – AWS Server Migration Service (AWS SMS. will minimize downtime for this migration by supporting the migration of multiple VMs from on premises. This solution is also the only answer option that will not involve the deployment of agents to the source machines.
+   > D – AWS Server Migration Service (AWS SMS. will minimize downtime for this migration by supporting the migration of multiple VMs from on premises. This solution is also the only answer option that will not involve the deployment of agents to the source machines.
     </details>
 
 7. A company is running its SAP workload on Oracle and VMware. The company needs to change the
@@ -121,7 +121,7 @@ Which solutions can the company use to achieve this goal? (**Select TWO.**)
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: AC
 
-> A, C – SAP Software Provisioning Manager and SAP Software Update Manager (SUM. Database Migration Option (DMO. with System Move support heterogeneous migrations in which the backend database environment changes. In this case, the migration is from an anyDB environment to an SAP HANA environment. Neither AWS Application Migration Service (CloudEndure Migration. nor VM Import/Export on AWS can be used for heterogeneous migrations. AWS Database Migration Service (AWS DMS. does not support SAP HANA as a target.
+   > A, C – SAP Software Provisioning Manager and SAP Software Update Manager (SUM. Database Migration Option (DMO. with System Move support heterogeneous migrations in which the backend database environment changes. In this case, the migration is from an anyDB environment to an SAP HANA environment. Neither AWS Application Migration Service (CloudEndure Migration. nor VM Import/Export on AWS can be used for heterogeneous migrations. AWS Database Migration Service (AWS DMS. does not support SAP HANA as a target.
     </details>
 
 8. As part of checks before an upgrade, an SAP solutions architect is gathering information about a
@@ -138,7 +138,7 @@ What could be the cause of this issue?
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: A
 
-> A – The ST06 transaction depends on data from the AWS Data Provider for SAP agent to make the AWS environmental data available. The SAP HANA monitoring agent provides different information to the monitoring environment. The Amazon CloudWatch agent does not feed the SAP monitoring environment, but the CloudWatch agent makes that information available to CloudWatch. The AWS DataSync agent has nothing to do with monitoring.
+   > A – The ST06 transaction depends on data from the AWS Data Provider for SAP agent to make the AWS environmental data available. The SAP HANA monitoring agent provides different information to the monitoring environment. The Amazon CloudWatch agent does not feed the SAP monitoring environment, but the CloudWatch agent makes that information available to CloudWatch. The AWS DataSync agent has nothing to do with monitoring.
     </details>
 
 9. A company has been using a third-party backup tool that uses backint for data protection of SAP
@@ -159,5 +159,5 @@ Which solutions will meet these requirements? (**Select TWO.**)
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: BD
 
-> B, D – The rate of the backup of the SAP HANA database is affected by the available throughput to and from the /hana/data volume. Two ways to improve the backup performance are to increase the IOPS available from the underlying Amazon Elastic Block Store (Amazon EBS. volumes and to increase the number of parallel backup channels. The other options will not affect the performance meaningfully. Amazon S3 bucket size does not influence available throughput, and S3 Transfer Acceleration supports performance for global users rather than the single case of the SAP backup. 
+   > B, D – The rate of the backup of the SAP HANA database is affected by the available throughput to and from the /hana/data volume. Two ways to improve the backup performance are to increase the IOPS available from the underlying Amazon Elastic Block Store (Amazon EBS. volumes and to increase the number of parallel backup channels. The other options will not affect the performance meaningfully. Amazon S3 bucket size does not influence available throughput, and S3 Transfer Acceleration supports performance for global users rather than the single case of the SAP backup. 
     </details>
