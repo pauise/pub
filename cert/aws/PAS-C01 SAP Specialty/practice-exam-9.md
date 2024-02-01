@@ -1,416 +1,190 @@
-# Practice Exam 2
+# Practice Exam 9
 
 Click on the **Answer** button for the correct answer and its explanation.
 
 If this practice exam has been helpful to you please share it with others and react to this below.
 
+Source: https://d1.awsstatic.com/training-and-certification/docs-sap-on-aws-specialty/SAP-on-AWS-Specialty_Sample-Questions.pdf
 ---
 
-1. ¿Qué principio guía propicia una respuesta más rápida a las necesidades de los clientes mediante actividades con tiempos reviamente acordados para su cumplimiento y el aprendizaje a partir de las salidas de actividades anteriores?
-    - A. Progrese de forma iterativa con retroalimentación
-    - B. Optimice y automatice
-    - C. Foco en el valor
-    - D. Colabore y promueva la visibilidad
-    <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: A
-    </details>
+1. A company is planning to lift and shift its on-premises SAP Business Suite on SAP HANA workload to AWS. The production database is 15 TB in size. The downtime for production migration is limited to a few hours. The company will use SAP HANA system replication to migrate the SAP HANA database. After migration to AWS, the company's remote workforce and business partners need to connect to this SAP Business Suite on SAP HANA instance with an internet connection and an OpenVPNcompatible client in a secure way. Which connectivity solution will meet these requirements?
+   - A. Use a direct internet connection with a single public subnet and an internet gateway during and after migration to AWS.
+   - B. Use an AWS Site-to-Site VPN connection during migration. Use an AWS Direct Connect connection after migration to AWS.
+   - C. Use an AWS Direct Connect connection during migration. Use an AWS Site-to-Site VPN connection after migration to AWS.
+   - D. Use an AWS Direct Connect connection during migration. Use an AWS Client VPN connection after migration to AWS.
+A
 
-2. ¿Qué práctica tiene un propósito que incluye maximizar el número de adiciones, modificaciones o eliminaciones exitosas de cualquier aspecto que pueda tener un efecto en un servicio?
-   - A. Habilitación del cambio
-   - B. Gestión de solicitudes de servicio
-   - C. Gestión de incidencias
-   - D. Mesa de servicios
-    <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: A
-    </details>
+2. A global retail company wants to move its SAP application to AWS. Currently, the company's SAProuter is in the DMZ in the company's own data center. The company wants to keep a similar architecture in the AWS Cloud. What is the MOST secure solution that meets these requirements?
+    - A. Launch the instance that the SAProuter software is installed on into a public subnet of the VPC. Assign the instance an Elastic IP address. Use the Secure Network Communications (SNC. type of internet connection). Create a specific security group for the SAProuter instance. Include rules to allow the required inbound and outbound access to the SAP support network.
+    - B. Launch the instance that the SAProuter software is installed on into a private subnet of the VPC. Assign the instance an Elastic IP address. Do not allow any inbound or outbound access to the SAP support network over the internet.
+    - C. Launch the instance that the SAProuter software is installed on into a public subnet of the VPC. Assign the instance an Elastic IP address. Use an unencrypted internet connection. Create a specific security group for the SAProuter instance. Include rules to allow all inbound and outbound access to the SAP support network.
+    - D. Launch the instance that the SAProuter software is installed on into a public subnet of the VPC. Assign the instance an Elastic IP address. Use the Secure Network Communications (SNC. type of internet connection). Create a specific security group for the SAProuter instance. Include rules to block all inbound and outbound access to the SAP support network.
+A
 
-3. ¿En qué situación gestión de incidentes utilizará NORMALMENTE un proceso independiente?
-   - A. Cuando debe diagnosticarse la causa
-   - B. Para incidentes de bajo impacto
-   - C. Cuando no exista un plazo de resolución objetivo
-   - D. Para incidentes de seguridad de la información
-    <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: D
-    </details>
+3. An SAP solutions architect needs to design a three-system SAP landscape that consists of a development system, a quality system, and a production system. The systems will run on Amazon EC2 instances. The development system and the quality system will run for 8 hours during weekdays. The production system will run 24 hours a day, 7 days a week. The size of the production system will increase significantly during the next year. The SAP solutions architect must create a design to ensure that production capacity is always available. Which combination of EC2 instance purchasing options will meet these requirements MOST cost-effectively? (Select TWO.)
 
-4. ¿Qué práctica minimiza el impacto en la operación normal del servicio al gestionar recursos en respuesta a reducciones no planificadas de la calidad del servicio?
-   - A. Gestión de niveles de servicio
-   - B. Habilitación del cambio
-   - C. Mejora continua
-   - D. Gestión de incidentes
-    <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: D
-    </details>
+    - A. On-Demand Instances for the development system and the quality system
+    - B. Spot Instances for the development system and the quality system
+    - C. Spot Instances for the production system
+    - D. EC2 Instance Savings Plan with On-Demand Capacity Reservations for the production system
+    - E. On-Demand Instances for the production system
+AD
 
-5. ¿Qué práctica utiliza los métodos de Lean, Agile y DevOps?
-   - A. Gestión de incidentes
-   - B. Mejora continua
-   - C. Mesa de servicios
-   - D. Gestión de problemas
-    <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: B
-    </details>
+4. An SAP technical architect is working on a high availability setup of an SAP application that is running
+on an SAP HANA database in the AWS Cloud. Primary and secondary SAP HANA databases are running
+in separate private subnets in different Availability Zones within an AWS Region. The clustering
+solution is using SUSE Linux Enterprise High Availability Extension.
+The VPC CIDR range where these SAP systems are hosted is 10.0.0.0/16. The overlay IP address that is
+assigned for the ASCS/ERS cluster is 10.9.9.9. The overlay IP address that is assigned for the SAP
+HANA cluster is 10.0.9.9. SAP HANA system replication is configured, but the cluster solution for the
+SAP HANA database is not working.
+What should the SAP technical architect do to resolve this issue?
 
-6. Identifique la palabra que falta en el siguiente enunciado.
-   Patrocinador es el rol que autoriza el presupuesto para el/la [?] de servicios.
-   - A. Provisión
-   - B. Valor
-   - C. gestión
-   - D. consumo
-    <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: D
-    </details>
+    - A. Determine whether the SAP HANA instances have an assigned public IP address. If they do nothave an assigned public IP address, assign a public IP address and try again.
+    - B. Change the VPC CIDR range to 10.0.0.0/8 to accommodate the overlay IP address assignment.
+    - C. Use a different overlay IP address that is outside the VPC CIDR range for the SAP HANA cluster.
+    - D. Configure SAP HANA system replication after the cluster setup is complete.
 
-7. ¿Qué afirmación sobre las ofertas de servicios es CORRECTA?
-   - A. El mismo producto puede servir de base para más de una oferta de servicios
-   - B. Las ofertas de servicios describen cómo proveedores y consumidores cooperan para co-crear valor
-   - C. Cada servicio debería ser descrito a los consumidores como una única oferta de servicios
-   - D. Las ofertas de servicios incluyen la transferencia de bienes del consumidor hacia el proveedor
-    <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: A
-    </details>
+5. A company has been using SAP S/4HANA with terabytes of data on premises to run its financial
+system. The company needs to migrate the SAP landscape to AWS. The on-premises data center is
+connected to an AWS Region through a 1 Gbps AWS Direct Connect connection. The company's
+networking team has ensured that the full bandwidth is available for the SAP migration project. An
+SAP solutions architect needs to migrate the on-premises systems by implementing a solution that
+minimizes downtime.
+Which solution will meet these requirements?
 
-8. ¿Para cuál de las siguientes opciones se utiliza un calendario de cambios?
-   - A. Proporcionar información sobre los cambios implementados para ayudar a gestionar incidentes y problemas
-   - B. Realizar el seguimiento y gestionar ideas de mejora desde la identificación hasta la acción final
-   - C. Acelerar la planificación y autorización de los cambios de emergencia
-   - D. Proporcionar un medio para iniciar y evaluar los cambios normales.
-    <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: A
-    </details>
+A. Use Amazon S3 Transfer Acceleration to perform backup and restore.
+B. Use SAP Software Update Manager (SUM. Database Migration Option (DMO. with System Move
+for migration. Use AWS Snowball to transfer the export files.
+C. Use SAP HANA system replication.
+D. Use SAP classical export/import (R3load based).
 
+Version 1.0 PAS-C01 © 2021, Amazon Web Services, Inc. or its affiliates. All rights reserved | aws.amazon.com 4 | PAGE
+6. A company's SAP production workloads are running in an on-premises environment on VMs on the
+VMware vSphere and Microsoft Hyper-V platforms. The company needs to move its SAP workloads to
+AWS.
+An SAP solutions architect is planning to move the on-premises SAP VMs in parallel to the AWS Cloud.
+The migration solution must minimize downtime and must not affect the SAP system's performance
+during the migration. For security purposes, no tool or agent can be installed for the migration.
+Which solution meets these requirements?
 
-9. ¿Qué afirmación sobre los flujos de valor es CORRECTA?
-    - A. Cada flujo de valor debe diseñarse para una situación específica
-    - B. Cada flujo de valor debe incluir proveedores o socios
-    - C. Cada flujo de valor debe incluir todas las seis actividades de la acadena de valor
-    - D. Cada flujo de valor debe incliur todas las 34 prácticas de ITIL
-    <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: A
-    </details>
+A. Use AWS Application Migration Service (CloudEndure Migration. to set up a lightweight replication
+server. Perform cutover by launching Amazon EC2 instances based on the designed blueprint.
+B. Use the AWS CLI to export the VMs into OVA files. Upload the OVA files into Amazon S3 by using
+S3 multipart upload. Import the OVA files by using the ec2 import-image command.
+C. Use AWS Application Discovery Service with AWS Migration Hub to collect server specification
+information. Initiate the VM migration through the Migration Hub console.
+D. Use AWS Server Migration Service (AWS SMS. to set up a replication job that replicates the
+on-premises VMs to AWS as AMIs.
+7. A company is running its SAP workload on Oracle and VMware. The company needs to change the
+platform to AWS and migrate the SAP workload from Oracle to an SAP HANA database.
+Which solutions can the company use to achieve this goal? (Select TWO.)
 
+A. Change the platform and migrate the SAP workload by using SAP Software Provisioning Manager.
+B. Change the platform and migrate the SAP workload by using AWS Application Migration Service
+(CloudEndure Migration).
+C. Change the platform and migrate the SAP workload by using SAP Software Update Manager
+(SUM. Database Migration Option (DMO. with System Move.
+D. Migrate the database by using AWS Database Migration Service (AWS DMS). Migrate the SAP
+workload by using AWS Application Migration Service (CloudEndure Migration).
+E. Change the platform and migrate the SAP workload by using VM Import/Export on AWS.
 
-10. ¿Cuál de las opciones siguientes forma parte de las propuestas de valor de un servicio?
-    - A. Costos que el servicio impone al consumidor
-    - B. Salidas del servicio recibidas por el consumidor
-    - C. Costos que el servicio elimina al consumidor
-    - D. Riesgos que el servicio impone al consumidor
-    <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: C
-    </details>
+Version 1.0 PAS-C01 © 2021, Amazon Web Services, Inc. or its affiliates. All rights reserved | aws.amazon.com 5 | PAGE
+8. As part of checks before an upgrade, an SAP solutions architect is gathering information about a
+production SAP instance that is running on AWS. In SAP transaction ST06, monitoring information that
+is related to only AWS infrastructure of the SAP system is not available. However, other SAP
+application-level information is present.
+What could be the cause of this issue?
 
+A. The AWS Data Provider for SAP agent is not installed or has an error.
+B. The Amazon CloudWatch agent is not installed or has an error.
+C. The SAP HANA monitoring agent is not installed or has an error.
+D. The AWS DataSync agent is not installed or has an error.
+9. A company has been using a third-party backup tool that uses backint for data protection of SAP
+HANA on AWS. Because of cost and the effort that is required to maintain the dedicated backup server,
+the company is considering the use of AWS Backint Agent for SAP HANA.
+The SAP HANA system uses General Purpose SSD (gp2. Amazon Elastic Block Store (Amazon EBS)
+volumes for the SAP HANA data volumes and log volumes. Backup files are stored in an Amazon S3
+bucket. An SAP solutions architect is setting up a proof-of-concept deployment for this new
+environment and needs to improve the speed of the database backup and restore procedures.
+Which solutions will meet these requirements? (Select TWO.)
 
-11. ¿Por qué un gerente de niveles de servicio debería realizar revisiones periódicas del servicio?
-    - A. Para asegurar la mejora continua de los servicios, de modo que respondan a las necesidades cambiantes de los consumidores de servicios
-    - B. Para capturar información sobre las problemáticas y el desempeño del servicio con respecto a los objetivos acordados
-    - C. Para asegurar que los acuerdos están redactados de forma sencilla y son fáciles de entender
-    - D. Para recopilar información sobre las metas y objetivos de los consumidores de servicios
-    <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: B
-    </details>
+A. Increase the S3 bucket size. Ensure that access to the S3 bucket comes from an Amazon EC2
+instance in the same AWS Region.
+B. Adjust the number of parallel backup channels by increasing the value of the
+parallel_data_backup_backint_channels SAP HANA parameter.
+C. Use S3 Transfer Acceleration to configure transfer of backup files.
+D. Check how much storage throughput is available to the SAP HANA EBS data volumes
+(/hana/data). Modify the SAP HANA EBS data volumes to a Provisioned IOPS SSD volume type,
+and try the backup again.
+E. Enable deduplication for the backup files.
 
-
-12. Un defecto en una aplicación puede provocar que un servicio falle. El personal de TI está analizando activamente la aplicación para tratar de entender qué sucede. ¿Cuál es el nombre correcto de este tipo de defecto?
-    - A. Error conocido
-    - B. Incidente
-    - C. Problema
-    - D. Evento
-    <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: C
-    </details>
-
-
-13. ¿Qué actividad de la cadena de valor soporta que la actividad de servicio continuo cumple las expectativas de los usuarios?
-    - A. Obtener/construir
-    - B. Involucrar
-    - C. Planear
-    - D. Entregar y soportar
-    <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: D
-    </details>
-
-
-14. ¿Qué propósito de la práctica incluye la creación de relaciones más estrechas y colaborativas?
-    - A. Gestión de liberaciones
-    - B. Gestión de proveedores
-    - C. Gestión de la configuración de servicios
-    - D. Gestión de la seguridad de la información
-    <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: B
-    </details>
-
-
-15. ¿Cuáles DOS de las siguientes opciones son entradas para el sistema de valor de servicio?
-    1. Demanda
-    2. Productos
-    3. Valor
-    4. Oportunidad
+Version 1.0 PAS-C01 © 2021, Amazon Web Services, Inc. or its affiliates. All rights reserved | aws.amazon.com 6 | PAGE
+Answers
+1. D – A dedicated network connection and low latency are required for the transfer of 15 TB of data
+over the network in the time allocated for the migration. AWS Direct Connect meets this purpose. The
+company would need 3 hours to transfer 15 TB of data by using a 10 Gbps Direct Connect connection.
+AWS Client VPN provides a fully managed VPN service that can be accessed from anywhere with an
+internet connection and an OpenVPN-compatible client. This approach meets the requirements to
+allow the company's remote workforce and business partners to connect to the SAP landscape in a
+secure manner.
+2. A – When you set up an SAP environment on AWS, you need to set up an SAP Solution Manager
+system and SAProuter with a connection to the SAP support network. When you set up the SAProuter
+and SAP support network connection, follow these guidelines:
+• Launch the instance that the SAProuter software is installed on into a public subnet of the
+VPC. Assign the instance an Elastic IP address.
+• Create a specific security group for the SAProuter instance with the necessary rules to allow
+the required inbound and outbound access to the SAP support network.
+• Use the Secure Network Communications (SNC. type of internet connection. For more
+information, see Remote Support in the SAP Support Portal.
+The SAP all-on-AWS architecture diagram provides an illustration of this architecture.
+In VPC security groups, it is possible to specify allow rules, but not deny rules.
+3. A, D – Because the development system and the quality system will run for only 8 hours each day on
+weekdays, On-Demand Instances are the most cost-effective purchasing option for these systems. SAP
+systems are stateful and cannot be abruptly interrupted, so Spot Instances are not appropriate for this
+scenario.
+The production system will continue to grow in size, and capacity needs to be guaranteed. A
+combination of Savings Plans and On-Demand Capacity Reservations will provide the most
+cost-effective purchasing option for the production system while also ensuring that capacity is
+available when it is needed.
+For more information about purchasing recommendations for SAP systems, see SAP on AWS Pricing
+Fundamentals in AWS documentation.
+4. C – An overlay IP address must be configured to use a non-VPC CIDR block to access the active SAP
+instance. With overlay IP routing, you can allow the AWS network to use a non-overlapping RFC1918
+private IP address that resides outside a VPC CIDR range and direct the SAP traffic to any instance
+setup across the Availability Zone within the VPC by changing the routing entry in AWS.
+Version 1.0 PAS-C01 © 2021, Amazon Web Services, Inc. or its affiliates. All rights reserved | aws.amazon.com 7 | PAGE
+IP address assignments within a VPC cannot extend across multiple Availability Zones or be reassigned
+to a secondary instance in a different Availability Zone during a failover scenario.
+For more information, see SAP on AWS High Availability Setup in AWS documentation.
+5. C – SAP HANA system replication will synchronize the new SAP HANA instance with the existing
+on-premises environment, as described in the AWS SAP migration guide. When the systems are
+synchronized, the company can cut over to this system without the need for the downtime that the
+other options would cause.
+6. D – AWS Server Migration Service (AWS SMS. will minimize downtime for this migration by supporting
+the migration of multiple VMs from on premises. This solution is also the only answer option that will
+not involve the deployment of agents to the source machines.
+7. A, C – SAP Software Provisioning Manager and SAP Software Update Manager (SUM. Database
+Migration Option (DMO. with System Move support heterogeneous migrations in which the backend
+database environment changes. In this case, the migration is from an anyDB environment to an SAP
+HANA environment. Neither AWS Application Migration Service (CloudEndure Migration. nor VM
+Import/Export on AWS can be used for heterogeneous migrations. AWS Database Migration Service
+(AWS DMS. does not support SAP HANA as a target.
+8. A – The ST06 transaction depends on data from the AWS Data Provider for SAP agent to make the
+AWS environmental data available. The SAP HANA monitoring agent provides different information to
+the monitoring environment. The Amazon CloudWatch agent does not feed the SAP monitoring
+environment, but the CloudWatch agent makes that information available to CloudWatch. The AWS
+DataSync agent has nothing to do with monitoring.
+9. B, D – The rate of the backup of the SAP HANA database is affected by the available throughput to
+and from the /hana/data volume. Two ways to improve the backup performance are to increase the
+IOPS available from the underlying Amazon Elastic Block Store (Amazon EBS. volumes and to increase
+the number of parallel backup channels. The other options will not affect the performance
+meaningfully. Amazon S3 bucket size does not influence available throughput, and S3 Transfer
+Acceleration supports performance for global users rather than the single case of the SAP backup.
     
-    - A. 3 y 4
-    - B. 2 y 3
-    - C. 1 y 4
-    - D. 1 y 2
-    <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: C
-    </details>
-
-
-16. ¿Qué rol sería el MÁS adecuado para alguien con amplia experiencia de trabajo en roles de TI y del negocio? También tiene experiencia en la gestión de las relaciones con diversas partes interesadas, incluidos proveedores y gerentes del negocio.
-    - A. Gerente de niveles de servicio
-    - B. Analista de problemas
-    - C. Autoridad de cambios
-    - D. Agente de la mesa de servicios
-    <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: A
-    </details>
-
-
-17. ¿Qué representa la adición, modificación o eliminación de cualquier aspecto que pueda afectar a los servicios?
-    - A. Un incidente
-    - B. Un cambio
-    - C. Un evento
-    - D. Un problema
-    <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: B
-    </details>
-
-
-18. ¿Qué principio guía recomienda tener en cuenta las cuatro dimensiones para que algo sea tan eficaz y útil como debe ser?
-    - A. Optimice y automatice
-    - B. Piense y trabaje holísticamente
-    - C. Comience donde se encuentre
-    - D. Foco en el valor
-    <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: B
-    </details>
-
-
-19. ¿Qué práctica es MÁS PROBABLE que haga uso de inteligencia artificial, automatización robótica de procesos y chatbots?
-    - A. Gestión de incidentes
-    - B. Mesa de servicios
-    - C. Gestión de problemas
-    - D. Mejora continua
-    <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: B
-    </details>
-
-
-20. ¿Qué es un problema que se ha analizado, pero no se ha resuelto?
-    - A. Incidente
-    - B. Error conocido
-    - C. Evento
-    - D. Solución temporal
-    <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: B
-    </details>
-
-
-21. ¿Qué se describe en la dimensión “organizaciones y personas” de la gestión de servicios?
-    - A. Entrada y salidas
-    - B. Flujos de trabajo y controles
-    - C. Contratos y acuerdos
-    - D. Comunicación y colaboración
-    <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: D
-    </details>
-
-
-22. ¿Qué facilita los resultados que los clientes desean conseguir?
-    - A. Activo de TI
-    - B. Garantía
-    - C. Organización
-    - D. Servicio
-    <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: D
-    </details>
-
-
-23. ¿Qué práctica recomienda que las organizaciones desarrollen competencias en técnicas como análisis de fortalezas, oportunidades, debilidades y amenazas (FODA) y cuadros de mando integral?
-    - A. Gestión de incidentes
-    - B. Habilitación del cambio
-    - C. Mejora continua
-    - D. Gestión de solicitudes de servicio
-    <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: C
-    </details>
-
-
-24. ¿Qué concepto de ITIL ayuda a una organización a tomar buenas decisiones?
-    - A. Principios guía
-    - B. Prácticas
-    - C. Cadena de valor del servicio
-    - D. Cuatro dimensiones de la gestión de servicios
-    <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: A
-    </details>
-
-
-25. ¿Cuál de las siguientes opciones es una recomendación para aplicar el principio guía “manténgalo simple y práctico”?
-    - A. A veces, no hay nada del estado actual que pueda reutilizarse
-    - B. Rápido no es sinónimo de incompleto
-    - C. Comuníquese de forma que el público pueda escuchar
-    - D. Si una práctica es más fácil de seguir, es más probable que se adopte
-    <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: D
-    </details>
-
-
-26. ¿Qué práctica tiene un propósito que incluye la respuesta a las condiciones que podrían provocar fallas o incidentes potenciales?
-    - A. Habilitación del cambio
-    - B. Gestión de incidentes
-    - C. Monitoreo y gestión de eventos
-    - D. Gestión de solicitudes de servicio
-    <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: C
-    </details>
-
-
-27. ¿Qué rol sería el MÁS adecuado para un recién graduado con grandes niveles de empatía y entendimiento de las problemáticas del negocio? También tiene buenas habilidades de comunicación, elevada inteligencia emocional y un amplio entendimiento de la tecnología de TI.
-    - A. Analista de problemas
-    - B. Autoridad de cambios
-    - C. Agente de la mesa de servicios
-    - D. Gerente de niveles de servicio
-    <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: C
-    </details>
-
-
-28. ¿Qué práctica fomenta los vínculos con las partes interesadas a nivel estratégico y táctico?
-    - A. Gestión de relaciones
-    - B. Mejora continua
-    - C. Gestión de niveles de servicio
-    - D. Gestión de proveedores
-    <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: A
-    </details>
-
-
-29. ¿Cuál de las siguientes opciones es una forma de aplicar el principio guía “foco en el valor”?
-    - A. Comprendiendo la totalidad, pero sin dejar de avanzar
-    - B. Reconociendo la complejidad de los sistemas
-    - C. Haciendo menos cosas, pero haciéndolas mejor
-    - D. Entendiendo cómo los consumidores de servicios utilizan los servicios
-    <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: D
-    </details>
-
-
-30. ¿Cuál de las siguientes opciones NO está recomendada por el principio guía “comience donde se encuentre”?
-    - A. Plantear preguntas que parezcan estúpidas
-    - B. Identificar qué está disponible para ser aprovechado
-    - C. Recopilar datos directamente de la fuente
-    - D. Construir algo completamente nuevo
-    <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: D
-    </details>
-
-
-31. ¿Cuál de las opciones siguientes es un uso de un registro de mejora continua?
-    - A. Describir los servicios diseñados para cumplir con las necesidades de un grupo de consumidores
-    - B. Seleccionar el método, modelo o técnica adecuados para identificar mejoras
-    - C. Planificar los cambios, asistir en la comunicación, evitar conflictos y asignar recursos
-    - D. Realizar el seguimiento y gestionar ideas de mejora desde la identificación hasta la acción final
-    <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: D
-    </details>
-
-
-32. ¿Qué práctica utiliza procedimientos definidos y estandarizados para habilitar la comunicación clara de los plazos de cumplimiento?
-    - A. Gestión de incidentes
-    - B. Gestión de solicitudes de servicio
-    - C. Gestión de niveles de servicio
-    - D. Gestión de problemas
-    <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: B
-    </details>
-
-
-33. ¿Cuáles DOS de las opciones siguientes son consideraciones de la habilitación del cambio?
-    1. Gestionar los aspectos del cambio relacionados con las personas
-    2. Asegurar que las transformaciones organizacionales son exitosas
-    3. Maximizar el número de cambios de servicio exitosos
-    4. Asegurar que los cambios se evalúen adecuadamente
     
-    A. 3 y 4
-    B. 1 y 2
-    C. 1 y 4
-    D. 2 y 3
-    <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: A
-    </details>
-
-
-34. ¿Cómo puede un consumidor de servicios contribuir con la reducción del riesgo?
-    - A. Al asegurar que los recursos del proveedor de servicios están correctamente configurados
-    - B. Al gestionar el nivel de riesgo detallado en representación del proveedor de servicios
-    - C. Al proveer el servicio de acuerdo con los requerimientos
-    - D. Al entender plenamente sus propios requerimientos para el servicio
-    <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: D
-    </details>
-
-
-35. ¿En qué caso se registraría un problema?
-    - A. Cuando se identifica la causa, pero no se resuelve
-    - B. Tras identificar y documentar una solución temporal
-    - C. Tras el análisis de la información sobre errores de un proveedor
-    - D. Cuando un usuario informa de una interrupción no planificada del servicio
-    <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: C
-    </details>
-
-
-36. Identifique la palabra que falta en el siguiente enunciado.
-    El propósito de la práctica de gestión de la configuración de servicios consiste en asegurar que la información precisa y confiable sobre la configuración de [?], y los elementos de configuración (CI) que los soportan, esté disponible en el momento y lugar que se requiera.
-    - A. Organizaciones
-    - B. Resultados
-    - C. Servicios
-    - D. Relaciones
-    <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: C
-    </details>
-
-
-37. ¿Qué práctica ayuda a asegurar que los servicios que se entregan a los clientes están alineados con sus necesidades?
-    - A. Gestión de niveles de servicio
-    - B. Gestión de problemas
-    - C. Habilitación del cambio
-    - D. Gestión de solicitudes de servicio
-    <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: A
-    </details>
-
-
-38. ¿Qué decisiones de gestión de solicitudes de servicio requieren que las políticas sean establecidas?
-    - A. Decidir cómo se resuelven las degradaciones del servicio
-    - B. Decidir qué solicitudes de servicio requieren aprobación
-    - C. Decidir cómo manejar las solicitudes de servicio cuando los pasos son desconocidos
-    - D. Decidir cuándo deberían utilizarse soluciones temporales
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: B
     </details>
 
 
-39. ¿Qué dimensión de la gestión de servicios tiene en cuenta cómo se coordinan las actividades?
-    - A. Procesos y flujos de valor
-    - B. Socios y proveedores
-    - C. Información y tecnología
-    - D. Organizaciones y personas
-    <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: A
-    </details>
-
-
-40. Un usuario se pone en contacto con la mesa de servicios para preguntar cómo puede crear un informe. ¿Qué práctica es MÁS PROBABLE que contribuya a resolver esta problemática?
-    - A. Gestión de niveles de servicio
-    - B. Gestión de solicitudes de servicio
-    - C. Habilitación del cambio
-    - D. Gestión de incidentes
-    <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: B
-    </details>
-
-
-Please feel free to comment below if any information is inaccurate or if any answers need correction.
-
-[<img align="center" src="../images/list.png" height="30" width="30"/> Exam List](../practice-exam/exams.md)
