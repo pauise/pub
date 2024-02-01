@@ -12,23 +12,42 @@ Source: https://d1.awsstatic.com/training-and-certification/docs-sap-on-aws-spec
    - B. Use an AWS Site-to-Site VPN connection during migration. Use an AWS Direct Connect connection after migration to AWS.
    - C. Use an AWS Direct Connect connection during migration. Use an AWS Site-to-Site VPN connection after migration to AWS.
    - D. Use an AWS Direct Connect connection during migration. Use an AWS Client VPN connection after migration to AWS.
-A
+    <details markdown=1><summary markdown='span'>Answer</summary>
+      Correct answer: D
+    </details>
+
+> D – A dedicated network connection and low latency are required for the transfer of 15 TB of data over the network in the time allocated for the migration. AWS Direct Connect meets this purpose. The company would need 3 hours to transfer 15 TB of data by using a 10 Gbps Direct Connect connection. AWS Client VPN provides a fully managed VPN service that can be accessed from anywhere with an
+internet connection and an OpenVPN-compatible client. This approach meets the requirements to allow the company's remote workforce and business partners to connect to the SAP landscape in a secure manner.
+
 
 2. A global retail company wants to move its SAP application to AWS. Currently, the company's SAProuter is in the DMZ in the company's own data center. The company wants to keep a similar architecture in the AWS Cloud. What is the MOST secure solution that meets these requirements?
     - A. Launch the instance that the SAProuter software is installed on into a public subnet of the VPC. Assign the instance an Elastic IP address. Use the Secure Network Communications (SNC. type of internet connection). Create a specific security group for the SAProuter instance. Include rules to allow the required inbound and outbound access to the SAP support network.
     - B. Launch the instance that the SAProuter software is installed on into a private subnet of the VPC. Assign the instance an Elastic IP address. Do not allow any inbound or outbound access to the SAP support network over the internet.
     - C. Launch the instance that the SAProuter software is installed on into a public subnet of the VPC. Assign the instance an Elastic IP address. Use an unencrypted internet connection. Create a specific security group for the SAProuter instance. Include rules to allow all inbound and outbound access to the SAP support network.
     - D. Launch the instance that the SAProuter software is installed on into a public subnet of the VPC. Assign the instance an Elastic IP address. Use the Secure Network Communications (SNC. type of internet connection). Create a specific security group for the SAProuter instance. Include rules to block all inbound and outbound access to the SAP support network.
-A
 
-3. An SAP solutions architect needs to design a three-system SAP landscape that consists of a development system, a quality system, and a production system. The systems will run on Amazon EC2 instances. The development system and the quality system will run for 8 hours during weekdays. The production system will run 24 hours a day, 7 days a week. The size of the production system will increase significantly during the next year. The SAP solutions architect must create a design to ensure that production capacity is always available. Which combination of EC2 instance purchasing options will meet these requirements MOST cost-effectively? (Select TWO.)
+    <details markdown=1><summary markdown='span'>Answer</summary>
+      Correct answer: A
+    </details>
+
+> A – When you set up an SAP environment on AWS, you need to set up an SAP Solution Manager system and SAProuter with a connection to the SAP support network. When you set up the SAProuter and SAP support network connection, follow these guidelines:
+> Launch the instance that the SAProuter software is installed on into a public subnet of the VPC. Assign the instance an Elastic IP address.
+> Create a specific security group for the SAProuter instance with the necessary rules to allow the required inbound and outbound access to the SAP support network.
+> Use the Secure Network Communications (SNC. type of internet connection. For more information, see Remote Support in the SAP Support Portal. The SAP all-on-AWS architecture diagram provides an illustration of this architecture. In VPC security groups, it is possible to specify allow rules, but not deny rules.
+
+3. An SAP solutions architect needs to design a three-system SAP landscape that consists of a development system, a quality system, and a production system. The systems will run on Amazon EC2 instances. The development system and the quality system will run for 8 hours during weekdays. The production system will run 24 hours a day, 7 days a week. The size of the production system will increase significantly during the next year. The SAP solutions architect must create a design to ensure that production capacity is always available. Which combination of EC2 instance purchasing options will meet these requirements MOST cost-effectively? (**Select TWO.**)
 
     - A. On-Demand Instances for the development system and the quality system
     - B. Spot Instances for the development system and the quality system
     - C. Spot Instances for the production system
     - D. EC2 Instance Savings Plan with On-Demand Capacity Reservations for the production system
     - E. On-Demand Instances for the production system
-AD
+
+    <details markdown=1><summary markdown='span'>Answer</summary>
+      Correct answer: AD
+    </details>
+
+> A, D – Because the development system and the quality system will run for only 8 hours each day on weekdays, On-Demand Instances are the most cost-effective purchasing option for these systems. SAP systems are stateful and cannot be abruptly interrupted, so Spot Instances are not appropriate for this scenario. The production system will continue to grow in size, and capacity needs to be guaranteed. A combination of Savings Plans and On-Demand Capacity Reservations will provide the most cost-effective purchasing option for the production system while also ensuring that capacity is available when it is needed. For more information about purchasing recommendations for SAP systems, see SAP on AWS Pricing Fundamentals in AWS documentation.
 
 4. An SAP technical architect is working on a high availability setup of an SAP application that is running
 on an SAP HANA database in the AWS Cloud. Primary and secondary SAP HANA databases are running
@@ -45,6 +64,12 @@ What should the SAP technical architect do to resolve this issue?
     - C. Use a different overlay IP address that is outside the VPC CIDR range for the SAP HANA cluster.
     - D. Configure SAP HANA system replication after the cluster setup is complete.
 
+    <details markdown=1><summary markdown='span'>Answer</summary>
+      Correct answer: C
+    </details>
+
+> C – An overlay IP address must be configured to use a non-VPC CIDR block to access the active SAP instance. With overlay IP routing, you can allow the AWS network to use a non-overlapping RFC1918 private IP address that resides outside a VPC CIDR range and direct the SAP traffic to any instance setup across the Availability Zone within the VPC by changing the routing entry in AWS. Version 1.0 PAS-C01 © 2021, Amazon Web Services, Inc. or its affiliates. All rights reserved | aws.amazon.com 7 | PAGE IP address assignments within a VPC cannot extend across multiple Availability Zones or be reassigned to a secondary instance in a different Availability Zone during a failover scenario. For more information, see SAP on AWS High Availability Setup in AWS documentation.
+
 5. A company has been using SAP S/4HANA with terabytes of data on premises to run its financial
 system. The company needs to migrate the SAP landscape to AWS. The on-premises data center is
 connected to an AWS Region through a 1 Gbps AWS Direct Connect connection. The company's
@@ -53,13 +78,17 @@ SAP solutions architect needs to migrate the on-premises systems by implementing
 minimizes downtime.
 Which solution will meet these requirements?
 
-A. Use Amazon S3 Transfer Acceleration to perform backup and restore.
-B. Use SAP Software Update Manager (SUM. Database Migration Option (DMO. with System Move
-for migration. Use AWS Snowball to transfer the export files.
-C. Use SAP HANA system replication.
-D. Use SAP classical export/import (R3load based).
+   - A. Use Amazon S3 Transfer Acceleration to perform backup and restore.
+   - B. Use SAP Software Update Manager (SUM. Database Migration Option (DMO. with System Move for migration. Use AWS Snowball to transfer the export files.
+   - C. Use SAP HANA system replication.
+   - D. Use SAP classical export/import (R3load based).
 
-Version 1.0 PAS-C01 © 2021, Amazon Web Services, Inc. or its affiliates. All rights reserved | aws.amazon.com 4 | PAGE
+    <details markdown=1><summary markdown='span'>Answer</summary>
+      Correct answer: C
+    </details>
+
+> C – SAP HANA system replication will synchronize the new SAP HANA instance with the existing on-premises environment, as described in the AWS SAP migration guide. When the systems are synchronized, the company can cut over to this system without the need for the downtime that the other options would cause.
+
 6. A company's SAP production workloads are running in an on-premises environment on VMs on the
 VMware vSphere and Microsoft Hyper-V platforms. The company needs to move its SAP workloads to
 AWS.
@@ -68,38 +97,50 @@ The migration solution must minimize downtime and must not affect the SAP system
 during the migration. For security purposes, no tool or agent can be installed for the migration.
 Which solution meets these requirements?
 
-A. Use AWS Application Migration Service (CloudEndure Migration. to set up a lightweight replication
-server. Perform cutover by launching Amazon EC2 instances based on the designed blueprint.
-B. Use the AWS CLI to export the VMs into OVA files. Upload the OVA files into Amazon S3 by using
-S3 multipart upload. Import the OVA files by using the ec2 import-image command.
-C. Use AWS Application Discovery Service with AWS Migration Hub to collect server specification
-information. Initiate the VM migration through the Migration Hub console.
-D. Use AWS Server Migration Service (AWS SMS. to set up a replication job that replicates the
-on-premises VMs to AWS as AMIs.
+   - A. Use AWS Application Migration Service (CloudEndure Migration. to set up a lightweight replication server. Perform cutover by launching Amazon EC2 instances based on the designed blueprint.
+   - B. Use the AWS CLI to export the VMs into OVA files. Upload the OVA files into Amazon S3 by using S3 multipart upload. Import the OVA files by using the ec2 import-image command.
+   - C. Use AWS Application Discovery Service with AWS Migration Hub to collect server specification information. Initiate the VM migration through the Migration Hub console.
+   - D. Use AWS Server Migration Service (AWS SMS. to set up a replication job that replicates the on-premises VMs to AWS as AMIs.
+
+    <details markdown=1><summary markdown='span'>Answer</summary>
+      Correct answer: D
+    </details>
+
+> D – AWS Server Migration Service (AWS SMS. will minimize downtime for this migration by supporting the migration of multiple VMs from on premises. This solution is also the only answer option that will not involve the deployment of agents to the source machines.
+
 7. A company is running its SAP workload on Oracle and VMware. The company needs to change the
 platform to AWS and migrate the SAP workload from Oracle to an SAP HANA database.
-Which solutions can the company use to achieve this goal? (Select TWO.)
+Which solutions can the company use to achieve this goal? (**Select TWO.**)
 
-A. Change the platform and migrate the SAP workload by using SAP Software Provisioning Manager.
-B. Change the platform and migrate the SAP workload by using AWS Application Migration Service
-(CloudEndure Migration).
-C. Change the platform and migrate the SAP workload by using SAP Software Update Manager
-(SUM. Database Migration Option (DMO. with System Move.
-D. Migrate the database by using AWS Database Migration Service (AWS DMS). Migrate the SAP
-workload by using AWS Application Migration Service (CloudEndure Migration).
-E. Change the platform and migrate the SAP workload by using VM Import/Export on AWS.
+   - A. Change the platform and migrate the SAP workload by using SAP Software Provisioning Manager.
+   - B. Change the platform and migrate the SAP workload by using AWS Application Migration Service (CloudEndure Migration).
+   - C. Change the platform and migrate the SAP workload by using SAP Software Update Manager (SUM. Database Migration Option (DMO. with System Move.
+   - D. Migrate the database by using AWS Database Migration Service (AWS DMS). Migrate the SAP workload by using AWS Application Migration Service (CloudEndure Migration).
+   - E. Change the platform and migrate the SAP workload by using VM Import/Export on AWS.
 
-Version 1.0 PAS-C01 © 2021, Amazon Web Services, Inc. or its affiliates. All rights reserved | aws.amazon.com 5 | PAGE
+    <details markdown=1><summary markdown='span'>Answer</summary>
+      Correct answer: AC
+    </details>
+
+> A, C – SAP Software Provisioning Manager and SAP Software Update Manager (SUM. Database Migration Option (DMO. with System Move support heterogeneous migrations in which the backend database environment changes. In this case, the migration is from an anyDB environment to an SAP HANA environment. Neither AWS Application Migration Service (CloudEndure Migration. nor VM Import/Export on AWS can be used for heterogeneous migrations. AWS Database Migration Service (AWS DMS. does not support SAP HANA as a target.
+
 8. As part of checks before an upgrade, an SAP solutions architect is gathering information about a
 production SAP instance that is running on AWS. In SAP transaction ST06, monitoring information that
 is related to only AWS infrastructure of the SAP system is not available. However, other SAP
 application-level information is present.
 What could be the cause of this issue?
 
-A. The AWS Data Provider for SAP agent is not installed or has an error.
-B. The Amazon CloudWatch agent is not installed or has an error.
-C. The SAP HANA monitoring agent is not installed or has an error.
-D. The AWS DataSync agent is not installed or has an error.
+   - A. The AWS Data Provider for SAP agent is not installed or has an error.
+   - B. The Amazon CloudWatch agent is not installed or has an error.
+   - C. The SAP HANA monitoring agent is not installed or has an error.
+   - D. The AWS DataSync agent is not installed or has an error.
+
+    <details markdown=1><summary markdown='span'>Answer</summary>
+      Correct answer: A
+    </details>
+
+> A – The ST06 transaction depends on data from the AWS Data Provider for SAP agent to make the AWS environmental data available. The SAP HANA monitoring agent provides different information to the monitoring environment. The Amazon CloudWatch agent does not feed the SAP monitoring environment, but the CloudWatch agent makes that information available to CloudWatch. The AWS DataSync agent has nothing to do with monitoring.
+
 9. A company has been using a third-party backup tool that uses backint for data protection of SAP
 HANA on AWS. Because of cost and the effort that is required to maintain the dedicated backup server,
 the company is considering the use of AWS Backint Agent for SAP HANA.
@@ -107,84 +148,16 @@ The SAP HANA system uses General Purpose SSD (gp2. Amazon Elastic Block Store (A
 volumes for the SAP HANA data volumes and log volumes. Backup files are stored in an Amazon S3
 bucket. An SAP solutions architect is setting up a proof-of-concept deployment for this new
 environment and needs to improve the speed of the database backup and restore procedures.
-Which solutions will meet these requirements? (Select TWO.)
+Which solutions will meet these requirements? (**Select TWO.**)
 
-A. Increase the S3 bucket size. Ensure that access to the S3 bucket comes from an Amazon EC2
-instance in the same AWS Region.
-B. Adjust the number of parallel backup channels by increasing the value of the
-parallel_data_backup_backint_channels SAP HANA parameter.
-C. Use S3 Transfer Acceleration to configure transfer of backup files.
-D. Check how much storage throughput is available to the SAP HANA EBS data volumes
-(/hana/data). Modify the SAP HANA EBS data volumes to a Provisioned IOPS SSD volume type,
-and try the backup again.
-E. Enable deduplication for the backup files.
+   - A. Increase the S3 bucket size. Ensure that access to the S3 bucket comes from an Amazon EC2 instance in the same AWS Region.
+   - B. Adjust the number of parallel backup channels by increasing the value of the parallel_data_backup_backint_channels SAP HANA parameter.
+   - C. Use S3 Transfer Acceleration to configure transfer of backup files.
+   - D. Check how much storage throughput is available to the SAP HANA EBS data volumes (/hana/data). Modify the SAP HANA EBS data volumes to a Provisioned IOPS SSD volume type, and try the backup again.
+   - E. Enable deduplication for the backup files.
 
-Version 1.0 PAS-C01 © 2021, Amazon Web Services, Inc. or its affiliates. All rights reserved | aws.amazon.com 6 | PAGE
-Answers
-1. D – A dedicated network connection and low latency are required for the transfer of 15 TB of data
-over the network in the time allocated for the migration. AWS Direct Connect meets this purpose. The
-company would need 3 hours to transfer 15 TB of data by using a 10 Gbps Direct Connect connection.
-AWS Client VPN provides a fully managed VPN service that can be accessed from anywhere with an
-internet connection and an OpenVPN-compatible client. This approach meets the requirements to
-allow the company's remote workforce and business partners to connect to the SAP landscape in a
-secure manner.
-2. A – When you set up an SAP environment on AWS, you need to set up an SAP Solution Manager
-system and SAProuter with a connection to the SAP support network. When you set up the SAProuter
-and SAP support network connection, follow these guidelines:
-• Launch the instance that the SAProuter software is installed on into a public subnet of the
-VPC. Assign the instance an Elastic IP address.
-• Create a specific security group for the SAProuter instance with the necessary rules to allow
-the required inbound and outbound access to the SAP support network.
-• Use the Secure Network Communications (SNC. type of internet connection. For more
-information, see Remote Support in the SAP Support Portal.
-The SAP all-on-AWS architecture diagram provides an illustration of this architecture.
-In VPC security groups, it is possible to specify allow rules, but not deny rules.
-3. A, D – Because the development system and the quality system will run for only 8 hours each day on
-weekdays, On-Demand Instances are the most cost-effective purchasing option for these systems. SAP
-systems are stateful and cannot be abruptly interrupted, so Spot Instances are not appropriate for this
-scenario.
-The production system will continue to grow in size, and capacity needs to be guaranteed. A
-combination of Savings Plans and On-Demand Capacity Reservations will provide the most
-cost-effective purchasing option for the production system while also ensuring that capacity is
-available when it is needed.
-For more information about purchasing recommendations for SAP systems, see SAP on AWS Pricing
-Fundamentals in AWS documentation.
-4. C – An overlay IP address must be configured to use a non-VPC CIDR block to access the active SAP
-instance. With overlay IP routing, you can allow the AWS network to use a non-overlapping RFC1918
-private IP address that resides outside a VPC CIDR range and direct the SAP traffic to any instance
-setup across the Availability Zone within the VPC by changing the routing entry in AWS.
-Version 1.0 PAS-C01 © 2021, Amazon Web Services, Inc. or its affiliates. All rights reserved | aws.amazon.com 7 | PAGE
-IP address assignments within a VPC cannot extend across multiple Availability Zones or be reassigned
-to a secondary instance in a different Availability Zone during a failover scenario.
-For more information, see SAP on AWS High Availability Setup in AWS documentation.
-5. C – SAP HANA system replication will synchronize the new SAP HANA instance with the existing
-on-premises environment, as described in the AWS SAP migration guide. When the systems are
-synchronized, the company can cut over to this system without the need for the downtime that the
-other options would cause.
-6. D – AWS Server Migration Service (AWS SMS. will minimize downtime for this migration by supporting
-the migration of multiple VMs from on premises. This solution is also the only answer option that will
-not involve the deployment of agents to the source machines.
-7. A, C – SAP Software Provisioning Manager and SAP Software Update Manager (SUM. Database
-Migration Option (DMO. with System Move support heterogeneous migrations in which the backend
-database environment changes. In this case, the migration is from an anyDB environment to an SAP
-HANA environment. Neither AWS Application Migration Service (CloudEndure Migration. nor VM
-Import/Export on AWS can be used for heterogeneous migrations. AWS Database Migration Service
-(AWS DMS. does not support SAP HANA as a target.
-8. A – The ST06 transaction depends on data from the AWS Data Provider for SAP agent to make the
-AWS environmental data available. The SAP HANA monitoring agent provides different information to
-the monitoring environment. The Amazon CloudWatch agent does not feed the SAP monitoring
-environment, but the CloudWatch agent makes that information available to CloudWatch. The AWS
-DataSync agent has nothing to do with monitoring.
-9. B, D – The rate of the backup of the SAP HANA database is affected by the available throughput to
-and from the /hana/data volume. Two ways to improve the backup performance are to increase the
-IOPS available from the underlying Amazon Elastic Block Store (Amazon EBS. volumes and to increase
-the number of parallel backup channels. The other options will not affect the performance
-meaningfully. Amazon S3 bucket size does not influence available throughput, and S3 Transfer
-Acceleration supports performance for global users rather than the single case of the SAP backup.
-    
-    
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: B
+      Correct answer: BD
     </details>
 
-
+> B, D – The rate of the backup of the SAP HANA database is affected by the available throughput to and from the /hana/data volume. Two ways to improve the backup performance are to increase the IOPS available from the underlying Amazon Elastic Block Store (Amazon EBS. volumes and to increase the number of parallel backup channels. The other options will not affect the performance meaningfully. Amazon S3 bucket size does not influence available throughput, and S3 Transfer Acceleration supports performance for global users rather than the single case of the SAP backup. 
