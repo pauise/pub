@@ -14,6 +14,7 @@ Source: https://d1.awsstatic.com/training-and-certification/docs-sap-on-aws-spec
    - D. Use an AWS Direct Connect connection during migration. Use an AWS Client VPN connection after migration to AWS.
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: D
+       
    > D – A dedicated network connection and low latency are required for the transfer of 15 TB of data over the network in the time allocated for the migration. AWS Direct Connect meets this purpose. The company would need 3 hours to transfer 15 TB of data by using a 10 Gbps Direct Connect connection. AWS Client VPN provides a fully managed VPN service that can be accessed from anywhere with an
 internet connection and an OpenVPN-compatible client. This approach meets the requirements to allow the company's remote workforce and business partners to connect to the SAP landscape in a secure manner.
     </details>
