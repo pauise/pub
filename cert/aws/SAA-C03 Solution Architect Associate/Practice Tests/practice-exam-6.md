@@ -550,64 +550,127 @@ requirements?
       Correct answer: D
     </details>
 
-51. 
+51. A company is experiencing sudden increases in demand. The company needs to provision large Amazon EC2 instances from an Amazon Machine Image (AMI). The instances will run in an Auto Scaling group. The company needs a solution that provides minimum initialization latency to meet the demand. Which solution meets these requirements? 
+    - A. Enable AMI creation and define lifecycle rules in Amazon Data Lifecycle Manager (Amazon DLM). Create an AWS Lambda function that modifies the AMI in the Auto Scaling group.
+    - B. Use the aws ec2 register-image command to create an AMI from a snapshot. Use AWS Step Functions to replace the AMI in the Auto Scaling group.
+    - C. Use Amazon EventBridge to invoke AWS Backup lifecycle policies that provision AMIs. Configure Auto Scaling group capacity limits as an event source in EventBridge.
+    - D. Enable Amazon Elastic Block Store (Amazon EBS) fast snapshot restore on a snapshot. Provision an AMI by using the snapshot. Replace the AMI in the Auto Scaling group with the new AMI.
+
+    <details markdown=1><summary markdown='span'>Answer</summary>
+      Correct answer: D
+    </details>
+
+52. A security audit reveals that Amazon EC2 instances are not being patched regularly. A solutions architect needs to provide a solution that will run regular security scans across a large fleet of EC2 instances. The solution should also patch the EC2 instances on a regular schedule and provide a report of each instance’s patch status. Which solution will meet these requirements? 
+    - A. Turn on Amazon Inspector in the account. Configure Amazon Inspector to scan the EC2 instances for software vulnerabilities. Set up AWS Systems Manager Patch Manager to patch the EC2 instances on a regular schedule.
+    - B. Turn on Amazon GuardDuty in the account. Configure GuardDuty to scan the EC2 instances for software vulnerabilities. Set up AWS Systems Manager Session Manager to patch the EC2 instances on a regular schedule.
+    - C. Set up Amazon Macie to scan the EC2 instances for software vulnerabilities. Set up a cron job on each EC2 instance to patch the instance on a regular schedule.
+    - D. Set up Amazon Detective to scan the EC2 instances for software vulnerabilities. Set up an Amazon EventBridge scheduled rule to patch the EC2 instances on a regular schedule.
+
+    <details markdown=1><summary markdown='span'>Answer</summary>
+      Correct answer: A
+    </details>
+
+53. A company uses Amazon API Gateway to run a private gateway with two REST APIs in the same VPC. The BuyStock RESTful web service calls the CheckFunds RESTful web service to ensure that enough funds are available before a stock can be purchased. The company has noticed in the VPC flow logs that the BuyStock RESTful web service calls the CheckFunds RESTful web service over the internet instead of through the VPC. A solutions architect must implement a solution so that the APIs communicate through the VPC. Which solution will meet these requirements with the FEWEST changes to the code?
+    - A. Add an X-API-Key header in the HTTP header for authorization.
+    - B. Use a gateway endpoint.
+    - C. Use an interface endpoint.
+    - D. Add an Amazon Simple Queue Service (Amazon SQS) queue between the two REST APIs.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: C
     </details>
 
+54. A company experienced a breach that affected several applications in its on-premises data center. The attacker took advantage of vulnerabilities in the custom applications that were running on the servers. The company is now migrating its applications to run on Amazon EC2 instances. The company wants to implement a solution that actively scans for vulnerabilities on the EC2 instances and sends a report that details the findings. Which solution will meet these requirements? 
+    - A. Deploy Amazon Macie and AWS Lambda functions to scan the EC2 instances for vulnerabilities. Log any findings to AWS CloudTrail.
+    - B. Deploy AWS Shield to scan the EC2 instances for vulnerabilities. Create an AWS Lambda function to log any findings to AWS CloudTrail.
+    - C. Turn on Amazon GuardDuty. Deploy the GuardDuty agents to the EC2 instances. Configure an AWS Lambda function to automate the generation and distribution of reports that detail the findings.
+    - D. Turn on Amazon Inspector. Deploy the Amazon Inspector agent to the EC2 instances. Configure an AWS Lambda function to automate the generation and distribution of reports that detail the findings.
 
+    <details markdown=1><summary markdown='span'>Answer</summary>
+      Correct answer: D
+    </details>
+
+55. A solutions architect needs to optimize storage costs. The solutions architect must identify any Amazon S3 buckets that are no longer being accessed or are rarely accessed. Which solution will accomplish this goal with the LEAST operational overhead? 
+    - A. Turn on AWS CloudTrail for S3 object monitoring. Analyze bucket access patterns by using CloudTrail logs that are integrated with Amazon CloudWatch Logs.
+    - B. Turn on the Amazon CloudWatch BucketSizeBytes metric for buckets. Analyze bucket access patterns by using the metrics data with Amazon Athena.
+    - C. Analyze bucket access patterns by using the S3 dashboard in the AWS Management Console.
+    - D. Analyze bucket access patterns by using the S3 Storage Lens dashboard for advanced activity metrics.
+
+    <details markdown=1><summary markdown='span'>Answer</summary>
+      Correct answer: D
+    </details>
+
+56. A company has hundreds of Amazon EC2 Linux-based instances in the AWS Cloud. Systems administrators have used shared SSH keys to manage the instances. After a recent audit, the company’s security team is mandating the removal of all shared keys. A solutions architect must design a solution that provides secure access to the EC2 instances. Which solution will meet this requirement with the LEAST amount of administrative overhead? 
+    - A. Use AWS Systems Manager Session Manager to connect to the EC2 instances.
+    - B. Allow shared SSH access to a set of bastion instances. Configure all other instances to allow only SSH access from the bastion instances.
+    - C. Use AWS Security Token Service (AWS STS) to generate one-time SSH keys on demand.
+    - D. Use an Amazon Cognito custom authorizer to authenticate users. Invoke an AWS Lambda function to generate a temporary SSH key.
+
+    <details markdown=1><summary markdown='span'>Answer</summary>
+      Correct answer: A
+    </details>
+
+57. A company uses a 100 GB Amazon RDS for Microsoft SQL Server Single-AZ DB instance
+in the us-east-1 Region to store customer transactions. The company needs high availability
+and automatic recovery for the DB instance. The company must also run reports on the
+RDS database several times a year. The report process causes transactions to take longer
+than usual to post to the customers’ accounts. The company needs a solution that will
+improve the performance of the report process. Which combination of steps will meet these
+requirements? (**Choose two**.)
+    - A. Migrate the database to RDS Custom.
+    - B. Modify the DB instance from a Single-AZ DB instance to a Multi-AZ deployment.
+    - C. Take a snapshot of the current DB instance. Restore the snapshot to a new RDS deployment in another Availability Zone.
+    - D. Create a read replica of the DB instance in a different Availability Zone. Point all requests for reports to the read replica.
+    - E. Use RDS Proxy to limit reporting requests to the maintenance window.
+
+    <details markdown=1><summary markdown='span'>Answer</summary>
+      Correct answer: B, D
+    </details>
+
+58. A company collects data from a large number of participants who use wearable devices.
+The company stores the data in an Amazon DynamoDB table and uses applications to
+analyze the data. The data workload is constant and predictable. The company wants to
+stay at or below its forecasted budget for DynamoDB. Which solution will meet these
+requirements MOST cost-effectively?
+    - A. Use provisioned mode. Specify the read capacity units (RCUs) and write capacity units (WCUs).
+    - B. Use provisioned mode and DynamoDB Standard-Infrequent Access (DynamoDB Standard-IA). Reserve capacity for the forecasted workload.
+    - C. Use on-demand mode. Set the read capacity units (RCUs) and write capacity units (WCUs) high enough to accommodate changes in the workload.
+    - D. Use on-demand mode. Specify the read capacity units (RCUs) and write
+capacity units (WCUs) with reserved capacity.
+
+    <details markdown=1><summary markdown='span'>Answer</summary>
+      Correct answer: A
+    </details>
+
+59. A solutions architect is designing a multi-tier application for a company. The application's
+users upload images from a mobile device. The application generates a thumbnail of each
+image and returns a message to the user to confirm that the image was uploaded
+successfully. The thumbnail generation can take up to 60 seconds, but the company wants
+to provide a faster response time to its users to notify them that the original image was
+received. The solutions architect must design the application to asynchronously dispatch
+requests to the different application tiers. What should the solutions architect do to meet
+these requirements?
+    - A. Create an Amazon Simple Queue Service (Amazon SQS) message queue. As images are uploaded, place a message on the SQS queue for thumbnail generation. Alert the user through an application message that the image was received.
+    - B. Create an AWS Step Functions workflow. Configure Step Functions to handle the orchestration between the application tiers and alert the user when thumbnail generation is complete.
+    - C. Write a custom AWS Lambda function to generate the thumbnail and alert the user. Use the image upload process as an event source to invoke the Lambda function.
+    - D. Create Amazon Simple Notification Service (Amazon SNS) notification topics and subscriptions. Use one subscription with the application to generate the thumbnail after the image upload is complete. Use a second subscription to message the user's mobile app by way of a push notification after thumbnail generation is complete.
+    
+    <details markdown=1><summary markdown='span'>Answer</summary>
+      Correct answer: A
+    </details>
+
+60. A company’s facility has badge readers at every entrance throughout the building. When
+badges are scanned, the readers send a message over HTTPS to indicate who attempted to
+access that particular entrance. A solutions architect must design a system to process these
+messages from the sensors. The solution must be highly available, and the results must be
+made available for the company’s security team to analyze. Which system architecture
+should the solutions architect recommend?
+    - A. Launch an Amazon EC2 instance to serve as the HTTPS endpoint and to process the messages. Configure the EC2 instance to save the results to an Amazon S3 bucket.
+    - B. Create a gateway VPC endpoint for Amazon S3. Configure a Site-to-Site VPN connection from the facility network to the VPC so that sensor data can be written directly to an S3 bucket by way of the VPC endpoint.
+    - C. Create an HTTPS endpoint in Amazon API Gateway. Configure the API Gateway endpoint to invoke an AWS Lambda function to process the messages and save the results to an Amazon DynamoDB table.
+    - D. Use Amazon Route 53 to direct incoming sensor messages to an AWS Lambda function. Configure the Lambda function to process the messages and save the results to an Amazon DynamoDB table.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: C
     </details>
-
-
-
-    <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: C
-    </details>
-
-
-
-    <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: C
-    </details>
-
-
-
-    <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: C
-    </details>
-
-
-
-    <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: C
-    </details>
-
-
-
-    <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: C
-    </details>
-
-
-
-    <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: C
-    </details>
-
-
-
-    <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: C
-    </details>
-
-
-
-    <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: C
-    </details>
-
 
