@@ -445,95 +445,248 @@ meet these requirements?
       Correct answer: D
     </details>
 
-41. 
+41. A gaming company has a web application that displays scores. The application runs on Amazon EC2 instances behind an Application Load Balancer. The application stores data in an Amazon RDS for MySQL database. Users are starting to experience long delays and interruptions that are caused by database read performance. The company wants to improve the user experience while minimizing changes to the application’s architecture. What should a solutions architect do to meet these requirements? 
+    - A. Use Amazon ElastiCache in front of the database. 
+    - B. Migrate the database from Amazon RDS for MySQL to Amazon DynamoDB.
+    - C. Migrate the application from EC2 instances to AWS Lambda.
+    - D. Use RDS Proxy between the application and the database.
+
+    <details markdown=1><summary markdown='span'>Answer</summary>
+      Correct answer: A
+    </details>
+
+42. A company needs to migrate a legacy application from an on-premises data center to the AWS Cloud because of hardware capacity constraints. The application runs 24 hours a day, 7 days a week. The application’s database storage continues to grow over time. What should a solutions architect do to meet these requirements MOST cost-effectively? 
+    - A. Migrate the application layer to Amazon EC2 Spot Instances. Migrate the data storage layer to Amazon S3.
+    - B. Migrate the application layer to Amazon EC2 Reserved Instances. Migrate the data storage layer to Amazon Aurora Reserved Instances.
+    - C. Migrate the application layer to Amazon EC2 On-Demand Instances. Migrate the data storage layer to Amazon RDS Reserved Instances.
+    - D. Migrate the application layer to Amazon EC2 Reserved Instances. Migrate the data storage layer to Amazon RDS On-Demand Instances.
+
+    <details markdown=1><summary markdown='span'>Answer</summary>
+      Correct answer: B
+    </details>
+
+43. A company deploys an application on five Amazon EC2 instances. An Application Load Balancer (ALB) distributes traffic to the instances by using a target group. The average CPU usage on each of the instances is below 10% most of the time, with occasional surges to 65%. A solutions architect needs to implement a solution to automate the scalability of the application. The solution must optimize the cost of the architecture and must ensure that the application has enough CPU resources when surges occur. Which solution will meet these requirements? 
+    - A. Create two Amazon CloudWatch alarms. Configure the first CloudWatch alarm to enter the ALARM state when the average CPUUtilization metric is below 20%. Configure the second CloudWatch alarm to enter the ALARM state when the average CPUUtilization matric is above 50%. Configure the alarms to publish to an Amazon Simple Notification Service (Amazon SNS) topic to send an email message. After receiving the message, log in to decrease or increase the number of EC2 instances that are running.
+    - B. Create an Amazon CloudWatch alarm that enters the ALARM state when the CPUUtilization metric is less than 20%. Create an AWS Lambda function that the CloudWatch alarm invokes to terminate one of the EC2 instances in the ALB target group.
+    - C. Create an EC2 Auto Scaling group. Select the existing ALB as the load balancer and the existing target group as the target group. Set a target tracking scaling policy that is based on the ASGAverageCPUUtilization metric. Set the minimum instances to 2, the desired capacity to 3, the maximum instances to 6, and the target value to 50%. Add the EC2 instances to the Auto Scaling group.
+    - D. Create an EC2 Auto Scaling group. Select the existing ALB as the load balancer and the existing target group as the target group. Set the minimum instances to 2, the desired capacity to 3, and the maximum instances to 6. Add the EC2 instances to the Auto Scaling group.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: C
     </details>
 
+44. An ecommerce company stores terabytes of customer data in the AWS Cloud. The data contains personally identifiable information (PII). The company wants to use the data in three applications. Only one of the applications needs to process the PII. The PII must be removed before the other two applications process the data. Which solution will meet these requirements with the LEAST operational overhead? 
+    - A. Process the data and store the transformed data in three separate Amazon DynamoDB tables so that each application has its own custom dataset. Point each application to its respective DynamoDB table.
+    - B. Process the data and store the transformed data in three separate Amazon S3 buckets so that each application has its own custom dataset. Point each application to its respective S3 bucket.
+    - C. Store the data in an Amazon S3 bucket. Process and transform the data by using S3 Object Lambda before returning the data to the requesting application.
+    - D. Store the data in an Amazon DynamoDB table. Create a proxy application layer to intercept and process the data that each application requests.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: C
     </details>
 
+45. An online learning company is migrating to the AWS Cloud. The company maintains its student records in a PostgreSQL database. The company needs a solution in which its data is available and online across multiple AWS Regions at all times. Which solution will meet these requirements with the LEAST amount of operational overhead?
+    - A. Migrate the PostgreSQL database to an Amazon RDS for PostgreSQL DB instance. Create a read replica in another Region.
+    - B. Migrate the PostgreSQL database to an Amazon RDS for PostgreSQL DB instance with the Multi-AZ feature turned on.
+    - C. Migrate the PostgreSQL database to a PostgreSQL cluster on Amazon EC2 instances.
+    - D. Migrate the PostgreSQL database to an Amazon RDS for PostgreSQL DB instance. Set up DB snapshots to be copied to another Region.
+
+    <details markdown=1><summary markdown='span'>Answer</summary>
+      Correct answer: A
+    </details>
+
+46. A company is using a content management system that runs on a single Amazon EC2 instance. The EC2 instance contains both the web server and the database software. The company must make its website platform highly available and must enable the website to scale to meet user demand. What should a solutions architect recommend to meet these requirements? 
+    - A. Move the database to a separate EC2 instance, and schedule backups to Amazon S3. Create an Amazon Machine Image (AMI) from the original EC2 instance. Configure an Application Load Balancer in two Availability Zones. Attach an Auto Scaling group that uses the AMI across two Availability Zones.
+    - B. Move the database to Amazon Aurora with a read replica in another Availability Zone. Create an Amazon Machine Image (AMI) from the EC2 instance. Configure an Application Load Balancer in two Availability Zones. Attach an Auto Scaling group that uses the AMI across two Availability Zones.
+    - C. Move the database to Amazon RDS, and enable automatic backups. Manually launch another EC2 instance in the same Availability Zone. Configure an Application Load Balancer in the Availability Zone, and set the two instances as targets.
+    - D. Migrate the database to an Amazon Aurora instance with a read replica in the same Availability Zone as the existing EC2 instance. Manually launch another EC2 instance in the same Availability Zone. Configure an Application Load Balancer, and set the two EC2 instances as targets.
+
+    <details markdown=1><summary markdown='span'>Answer</summary>
+      Correct answer: B
+    </details>
+
+47. A company runs a web application that is deployed on Amazon EC2 instances in the private subnet of a VPC. An Application Load Balancer (ALB) that extends across the public subnets directs web traffic to the EC2 instances. The company wants to implement new security measures to restrict inbound traffic from the ALB to the EC2 instances while preventing access from any other source inside or outside the private subnet of the EC2 instances. Which solution will meet these requirements? 
+    - A. Configure a route in a route table to direct traffic from the internet to the private IP addresses of the EC2 instances.
+    - B. Configure the security group for the EC2 instances to only allow traffic that comes from the security group for the ALB.
+    - C. Move the EC2 instances into the public subnet. Give the EC2 instances a set of Elastic IP addresses.
+    - D. Configure the security group for the ALB to allow any TCP traffic on any port.
+
+    <details markdown=1><summary markdown='span'>Answer</summary>
+      Correct answer: B
+    </details>
+
+48. A company is reviewing a recent migration of a three-tier application to a VPC. The
+security team discovers that the principle of least privilege is not being applied to Amazon
+EC2 security group ingress and egress rules between the application tiers. What should a
+solutions architect do to correct this issue?
+    - A. Create security group rules using the subnet CIDR blocks as the source or destination.
+    - B. Create security group rules using the instance ID as the source or destination.
+    - C. Create security group rules using the security group ID as the source or destination.
+    - D. Create security group rules using the VPC CIDR blocks as the source or destination.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: C
     </details>
 
+49. A company is preparing a new data platform that will ingest real-time streaming data from
+multiple sources. The company needs to transform the data before writing the data to
+Amazon S3. The company needs the ability to use SQL to query the transformed data.
+Which solutions will meet these requirements? (**Choose two.**)
+    - A. Use Amazon Kinesis Data Streams to stream the data. Use Amazon Kinesis Data Analytics to transform the data. Use Amazon Kinesis Data Firehose to write the data to Amazon S3. Use Amazon Athena to query the transformed data from Amazon S3.
+    - B. Use Amazon Managed Streaming for Apache Kafka (Amazon MSK) to stream the data. Use Amazon Kinesis Data Analytics to transform the data and to write the data to Amazon S3. Use the Amazon RDS query editor to query the transformed data from Amazon S3.
+    - C. Use AWS Database Migration Service (AWS DMS) to ingest the data. Use Amazon EMR to transform the data and to write the data to Amazon S3. Use Amazon Athena to query the transformed data from Amazon S3.
+    - D. Use Amazon Kinesis Data Streams to stream the data. Use AWS Glue to transform the data. Use Amazon Kinesis Data Firehose to write the data to Amazon S3. Use the Amazon RDS query editor to query the transformed data from Amazon S3.
+    - E. Use Amazon Managed Streaming for Apache Kafka (Amazon MSK) to stream the data. Use AWS Glue to transform the data and to write the data to Amazon S3. Use Amazon Athena to query the transformed data from Amazon S3.
+
+    <details markdown=1><summary markdown='span'>Answer</summary>
+      Correct answer: A, E
+    </details>
+
+50. A company has deployed a database in Amazon RDS for MySQL. Due to increased
+transactions, the database support team is reporting slow reads against the DB instance
+and recommends adding a read replica. Which combination of actions should a solutions
+architect take before implementing this change? (**Choose two.**)
+    - A. Choose a failover priority for the source DB instance.
+    - B. Allow long-running transactions to complete on the source DB instance.
+    - C. Enable binlog replication on the RDS primary node.
+    - D. Create a global table and specify the AWS Regions where the table will be available.
+    - E. Enable automatic backups on the source instance by setting the backup retention period to a value other than 0.
+
+    <details markdown=1><summary markdown='span'>Answer</summary>
+      Correct answer: B, E
+    </details>
+
+51. A research company runs experiments that are powered by a simulation application and a
+visualization application. The simulation application runs on Linux and outputs
+intermediate data to an NFS share every 5 minutes. The visualization application is a
+Windows desktop application that displays the simulation output and requires an SMB file
+system. The company maintains two synchronized file systems. This strategy is causing
+data duplication and inefficient resource usage. The company needs to migrate the
+applications to AWS without making code changes to either application. Which solution
+will meet these requirements?
+    - A. Migrate both applications to Amazon Elastic Container Service (Amazon ECS). Configure Amazon FSx File Gateway for storage.
+    - B. Migrate both applications to AWS Lambda. Create an Amazon S3 bucket to exchange data between the applications.
+    - C.  Migrate the simulation application to Linux Amazon EC2 instances. Migrate the visualization application to Windows EC2  instances. Configure Amazon Simple Queue Service (Amazon SQS) to exchange data between the applications.
+    - D.  Migrate the simulation application to Linux Amazon EC2 instances. Migrate the visualization application to Windows EC2 instances. Configure Amazon FSx for NetApp ONTAP for storage.
+
+    <details markdown=1><summary markdown='span'>Answer</summary>
+      Correct answer: D
+    </details>
+
+52. A company runs an internal browser-based application. The application runs on Amazon
+EC2 instances behind an Application Load Balancer. The instances run in an Amazon EC2
+Auto Scaling group across multiple Availability Zones. The Auto Scaling group scales up to
+20 instances during work hours, but scales down to 2 instances overnight. Staff are
+complaining that the application is very slow when the day begins, although it runs well by
+mid-morning. How should the scaling be changed to address the staff complaints and keep
+costs to a minimum?
+    - A. Implement a scheduled action that sets the desired capacity to 20 shortly before the office opens.
+    - B. Implement a target tracking action triggered at a lower CPU threshold, and decrease the cooldown period.
+    - C. Implement a scheduled action that sets the minimum and maximum capacity to 20 shortly before the office opens.
+    - D. Implement a step scaling action triggered at a lower CPU threshold, and decrease the cooldown period.
+
+    <details markdown=1><summary markdown='span'>Answer</summary>
+      Correct answer: B
+    </details>
+
+53. A company recently announced the deployment of its retail website to a global audience.
+The website runs on multiple Amazon EC2 instances behind an Elastic Load Balancer. The
+instances run in an Auto Scaling group across multiple Availability Zones. The company
+wants to provide its customers with different versions of content based on the devices that
+the customers use to access the website. Which combination of actions should a solutions
+architect take to meet these requirements? (**Choose two.**)
+    - A. Configure AWS Global Accelerator. Forward requests to a Network Load Balancer (NLB). Configure the NLB to set up path-based routing to different EC2 instances.
+    - B. Configure a host header in a Network Load Balancer to forward traffic to different instances.
+    - C. Configure Amazon CloudFront to cache multiple versions of the content.
+    - D. Configure AWS Global Accelerator. Forward requests to a Network Load Balancer (NLB). Configure the NLB to set up host-based routing to different EC2 instances.
+    - E. Configure a Lambda@Edge function to send specific objects to users based on the User-Agent header.
+
+    <details markdown=1><summary markdown='span'>Answer</summary>
+      Correct answer: C, E
+    </details>
+
+54. A company runs analytics software on Amazon EC2 instances. The software accepts job
+requests from users to process data that has been uploaded to Amazon S3. Users report
+that some submitted data is not being processed Amazon CloudWatch reveals that the EC2
+instances have a consistent CPU utilization at or near 100%. The company wants to
+improve system performance and scale the system based on user load. What should a
+solutions architect do to meet these requirements?
+    - A. Route incoming requests to Amazon Simple Queue Service (Amazon SQS). Configure an EC2 Auto Scaling group based on queue size. Update the software to read from the queue.
+    - B. Create a copy of the instance. Place all instances behind an Application Load Balancer.
+    - C. Stop the EC2 instances. Modify the instance type to one with a more powerful CPU and more memory. Restart the instances.
+    - D. Create an S3 VPC endpoint for Amazon S3. Update the software to reference the endpoint.
+
+    <details markdown=1><summary markdown='span'>Answer</summary>
+      Correct answer: A
+    </details>
+
+55. A company is running a critical business application on Amazon EC2 instances behind an Application Load Balancer. The EC2 instances run in an Auto Scaling group and access an Amazon RDS DB instance. The design did not pass an operational review because the EC2 instances and the DB instance are all located in a single Availability Zone. A solutions architect must update the design to use a second Availability Zone. Which solution will make the application highly available? 
+    - A. Provision a subnet in each Availability Zone. Configure the Auto Scaling group to distribute the EC2 instances across both Availability Zones. Configure the DB instance for Multi-AZ deployment.
+    - B. Provision a subnet that extends across both Availability Zones. Configure the Auto Scaling group to distribute the EC2 instances across both Availability Zones. Configure the DB instance for Multi-AZ deployment.
+    - C. Provision two subnets that extend across both Availability Zones. Configure the Auto Scaling group to distribute the EC2 instances across both Availability Zones. Configure the DB instance with connections to each network.
+    - D. Provision a subnet in each Availability Zone. Configure the Auto Scaling group to distribute the EC2 instances across both Availability Zones. Configure the DB instance with connections to each network.
+
+    <details markdown=1><summary markdown='span'>Answer</summary>
+      Correct answer: A
+    </details>
+
+56. A company wants to create an application to store employee data in a hierarchical
+structured relationship. The company needs a minimum-latency response to high-traffic
+queries for the employee data and must protect any sensitive data. The company also needs
+to receive monthly email messages if any financial information is present in the employee
+data. Which combination of steps should a solutions architect take to meet these
+requirements? (**Choose two.**)
+    - A. Use Amazon Redshift to store the employee data in hierarchies. Unload the data to Amazon S3 every month.
+    - B. Configure Amazon Macie for the AWS account. Integrate Macie with Amazon EventBridge to send monthly notifications through an Amazon Simple Notification Service (Amazon SNS) subscription.
+    - C. Use Amazon Athena to analyze the employee data in Amazon S3. Integrate Athena with Amazon QuickSight to publish analysis dashboards and share the dashboards with users.
+    - D. Configure Amazon Macie for the AWS account. Integrate Macie with Amazon EventBridge to send monthly events to AWS Lambda.
+    - E. Use Amazon DynamoDB to store the employee data in hierarchies. Export the data to Amazon S3 every month.
+
+    <details markdown=1><summary markdown='span'>Answer</summary>
+      Correct answer: B, E
+    </details>
+
+57. A company hosts its static website by using Amazon S3. The company wants to add a
+contact form to its webpage. The contact form will have dynamic server-side components
+for users to input their name, email address, phone number, and user message. The
+company anticipates that there will be fewer than 100 site visits each month. Which
+solution will meet these requirements MOST cost-effectively?
+    - A. Create an Amazon API Gateway endpoint with an AWS Lambda backend that makes a call to Amazon Simple Email Service (Amazon SES).
+    - B. Convert the static webpage to dynamic by deploying Amazon Lightsail. Use client-side scripting to build the contact form. Integrate the form with Amazon WorkMail.
+    - C. Create a t2.micro Amazon EC2 instance. Deploy a LAMP (Linux, Apache, MySQL, PHP/Perl/Python) stack to host the webpage. Use client-side scripting to build the contact form. Integrate the form with Amazon WorkMail.
+    - D. Host a dynamic contact form page in Amazon Elastic Container Service (Amazon ECS). Set up Amazon Simple Email Service (Amazon SES) to connect to any third-party email provider.
+      
+    <details markdown=1><summary markdown='span'>Answer</summary>
+      Correct answer: A
+    </details>
+
+58. A company has a popular gaming platform running on AWS. The application is sensitive to latency because latency can impact the user experience and introduce unfair advantages to some players. The application is deployed in every AWS Region. It runs on Amazon EC2 instances that are part of Auto Scaling groups configured behind Application Load Balancers (ALBs). A solutions architect needs to implement a mechanism to monitor the health of the application and redirect traffic to healthy endpoints. Which solution meets these requirements? 
+    - A. Create an Amazon CloudFront distribution and specify the ALB as the origin server. Configure the cache behavior to use origin cache headers. Use AWS Lambda functions to optimize the traffic.
+    - B. Configure an Amazon DynamoDB database to serve as the data store for the application. Create a DynamoDB Accelerator (DAX) cluster to act as the in-memory cache for DynamoDB hosting the application data.
+    - C. Create an Amazon CloudFront distribution and specify Amazon S3 as the origin server. Configure the cache behavior to use origin cache headers. Use AWS Lambda functions to optimize the traffic.
+    - D. Configure an accelerator in AWS Global Accelerator. Add a listener for the port that the application listens on, and attach it to a Regional endpoint in each Region. Add the ALB as the endpoint.
+
+    <details markdown=1><summary markdown='span'>Answer</summary>
+      Correct answer: D
+    </details>
+
+59. A company has one million users that use its mobile app. The company must analyze the data usage in near-real time. The company also must encrypt the data in near-real time and must store the data in a centralized location in Apache Parquet format for further processing. Which solution will meet these requirements with the LEAST operational overhead? 
+    - A. Create an Amazon Kinesis Data Firehose delivery stream to store the data in Amazon S3. Create an Amazon EMR cluster to analyze the data.
+    - B. Create an Amazon Kinesis data stream to store the data in Amazon S3. Create an Amazon Kinesis Data Analytics application to analyze the data. Invoke an AWS Lambda function to send the data to the Kinesis Data Analytics application.
+    - C. Create an Amazon Kinesis Data Firehose delivery stream to store the data in Amazon S3. Create an Amazon Kinesis Data Analytics application to analyze the data.
+    - D. Create an Amazon Kinesis data stream to store the data in Amazon S3. Create an Amazon EMR cluster to analyze the data. Invoke an AWS Lambda function to send the data to the EMR cluster.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: C
     </details>
 
+60. A company has an application that is backed by an Amazon DynamoDB table. The company’s compliance requirements specify that database backups must be taken every month, must be available for 6 months, and must be retained for 7 years. Which solution will meet these requirements? 
+    - A. Use the AWS CLI to create an on-demand backup of the DynamoDB table. Set up an Amazon EventBridge rule that runs the command on the first day of each month with a cron expression. Specify in the command to transition the backups to cold storage after 6 months and to delete the backups after 7 years.
+    - B. Use the AWS SDK to develop a script that creates an on-demand backup of the DynamoDB table. Set up an Amazon EventBridge rule that runs the script on the first day of each month. Create a second script that will run on the second day of each month to transition DynamoDB backups that are older than 6 months to cold storage and to delete backups that are older than 7 years.
+    - C. Create an AWS Backup plan to back up the DynamoDB table on the first day of each month. Specify a lifecycle policy that transitions the backup to cold storage after 6 months. Set the retention period for each backup to 7 years.
+    - D. Create a DynamoDB on-demand backup of the DynamoDB table on the first day of each month. Transition the backup to Amazon S3 Glacier Flexible Retrieval after 6 months. Create an S3 Lifecycle policy to delete backups that are older than 7 years.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: C
     </details>
-
-
-    <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: C
-    </details>
-
-
-    <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: C
-    </details>
-
-
-    <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: C
-    </details>
-
-
-    <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: C
-    </details>
-
-
-    <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: C
-    </details>
-
-
-    <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: C
-    </details>
-
-
-    <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: C
-    </details>
-
-
-    <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: C
-    </details>
-
-
-    <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: C
-    </details>
-
-
-    <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: C
-    </details>
-
-
-    <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: C
-    </details>
-
-
-    <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: C
-    </details>
-
-
-    <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: C
-    </details>
-
 
