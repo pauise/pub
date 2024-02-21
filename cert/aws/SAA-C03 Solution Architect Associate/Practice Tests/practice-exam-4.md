@@ -456,78 +456,238 @@ will accomplish this task? (**Choose two.**)
       Correct answer: B, E
     </details>
 
-41. 
+41. The customers of a finance company request appointments with financial advisors by
+sending text messages. A web application that runs on Amazon EC2 instances accepts the
+appointment requests. The text messages are published to an Amazon Simple Queue
+Service (Amazon SQS) queue through the web application. Another application that runs
+on EC2 instances then sends meeting invitations and meeting confirmation email messages
+to the customers. After successful scheduling, this application stores the meeting
+information in an Amazon DynamoDB database. As the company expands, customers
+report that their meeting invitations are taking longer to arrive. What should a solutions
+architect recommend to resolve this issue?
+    - A. Add an Amazon CloudFront distribution. Set the origin as the web application that accepts the appointment requests.
+    - B. Add an Auto Scaling group for the application that sends meeting invitations. Configure the Auto Scaling group to scale based on the depth of the SQS queue.
+    - C. Add an Amazon API Gateway API in front of the web application that accepts the appointment requests.
+    - D. Add a DynamoDB Accelerator (DAX) cluster in front of the DynamoDB database.
+
+    <details markdown=1><summary markdown='span'>Answer</summary>
+      Correct answer: B
+    </details>
+
+42. A company is developing an ecommerce application that will consist of a load-balanced
+front end, a container-based application, and a relational database. A solutions architect
+needs to create a highly available solution that operates with as little manual intervention
+as possible. Which solutions meet these requirements? (**Choose two.**)
+    - A. Create an Amazon Elastic Container Service (Amazon ECS) cluster with an Amazon EC2 launch type to handle the dynamic application load.
+    - B. Create an Amazon EC2 instance-based Docker cluster to handle the dynamic application load.
+    - C. Create an Amazon RDS DB instance in Multi-AZ mode.
+    - D. Create an Amazon RDS DB instance and one or more replicas in another Availability Zone.
+    - E. Create an Amazon Elastic Container Service (Amazon ECS) cluster with a Fargate launch type to handle the dynamic application load.
+      
+    <details markdown=1><summary markdown='span'>Answer</summary>
+      Correct answer: C, E
+    </details>
+
+43. A company has an ordering application that stores customer information in Amazon RDS
+for MySQL. During regular business hours, employees run one-time queries for reporting
+purposes. Timeouts are occurring during order processing because the reporting queries
+are taking a long time to run. The company needs to eliminate the timeouts without
+preventing employees from performing queries. What should a solutions architect do to
+meet these requirements?
+    - A. Create a read replica. Distribute the ordering application to the primary DB instance and the read replica.
+    - B. Create a read replica. Move reporting queries to the read replica.
+    - C. Migrate the ordering application to Amazon DynamoDB with on-demand capacity.
+    - D. Schedule the reporting queries for non-peak hours.
+
+    <details markdown=1><summary markdown='span'>Answer</summary>
+      Correct answer: B
+    </details>
+
+44. An application running on an Amazon EC2 instance in VPC-A needs to access files in
+another EC2 instance in VPC-B. Both VPCs are in separate AWS accounts. The network
+administrator needs to design a solution to configure secure access to EC2 instance in VPCB
+from VPC-A. The connectivity should not have a single point of failure or bandwidth
+concerns. Which solution will meet these requirements?
+    - A.  Attach a virtual private gateway to VPC-B and set up routing from VPC-A.
+    - B. Set up a VPC peering connection between VPC-A and VPC-B. 
+    - C. Create a private virtual interface (VIF) for the EC2 instance running in VPC-B and add appropriate routes from VPC-A.
+    - D. Set up VPC gateway endpoints for the EC2 instance running in VPC-B.
+
+    <details markdown=1><summary markdown='span'>Answer</summary>
+      Correct answer: B
+    </details>
+
+45. A company has an API that receives real-time data from a fleet of monitoring devices. The API stores this data in an Amazon RDS DB instance for later analysis. The amount of data that the monitoring devices send to the API fluctuates. During periods of heavy traffic, the API often returns timeout errors. After an inspection of the logs, the company determines that the database is not capable of processing the volume of write traffic that comes from the API. A solutions architect must minimize the number of connections to the database and must ensure that data is not lost during periods of heavy traffic. Which solution will meet these requirements?
+    - A. Modify the API to write incoming data to an Amazon Simple Queue Service (Amazon SQS) queue. Use an AWS Lambda function that Amazon SQS invokes to write data from the queue to the database. 
+    - B. Modify the DB instance to be a Multi-AZ DB instance. Configure the application to write to all active RDS DB instances.
+    - C. Modify the API to write incoming data to an Amazon Simple Notification Service (Amazon SNS) topic. Use an AWS Lambda function that Amazon SNS invokes to write data from the topic to the database.
+    - D. Increase the size of the DB instance to an instance type that has more available memory.
+
+    <details markdown=1><summary markdown='span'>Answer</summary>
+      Correct answer: A
+    </details>
+
+46. A company runs an application on a large fleet of Amazon EC2 instances. The application reads and writes entries into an Amazon DynamoDB table. The size of the DynamoDB table continuously grows, but the application needs only data from the last 30 days. The company needs a solution that minimizes cost and development effort. Which solution meets these requirements? 
+    - A. Extend the application to add an attribute that has a value of the current timestamp plus 30 days to each new item that is created in the table. Configure DynamoDB to use the attribute as the TTL attribute.
+    - B. Use an AWS CloudFormation template to deploy the complete solution. Redeploy the CloudFormation stack every 30 days, and delete the original stack.
+    - C. Use an EC2 instance that runs a monitoring application from AWS Marketplace. Configure the monitoring application to use Amazon DynamoDB Streams to store the timestamp when a new item is created in the table. Use a script that runs on the EC2 instance to delete items that have a timestamp that is older than 30 days.
+    - D. Configure Amazon DynamoDB Streams to invoke an AWS Lambda function when a new item is created in the table. Configure the Lambda function to delete items in the table that are older than 30 days.
+
+    <details markdown=1><summary markdown='span'>Answer</summary>
+      Correct answer: A
+    </details>
+
+47. A telemarketing company is designing its customer call center functionality on AWS. The company needs a solution that provides multiple speaker recognition and generates transcript files. The company wants to query the transcript files to analyze the business patterns. The transcript files must be stored for 7 years for auditing purposes. Which solution will meet these requirements?
+    - A. Use Amazon Rekognition for multiple speaker recognition. Store the transcript files in Amazon S3. Use Amazon Textract for transcript file analysis.
+    - B. Use Amazon Rekognition for multiple speaker recognition. Store the transcript files in Amazon S3. Use machine learning models for transcript file analysis.
+    - C. Use Amazon Transcribe for multiple speaker recognition. Use Amazon Athena for transcript file analysis. 
+    - D. Use Amazon Translate for multiple speaker recognition. Store the transcript files in Amazon Redshift. Use SQL queries for transcript file analysis.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: C
     </details>
 
-    <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: C
-    </details>
+48. A company owns an asynchronous API that is used to ingest user requests and, based on the request type, dispatch requests to the appropriate microservice for processing. The company is using Amazon API Gateway to deploy the API front end, and an AWS Lambda function that invokes Amazon DynamoDB to store user requests before dispatching them to the processing microservices. The company provisioned as much DynamoDB throughput as its budget allows, but the company is still experiencing availability issues and is losing user requests. What should a solutions architect do to address this issue without impacting existing users?
+    - A. Create a secondary index in DynamoDB for the table with the user requests.
+    - B. Add throttling on the API Gateway with server-side throttling limits.
+    - C. Use the Amazon Simple Queue Service (Amazon SQS) queue and Lambda to buffer writes to DynamoDB.
+    - D. Use DynamoDB Accelerator (DAX) and Lambda to buffer writes to DynamoDB.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: C
     </details>
 
+49. A company wants to manage Amazon Machine Images (AMIs). The company currently copies AMIs to the same AWS Region where the AMIs were created. The company needs to design an application that captures AWS API calls and sends alerts whenever the Amazon EC2 CreateImage API operation is called within the company’s account. Which solution will meet these requirements with the LEAST operational overhead? 
+    - A. Create an Amazon EventBridge (Amazon CloudWatch Events) rule for the CreateImage API call. Configure the target as an Amazon Simple Notification Service (Amazon SNS) topic to send an alert when a CreateImage API call is detected.
+    - B. Create an AWS Lambda function to query AWS CloudTrail logs and to send an alert when a CreateImage API call is detected.
+    - C. Configure AWS CloudTrail with an Amazon Simple Notification Service (Amazon SNS) notification that occurs when updated logs are sent to Amazon S3. Use Amazon Athena to create a new table and to query on CreateImage when an API call is detected.
+    - D. Configure an Amazon Simple Queue Service (Amazon SQS) FIFO queue as a target for AWS CloudTrail logs. Create an AWS Lambda function to send an alert to an Amazon Simple Notification Service (Amazon SNS) topic when a CreateImage API call is detected.
+
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: C
+      Correct answer: A
     </details>
+
+50. A solutions architect needs to design a new microservice for a company’s application. Clients must be able to call an HTTPS endpoint to reach the microservice. The microservice also must use AWS Identity and Access Management (IAM) to authenticate calls. The solutions architect will write the logic for this microservice by using a single AWS Lambda function that is written in Go 1.x. Which solution will deploy the function in the MOST operationally efficient way? 
+    - A. Create an Amazon CloudFront distribution. Deploy the function to Lambda@Edge. Integrate IAM authentication logic into the Lambda@Edge function.
+    - B. Create an Amazon CloudFront distribution. Deploy the function to CloudFront Functions. Specify AWS_IAM as the authentication type.
+    - C. Create a Lambda function URL for the function. Specify AWS_IAM as the authentication type.
+    - D. Create an Amazon API Gateway REST API. Configure the method to use the Lambda function. Enable IAM authentication on the API.
+
+    <details markdown=1><summary markdown='span'>Answer</summary>
+      Correct answer: D
+    </details>
+
+51. A company has 700 TB of backup data stored in network attached storage (NAS) in its data center. This backup data need to be accessible for infrequent regulatory requests and must be retained 7 years. The company has decided to migrate this backup data from its data center to AWS. The migration must be complete within 1 month. The company has 500 Mbps of dedicated bandwidth on its public internet connection available for data transfer. What should a solutions architect do to migrate and store the data at the LOWEST cost? 
+    - A. Provision a 500 Mbps AWS Direct Connect connection and transfer the data to Amazon S3. Use a lifecycle policy to transition the files to Amazon S3 Glacier Deep Archive.
+    - B. Use AWS DataSync to transfer the data and deploy a DataSync agent on premises. Use the DataSync task to copy files from the on-premises NAS storage to Amazon S3 Glacier.
+    - C. Order AWS Snowball devices to transfer the data. Use a lifecycle policy to transition the files to Amazon S3 Glacier Deep Archive.
+    - D. Deploy a VPN connection between the data center and Amazon VPC. Use the AWS CLI to copy the data from on premises to Amazon S3 Glacier.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: C
     </details>
 
+52. A company has a Windows-based application that must be migrated to AWS. The application requires the use of a shared Windows file system attached to multiple Amazon EC2 Windows instances that are deployed across multiple Availability Zone: What should a solutions architect do to meet this requirement?
+    - A. Configure an Amazon Elastic Block Store (Amazon EBS) volume with the required size. Attach each EC2 instance to the volume. Mount the file system within the volume to each Windows instance.
+    - B. Configure a file system by using Amazon Elastic File System (Amazon EFS). Mount the EFS file system to each Windows instance.
+    - C. Configure AWS Storage Gateway in volume gateway mode. Mount the volume to each Windows instance.
+    - D. Configure Amazon FSx for Windows File Server. Mount the Amazon FSx file system to each Windows instance.
+
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: C
+      Correct answer: D
     </details>
+
+53. A company’s order system sends requests from clients to Amazon EC2 instances. The EC2 instances process the orders and then store the orders in a database on Amazon RDS. Users report that they must reprocess orders when the system fails. The company wants a resilient solution that can process orders automatically if a system outage occurs. What should a solutions architect do to meet these requirements?
+    - A. Move the EC2 instances into an Auto Scaling group. Configure the order system to send messages to an Amazon Simple Queue Service (Amazon SQS) queue. Configure the EC2 instances to consume messages from the queue.
+    - B. Move the EC2 instances into an Auto Scaling group behind an Application Load Balancer (ALB). Update the order system to send messages to the ALB endpoint.
+    - C. Create an Amazon Simple Notification Service (Amazon SNS) topic. Create an AWS Lambda function, and subscribe the function to the SNS topic. Configure the order system to send messages to the SNS topic. Send a command to the EC2 instances to process the messages by using AWS Systems Manager Run Command.
+    - D. Move the EC2 instances into an Auto Scaling group. Create an Amazon EventBridge (Amazon CloudWatch Events) rule to target an Amazon Elastic Container Service (Amazon ECS) task.
+
+    <details markdown=1><summary markdown='span'>Answer</summary>
+      Correct answer: A
+    </details>
+
+54. A company previously migrated its data warehouse solution to AWS. The company also has an AWS Direct Connect connection. Corporate office users query the data warehouse using a visualization tool. The average size of a query returned by the data warehouse is 50
+MB and each webpage sent by the visualization tool is approximately 500 KB. Result sets returned by the data warehouse are not cached. Which solution provides the LOWEST data transfer egress cost for the company? 
+    - A. Host the visualization tool in the same AWS Region as the data warehouse and access it over a Direct Connect connection at a location in the same Region.
+    - B. Host the visualization tool on premises and query the data warehouse directly over a Direct Connect connection at a location in the same AWS Region.
+    - C. Host the visualization tool on premises and query the data warehouse directly over the internet.
+    - D. Host the visualization tool in the same AWS Region as the data warehouse. Access it over the internet.
+
+    <details markdown=1><summary markdown='span'>Answer</summary>
+      Correct answer: A
+    </details>
+
+55. An application runs on an Amazon EC2 instance that has an Elastic IP address in VPC A. The application requires access to a database in VPC B. Both VPCs are in the same AWS account. Which solution will provide the required access MOST securely?
+    - A. Create a DB instance security group that allows all traffic from the public IP address of the application server in VPC A.
+    - B. Launch an EC2 instance with an Elastic IP address into VPC B. Proxy all requests through the new EC2 instance.
+    - C. Make the DB instance publicly accessible. Assign a public IP address to the DB instance.
+    - D. Configure a VPC peering connection between VPC A and VPC B.
+
+    <details markdown=1><summary markdown='span'>Answer</summary>
+      Correct answer: D
+    </details>
+
+56. A company has hired an external vendor to perform work in the company’s AWS account. The vendor uses an automated tool that is hosted in an AWS account that the vendor owns. The vendor does not have IAM access to the company’s AWS account. How should a solutions architect grant this access to the vendor?
+    - A. Create a new identity provider by choosing “AWS account” as the provider type in the IAM console. Supply the vendor’s AWS account ID and user name. Attach the appropriate IAM policies to the new provider for the permissions that the vendor requires.
+    - B. Create an IAM user in the company’s account with a password that meets the password complexity requirements. Attach the appropriate IAM policies to the user for the permissions that the vendor requires.
+    - C. Create an IAM role in the company’s account to delegate access to the vendor’s IAM role. Attach the appropriate IAM policies to the role for the permissions that the vendor requires. 
+    - D. Create an IAM group in the company’s account. Add the tool’s IAM user from the vendor account to the group. Attach the appropriate IAM policies to the group for the permissions that the vendor requires.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: C
     </details>
 
-    <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: C
-    </details>
+57. A company needs to retain its AWS CloudTrail logs for 3 years. The company is enforcing CloudTrail across a set of AWS accounts by using AWS Organizations from the parent account. The CloudTrail target S3 bucket is configured with S3 Versioning enabled. An S3 Lifecycle policy is in place to delete current objects after 3 years. After the fourth year of use of the S3 bucket, the S3 bucket metrics show that the number of objects has continued to rise. However, the number of new CloudTrail logs that are delivered to the S3 bucket has remained consistent. Which solution will delete objects that are older than 3 years in the MOST cost-effective manner?
+    - A. Configure the parent account as the owner of all objects that are delivered to the S3 bucket.
+    - B. Configure the S3 Lifecycle policy to delete previous versions as well as current versions. 
+    - C. Configure the organization’s centralized CloudTrail trail to expire objects after 3 years.
+    - D. Create an AWS Lambda function to enumerate and delete objects from Amazon S3 that are older than 3 years.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: C
+      Correct answer: B
     </details>
 
-    <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: C
-    </details>
+58. A company is building a new dynamic ordering website. The company wants to minimize server maintenance and patching. The website must be highly available and must scale read and write capacity as quickly as possible to meet changes in user demand. Which solution will meet these requirements? 
+    - A. Host static content in Amazon S3. Host dynamic content by using Amazon API Gateway and AWS Lambda. Use Amazon DynamoDB with on-demand capacity for the database. Configure Amazon CloudFront to deliver the website content.
+    - B. Host all the website content on Amazon EC2 instances. Create an Auto Scaling group to scale the EC2 instances. Use an Application Load Balancer to distribute traffic. Use Amazon Aurora with Aurora Auto Scaling for the database.
+    - C. Host static content in Amazon S3. Host dynamic content by using Amazon API Gateway and AWS Lambda. Use Amazon Aurora with Aurora Auto Scaling for the database. Configure Amazon CloudFront to deliver the website content.
+    - D. Host all the website content on Amazon EC2 instances. Create an Auto Scaling group to scale the EC2 instances. Use an Application Load Balancer to distribute traffic. Use Amazon DynamoDB with provisioned write capacity for the database.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: C
+      Correct answer: A
     </details>
 
-    <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: C
-    </details>
+59. A company has deployed a Java Spring Boot application as a pod that runs on Amazon
+Elastic Kubernetes Service (Amazon EKS) in private subnets. The application needs to
+write data to an Amazon DynamoDB table. A solutions architect must ensure that the
+application can interact with the DynamoDB table without exposing traffic to the internet.
+Which combination of steps should the solutions architect take to accomplish this goal?
+(**Choose two.**)
+    - A. Create a VPC endpoint for DynamoDB.
+    - B. Attach an IAM role that has sufficient privileges to the EKS pod.
+    - C. Allow outbound connectivity to the DynamoDB table through the private subnets’ network ACLs.
+    - D. Embed the access keys in the Java Spring Boot code.
+    - E. Attach an IAM user that has sufficient privileges to the EKS pod.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: C
+      Correct answer: A, B
     </details>
 
-    <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: C
-    </details>
+60. A company recently migrated its web application to AWS by rehosting the application on
+Amazon EC2 instances in a single AWS Region. The company wants to redesign its
+application architecture to be highly available and fault tolerant. Traffic must reach all
+running EC2 instances randomly. Which combination of steps should the company take to
+meet these requirements? (**Choose two.**)
+    - A. Launch four EC2 instances: two instances in one Availability Zone and two instances in another Availability Zone.
+    - B. Launch three EC2 instances: two instances in one Availability Zone and one instance in another Availability Zone.
+    - C. Create an Amazon Route 53 failover routing policy.
+    - D. Create an Amazon Route 53 multivalue answer routing policy.
+    - E. Create an Amazon Route 53 weighted routing policy.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: C
+      Correct answer: A, D
     </details>
 
-    <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: C
-    </details>
-
-    <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: C
-    </details>
-
-    <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: C
-    </details>
 
 
