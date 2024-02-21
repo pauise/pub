@@ -21,7 +21,11 @@ If this practice exam has been helpful to you please share it with others and re
     - B. Deploy a transit gateway in the inspection VPConfigure route tables to route the incoming packets through the transit gateway.
     - C. Create a Network Load Balancer in the public subnet of the application's VPC to route the traffic to the appliance for packet inspection.
     - D. Create an Application Load Balancer in the public subnet of the application's VPC to route the traffic to the appliance for packet inspection.
-  
+
+    <details markdown=1><summary markdown='span'>Answer</summary>
+      Correct answer: A
+    </details>
+    
 3. A company wants to run its critical applications in containers to meet requirements for scalability and availability. The company prefers to focus on maintenance of the critical applications. The company does not want to be responsible for provisioning and managing the underlying infrastructure that runs the containerized workload. What should a solutions architect do to meet these requirements?
     - A. Use Amazon Elastic Container Service (Amazon ECS) on AWS Fargate.
     - B. Use Amazon EC2 instances, and install Docker on the instances.
