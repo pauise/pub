@@ -522,95 +522,105 @@ internet gateway to access the S3 buckets.
       Correct answer: B
     </details>
 
-51. 
+51. A company runs an on-premises application that is powered by a MySQL database. The company is migrating the application to AWS to increase the application's elasticity and availability. The current architecture shows heavy read activity on the database during times of normal operation. Every 4 hours, the company's development team pulls a full export of the production database to populate a database in the staging environment. During this period, users experience unacceptable application latency. The development team is unable to use the staging environment until the procedure completes. A solutions architect must recommend replacement architecture that alleviates the application latency issue. The replacement architecture also must give the development team the ability to continue using the staging environment without delay. Which solution meets these requirements?
+    - A. Use Amazon RDS for MySQL with a Multi-AZ deployment and read replicas for production. Use the standby instance for the staging database.
+    - B. Use Amazon Aurora MySQL with Multi-AZ Aurora Replicas for production. Populate the staging database by implementing a backup and restore process that uses the mysqldump utility.
+    - C. Use Amazon RDS for MySQL with a Multi-AZ deployment and read replicas for production. Populate the staging database by implementing a backup and restore process that uses the mysqldump utility.
+    - D. Use Amazon Aurora MySQL with Multi-AZ Aurora Replicas for production. Use database cloning to create the staging database on-demand.
+    <details markdown=1><summary markdown='span'>Answer</summary>
+      Correct answer: D
+    </details>
+
+52. A company needs to configure a real-time data ingestion architecture for its application. The company needs an API, a process that transforms data as the data is streamed, and a storage solution for the data. Which solution will meet these requirements with the LEAST operational overhead?
+    - A. Configure an Amazon API Gateway API to send data to an Amazon Kinesis data stream. Create an Amazon Kinesis Data Firehose delivery stream that uses the Kinesis data stream as a data source. Use AWS Lambda functions to transform the data. Use the Kinesis Data Firehose delivery stream to send the data to Amazon S3.
+    - B. Deploy an Amazon EC2 instance to host an API that sends data to an Amazon Kinesis data stream. Create an Amazon Kinesis Data Firehose delivery stream that uses the Kinesis data stream as a data source. Use AWS Lambda functions to transform the data. Use the Kinesis Data Firehose delivery stream to send the data to Amazon S3.
+    - C. Deploy an Amazon EC2 instance to host an API that sends data to AWS Glue. Stop source/destination checking on the EC2 instance. Use AWS Glue to transform the data and to send the data to Amazon S3.
+    - D. Configure an Amazon API Gateway API to send data to AWS Glue. Use AWS Lambda functions to transform the data. Use AWS Glue to send the data to Amazon S3.
+
+    <details markdown=1><summary markdown='span'>Answer</summary>
+      Correct answer: A
+    </details>
+
+53. A company runs a shopping application that uses Amazon DynamoDB to store customer information. In case of data corruption, a solutions architect needs to design a solution that meets a recovery point objective (RPO) of 15 minutes and a recovery time objective (RTO) of 1 hour. What should the solutions architect recommend to meet these requirements?
+    - A. Schedule Amazon Elastic Block Store (Amazon EBS) snapshots for the DynamoDB table every 15 minutes. For RPO recovery, restore the DynamoDB table by using the EBS snapshot.
+    - B. Configure DynamoDB global tables. For RPO recovery, point the application to a different AWS Region.
+    - C. Configure DynamoDB point-in-time recovery. For RPO recovery, restore to the desired point in time.
+    - D. Export the DynamoDB data to Amazon S3 Glacier on a daily basis. For RPO recovery, import the data from S3 Glacier to DynamoDB.
+    
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: C
     </details>
 
+54. A company uses a popular content management system (CMS) for its corporate website. However, the required patching and maintenance are burdensome. The company is redesigning its website and wants anew solution. The website will be updated four times a year and does not need to have any dynamic content available. The solution must provide high scalability and enhanced security. Which combination of changes will meet these requirements with the LEAST operational overhead? (**Choose two.**)
+    - A. Create and deploy an AWS Lambda function to manage and serve the website content.
+    - B. Deploy an AWS WAF web ACL in front of the website to provide HTTPS functionality.
+    - C. Create the new website. Deploy the website by using an Auto Scaling group of Amazon EC2 instances behind an Application Load Balancer.
+    - D. Configure Amazon CloudFront in front of the website to use HTTPS functionality.
+    - E. Create the new website and an Amazon S3 bucket. Deploy the website on the S3 bucket with static website hosting enabled.
+
+    <details markdown=1><summary markdown='span'>Answer</summary>
+      Correct answer: D, E
+    </details>
+
+55. A solutions architect is designing a VPC with public and private subnets. The VPC and subnets use IPv4 CIDR blocks. There is one public subnet and one private subnet in each of three Availability Zones (AZs) for high availability. An internet gateway is used to provide internet access for the public subnets. The private subnets require access to the internet to allow Amazon EC2 instances to download software updates. What should the solutions architect do to enable Internet access for the private subnets?
+    - A. Create an egress-only internet gateway on one of the public subnets. Update the route table for the private subnets that forward non-VPC traffic to the egress-only Internet gateway.
+    - B. Create three NAT gateways, one for each public subnet in each AZ. Create a private route table for each AZ that forwards non-VPC traffic to the NAT gateway in its AZ.
+    - C. Create a second internet gateway on one of the private subnets. Update the route table for the private subnets that forward non-VPC traffic to the private internet gateway.
+    - D. Create three NAT instances, one for each private subnet in each AZ. Create a private route table for each AZ that forwards non-VPC traffic to the NAT instance in its AZ.
+
+    <details markdown=1><summary markdown='span'>Answer</summary>
+      Correct answer: B
+    </details>
+
+56. A company is running a business-critical web application on Amazon EC2 instances behind an Application Load Balancer. The EC2 instances are in an Auto Scaling group. The application uses an Amazon Aurora PostgreSQL database that is deployed in a single Availability Zone. The company wants the application to be highly available with minimum downtime and minimum loss of data. Which solution will meet these requirements with the LEAST operational effort?
+    - A. Configure the Auto Scaling group to use multiple Availability Zones. Configure the database as Multi-AZ. Configure an Amazon RDS Proxy instance for the database.
+    - B. Configure the Auto Scaling group to use multiple AWS Regions. Write the data from the application to Amazon S3. Use S3 Event Notifications to launch an AWS Lambda function to write the data to the database.
+    - C. Place the EC2 instances in different AWS Regions. Use Amazon Route 53 health checks to redirect traffic. Use Aurora PostgreSQL Cross-Region Replication.
+    - D. Configure the Auto Scaling group to use one Availability Zone. Generate hourly snapshots of the database. Recover the database from the snapshots in the event of a failure.
+    
+    <details markdown=1><summary markdown='span'>Answer</summary>
+      Correct answer: A
+    </details>
+
+57. A company uses Amazon S3 to store its confidential audit documents. The S3 bucket uses bucket policies to restrict access to audit team IAM user credentials according to the principle of least privilege. Company managers are worried about accidental deletion of documents in the S3 bucket and want a more secure solution. What should a solutions architect do to secure the audit documents?
+    - A. Enable the versioning and MFA Delete features on the S3 bucket.
+    - B. Use AWS Key Management Service (AWS KMS) to encrypt the S3 bucket and restrict audit team IAM user accounts from accessing the KMS key.
+    - C. Enable multi-factor authentication (MFA) on the IAM user credentials for each audit team IAM user account.
+    - D. Add an S3 Lifecycle policy to the audit team's IAM user accounts to deny the s3:DeleteObject action during audit dates.
+    
+    <details markdown=1><summary markdown='span'>Answer</summary>
+      Correct answer: A
+    </details>
+
+58. A company hosts its web applications in the AWS Cloud. The company configures Elastic Load Balancers to use certificates that are imported into AWS Certificate Manager (ACM). The company's security team must be notified 30 days before the expiration of each certificate. What should a solutions architect recommend to meet this requirement?
+    - A. Use AWS Trusted Advisor to check for certificates that will expire within 30 days. Create an Amazon CloudWatch alarm that is based on Trusted Advisor metrics for check status changes. Configure the alarm to send a custom alert by way of Amazon Simple Notification Service (Amazon SNS).
+    - B. Add a rule in ACM to publish a custom message to an Amazon Simple Notification Service (Amazon SNS) topic every day, beginning 30 days before any certificate will expire.
+    - C. Create an AWS Config rule that checks for certificates that will expire within 30 days. Configure Amazon EventBridge (Amazon CloudWatch Events) to invoke a custom alert by way of Amazon Simple Notification Service (Amazon SNS) when AWS Config reports a noncompliant resource.
+    - D. Create an Amazon EventBridge (Amazon CloudWatch Events) rule to detect any certificates that will expire within 30 days. Configure the rule to invoke an AWS Lambda function. Configure the Lambda function to send a custom alert by way of Amazon Simple Notification Service (Amazon SNS).
+      
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: C
     </details>
 
+59. A company wants to reduce the cost of its existing three-tier web architecture. The web, application, and database servers are running on Amazon EC2 instances for the development, test, and production environments. The EC2 instances average 30% CPU utilization during peak hours and 10% CPU utilization during non-peak hours. The production EC2 instances run 24 hours a day. The development and test EC2 instances run for at least 8 hours each day. The company plans to implement automation to stop the development and test EC2 instances when they are not in use. Which EC2 instance purchasing solution will meet the company's requirements MOST cost-effectively?
+    - A. Use Spot Instances for the production EC2 instances. Use Reserved Instances for the development and test EC2 instances.
+    - B. Use Spot blocks for the production EC2 instances. Use Reserved Instances for the development and test EC2 instances.
+    - C. Use Reserved Instances for the production EC2 instances. Use On-Demand Instances for the development and test EC2 instances.
+    - D. Use On-Demand Instances for the production EC2 instances. Use Spot blocks for the development and test EC2 instances.
+      
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: C
     </details>
 
+60. A company wants to move a multi-tiered application from on premises to the AWS Cloud to improve the application's performance. The application consists of application tiers that communicate with each other by way of RESTful services. Transactions are dropped when one tier becomes overloaded. A solutions architect must design a solution that resolves these issues and modernizes the application. Which solution meets these requirements and is the MOST operationally efficient?
+    - A. Use Amazon CloudWatch metrics to analyze the application performance history to determine the servers' peak utilization during the performance failures. Increase the size of the application server's Amazon EC2 instances to meet the peak requirements.
+    - B. Use Amazon Simple Queue Service (Amazon SQS) to handle the messaging between application servers running on Amazon EC2 in an Auto Scaling group. Use Amazon CloudWatch to monitor the SQS queue length and scale up when communication failures are detected.
+    - C. Use Amazon Simple Notification Service (Amazon SNS) to handle the messaging between application servers running on Amazon EC2 in an Auto Scaling group. Use Amazon CloudWatch to monitor the SNS queue length and scale up and down as required.
+    - D. Use Amazon API Gateway and direct transactions to the AWS Lambda functions as the application layer. Use Amazon Simple Queue Service (Amazon SQS) as the communication layer between application services.
+      
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: C
+      Correct answer: D
     </details>
-
-    <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: C
-    </details>
-
-    <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: C
-    </details>
-
-    <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: C
-    </details>
-
-    <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: C
-    </details>
-
-    <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: C
-    </details>
-
-    <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: C
-    </details>
-
-    <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: C
-    </details>
-
-    <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: C
-    </details>
-
-    <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: C
-    </details>
-
-    <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: C
-    </details>
-
-    <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: C
-    </details>
-
-    <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: C
-    </details>
-
-    <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: C
-    </details>
-
-    <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: C
-    </details>
-
-    <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: C
-    </details>
-
-    <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: C
-    </details>
-
-    <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: C
-    </details>
-
-    <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: C
-    </details>
-
 
 Please feel free to comment below if any information is inaccurate or if any answers need correction.
 
