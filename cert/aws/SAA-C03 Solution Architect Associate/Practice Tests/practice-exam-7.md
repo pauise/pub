@@ -131,6 +131,20 @@ If this practice exam has been helpful to you please share it with others and re
 	- C. Set up an IAM user with the appropriate permissions to allow access to the DynamoDB table. Store the access credentials in the local storage and read them from within the application code directly
 	- D. Set up an IAM service role with the appropriate permissions to allow access to the DynamoDB table. Add the EC2 instance to the trust relationship policy document so that the instance can assume the role.
 
+    <details markdown=1><summary markdown='span'>Answer</summary>
+      Correct answer: D
+
+	> Trust policies establish the trust relationship between an IAM role and the entities that are allowed to assume it. Permission policies, on the other hand, define the specific permissions and actions that an IAM user, group, or role is allowed or denied within AWS services and resources. Together, trust policies and permission policies work in tandem to ensure proper access control and security within an AWS environment (https://www.linkedin.com/pulse/permission-policy-vs-trust-aws-rupesh-tiwari/).
+
+	> A service role is a role that an AWS service assumes to perform actions on your behalf. So, an EC2 instance can assume a service role while a specific user can assume a (w/o "service") role.
+
+    	> Even DynamoDB has some constraints regarding IAM as per https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/security_iam_service-with-iam.html 
+
+    	> Finally, B, C are incorrect because the action must be allowed to an AWS service (EC2). A is incorrect because a **resource** policy JSON doc can not be used to assign a role neither a service role to that resource, but a trust relationship policy document instead. So D.
+    </details>
+
+
+
 D
 
 11. A development team wants to ensure that all objects uploaded to an Amazon S3 bucket are encrypted. Which of the following options represents the correct solution?
