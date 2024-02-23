@@ -39,6 +39,7 @@ If this practice exam has been helpful to you please share it with others and re
 	
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: A, C
+	    
 	> Instance Store is local attached physical disk and data persists only in case an instance store-backed AMI created from the instance, and instance reboot. All other cases the data is lost. So, D and F are false while A, B and C are TRUE. B is also TRUE but not in all cases and it's not a key characteristic for this case. Finally, the number, size, and type of instance store volumes are determined by the instance type and instance size. So, you can not specify instance store volumes and then E is FALSE. 
 
 	> See more https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/InstanceStorage.html and https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/instance-store-volumes.html
@@ -53,15 +54,15 @@ If this practice exam has been helpful to you please share it with others and re
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: C
 
-> Cluster – Packs instances close together inside an Availability Zone. This strategy enables workloads to achieve the low-latency network performance necessary for tightly-coupled node-to-node communication that is typical of high-performance computing (HPC) applications. So, B FALSE.
+	> Cluster – Packs instances close together inside an Availability Zone. This strategy enables workloads to achieve the low-latency network performance necessary for tightly-coupled node-to-node communication that is typical of high-performance computing (HPC) applications. So, B FALSE.
 
-> Partition – Spreads your instances across logical partitions such that groups of instances in one partition do not share the underlying hardware with groups of instances in different partitions. This strategy is typically used by large distributed and replicated workloads, such as Hadoop, Cassandra, and Kafka. So, A FALSE.
+	> Partition – Spreads your instances across logical partitions such that groups of instances in one partition do not share the underlying hardware with groups of instances in different partitions. This strategy is typically used by large distributed and replicated workloads, such as Hadoop, Cassandra, and Kafka. So, A FALSE.
 
-> Spread – Strictly places a small group of instances across distinct underlying hardware to reduce correlated failures. So, C TRUE.
+	> Spread – Strictly places a small group of instances across distinct underlying hardware to reduce correlated failures. So, C TRUE.
 
-> Multi-AZ placement groups do not exist! So, D FALSE.
+	> Multi-AZ placement groups do not exist! So, D FALSE.
 
-> https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/placement-groups.html
+	> https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/placement-groups.html
    </details>
 
 6. Your e-commerce application is using an RDS PostgreSQL database and an analytics workload also runs on the same database. When the analytics workload is run, your e-commerce application slows down which further affects your sales. Which of the following is the MOST cost-optimal solution to fix this issue?
@@ -73,13 +74,13 @@ If this practice exam has been helpful to you please share it with others and re
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: A
       
-> A Multi-AZ DB instance deployment has one standby DB instance that provides failover support, but doesn't serve read traffic. So, B FALSE.
+	> A Multi-AZ DB instance deployment has one standby DB instance that provides failover support, but doesn't serve read traffic. So, B FALSE.
 
-> Option C does not makes sense. The data are on DB, does not matter if it's Lambda or an app on an EC2 who is accessing.
+	> Option C does not makes sense. The data are on DB, does not matter if it's Lambda or an app on an EC2 who is accessing.
 
-> If you place the DB in a different Region than the app which is accessing to it will be a dramatic increase of DB access time. For sure the DB must be in the same Region than the app. So, D FALSE and then only A is TRUE.
+	> If you place the DB in a different Region than the app which is accessing to it will be a dramatic increase of DB access time. For sure the DB must be in the same Region than the app. So, D FALSE and then only A is TRUE.
 
-> See https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Concepts.MultiAZ.html and https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/USER_ReadRepl.html.
+	> See https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Concepts.MultiAZ.html and https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/USER_ReadRepl.html.
 
 6. A company needs an Active Directory service to run directory-aware workloads in the AWS Cloud and it should also support configuring a trust relationship with any existing on-premises Microsoft Active Directory. Which AWS Directory Service is the best fit for this requirement?
 	- A. AWS Managed Microsoft AD
@@ -109,7 +110,7 @@ If this practice exam has been helpful to you please share it with others and re
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: A
 
-> DocumentDB does not have caching layer and neither DocumentDB neither DAX cache are a "relational" DB as stated, but a No-SQL instead. So, according to https://aws.amazon.com/elasticache/redis-vs-memcached/ Memcached does not support built-in replication. No mention to archival but definetly Redis has more features than Memcached. so, A is TRUE.
+	> DocumentDB does not have caching layer and neither DocumentDB neither DAX cache are a "relational" DB as stated, but a No-SQL instead. So, according to https://aws.amazon.com/elasticache/redis-vs-memcached/ Memcached does not support built-in replication. No mention to archival but definetly Redis has more features than Memcached. so, A is TRUE.
     </details>
 
 9. A company is deploying a web application and it wants to ensure that only the web tier of the application is publicly accessible. To accomplish this, the engineering team has designed the VPC with a public subnet and a private subnet. The application will be hosted on several EC2 instances in an Auto Scaling group. The team also wants TLS termination to be offloaded from the EC2 instances. Which solution should a solutions architect implement to address these requirements?
