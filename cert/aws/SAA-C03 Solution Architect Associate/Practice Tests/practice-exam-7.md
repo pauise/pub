@@ -165,7 +165,7 @@ If this practice exam has been helpful to you please share it with others and re
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: A
 
-	> SNS uses model publisher/subscriber (1:n) while SQS uses model push/consum (1:1). As stated, only 1 of the n EC2 must be triggered, so D is FALSE. B and C are distractors because S3 Inventory is used for audit and reporting and CloudWatch can be used but it's not the best use case since S3 provides the S3 Event Notification. 
+	> SNS uses model publisher/subscriber (1:n) while SQS uses model producer/consumer (1:1). As stated, only 1 of the n EC2 must be triggered, so D is FALSE. B and C are distractors because S3 Inventory is used for audit and reporting and CloudWatch could be used but too much tricky and it's not the best use case since S3 provides the S3 Event Notification. 
     </details>
 
 13. An engineering team wants to orchestrate multiple Amazon ECS task types running on EC2 instances that are part of the ECS cluster. The output and state data for all tasks need to be stored. The amount of data output by each task is approximately 20 MB and there could be hundreds of tasks running at a time. As old outputs are archived, the storage size is not expected to exceed 1 TB. As a solutions architect, which of the following would you recommend as an optimized solution for high-frequency reading and writing?
@@ -186,7 +186,11 @@ If this practice exam has been helpful to you please share it with others and re
 	- C. Make the S3 bucket public 
 	- D. Create a bucket policy to only authorize the IAM role attached to the CloudFront distribution.
 
-A
+    <details markdown=1><summary markdown='span'>Answer</summary>
+      Correct answer: A
+
+	> OAI is known known as OAC. See https://docs.aws.amazon.com/en_us/AmazonCloudFront/latest/DeveloperGuide/private-content-restricting-access-to-s3.html
+    </details>
 
 15. A company is experiencing stability issues with their cluster of self-managed RabbitMQ message brokers and the company now wants to explore an alternate solution on AWS. As a solutions architect, which of the following AWS services would you recommend that can provide support for quick and easy migration from RabbitMQ?
 	- A. Amazon MQ
@@ -194,7 +198,11 @@ A
 	- C. Amazon SQS Standard
 	- D. Amazon SQS FIFO (First-In-First-Out).
 
-A
+    <details markdown=1><summary markdown='span'>Answer</summary>
+      Correct answer: A
+	    
+	> Even SQS is also a message broker like RabbitMQ and also Amazon MQ, the applications connected as producers/consumers matter here and the migration from RabbitMQ to a different platform would be dramatic. Best option is go to a 100% compatible message broker platform and Amazon MQ is the option here. See How to migrate RabbitMQ to Amazon MQ: https://aws.amazon.com/blogs/compute/migrating-from-rabbitmq-to-amazon-mq/
+    </details>
 
 16. A healthcare company wants to run its applications on single-tenant hardware to meet compliance guidelines. Which of the following is the MOST cost-effective way of isolating the Amazon EC2 instances to a single tenant?
 	- A. Dedicated Instances
@@ -202,7 +210,15 @@ A
 	- C. Dedicated Hosts
 	- D. On-Demand Instances.
 
-A
+    <details markdown=1><summary markdown='span'>Answer</summary>
+      Correct answer: C
+
+	> First of all, important here is "on single-tenant hardware". So, B and D are incorrect. Usually "compliance" keyword implies "Dedicated". By one side "Dedicated Instances" are EC2 instances that run on hardware that's dedicated to a single AWS account while "Dedicated Hosts" is hardware box dedicated. Here the "MOST cost-effective" statement can cause confusion because "Dedicated Hosts" are in practice more expensive than "Dedicated Instance" due to there is more room for unused resources. For example, if you are using the C3 instance family for your Dedicated Host, you must pay hourly for an entire physical C3 host that can launch up to 16 c3.large instances, 8 c3.xlarge instances, etc. If you need to launch 17 c3.large instances, you need to pay for 2 entire Dedicated Hosts, and you will have 15 open slots on the 2nd host. Finally, the only Dedicated type compatible with "single-tenant hardware" is defintely the Dedicated Host due to Dedicated Instance is not single-tenant even if the other tenants are from the same account.
+ 
+	> Other important but not relevant for this question is that a Dedicated Host gives you additional visibility and control over how instances are placed on a physical server, and you can consistently deploy your instances to the same physical server over time. Both services give the option to launch instances to your own Dedicated Hosts with resources that will not be consumed by other customers. The real difference is in the visibility into the physical host that Dedicated Hosts gives you. While Dedicated Instances are extremely valuable from a compliance perspective, Dedicated Hosts also give you the visibility into the physical host that is required for a Bring Your Own License (BYOL) model — i.e., if you want to use your own Windows Server, SQL Server, SUSE, or RHEL licenses that are provided on a CPU core basis.
+ 
+ 	>  See https://www.trek10.com/blog/dedicated-hosts-and-dedicated-instances and 
+    </details>
 
 17. A company's real-time streaming application is running on AWS. As the data is ingested, a job runs on the data and takes 30 minutes to complete. The workload frequently experiences high latency due to large amounts of incoming data. A solutions architect needs to design a scalable and serverless solution to enhance performance. Which combination of steps should the solutions architect take? (**Select two**)
 	- A. Set up Amazon Kinesis Data Streams to ingest the data
@@ -211,7 +227,9 @@ A
 	- D. Set up AWS Lambda with AWS Step Functions to process the data
 	- E. Provision EC2 instances in an Auto Scaling group to process the data
 
-B,D
+    <details markdown=1><summary markdown='span'>Answer</summary>
+      Correct answer: A, D
+    </details>
 
 18. A Big Data company wants to optimize its daily Extract-Transform-Load (ETL) process that migrates and transforms data from its S3 based data lake to a Redshift cluster. The team wants to manage this daily job in a serverless environment. Which AWS service is the best fit to manage this process without the need to configure or manage the underlying compute resources?
 	- A. AWS Glue
@@ -219,7 +237,9 @@ B,D
 	- C. Amazon EMR
 	- D. AWS Database Migration Service (DMS).
 
-B
+    <details markdown=1><summary markdown='span'>Answer</summary>
+      Correct answer: A
+    </details>
 
 19. You are using AWS Lambda to implement a batch job for a big data analytics workflow. Based on historical trends, a similar job runs for 30 minutes on average. The Lambda function pulls data from Amazon S3, processes it, and then writes the results back to S3. When you deployed your AWS Lambda function, you noticed an issue where the Lambda function abruptly failed after 15 minutes of execution. As a solutions architect, which of the following would you identify as the root cause of the issue?
 	- A. The AWS Lambda function is timing out
@@ -227,7 +247,9 @@ B
 	- C. The AWS Lambda function chosen runtime is wrong
 	- D. The AWS Lambda function is missing IAM permissions.
 
-A
+    <details markdown=1><summary markdown='span'>Answer</summary>
+      Correct answer: A
+    </details>
 
 20. A Big Data analytics company is using a fleet of Amazon EC2 instances to ingest Internet-of-Things (IoT) data from various data sources. The data is in JSON format and ingestion rates can be as high as 1 MB/s. When an EC2 instance is restarted, the in-flight data is lost. The analytics team at the company wants to store as well as query the ingested data in near-real-time. Which of the following solutions provides near-real-time data querying that is scalable with minimal data loss?
 	- A. Capture data in Amazon Kinesis Data Firehose with Amazon Redshift as the destination. Use Amazon Redshift to query the data
@@ -235,7 +257,11 @@ A
 	- C. Use Amazon Athena to query the data Capture data in an EBS volume and then publish this data to Amazon ElastiCache for Redis. Subscribe to the Redis channel to query the data
 	- D. Capture data in Amazon Kinesis Data Streams. Use Kinesis Data Analytics to query and analyze this streaming data in real-time.
 
-D
+    <details markdown=1><summary markdown='span'>Answer</summary>
+      Correct answer: D
+
+	> Kinesis Data Analytics supports Amazon Data Firehose (Amazon S3, Amazon Redshift, Amazon OpenSearch Service, and Splunk), AWS Lambda, and Amazon Kinesis Data Streams as destinations. See https://docs.aws.amazon.com/kinesisanalytics/latest/dev/what-is.html
+    </details>
 
 21. A company has moved its business critical data to Amazon EFS file system which will be accessed by multiple EC2 instances. As an AWS Certified Solutions Architect Associate, which of the following would you recommend to exercise access control such that only the permitted EC2 instances can read from the EFS file system? (**Select two**)
 	- A. Use VPC security groups to control the network traffic to and from your file system
