@@ -138,9 +138,9 @@ If this practice exam has been helpful to you please share it with others and re
 
 	> A service role is a role that an AWS service assumes to perform actions on your behalf. So, an EC2 instance can assume a service role while a specific user can assume a (w/o "service") role.
 
-    	> Even DynamoDB has some constraints regarding IAM as per https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/security_iam_service-with-iam.html 
+     > Even DynamoDB has some constraints regarding IAM as per https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/security_iam_service-with-iam.html 
 
-    	> Finally, B, C are incorrect because the action must be allowed to an AWS service (EC2). A is incorrect because a **resource** policy JSON doc can not be used to assign a role neither a service role to that resource, but a trust relationship policy document instead. So D.
+    > Finally, B, C are incorrect because the action must be allowed to an AWS service (EC2). A is incorrect because a **resource** policy JSON doc can not be used to assign a role neither a service role to that resource, but a trust relationship policy document instead. So D.
     </details>
 
 
