@@ -39,7 +39,6 @@ If this practice exam has been helpful to you please share it with others and re
 	
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: A, C
-
 > Instance Store is local attached physical disk and data persists only in case an instance store-backed AMI created from the instance, and instance reboot. All other cases the data is lost. So, D and F are false while A, B and C are TRUE. B is also TRUE but not in all cases and it's not a key characteristic for this case. Finally, the number, size, and type of instance store volumes are determined by the instance type and instance size. So, you can not specify instance store volumes and then E is FALSE. 
 
 > See more https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/InstanceStorage.html and https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/instance-store-volumes.html
