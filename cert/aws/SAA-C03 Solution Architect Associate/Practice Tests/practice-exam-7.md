@@ -270,7 +270,11 @@ If this practice exam has been helpful to you please share it with others and re
 	- D. Set up the IAM policy root credentials to control and configure the clients accessing the EFS file system
 	- E. Use Amazon GuardDuty to curb unwanted access to EFS file system.
 
-B,C
+    <details markdown=1><summary markdown='span'>Answer</summary>
+      Correct answer: A, C
+
+	> See https://docs.aws.amazon.com/efs/latest/ug/iam-access-control-nfs-efs.html and https://docs.aws.amazon.com/efs/latest/ug/accessing-fs-create-security-groups.html
+     </details>
 
 22. The engineering team at a social media company has noticed that while some of the images stored in S3 are frequently accessed, others sit idle for a considerable span of time. As a solutions architect, what is your recommendation to build the MOST cost-effective solution?
 	- A. Store the images using the S3 Intelligent-Tiering storage class
@@ -278,7 +282,11 @@ B,C
 	- C. Create a data monitoring application on an EC2 instance in the same region as the bucket storing the images. The application is triggered daily via CloudWatch and it changes the storage class of infrequently accessed objects to S3 One Zone-IA and the frequently accessed objects are migrated to S3 Standard class
 	- D. Create a data monitoring application on an EC2 instance in the same region as the bucket storing the images. The application is triggered daily via CloudWatch and it changes the storage class of infrequently accessed objects to S3 Standard-IA and the frequently accessed objects are migrated to S3 Standard class.
 
-B
+    <details markdown=1><summary markdown='span'>Answer</summary>
+      Correct answer: A
+
+	> Some frequently, others sit idle, then Intelligent-Tiering because IA means "Infrequent Access" and the frequent access can imply over-costs.
+     </details>
 
 23. An Auto Scaling group (ASG) has been created to work with an Application Load Balancer (ALB). The scaling group is configured with a minimum size value of 10, a maximum value of 30, and the desired capacity value of 20. One of the 20 EC2 instances has been reported as unhealthy. Which of the following actions will take place?
 	- A. The ASG will terminate the EC2 Instance
@@ -286,7 +294,11 @@ B
 	- C. The ASG will keep the instance running and re-start the application
 	- D. The ASG will format the root EBS drive on the EC2 instance and run the User Data again.
 
-A
+    <details markdown=1><summary markdown='span'>Answer</summary>
+      Correct answer: A
+
+	> https://docs.aws.amazon.com/autoscaling/ec2/userguide/health-check-grace-period.html
+    </details>
 
 24. During a review, a security team has flagged concerns over an Amazon EC2 instance querying IP addresses used for cryptocurrency mining. The EC2 instance does not host any authorized application related to cryptocurrency mining. Which AWS service can be used to protect the EC2 instances from such unauthorized behavior in the future?
 	- A. Amazon GuardDuty
@@ -294,7 +306,12 @@ A
 	- C. AWS Shield Advanced
 	- D. AWS Firewall Manager
 
-B
+    <details markdown=1><summary markdown='span'>Answer</summary>
+      Correct answer: C
+
+	> AWS Shield Avanced, Rule groups. See https://docs.aws.amazon.com/waf/latest/developerguide/ddos-automatic-app-layer-response-rg.html
+    </details>
+
 
 25. Your company is building a video streaming service accessible to users who have paid an ongoing subscription. The subscription data is stored in DynamoDB. You would like to expose the users to a serverless architecture allowing them to request the video files that sit on Amazon S3 and are distributed by CloudFront and protected by an origin access identity (OAI). Which of the following options can be combined to build a solution? (**Select two**)
 	- A. Use AWS Lambda to generate the URL
@@ -303,9 +320,8 @@ B
 	- D. Use API Gateway to generate the URL
 	- E. Generate an S3 pre-signed URL
 	
-B,E
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: C
+      Correct answer: A, B
     </details>
 
 
