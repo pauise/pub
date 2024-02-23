@@ -144,24 +144,29 @@ If this practice exam has been helpful to you please share it with others and re
     </details>
 
 
-
-D
-
 11. A development team wants to ensure that all objects uploaded to an Amazon S3 bucket are encrypted. Which of the following options represents the correct solution?
 	- A. Configure the bucket policy to deny if the PutObject does not have an x-amz-server-side-encryption header set
 	- B. Configure the bucket policy to deny if the PutObject does not have an s3:x-amz-acl header set to private
 	- C. Configure the bucket policy to deny if the PutObject does not have an aws:SecureTransport header set to true
 	- D. Configure the bucket policy to deny if the PutObject does not have an s3:x-amz-acl header set
 
-B
+    <details markdown=1><summary markdown='span'>Answer</summary>
+      Correct answer: A
 
+	> To configure server-side encryption by using the object creation REST APIs, you must provide the x-amz-server-side-encryption request header even to specify a different (SSE-KMS) encryption algorithm at rest or the standard one (SSE-S3). Regarding s3:x-amz-acl it's used to specify the ACL that must be informed in the PutObject action and aws:SecureTransport is used for data in transport. See https://docs.aws.amazon.com/AmazonS3/latest/userguide/UsingServerSideEncryption.html. 
+    </details>
+    
 12. A photo-sharing company is storing user profile pictures in an S3 bucket and an image analysis application is deployed on four EC2 instances. A solutions architect would like to trigger an image analysis procedure only on one of the four EC2 instances for each photo uploaded. What do you recommend?
 	- A. Create an S3 Event Notification that sends a message to an SQS queue. Make the EC2 instances read from the SQS queue
 	- B. Subscribe the EC2 instances to the S3 Inventory stream
 	- C. Create a CloudWatch Event that reacts to objects uploads in S3 and invokes one of the EC2 instances
 	- D. Create an S3 Event Notification that sends a message to an SNS topic. Subscribe the EC2 instances to the SNS topic.
 
-D
+    <details markdown=1><summary markdown='span'>Answer</summary>
+      Correct answer: A
+
+	> SNS uses model publisher/subscriber (1:n) while SQS uses model push/consum (1:1). As stated, only 1 of the n EC2 must be triggered, so D is FALSE. B and C are distractors because S3 Inventory is used for audit and reporting and CloudWatch can be used but it's not the best use case since S3 provides the S3 Event Notification. 
+    </details>
 
 13. An engineering team wants to orchestrate multiple Amazon ECS task types running on EC2 instances that are part of the ECS cluster. The output and state data for all tasks need to be stored. The amount of data output by each task is approximately 20 MB and there could be hundreds of tasks running at a time. As old outputs are archived, the storage size is not expected to exceed 1 TB. As a solutions architect, which of the following would you recommend as an optimized solution for high-frequency reading and writing?
 	- A. Use Amazon EFS with Provisioned Throughput mode
@@ -169,7 +174,11 @@ D
 	- C. Use an Amazon EBS volume mounted to the ECS cluster instances
 	- D. Use a DynamoDB table that is accessible by all ECS cluster instances
 
-B
+    <details markdown=1><summary markdown='span'>Answer</summary>
+      Correct answer: B
+
+      > C and D are incorrect because even EBS can be mounted in several EC2 instances the use case stated refers to a use case of EFS. EFS Throughput modes are Elastic, Provisioned and Bursting (https://docs.aws.amazon.com/efs/latest/ug/performance.html). Here the sentence "could be hundreds of tasks running at a time" is the key, it's indicating that the throughput performance is variable, so it can not be "Provisioned" at all but "Bursting", so A FALSE. 
+    </details>
 
 14. As a Solutions Architect, you would like to completely secure the communications between your CloudFront distribution and your S3 bucket which contains the static files for your website. Users should only be able to access the S3 bucket through CloudFront and not directly. What do you recommend?
 	- A. Create an origin access identity (OAI) and update the S3 Bucket Policy
