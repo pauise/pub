@@ -119,7 +119,11 @@ If this practice exam has been helpful to you please share it with others and re
 	- C. Set up a Network Load Balancer in the private subnet. Create an Auto Scaling group in the public subnet and associate it with the Network Load Balancer
 	- D. Set up a Network Load Balancer in the private subnet. Create an Auto Scaling group in the private subnet and associate it with the Network Load Balancer.
 
-A
+    <details markdown=1><summary markdown='span'>Answer</summary>
+      Correct answer: A
+
+      > The ALB/NLB must be placed in the public subnet, so C and D FALSE, and the auto-scaling group is regarding EC2 set of instances which is typically placed in the private subnet (behind of the ALB/NLB), so B FALSE and A TRUE.
+    </details>
 
 10. An application running on an EC2 instance needs to access a DynamoDB table in the same AWS account. Which of the following solutions should a solutions architect configure for the necessary permissions?
 	- A. Set up an IAM service role with the appropriate permissions to allow access to the DynamoDB table. Configure an instance profile to assign this IAM role to the EC2 instance
