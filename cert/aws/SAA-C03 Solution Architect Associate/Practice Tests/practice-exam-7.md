@@ -321,7 +321,9 @@ If this practice exam has been helpful to you please share it with others and re
 	- E. Generate an S3 pre-signed URL
 	
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: A, B
+      Correct answer: B, D
+
+	> I don't know why
     </details>
 
 
