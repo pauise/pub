@@ -33,7 +33,7 @@ If this practice exam has been helpful to you please share it with others and re
     - D. Amazon FSx for Lustre integrated with Amazon S3
       
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: B
+      Correct answer: D
     </details>
 
 4. A company wants to move its application to a serverless solution. The serverless solution needs to analyze existing and new data by using SL. The company stores the data in an Amazon S3 bucket. The data requires encryption and must be replicated to a different AWS Region. Which solution will meet these requirements with the LEAST operational overhead?
