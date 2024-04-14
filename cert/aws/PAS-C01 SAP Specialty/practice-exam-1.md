@@ -898,10 +898,10 @@ Which migration solution should the company use to meet these requirements?
 A company is planning to migrate its SAP workloads to AWS. The company will use two VPCs. One VPC will be for production systems, and one VPC will be for non-production systems. The company will host the non-production systems and the primary node of all the production systems in the same Availability Zone.
 What is the MOST cost-effective way to establish a connection between the production systems and the non-production systems?
 
-A. Create an AWS Transit Gateway. Attach the VPCs to the transit gateway. Add the appropriate routes in the subnet route tables.
-B. Establish a VPC peering connection between the two VPCs. Add the appropriate routes in the subnet route tables.
-C. Create an internet gateway in each VPUse an AWS Site-to-Site VPN connection between the two VPCs. Add the appropriate routes in the subnet route tables.
-D. Set up an AWS Direct Connect connection between the two VPCs. Add the appropriate routes in the subnet route tables.
+- A. Create an AWS Transit Gateway. Attach the VPCs to the transit gateway. Add the appropriate routes in the subnet route tables.
+- B. Establish a VPC peering connection between the two VPCs. Add the appropriate routes in the subnet route tables.
+- C. Create an internet gateway in each VPUse an AWS Site-to-Site VPN connection between the two VPCs. Add the appropriate routes in the subnet route tables.
+- D. Set up an AWS Direct Connect connection between the two VPCs. Add the appropriate routes in the subnet route tables.
 
 <details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: B
  
@@ -965,10 +965,10 @@ Which combination of actions must the company perform to comply with SAP support
 A company needs to implement high availability for its SAP S/4HANA system on AWS. The company will use a SUSE Linux Enterprise Server clustering solution in private subnets across two Availability Zones. An SAP solutions architect must ensure that the solution can route traffic to the active SAP instance in this clustered configuration.
 What should the SAP solutions architect do to meet these requirements?
 
-A. Implement the SAP cluster solution by using a secondary private IP address. Reassign the secondary private IP address from one network interface to another network interface in the event of any failure that affects the primary instance.
-B. Implement the SAP cluster solution by using an Elastic IP address. Mask the failure of an instance or software by rapidly remapping the address to another instance in the account.
-C. Implement the SAP cluster solution by using a public IP address. Use this public IP address for communication between the instances and the internet.
-D. Implement the SAP cluster solution by using an overlay IP address that is outside the CIDR block of the VPC. Use overlay IP address routing to dynamically update the route table to point to the active node and provide external access by using a Network Load Balancer or AWS Transit Gateway.
+- A. Implement the SAP cluster solution by using a secondary private IP address. Reassign the secondary private IP address from one network interface to another network interface in the event of any failure that affects the primary instance.
+- B. Implement the SAP cluster solution by using an Elastic IP address. Mask the failure of an instance or software by rapidly remapping the address to another instance in the account.
+- C. Implement the SAP cluster solution by using a public IP address. Use this public IP address for communication between the instances and the internet.
+- D. Implement the SAP cluster solution by using an overlay IP address that is outside the CIDR block of the VPC. Use overlay IP address routing to dynamically update the route table to point to the active node and provide external access by using a Network Load Balancer or AWS Transit Gateway.
 
 <details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: D
  
