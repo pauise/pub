@@ -611,10 +611,10 @@ What should an SAP solutions architect do to meet the DR objectives MOST cost-ef
 A company is planning to migrate its on-premises SAP applications to AWS. The applications are based on Windows operating systems. A file share stores the transport directories and third-party application data on the network-attached storage of the company’s on-premises data center. The company’s plan is to lift and shift the SAP applications and the file share to AWS. The company must follow AWS best practices for the migration.
 Which AWS service should the company use to host the transport directories and third-party application data on AWS?
 
-A. Amazon Elastic Block Store (Amazon EBS)
-B. AWS Storage Gateway
-C. Amazon Elastic File System (Amazon EFS)
-D. Amazon FSx for Windows File Server
+- A. Amazon Elastic Block Store (Amazon EBS)
+- B. AWS Storage Gateway
+- C. Amazon Elastic File System (Amazon EFS)
+- D. Amazon FSx for Windows File Server
 <details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: D
  
 > Usually, Keyword Windows = Amazon FSx for Windows File Server.
