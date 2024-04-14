@@ -753,10 +753,10 @@ A company has an SAP Business One system that runs on SUSE Linux Enterprise Serv
 After the server migration process is finished, the SAP solutions architect launches an Amazon EC2 test instance from the R5 instance family. After a few minutes, the EC2 console reports that the test instance has failed an instance status check. Network connections to the instance are refused.
 How can the SAP solutions architect solve this problem?
 
-A. Reboot the instance to initiate instance migration to another host.
-B. Request an instance limit increase for the AWS Region where the test instance is being launched.
-C. Create a ticket for AWS Support that documents the test server instance ID. Wait for AWS to update the host of the R5 instance.
-D. Install the missing drivers on the source system. Wait for the completion of migration synchronization. Launch the test instance again.
+- A. Reboot the instance to initiate instance migration to another host.
+- B. Request an instance limit increase for the AWS Region where the test instance is being launched.
+- C. Create a ticket for AWS Support that documents the test server instance ID. Wait for AWS to update the host of the R5 instance.
+- D. Install the missing drivers on the source system. Wait for the completion of migration synchronization. Launch the test instance again.
 
 <details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: D
  
