@@ -1037,7 +1037,7 @@ What should the SAP specialist do to resolve this issue?
  - C. Turn off the source/destination check for the database EC2 instances.
  - D. Create an IAM role that has permission to access network traffic. Associate the role with the database EC2 instances.
 
-<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: B
+<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: C
  
 > When you use an overlay IP address for a cluster, AWS doesn't recognize that IP address as belonging to the EC2 instances in your cluster. By default, AWS only allows an instance to send and receive traffic with the IP address assigned to its network interface. For routing to work properly with an overlay IP address, you need to disable the source/destination check on the EC2 instances in the cluster. See https://docs.aws.amazon.com/vpc/latest/userguide/VPC_NAT_Instance.html#EIP_Disable_SrcDestCheck and https://docs.aws.amazon.com/sap/latest/sap-hana/sap-hana-on-aws-cluster-configuration-prerequisites.html
 
