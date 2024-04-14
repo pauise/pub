@@ -67,7 +67,7 @@ A European manufacturing company wants to migrate one of their production SAP HA
 
 
 <details markdown=1><summary markdown='span'>Answer</summary>
-Correct answer: AD
+Correct answer: BD
 
 > Launch Wizard for SAP software deployment is always the fastest, so D is valid for the initial deployment. But in this list appears the option to use the SAP CAL. SAP CAL launched recently a template of S/4HANA for Production usage only based on Azure https://community.sap.com/topics/cloud-appliance-library/production-ready-systems. So at this moment, we should consider that SAP CAL on AWS can not be used for production at all, then C discarded. By other side, AWS Quick Start is not used anymore for SAP deployments even if it's still valid for other products, then B discarded. Option A could have sense in the case of a great amount of HANA but the requirement is move just one in a very simple configuration, so CloudFormation script does not make sense here. Finally, once the deployment is completed, we need to move the data, and this is the option D regarding S3 Transfer Acceleration. 
 </details>
