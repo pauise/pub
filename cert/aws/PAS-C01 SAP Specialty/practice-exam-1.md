@@ -775,7 +775,7 @@ What should the SAP basis architect do to route the traffic to the Amazon EC2 in
  - C. Edit the network ACL of the subnet that includes the EC2 instance that runs SAP HANA. Allow traffic for SAP HANA specific ports from the overlay IP address.
  - D. Edit the route in the route table of the VPC that includes the EC2 instance that runs SAP HANA. Specify the overlay IP address as the destination. Specify the elastic network interface of the EC2 instance as the target.
 
-<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: ?
+<details markdown=1><summary markdown='span'>Answer</summary>Correct Answer: D
  
 > See https://docs.aws.amazon.com/sap/latest/sap-hana/sap-hana-on-aws-cluster-configuration-prerequisites.html
 
