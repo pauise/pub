@@ -67,7 +67,7 @@ What should the SAP technical architect do to resolve this issue?
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: C
 
-   > C – An overlay IP address must be configured to use a non-VPC CIDR block to access the active SAP instance. With overlay IP routing, you can allow the AWS network to use a non-overlapping RFC1918 private IP address that resides outside a VPC CIDR range and direct the SAP traffic to any instance setup across the Availability Zone within the VPC by changing the routing entry in AWS. Version 1.0 PAS-C01 © 2021, Amazon Web Services, Inc. or its affiliates. All rights reserved | aws.amazon.com 7 | PAGE IP address assignments within a VPC cannot extend across multiple Availability Zones or be reassigned to a secondary instance in a different Availability Zone during a failover scenario. For more information, see SAP on AWS High Availability Setup in AWS documentation.
+   > C – An overlay IP address must be configured to use a non-VPC CIDR block to access the active SAP instance. With overlay IP routing, you can allow the AWS network to use a non-overlapping RFC1918 private IP address that resides outside a VPC CIDR range and direct the SAP traffic to any instance setup across the Availability Zone within the VPC by changing the routing entry in AWS. IP address assignments within a VPC cannot extend across multiple Availability Zones or be reassigned to a secondary instance in a different Availability Zone during a failover scenario. For more information, see SAP on AWS High Availability Setup in AWS documentation.
     </details>
 
 5. A company has been using SAP S/4HANA with terabytes of data on premises to run its financial
