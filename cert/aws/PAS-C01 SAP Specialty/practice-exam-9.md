@@ -60,7 +60,7 @@ How can the SAP solutions architect securely implement a connection between the 
    - C. Install a third-party tool that can consume web services and the objects that contain business logic.
    - D. Install an SAP Web Dispatcher in the public subnet. Configure the SAP Web Dispatcher to accept only HTTPS requests from the NLB. Install SAP. Allow the SAP Web Dispatcher IP address in the security group rule of the backend SAP application.
 
-    <details markdown=1><summary markdown='span'>Answer</summary>
+   <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: D
 
    > D – A Network Load Balancer supports a high availability deployment of SAP Web Dispatchers across multiple Availability Zones. Network Load Balancers function at the fourth layer of the Open Systems Interconnection (OSI) model and can handle millions of requests each second. After the Network Load
@@ -136,7 +136,7 @@ Which solutions can the company use to achieve this goal? (**Select TWO.**)
    - D. Migrate the database by using AWS Database Migration Service (AWS DMS). Migrate the SAP workload by using AWS Application Migration Service (CloudEndure Migration).
    - E. Change the platform and migrate the SAP workload by using VM Import/Export on AWS.
 
-    <details markdown=1><summary markdown='span'>Answer</summary>
+   <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: AC
 
    > A, C – SAP Software Provisioning Manager and SAP Software Update Manager (SUM. Database Migration Option (DMO. with System Move support heterogeneous migrations in which the backend database environment changes. In this case, the migration is from an anyDB environment to an SAP HANA environment. Neither AWS Application Migration Service (CloudEndure Migration. nor VM Import/Export on AWS can be used for heterogeneous migrations. AWS Database Migration Service (AWS DMS. does not support SAP HANA as a target.
