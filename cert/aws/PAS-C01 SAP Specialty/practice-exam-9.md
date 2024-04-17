@@ -161,3 +161,39 @@ Which solutions will meet these requirements? (**Select TWO.**)
 
    > B, D – The rate of the backup of the SAP HANA database is affected by the available throughput to and from the /hana/data volume. Two ways to improve the backup performance are to increase the IOPS available from the underlying Amazon Elastic Block Store (Amazon EBS. volumes and to increase the number of parallel backup channels. The other options will not affect the performance meaningfully. Amazon S3 bucket size does not influence available throughput, and S3 Transfer Acceleration supports performance for global users rather than the single case of the SAP backup. 
     </details>
+
+Source AWS Skill Builder
+https://awscertificationpractice.benchprep.com/app/aws-certified-sap-on-aws-specialty-official-practice-question-set
+
+10. A company plans to migrate its SAP workloads to AWS. The company needs to install an SAProuter that has a connection to the SAP support network.
+
+Which combination of steps should an SAP solutions architect take to meet this requirement? (Select THREE.)
+
+   - A. Launch the instance that the SAProuter software is installed on into a public subnet of VPC.
+   - B. Launch the instance that the SAProuter software is installed on into a private subnet of VPC.
+   - C. Assign the SAProuter instance an Elastic Fabric Adapter (EFA) and a dynamic IP address.
+   - D. Assign the SAProuter instance an elastic network interface and a static Elastic IP address.
+   - E. Create a specific security group for the SAProuter instance with rules to allow the required access to the SAP support network.
+   - F. Create a specific network ACL for the SAProuter instance with rules to allow the required access to the SAP support network.
+
+<details markdown=1><summary markdown='span'>Answer</summary>
+      Correct answer: ADE
+
+   > 
+    </details>
+
+11. A company is planning to migrate its existing SAP workloads to AWS. An SAP solutions architect needs to design a highly available solution for SAP ERP Central Component (SAP ECC) on an SAP HANA production system on AWS. The company already has existing non-SAP workloads that run on AWS with AWS Organizations. The company uses AWS Resource Access Manager (AWS RAM) to share VPCs across multiple existing accounts. The company has decided to use SUSE Linux Enterprise Server to host the SAP workloads.
+
+How should the SAP solutions architect deploy the SAP workloads to meet these requirements?
+
+   - A. Create separate production and non-production AWS accounts for SAP workloads. Use AWS RAM to share VPCs and subnets with the newly created accounts.
+   - B. Create separate production and non-production AWS accounts for SAP workloads. Set up dedicated VPCs and subnets for the newly created accounts.
+   - C. Deploy SAP solutions with SUSE Linux Enterprise High Availability Extension configured in a single existing AWS account for production and non-production workloads. 
+   - D. Create a single separate AWS account for SAP workloads. Use AWS RAM to share VPCs and subnets with the newly created account.
+
+<details markdown=1><summary markdown='span'>Answer</summary>
+      Correct answer: ADE
+
+   > 
+    </details>
+    
