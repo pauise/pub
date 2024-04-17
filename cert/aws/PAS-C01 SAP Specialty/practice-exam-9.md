@@ -49,7 +49,25 @@ internet connection and an OpenVPN-compatible client. This approach meets the re
    > A, D – Because the development system and the quality system will run for only 8 hours each day on weekdays, On-Demand Instances are the most cost-effective purchasing option for these systems. SAP systems are stateful and cannot be abruptly interrupted, so Spot Instances are not appropriate for this scenario. The production system will continue to grow in size, and capacity needs to be guaranteed. A combination of Savings Plans and On-Demand Capacity Reservations will provide the most cost-effective purchasing option for the production system while also ensuring that capacity is available when it is needed. For more information about purchasing recommendations for SAP systems, see SAP on AWS Pricing Fundamentals in AWS documentation.
     </details>
 
-4. An SAP technical architect is working on a high availability setup of an SAP application that is running
+4. A global retail company has SAP Fiori embedded with SAP S/4HANA Finance application servers that run in a private subnet in a dedicated SAP VPC on AWS. The database tier runs on SAP HANA, which resides in the same private subnet. The company has deployed a Network Load Balancer (NLB) in a public subnet. The company has configured the NLB to send user traffic from outside the AWS network to the SAP application servers directly.
+
+An SAP solutions architect needs to expose the user interface (UI) layer's web services for remote access through a public internet web application. The application will handle cross-domain requests such as URL redirecting, filtering, and rewriting. The whole architecture will be distributed across
+multiple Availability Zones with hot standby for SAP HANA database components and SAP application components. The existing NLB will work as is. During failover, the NLB will redirect user traffic to the secondary Availability Zone after SAP is installed and running. 
+
+How can the SAP solutions architect securely implement a connection between the UI layer's web services and the SAP application?
+   - A. Use the NLB and Amazon Route 53 to send the encrypted traffic from the internet directly to the SAP Fiori application that is installed in the private subnet.
+   - B. Install an SAP Web Dispatcher with no public IP address in the same private subnet as the SAP application. Configure the SAP Web Dispatcher to accept only HTTPS requests from the NLB. Allow the SAP Web Dispatcher IP address in the security group rule of the backend SAP application.
+   - C. Install a third-party tool that can consume web services and the objects that contain business logic.
+   - D. Install an SAP Web Dispatcher in the public subnet. Configure the SAP Web Dispatcher to accept only HTTPS requests from the NLB. Install SAP. Allow the SAP Web Dispatcher IP address in the security group rule of the backend SAP application.
+
+    <details markdown=1><summary markdown='span'>Answer</summary>
+      Correct answer: D
+
+   > D – A Network Load Balancer supports a high availability deployment of SAP Web Dispatchers across multiple Availability Zones. Network Load Balancers function at the fourth layer of the Open Systems Interconnection (OSI) model and can handle millions of requests each second. After the Network Load
+Balancer receives a connection request, it selects a target from the target group to route network connection requests to a destination address. This destination address can be an overlay IP address that is associated with an SAP Web Dispatcher that runs in a public subnet.
+    </details>
+
+7. An SAP technical architect is working on a high availability setup of an SAP application that is running
 on an SAP HANA database in the AWS Cloud. Primary and secondary SAP HANA databases are running
 in separate private subnets in different Availability Zones within an AWS Region. The clustering
 solution is using SUSE Linux Enterprise High Availability Extension.
@@ -70,7 +88,7 @@ What should the SAP technical architect do to resolve this issue?
    > C – An overlay IP address must be configured to use a non-VPC CIDR block to access the active SAP instance. With overlay IP routing, you can allow the AWS network to use a non-overlapping RFC1918 private IP address that resides outside a VPC CIDR range and direct the SAP traffic to any instance setup across the Availability Zone within the VPC by changing the routing entry in AWS. IP address assignments within a VPC cannot extend across multiple Availability Zones or be reassigned to a secondary instance in a different Availability Zone during a failover scenario. For more information, see SAP on AWS High Availability Setup in AWS documentation.
     </details>
 
-5. A company has been using SAP S/4HANA with terabytes of data on premises to run its financial
+8. A company has been using SAP S/4HANA with terabytes of data on premises to run its financial
 system. The company needs to migrate the SAP landscape to AWS. The on-premises data center is
 connected to an AWS Region through a 1 Gbps AWS Direct Connect connection. The company's
 networking team has ensured that the full bandwidth is available for the SAP migration project. An
@@ -89,7 +107,7 @@ Which solution will meet these requirements?
    > C – SAP HANA system replication will synchronize the new SAP HANA instance with the existing on-premises environment, as described in the AWS SAP migration guide. When the systems are synchronized, the company can cut over to this system without the need for the downtime that the other options would cause.
     </details>
 
-6. A company's SAP production workloads are running in an on-premises environment on VMs on the
+9. A company's SAP production workloads are running in an on-premises environment on VMs on the
 VMware vSphere and Microsoft Hyper-V platforms. The company needs to move its SAP workloads to
 AWS.
 An SAP solutions architect is planning to move the on-premises SAP VMs in parallel to the AWS Cloud.
@@ -108,7 +126,7 @@ Which solution meets these requirements?
    > D – AWS Server Migration Service (AWS SMS. will minimize downtime for this migration by supporting the migration of multiple VMs from on premises. This solution is also the only answer option that will not involve the deployment of agents to the source machines.
     </details>
 
-7. A company is running its SAP workload on Oracle and VMware. The company needs to change the
+10. A company is running its SAP workload on Oracle and VMware. The company needs to change the
 platform to AWS and migrate the SAP workload from Oracle to an SAP HANA database.
 Which solutions can the company use to achieve this goal? (**Select TWO.**)
 
@@ -124,7 +142,7 @@ Which solutions can the company use to achieve this goal? (**Select TWO.**)
    > A, C – SAP Software Provisioning Manager and SAP Software Update Manager (SUM. Database Migration Option (DMO. with System Move support heterogeneous migrations in which the backend database environment changes. In this case, the migration is from an anyDB environment to an SAP HANA environment. Neither AWS Application Migration Service (CloudEndure Migration. nor VM Import/Export on AWS can be used for heterogeneous migrations. AWS Database Migration Service (AWS DMS. does not support SAP HANA as a target.
     </details>
 
-8. As part of checks before an upgrade, an SAP solutions architect is gathering information about a
+11. As part of checks before an upgrade, an SAP solutions architect is gathering information about a
 production SAP instance that is running on AWS. In SAP transaction ST06, monitoring information that
 is related to only AWS infrastructure of the SAP system is not available. However, other SAP
 application-level information is present.
@@ -141,7 +159,7 @@ What could be the cause of this issue?
    > A – The ST06 transaction depends on data from the AWS Data Provider for SAP agent to make the AWS environmental data available. The SAP HANA monitoring agent provides different information to the monitoring environment. The Amazon CloudWatch agent does not feed the SAP monitoring environment, but the CloudWatch agent makes that information available to CloudWatch. The AWS DataSync agent has nothing to do with monitoring.
     </details>
 
-9. A company has been using a third-party backup tool that uses backint for data protection of SAP
+11. A company has been using a third-party backup tool that uses backint for data protection of SAP
 HANA on AWS. Because of cost and the effort that is required to maintain the dedicated backup server,
 the company is considering the use of AWS Backint Agent for SAP HANA.
 The SAP HANA system uses General Purpose SSD (gp2. Amazon Elastic Block Store (Amazon EBS)
