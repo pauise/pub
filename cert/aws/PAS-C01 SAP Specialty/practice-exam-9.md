@@ -206,8 +206,81 @@ How should the SAP solutions architect deploy the SAP workloads to meet these re
    - D. Create a single separate AWS account for SAP workloads. Use AWS RAM to share VPCs and subnets with the newly created account.
 
 <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: ADE
+      Correct answer: B
 
-   > 
+   > Options C and D discarded since A and B mention split one account for prod, one for non-prod. A discarded because AWS RAM helps you securely share the AWS resources that you create in one AWS account with other AWS accounts. A SUSE Linux Enterprise Server cluster does not support the use of AWS RAM or networking components such as a VPC route table in another account. 
+For more information about AWS RAM, see What is AWS Resource Access Manager?
     </details>
     
+13. A company uses AWS Backint Agent for SAP HANA (AWS Backint agent) to store SAP HANA backups. The backups are stored in an Amazon S3 Standard bucket that is replicated to a secondary AWS Region. An SAP engineer must reduce the cost of the backups without degrading the current RPO and RTO during recovery in the secondary Region. Currently, database backups are scheduled to run every 12 hours. What should the SAP engineer do to meet these requirements?
+   - A. Configure a retention policy in SAP HANA Cockpit.
+   - B. Configure AWS Backint agent to save backups in S3 Glacier Deep Archive instead of in S3 Standard.
+   - C. Remove S3 Cross-Region Replication (CRR).
+   - D. Reduce the frequency of SAP HANA backups.
+
+<details markdown=1><summary markdown='span'>Answer</summary>
+      Correct answer: A
+
+   > You can use SAP HANA Cockpit to set the retention policies for your SAP HANA database backups. SAP HANA Cockpit invokes jobs to delete old backups from catalogs in addition to the physical backups, including backups that are stored in S3 buckets.
+
+   > Automated backup retention ensures that you retain only the necessary backups. The storage that you use for recovery does not change, so the RTO remains the same. When you set a retention policy, you do not affect RPO because the frequency of backups remains the same. Neither RTO nor RPO is affected by retention of historical backups.
+
+   > For more information about SAP HANA backups, see Backup and restore your SAP HANA system with the AWS Backint Agent for SAP HANA.
+</details>
+
+14. A company has an on-premises SAP NetWeaver ABAP 7.4 system that runs on an AIX operating system with IBM Db2 as the database platform. The company plans to migrate the system to AWS with no change to the SAP version or the Db2 version. On AWS, the SAP workload will use SUSE Linux Enterprise Server as the operating system and will use Db2 as the database platform. How should the company export data from the current system to build the SAP system on AWS?
+   - A. Use SAP Software Provisioning Manager 1.0.
+   - B. Use AWS Database Migration Service (AWS DMS).
+   - C. Use AWS Server Migration Service (AWS SMS).
+   - D. Use AWS Application Migration Service (CloudEndure Migration).
+
+<details markdown=1><summary markdown='span'>Answer</summary>
+      Correct answer: A
+
+   > SAP Software Provisioning Manager 1.0 can copy the source system to a target system that uses Db2 as the target database. For more information about SAP Software Provisioning Manager 1.0, see Homogeneous and Heterogeneous System Copy.
+</details>
+
+15. A company migrated its SAP S/4HANA workload to run on memory optimized Amazon EC2 instances with SUSE Linux Enterprise Server as the operating system. The company wants to modify the architecture to ensure that the SAP S/4HANA deployment is highly available. The company also wants to support the lowest possible RPO and RTO. Which solution will meet these requirements?
+   - A. Create an Auto Scaling group that has a minimum capacity of one instance and a maximum capacity of one instance. Use Amazon Data Lifecycle Manager (Amazon DLM) to automate Amazon Elastic Block Store (Amazon EBS) volume snapshots
+   - B. Set up an Amazon CloudWatch alarm to recover the EC2 instances  automatically. In case of failure: use Amazon Elastic Block Store (Amazon EBS) volume snapshots to recover the SAP S/4HANA system to the most recent state.
+   - C. Implement a Cross-AZ SAP S/4HANA high availability system by using AWS Launch Wizard for SAP. Deploy EC2 instances for ASCS, ERS, and SAP HANA databases across two Availability Zones. Spread the deployment of application servers across the EC2 instances.
+   - D. Perform a daily backup of the SAP S/4HANA system with automatic log backup to an Amazon S3 bucket. In case of failure: perform a point-in-time recovery of the system from the backup that is stored in the S3 bucket.
+
+<details markdown=1><summary markdown='span'>Answer</summary>
+      Correct answer: C
+
+   >
+</details>
+
+16. A company is implementing SAP S/4HANA on AWS. The company's operating system is SUSE Linux Enterprise Server for SAP. The company is deploying its development instances and QA instances in one Availability Zone. The company is deploying its production instance in a different Availability Zone. The company wants to avoid a single point of failure when creating the SAP transport directory. Which storage solution should the company use to meet these requirements?
+   - A. Amazon S3
+   - B. Amazon Elastic Block Store (Amazon EBS) Multi-Attach volume
+   - D. Amazon Elastic File System (Amazon EFS)
+   - E. AWS Storage Gateway Volume Gateway
+
+<details markdown=1><summary markdown='span'>Answer</summary>
+      Correct answer: D
+
+   >
+</details>
+
+17. A company migrates an existing SAP Java system to an Amazon EC2 instance. After the migration, the SAP application server is shutting down because the SAP license has expired or is not valid. Which actions should an SAP solutions architect take to make the SAP application server operational again? (Select TWO.)
+   - A. Reinstall the SAP application server
+   - B. Purchase a license from SAP.
+   - C. Ensure that SAP is running on a supported EC2 instance type
+   - D. Apply for a new regular SAP license for the new hardware key that was generated for the EC2 instance.
+   - E. Ensure that the Amazon CloudWatch agent is installed at the operating system level.
+
+<details markdown=1><summary markdown='span'>Answer</summary>
+      Correct answer: CD
+
+   >
+</details>
+
+
+
+<details markdown=1><summary markdown='span'>Answer</summary>
+      Correct answer: A
+
+   >
+</details>
