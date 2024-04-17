@@ -172,7 +172,7 @@ Which solutions will meet these requirements? (**Select TWO.**)
    - D. Check how much storage throughput is available to the SAP HANA EBS data volumes (/hana/data). Modify the SAP HANA EBS data volumes to a Provisioned IOPS SSD volume type, and try the backup again.
    - E. Enable deduplication for the backup files.
 
-    <details markdown=1><summary markdown='span'>Answer</summary>
+   <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: BD
 
    > B, D – The rate of the backup of the SAP HANA database is affected by the available throughput to and from the /hana/data volume. Two ways to improve the backup performance are to increase the IOPS available from the underlying Amazon Elastic Block Store (Amazon EBS. volumes and to increase the number of parallel backup channels. The other options will not affect the performance meaningfully. Amazon S3 bucket size does not influence available throughput, and S3 Transfer Acceleration supports performance for global users rather than the single case of the SAP backup. 
