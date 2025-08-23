@@ -118,6 +118,13 @@ Inici tram asfaltat</desc>
 🍽️Restaurant i diverses ☕Cafeteries
 </desc>
   </wpt>
+  <wpt lat="41.528932" lon="2.185969">
+    <ele>67.6295957017229</ele>
+    <name>➡️🛝Parc Central</name>
+    <cmt>A la dreta Parc Central amb Restaurants, llac i parcs infantils</cmt>
+    <desc>A la dreta Parc Central amb Restaurants, llac i parcs infantils</desc>
+    <sym>Park</sym>
+  </wpt>
   <wpt lat="41.530222" lon="2.188883">
     <ele>66.00198894265303</ele>
     <name>⚠️Per l&apos;acera</name>
