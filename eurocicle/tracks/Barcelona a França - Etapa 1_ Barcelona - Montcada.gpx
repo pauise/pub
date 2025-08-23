@@ -53,6 +53,15 @@
 🚉Estació Verdaguer: L4 L5</desc>
     <sym>Crossing</sym>
   </wpt>
+  <wpt lat="41.400062" lon="2.168663">
+    <ele>51.434161999775824</ele>
+    <name>📷Palau Macaya</name>
+    <cmt>📷Palau Macaya
+🚉Estació Verdaguer L4 L5</cmt>
+    <desc>📷Palau Macaya
+🚉Estació Verdaguer L4 L5</desc>
+    <sym>Scenic Area</sym>
+  </wpt>
   <wpt lat="41.403315" lon="2.172999">
     <ele>46.548003738037956</ele>
     <name>⛪Sagrada Família</name>
@@ -61,6 +70,29 @@
     <desc>⛪Basílica Sagrada Família
 🚉Estació Sagrada Família L2 L5</desc>
     <sym>Scenic Area</sym>
+  </wpt>
+  <wpt lat="41.40442" lon="2.174522">
+    <ele>48.23431109790785</ele>
+    <name>📷Avinguda Gaudí</name>
+    <cmt>📷Avinguda Gaudí i Hospital de Sant Pau al fons
+🚉Estació Sagrada Família L2 L5</cmt>
+    <desc>📷Avinguda Gaudí i Hospital de Sant Pau al fons
+🚉Estació Sagrada Família L2 L5</desc>
+    <sym>Scenic Area</sym>
+  </wpt>
+  <wpt lat="41.416019" lon="2.187074">
+    <ele>35.86721528462025</ele>
+    <name>🚉Navas</name>
+    <cmt>🚉Estació Navas L1</cmt>
+    <desc>🚉Estació Navas L1</desc>
+    <sym>Ground Transportation</sym>
+  </wpt>
+  <wpt lat="41.422519" lon="2.187172">
+    <ele>34.644079662208725</ele>
+    <name>🚉Sagrera</name>
+    <cmt>🚉Estació Sagrera R4 L1 L5 L9</cmt>
+    <desc>🚉Estació Sagrera R4 L1 L5 L9</desc>
+    <sym>Ground Transportation</sym>
   </wpt>
   <wpt lat="41.413945" lon="2.186642">
     <ele>30.396177590184205</ele>
@@ -182,38 +214,6 @@
     <desc>⬅️Esquerra per carril bici 🚲
 ⬆️Seguim tot el carrer, creuarem les vies del tren per pas subterrani i desembocarem al Carrer Major.</desc>
     <sym>Crossing</sym>
-  </wpt>
-  <wpt lat="41.400062" lon="2.168663">
-    <ele>51.434161999775824</ele>
-    <name>📷Palau Macaya</name>
-    <cmt>📷Palau Macaya
-🚉Estació Verdaguer L4 L5</cmt>
-    <desc>📷Palau Macaya
-🚉Estació Verdaguer L4 L5</desc>
-    <sym>Scenic Area</sym>
-  </wpt>
-  <wpt lat="41.40442" lon="2.174522">
-    <ele>48.23431109790785</ele>
-    <name>📷Avinguda Gaudí</name>
-    <cmt>📷Avinguda Gaudí i Hospital de Sant Pau al fons
-🚉Estació Sagrada Família L2 L5</cmt>
-    <desc>📷Avinguda Gaudí i Hospital de Sant Pau al fons
-🚉Estació Sagrada Família L2 L5</desc>
-    <sym>Scenic Area</sym>
-  </wpt>
-  <wpt lat="41.416019" lon="2.187074">
-    <ele>35.86721528462025</ele>
-    <name>🚉Navas</name>
-    <cmt>🚉Estació Navas L1</cmt>
-    <desc>🚉Estació Navas L1</desc>
-    <sym>Ground Transportation</sym>
-  </wpt>
-  <wpt lat="41.422519" lon="2.187172">
-    <ele>34.644079662208725</ele>
-    <name>🚉Sagrera</name>
-    <cmt>🚉Estació Sagrera R4 L1 L5 L9</cmt>
-    <desc>🚉Estació Sagrera R4 L1 L5 L9</desc>
-    <sym>Ground Transportation</sym>
   </wpt>
   <wpt lat="41.485505" lon="2.187991">
     <ele>41.92043046547977</ele>
