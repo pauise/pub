@@ -80,6 +80,17 @@
 🚉Estació Sagrada Família L2 L5</desc>
     <sym>Scenic Area</sym>
   </wpt>
+  <wpt lat="41.413945" lon="2.186642">
+    <ele>30.396177590184205</ele>
+    <name>🚦Creuar Meridiana ⬅️ per carril 🚲</name>
+    <cmt>🚦Creuem Av Meridiana i ⬅️ esquerra pel carril bici. 
+⚠️No agafar Carrer Múrcia. 
+⬆️Seguirem Av Meridiana fins a Fabra i Puig</cmt>
+    <desc>🚦Creuem Av Meridiana i ⬅️ esquerra pel carril bici. 
+⚠️No agafar Carrer Múrcia. 
+⬆️Seguirem Av Meridiana fins a Fabra i Puig</desc>
+    <sym>Crossing</sym>
+  </wpt>
   <wpt lat="41.416019" lon="2.187074">
     <ele>35.86721528462025</ele>
     <name>🚉Navas</name>
@@ -93,17 +104,6 @@
     <cmt>🚉Estació Sagrera R4 L1 L5 L9</cmt>
     <desc>🚉Estació Sagrera R4 L1 L5 L9</desc>
     <sym>Ground Transportation</sym>
-  </wpt>
-  <wpt lat="41.413945" lon="2.186642">
-    <ele>30.396177590184205</ele>
-    <name>🚦Creuar Meridiana ⬅️ per carril 🚲</name>
-    <cmt>🚦Creuem Av Meridiana i ⬅️ esquerra pel carril bici. 
-⚠️No agafar Carrer Múrcia. 
-⬆️Seguirem Av Meridiana fins a Fabra i Puig</cmt>
-    <desc>🚦Creuem Av Meridiana i ⬅️ esquerra pel carril bici. 
-⚠️No agafar Carrer Múrcia. 
-⬆️Seguirem Av Meridiana fins a Fabra i Puig</desc>
-    <sym>Crossing</sym>
   </wpt>
   <wpt lat="41.430028" lon="2.183623">
     <ele>45.84682469670778</ele>
