@@ -105,14 +105,17 @@ Inici tram asfaltat</desc>
     <ele>82.22827931139669</ele>
     <name>⚠️Trànsit. Passem a l&apos;acera</name>
     <cmt>Si anem amb nens, a partir d&apos;aquest punt ens passem a l&apos;acera.</cmt>
-    <desc>Si anem amb nens, a partir d&apos;aquest punt ens passem a l&apos;acera.</desc>
+    <desc>Si anem amb nens, a partir d&apos;aquest punt ens passem a l&apos;acera.
+🚉Estació Santa Perpètua-Riera de Caldes R8 ➡️80m i ⬅️200m</desc>
     <sym>Alert</sym>
   </wpt>
   <wpt lat="41.526948" lon="2.183711">
     <ele>78.71371502493254</ele>
     <name>🚲Prenem el carril bici</name>
     <cmt>Pel mig dels dos sentits del carrer hi ha carril bici</cmt>
-    <desc>Pel mig dels dos sentits del carrer hi ha carril bici</desc>
+    <desc>Pel mig dels dos sentits del carrer hi ha carril bici
+🍽️Restaurant i diverses ☕Cafeteries
+</desc>
   </wpt>
   <wpt lat="41.530222" lon="2.188883">
     <ele>66.00198894265303</ele>
