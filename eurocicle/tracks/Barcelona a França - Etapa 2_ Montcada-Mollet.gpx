@@ -9,31 +9,37 @@ Estació Mollet-Sant Fost</desc>
       <link href="https://gpx.studio"/>
     </author>
   </metadata>
+  <wpt lat="41.485514" lon="2.187974">
+    <ele>42.036654081113184</ele>
+    <name>🟢Montcada i Reixac</name>
+    <cmt>Carrer Major. Trobarem diversos llocs on menjar i beure, farmàcia i demés comerç variat.
+🚉Estació Montcada i Reixac R2 a 200m a esquerra
+🚉Estació Montcada i Reixac - Manresa R4 a 400m</cmt>
+    <desc>Carrer Major. Trobarem diversos llocs on menjar i beure, farmàcia i demés comerç variat.
+🚉Estació Montcada i Reixac R2 a 200m a esquerra
+🚉Estació Montcada i Reixac - Manresa R4 a 400m</desc>
+  </wpt>
+  <wpt lat="41.488142" lon="2.187954">
+    <ele>37.43507580431248</ele>
+    <name>Pont sobre Riu Ripoll ↖️</name>
+    <cmt>Just travessat el pont seguim lleugerament a esquerres i enganxats al mur una mica a dretes i pel carril bici creuarem el carrer i passarem per sota la C-33</cmt>
+    <desc>Just travessat el pont seguim lleugerament a esquerres i enganxats al mur una mica a dretes i pel carril bici creuarem el carrer i passarem per sota la C-33</desc>
+  </wpt>
+  <wpt lat="41.491788" lon="2.184946">
+    <ele>40.44486526519076</ele>
+    <name>➡️ Dreta per carril 🚲 i tot seguit ↖️</name>
+    <cmt>⚠️No entrem a la rotonda</cmt>
+    <desc>⚠️No entrem a la rotonda</desc>
+    <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="41.492472" lon="2.184422">
+    <ele>42.58920280071969</ele>
+    <name>➡️Dreta per carril 🚲</name>
+    <sym>Crossing</sym>
+  </wpt>
   <wpt lat="41.495912" lon="2.184329">
     <ele>43.76130275554169</ele>
-    <name>⬅️Esquerra</name>
-    <sym>Crossing</sym>
-  </wpt>
-  <wpt lat="41.499348" lon="2.184318">
-    <ele>42.189174642833635</ele>
-    <name>⬅️Esquerra</name>
-    <sym>Crossing</sym>
-  </wpt>
-  <wpt lat="41.506359" lon="2.18246">
-    <ele>65.27008162388576</ele>
-    <name>➡️Dreta</name>
-    <sym>Crossing</sym>
-  </wpt>
-  <wpt lat="41.502831" lon="2.181681">
-    <ele>60.925036227005414</ele>
-    <name>➡️Dreta</name>
-    <sym>Crossing</sym>
-  </wpt>
-  <wpt lat="41.500264" lon="2.181687">
-    <ele>47.45124096004365</ele>
-    <name>➡️Dreta</name>
-    <cmt>Fi asfalt, inici pista</cmt>
-    <desc>Fi asfalt, inici pista</desc>
+    <name>⬅️️Esquerra</name>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="41.496425" lon="2.182791">
@@ -43,12 +49,76 @@ Estació Mollet-Sant Fost</desc>
     <desc>🚉Estació Montcada - Ripollet R3 ⬆️ a 20 m </desc>
     <sym>Crossing</sym>
   </wpt>
+  <wpt lat="41.499348" lon="2.184318">
+    <ele>42.189174642833635</ele>
+    <name>⬅️Esquerra</name>
+    <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="41.500264" lon="2.181687">
+    <ele>47.45124096004365</ele>
+    <name>➡️Dreta</name>
+    <cmt>Fi asfalt, inici pista</cmt>
+    <desc>Fi asfalt, inici pista</desc>
+    <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="41.502831" lon="2.181681">
+    <ele>60.925036227005414</ele>
+    <name>➡️Dreta</name>
+    <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="41.506359" lon="2.18246">
+    <ele>65.27008162388576</ele>
+    <name>➡️Dreta</name>
+    <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="41.514456" lon="2.181628">
+    <ele>66.85804055275035</ele>
+    <name>↖️SPP per esquerra</name>
+    <cmt>↖️Seguim Pista Principal per l&apos;esquerra</cmt>
+    <desc>↖️Seguim Pista Principal per l&apos;esquerra</desc>
+    <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="41.517949" lon="2.180447">
+    <ele>59.36742716218309</ele>
+    <name>⬅️Esquerra després del pont</name>
+    <cmt>⬆️Descartem primera esquerra
+︵Passem el pont sobre la riera
+⬅️Finalment esquerra</cmt>
+    <desc>⬆️Descartem primera esquerra
+︵Passem el pont sobre la riera
+⬅️Finalment esquerra</desc>
+  </wpt>
   <wpt lat="41.522474" lon="2.177025">
     <ele>67.53739969233875</ele>
     <name>⬆️Cruïlla, recte ⌒ Túnel ➡️Dreta</name>
     <cmt>Cruïlla Camí del Padró - FFCC. Seguim recte i passem per sota les vies per tot seguit tombar a la dreta.</cmt>
     <desc>Cruïlla Camí del Padró - FFCC. Seguim recte i passem per sota les vies per tot seguit tombar a la dreta.</desc>
     <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="41.525646" lon="2.179029">
+    <ele>70.95754482648573</ele>
+    <name>➡️Dreta</name>
+    <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="41.526518" lon="2.183121">
+    <ele>82.22827931139669</ele>
+    <name>⚠️Trànsit. Passem a l&apos;acera</name>
+    <cmt>Si anem amb nens, a partir d&apos;aquest punt ens passem a l&apos;acera.</cmt>
+    <desc>Si anem amb nens, a partir d&apos;aquest punt ens passem a l&apos;acera.</desc>
+    <sym>Alert</sym>
+  </wpt>
+  <wpt lat="41.526948" lon="2.183711">
+    <ele>78.71371502493254</ele>
+    <name>🚲Prenem el carril bici</name>
+    <cmt>Pel mig dels dos sentits del carrer hi ha carril bici</cmt>
+    <desc>Pel mig dels dos sentits del carrer hi ha carril bici</desc>
+  </wpt>
+  <wpt lat="41.530222" lon="2.188883">
+    <ele>66.00198894265303</ele>
+    <name>⚠️Per l&apos;acera</name>
+    <cmt>Si anem amb nens, fem la rotonda i el pont per l&apos;acera</cmt>
+    <desc>Si anem amb nens, fem la rotonda i el pont per l&apos;acera</desc>
+    <sym>Alert</sym>
   </wpt>
   <wpt lat="41.530975" lon="2.191761">
     <ele>61.08280371883987</ele>
@@ -71,6 +141,13 @@ Estació Mollet-Sant Fost</desc>
     <desc>Arribats aquí comença el trànsit. Ens arrimem a la banda esquerra on comença un passeig, passem per sota la B-140 i seguim el passeig que transita paral·lel a la carretera que ens duu a Mollet</desc>
     <sym>Alert</sym>
   </wpt>
+  <wpt lat="41.537408" lon="2.200695">
+    <ele>90.88809110452067</ele>
+    <name>⚠️Creuament de carretera</name>
+    <cmt>Creuem la carretera i seguim en la mateixa direcció però pel passeig de l&apos;altra banda de la carretera.</cmt>
+    <desc>Creuem la carretera i seguim en la mateixa direcció però pel passeig de l&apos;altra banda de la carretera.</desc>
+    <sym>Alert</sym>
+  </wpt>
   <wpt lat="41.537693" lon="2.206349">
     <ele>77.16915305615461</ele>
     <name>➡️Dreta</name>
@@ -79,6 +156,13 @@ Estació Mollet-Sant Fost</desc>
   <wpt lat="41.53664" lon="2.206321">
     <ele>78.95976407918394</ele>
     <name>⬅️Esquerra</name>
+    <cmt>🚉Estació Mollet-Santa Rosa R3</cmt>
+    <desc>🚉Estació Mollet-Santa Rosa R3</desc>
+    <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="41.536779" lon="2.209463">
+    <ele>66.02991230972212</ele>
+    <name>➡️Dreta</name>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="41.534991" lon="2.209411">
@@ -88,91 +172,10 @@ Estació Mollet-Sant Fost</desc>
     <desc>Resseguim l&apos;acera a esquerres deixant tota l&apos;estona el parc de la Plaça de Pau Casals</desc>
     <sym>Crossing</sym>
   </wpt>
-  <wpt lat="41.491788" lon="2.184946">
-    <ele>40.44486526519076</ele>
-    <name>➡️ Dreta per carril 🚲 i tot seguit ↖️</name>
-    <cmt>⚠️No entrem a la rotonda</cmt>
-    <desc>⚠️No entrem a la rotonda</desc>
-    <sym>Crossing</sym>
-  </wpt>
-  <wpt lat="41.492472" lon="2.184422">
-    <ele>42.58920280071969</ele>
-    <name>➡️Dreta per carril 🚲</name>
-    <sym>Crossing</sym>
-  </wpt>
-  <wpt lat="41.514456" lon="2.181628">
-    <ele>66.85804055275035</ele>
-    <name>↖️SPP per esquerra</name>
-    <cmt>↖️Seguim Pista Principal per l&apos;esquerra</cmt>
-    <desc>↖️Seguim Pista Principal per l&apos;esquerra</desc>
-    <sym>Crossing</sym>
-  </wpt>
-  <wpt lat="41.517949" lon="2.180447">
-    <ele>59.36742716218309</ele>
-    <name>⬅️Esquerra després del pont</name>
-    <cmt>⬆️Descartem primera esquerra
-︵Passem el pont sobre la riera
-⬅️Finalment esquerra</cmt>
-    <desc>⬆️Descartem primera esquerra
-︵Passem el pont sobre la riera
-⬅️Finalment esquerra</desc>
-  </wpt>
-  <wpt lat="41.488142" lon="2.187954">
-    <ele>37.43507580431248</ele>
-    <name>︵ Pont sobre Riu Ripoll ↖️</name>
-    <cmt>Just travessat el pont seguim lleugerament a esquerres i enganxats al mur una mica a dretes i pel carril bici creuarem el carrer i passarem per sota la C-33</cmt>
-    <desc>Just travessat el pont seguim lleugerament a esquerres i enganxats al mur una mica a dretes i pel carril bici creuarem el carrer i passarem per sota la C-33</desc>
-  </wpt>
-  <wpt lat="41.525646" lon="2.179029">
-    <ele>70.95754482648573</ele>
-    <name>➡️Dreta</name>
-  </wpt>
-  <wpt lat="41.526518" lon="2.183121">
-    <ele>82.22827931139669</ele>
-    <name>⚠️Trànsit. Passem a l&apos;acera</name>
-    <cmt>Si anem amb nens, a partir d&apos;aquest punt ens passem a l&apos;acera.</cmt>
-    <desc>Si anem amb nens, a partir d&apos;aquest punt ens passem a l&apos;acera.</desc>
-    <sym>Alert</sym>
-  </wpt>
-  <wpt lat="41.526948" lon="2.183711">
-    <ele>78.71371502493254</ele>
-    <name>🚲Prenem el carril bici</name>
-    <cmt>Pel mig dels dos sentits del carrer hi ha carril bici</cmt>
-    <desc>Pel mig dels dos sentits del carrer hi ha carril bici</desc>
-  </wpt>
-  <wpt lat="41.530222" lon="2.188883">
-    <ele>66.00198894265303</ele>
-    <name>⚠️Per l&apos;acera</name>
-    <cmt>Si anem amb nens, fem la rotonda i el pont per l&apos;acera</cmt>
-    <desc>Si anem amb nens, fem la rotonda i el pont per l&apos;acera</desc>
-    <sym>Alert</sym>
-  </wpt>
-  <wpt lat="41.537408" lon="2.200695">
-    <ele>90.88809110452067</ele>
-    <name>⚠️Creuament de carretera</name>
-    <cmt>Creuem la carretera i seguim en la mateixa direcció però pel passeig de l&apos;altra banda de la carretera.</cmt>
-    <desc>Creuem la carretera i seguim en la mateixa direcció però pel passeig de l&apos;altra banda de la carretera.</desc>
-    <sym>Alert</sym>
-  </wpt>
-  <wpt lat="41.536779" lon="2.209463">
-    <ele>66.02991230972212</ele>
-    <name>➡️Dreta</name>
-    <sym>Crossing</sym>
-  </wpt>
   <wpt lat="41.535071" lon="2.211143">
     <ele>63.5669014897208</ele>
     <name>➡️Dreta</name>
     <sym>Crossing</sym>
-  </wpt>
-  <wpt lat="41.485514" lon="2.187974">
-    <ele>42.036654081113184</ele>
-    <name>🟢Montcada i Reixac</name>
-    <cmt>Carrer Major. Trobarem diversos llocs on menjar i beure, farmàcia i demés comerç variat.
-🚉Estació Montcada i Reixac R2 a 200m a esquerra
-🚉Estació Montcada i Reixac - Manresa R4 a 400m</cmt>
-    <desc>Carrer Major. Trobarem diversos llocs on menjar i beure, farmàcia i demés comerç variat.
-🚉Estació Montcada i Reixac R2 a 200m a esquerra
-🚉Estació Montcada i Reixac - Manresa R4 a 400m</desc>
   </wpt>
   <wpt lat="41.533482" lon="2.217467">
     <ele>61.72738446220838</ele>
