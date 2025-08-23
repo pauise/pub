@@ -2,7 +2,7 @@
 <gpx creator="https://gpx.studio" version="1.1" schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/PowerExtension/v1 http://www.garmin.com/xmlschemas/PowerExtensionv1.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/PowerExtension/v1 http://www.garmin.com/xmlschemas/PowerExtensionv1.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxpx="http://www.garmin.com/xmlschemas/PowerExtension/v1" xmlns:gpx_style="http://www.topografix.com/GPX/gpx_style/0/2">
   <metadata>
     <name>Barcelona a França - Etapa 2: Montcada-Mollet</name>
-    <desc>Estació Montcada i Reixac - Estació Montcada-Ripollet - Santa Perpètua de la Mogoda - Mollet - 
+    <desc>Carrer Major Montcada i Reixac - Estació Montcada-Ripollet - Santa Perpètua de la Mogoda - Mollet - 
 Estació Mollet-Sant Fost</desc>
     <author>
       <name>gpx.studio</name>
@@ -187,6 +187,7 @@ Inici tram asfaltat</desc>
     <name>🏁Final etapa 2</name>
     <cmt>🚉Estació Mollet Sant Fost R2 R11</cmt>
     <desc>🚉Estació Mollet Sant Fost R2 R11</desc>
+    <sym>Ground Transportation</sym>
   </wpt>
   <trk>
     <name>Barcelona a França - Etapa 2: Montcada-Mollet</name>
