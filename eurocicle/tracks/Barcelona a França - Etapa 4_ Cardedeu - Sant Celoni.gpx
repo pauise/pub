@@ -40,9 +40,16 @@ Si anem amb nens podem anar per l&apos;acera, són uns 120m</desc>
     <desc>➡️Deixem asfalt i agafem el corriol que de seguida es converteix en un camí. Com alternativa podem anar pel parking</desc>
     <sym>Crossing</sym>
   </wpt>
+  <wpt lat="41.633917" lon="2.39795">
+    <ele>175.1478004177572</ele>
+    <name>5🥪</name>
+    <cmt>🥪Bona ombra i taula per fer picnic</cmt>
+    <desc>🥪Bona ombra i taula per fer picnic</desc>
+    <sym>Picnic Area</sym>
+  </wpt>
   <wpt lat="41.634774" lon="2.399159">
     <ele>176.91542474506517</ele>
-    <name>5➡️</name>
+    <name>6➡️</name>
     <cmt>➡️Dreta
 Si anem amb nens, podem creuar i anar per l&apos;acera de l&apos;altra banda més ample. Seran 250m</cmt>
     <desc>➡️Dreta
@@ -51,14 +58,14 @@ Si anem amb nens, podem creuar i anar per l&apos;acera de l&apos;altra banda mé
   </wpt>
   <wpt lat="41.636183" lon="2.401328">
     <ele>181.10000000000036</ele>
-    <name>6↖️</name>
+    <name>7↖️</name>
     <cmt>Ens desviem pel carrer asfaltat a mà esquerra en pujada</cmt>
     <desc>Ens desviem pel carrer asfaltat a mà esquerra en pujada</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="41.637289" lon="2.403583">
     <ele>181.85442501120303</ele>
-    <name>7⬆️🔚↘️🚉Llinars</name>
+    <name>8⬆️🔚↘️🚉Llinars</name>
     <cmt>Seguim recte deixant Llinars a l&apos;esquerra i cap a Palautordera.
 Sortida Llinars: ↘️Dreta tancat avall per passar per sota on venim i sota via. Després dreta arribem a l&apos;estació</cmt>
     <desc>Seguim recte deixant Llinars a l&apos;esquerra i cap a Palautordera.
@@ -67,7 +74,7 @@ Sortida Llinars: ↘️Dreta tancat avall per passar per sota on venim i sota vi
   </wpt>
   <wpt lat="41.644698" lon="2.415697">
     <ele>190.3977522826524</ele>
-    <name>8︵↙️↙️</name>
+    <name>9︵↙️↙️</name>
     <cmt>Passat el pont sobre les vies
 ↙️Esquerra avall tancat
 ↙️Esquerra tancat</cmt>
@@ -78,14 +85,14 @@ Sortida Llinars: ↘️Dreta tancat avall per passar per sota on venim i sota vi
   </wpt>
   <wpt lat="41.645354" lon="2.416905">
     <ele>191.12037403651138</ele>
-    <name>9︵➡️⌒</name>
+    <name>10︵➡️⌒</name>
     <cmt>Creuem riera i tot seguit a la Dreta per sota les vies Rodalies i AVE</cmt>
     <desc>Creuem riera i tot seguit a la Dreta per sota les vies Rodalies i AVE</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="41.646222" lon="2.420685">
     <ele>198.3279728557607</ele>
-    <name>10➡️⌒↖️</name>
+    <name>11➡️⌒↖️</name>
     <cmt>Dreta per sota la C-35
 Pujem i seguim recte (esquerra) sense creuar AP-7 (seguim paral·lels a l&apos;AP-7)</cmt>
     <desc>Dreta per sota la C-35
@@ -93,7 +100,7 @@ Pujem i seguim recte (esquerra) sense creuar AP-7 (seguim paral·lels a l&apos;A
   </wpt>
   <wpt lat="41.64809" lon="2.424183">
     <ele>201.9410797523338</ele>
-    <name>11🏠⬅️</name>
+    <name>12🏠⬅️</name>
     <cmt>Arribats a una casa prenem la primera a l&apos;esquerra
 Fi tram asfaltat</cmt>
     <desc>Arribats a una casa prenem la primera a l&apos;esquerra
@@ -102,7 +109,7 @@ Fi tram asfaltat</desc>
   </wpt>
   <wpt lat="41.653913" lon="2.429249">
     <ele>205.9582437540412</ele>
-    <name>12↙️⚠️🚗➡️O 2a➡️</name>
+    <name>13↙️⚠️🚗➡️O 2a➡️</name>
     <cmt>Inici asfalt
 ↙️Prenem la carretera a l&apos;esquerra
 ⚠️🚗Tram compartit amb cotxes. No sol haver gaire trànsit. Si n&apos;hi hagués i aneu amb nens, feu aquest tram a peu. En total són uns 350m
@@ -119,22 +126,22 @@ O 3a➡️ A la rotonda gran la 2a, que ve després de creuar la C-35 i després
   </wpt>
   <wpt lat="41.65565" lon="2.431808">
     <ele>212.70514206397417</ele>
-    <name>13↖️</name>
+    <name>14↖️</name>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="41.657804" lon="2.432923">
     <ele>215.4303250847396</ele>
-    <name>14↗️</name>
+    <name>15↗️</name>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="41.661231" lon="2.437051">
     <ele>225.41928146504915</ele>
-    <name>15⬅️</name>
+    <name>16⬅️</name>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="41.663324" lon="2.43721">
     <ele>226.33110466720558</ele>
-    <name>16↙️🔺︵↖️</name>
+    <name>17↙️🔺︵↖️</name>
     <cmt>Esquerra tancada i amunt
 Creuem pont AVE i seguim per l&apos;esquerra baixant</cmt>
     <desc>Esquerra tancada i amunt
@@ -143,7 +150,7 @@ Creuem pont AVE i seguim per l&apos;esquerra baixant</desc>
   </wpt>
   <wpt lat="41.662805" lon="2.434627">
     <ele>223.92020484879703</ele>
-    <name>17↘️🔺</name>
+    <name>18↘️🔺</name>
     <cmt>↘️Gir tancat dreta a Sanata
 🔺Pujada pronunciada de 150m, després suavitza</cmt>
     <desc>↘️Gir tancat dreta a Sanata
@@ -152,7 +159,7 @@ Creuem pont AVE i seguim per l&apos;esquerra baixant</desc>
   </wpt>
   <wpt lat="41.663771" lon="2.434233">
     <ele>238.32125553023133</ele>
-    <name>18⛪Sant Joan de Sanata</name>
+    <name>19⛪Sant Joan de Sanata</name>
     <cmt>🥪Bona ombra per parar a menjar
 Fi asfalt, inici pista</cmt>
     <desc>🥪Bona ombra per parar a menjar
@@ -160,21 +167,21 @@ Fi asfalt, inici pista</desc>
   </wpt>
   <wpt lat="41.669383" lon="2.437837">
     <ele>256.57073357202404</ele>
-    <name>19↗️</name>
+    <name>20↗️</name>
     <cmt>Seguim per la dreta</cmt>
     <desc>Seguim per la dreta</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="41.670978" lon="2.440575">
     <ele>225.87067877575774</ele>
-    <name>20➡️︵</name>
+    <name>21➡️︵</name>
     <cmt>Dreta i creuem AVE per pont</cmt>
     <desc>Dreta i creuem AVE per pont</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="41.672071" lon="2.454178">
     <ele>195.07526660598901</ele>
-    <name>21🔚🚉Palautordera</name>
+    <name>22🔚🚉Palautordera</name>
     <cmt>🚉Estació Palautordera
 Inici asfalt</cmt>
     <desc>🚉Estació Palautordera
@@ -183,7 +190,7 @@ Inici asfalt</desc>
   </wpt>
   <wpt lat="41.671963" lon="2.456697">
     <ele>193.14853486037617</ele>
-    <name>22⬅️⚠️🚗🚲</name>
+    <name>23⬅️⚠️🚗🚲</name>
     <cmt>Esquerra arrimats a l&apos;esquerra i precaució cotxes de cara
 Prenem el carril bici que transcorre paral·lel a la carretera per la banda esquerra</cmt>
     <desc>Esquerra arrimats a l&apos;esquerra i precaució cotxes de cara
@@ -192,14 +199,14 @@ Prenem el carril bici que transcorre paral·lel a la carretera per la banda esqu
   </wpt>
   <wpt lat="41.685836" lon="2.443492">
     <ele>212.73944188221236</ele>
-    <name>23➡️➡️🚲</name>
+    <name>24➡️➡️🚲</name>
     <cmt>Dreta per creuar a l&apos;altra banda i dreta pel carril bici que pren el Passeig de l&apos;Estatut direcció N</cmt>
     <desc>Dreta per creuar a l&apos;altra banda i dreta pel carril bici que pren el Passeig de l&apos;Estatut direcció N</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="41.687127" lon="2.443869">
     <ele>205.97505454677193</ele>
-    <name>24🛝O➡️↖️NE🚲</name>
+    <name>25🛝O➡️↖️NE🚲</name>
     <cmt>🛝Parc Infantil 
 Passada la rotonda, dreta per creuar i prenem a esquerres Ronda Sud direcció NE per l&apos;acera esquerra que és ben ampla i acaba sent carril bici</cmt>
     <desc>🛝Parc Infantil 
@@ -208,21 +215,21 @@ Passada la rotonda, dreta per creuar i prenem a esquerres Ronda Sud direcció NE
   </wpt>
   <wpt lat="41.690814" lon="2.447338">
     <ele>202.89939012327326</ele>
-    <name>25➡️</name>
+    <name>26➡️</name>
     <cmt>Dreta per Carrer Nou</cmt>
     <desc>Dreta per Carrer Nou</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="41.691237" lon="2.450335">
     <ele>202.05142544966762</ele>
-    <name>26↗️↖️</name>
+    <name>27↗️↖️</name>
     <cmt>Abandonem el carrer i per un petit pas entrem a un altre carrer enfront</cmt>
     <desc>Abandonem el carrer i per un petit pas entrem a un altre carrer enfront</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="41.691841" lon="2.452104">
     <ele>192.4399458673562</ele>
-    <name>27⬅️🚲</name>
+    <name>28⬅️🚲</name>
     <cmt>Esquerra per Av de la Serra.
 🚲Carril bici</cmt>
     <desc>Esquerra per Av de la Serra.
@@ -231,20 +238,20 @@ Passada la rotonda, dreta per creuar i prenem a esquerres Ronda Sud direcció NE
   </wpt>
   <wpt lat="41.693687" lon="2.450352">
     <ele>199.45222271836104</ele>
-    <name>28➡️︵🚲</name>
+    <name>29➡️︵🚲</name>
     <cmt>Dreta per pont sobre La Tordera i carril bici</cmt>
     <desc>Dreta per pont sobre La Tordera i carril bici</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="41.69416" lon="2.454171">
     <ele>199.7480360843483</ele>
-    <name>29➡️⬅️SE</name>
+    <name>30➡️⬅️SE</name>
     <cmt>Abans de la rotonda, creuem per la nostra dreta el lateral i el seguim direcció SE arrimats a la dreta</cmt>
     <desc>Abans de la rotonda, creuem per la nostra dreta el lateral i el seguim direcció SE arrimats a la dreta</desc>
   </wpt>
   <wpt lat="41.692401" lon="2.456228">
     <ele>196.4436097950688</ele>
-    <name>30 O 3a➡️E</name>
+    <name>31 O 3a➡️E</name>
     <cmt>A la rotonda prenem la 3a sortida direcció E
 Si anem amb nens la fem per l&apos;acera</cmt>
     <desc>A la rotonda prenem la 3a sortida direcció E
@@ -253,14 +260,14 @@ Si anem amb nens la fem per l&apos;acera</desc>
   </wpt>
   <wpt lat="41.689213" lon="2.460182">
     <ele>187.24066389333544</ele>
-    <name>31⬆️</name>
+    <name>32⬆️</name>
     <cmt>⬆️Seguim recte i deixem el carrer que tomba a dreta</cmt>
     <desc>⬆️Seguim recte i deixem el carrer que tomba a dreta</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="41.687619" lon="2.458886">
     <ele>186.65740947779315</ele>
-    <name>32⬅️⌒⬅️➡️</name>
+    <name>33⬅️⌒⬅️➡️</name>
     <cmt>⬅️Esquerra 
 ⌒Pas subterrani sota vies AVE
 ⬅️Esquerra just sortir del túnel
@@ -273,14 +280,14 @@ Si anem amb nens la fem per l&apos;acera</desc>
   </wpt>
   <wpt lat="41.686048" lon="2.468602">
     <ele>172.6453714136728</ele>
-    <name>33↗️</name>
+    <name>34↗️</name>
     <cmt>Deixem desviació esquerra i seguim recte (dreta)</cmt>
     <desc>Deixem desviació esquerra i seguim recte (dreta)</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="41.682412" lon="2.474941">
     <ele>163.33569091155178</ele>
-    <name>34↙️🔻︵↖️🔺↗️🚲</name>
+    <name>35↙️🔻︵↖️🔺↗️🚲</name>
     <cmt>↙️🔻Esquerra tancat avall per camí
 ︵Creuem Riu Sec per pont
 ↖️🔺Sortim del camí a esquerres anant a buscar el carrer
@@ -295,7 +302,7 @@ Si anem amb nens la fem per l&apos;acera</desc>
   </wpt>
   <wpt lat="41.682684" lon="2.47981">
     <ele>154.774262893196</ele>
-    <name>35🛝↗️</name>
+    <name>36🛝↗️</name>
     <cmt>🛝Parc Infantil
 ↗️Deixem el Passeig i tombem per una zona tancada al trànsit</cmt>
     <desc>🛝Parc Infantil
