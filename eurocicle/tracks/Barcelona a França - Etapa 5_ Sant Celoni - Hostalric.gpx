@@ -67,11 +67,13 @@ Fi asfalt</desc>
     <desc>Esquerra i Dreta seguit</desc>
     <sym>Crossing</sym>
   </wpt>
-  <wpt lat="41.721278" lon="2.57231">
+  <wpt lat="41.721072" lon="2.571939">
     <ele>89.92503044057764</ele>
-    <name>↖️</name>
-    <cmt>↖️Seguim lleugerament a l&apos;esquerra paral·lels a l&apos;AP-7</cmt>
-    <desc>↖️Seguim lleugerament a l&apos;esquerra paral·lels a l&apos;AP-7</desc>
+    <name>🔚↖️</name>
+    <cmt>🔚Sortida Riells: 🚉Estació Riells-Viabrea-Breda ⬅️Esquerra a 1km per GR-83
+↖️Seguim lleugerament a l&apos;esquerra paral·lels a l&apos;AP-7</cmt>
+    <desc>🔚Sortida Riells: 🚉Estació Riells-Viabrea-Breda ⬅️Esquerra a 1km per GR-83
+↖️Seguim lleugerament a l&apos;esquerra paral·lels a l&apos;AP-7</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="41.727988" lon="2.592708">
