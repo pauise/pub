@@ -26,6 +26,13 @@
 🚶Tram compartit GR</desc>
     <sym>Tunnel</sym>
   </wpt>
+  <wpt lat="41.532011" lon="2.220659">
+    <ele>59.929758964922385</ele>
+    <name>2︵ Pont</name>
+    <cmt>Creuem C-33, AVE i Riu Besòs</cmt>
+    <desc>Creuem C-33, AVE i Riu Besòs</desc>
+    <sym>Bridge</sym>
+  </wpt>
   <wpt lat="41.531241" lon="2.221838">
     <ele>56.91464234492053</ele>
     <name>3↙️↗️Passeig Fluvial sentit N</name>
@@ -34,13 +41,6 @@ Fi asfalt però el camí es troba en un estat excel·lent</cmt>
     <desc>↙️Esquerra tancat, avall i ↗️Dreta per Passeig Fluvial Riu Besòs sentit Nord
 Fi asfalt però el camí es troba en un estat excel·lent</desc>
     <sym>Crossing</sym>
-  </wpt>
-  <wpt lat="41.532011" lon="2.220659">
-    <ele>59.929758964922385</ele>
-    <name>2︵ Pont</name>
-    <cmt>Creuem C-33, AVE i Riu Besòs</cmt>
-    <desc>Creuem C-33, AVE i Riu Besòs</desc>
-    <sym>Bridge</sym>
   </wpt>
   <wpt lat="41.546215" lon="2.250648">
     <ele>80.2448779885666</ele>
@@ -78,6 +78,13 @@ Fi asfalt però el camí es troba en un estat excel·lent</desc>
     <desc>🔚Sortida Montornès Nord ↗️dreta pel ︵pont</desc>
     <sym>Crossing</sym>
   </wpt>
+  <wpt lat="41.553591" lon="2.272431">
+    <ele>85.52906827763712</ele>
+    <name>8🥪Picnic</name>
+    <cmt>Zona amb un parell de taules de Pícnic, bona ombra i bones vistes</cmt>
+    <desc>Zona amb un parell de taules de Pícnic, bona ombra i bones vistes</desc>
+    <sym>Picnic Area</sym>
+  </wpt>
   <wpt lat="41.554303" lon="2.278453">
     <ele>84.35408699372209</ele>
     <name>9⬆️Riera de Vallromanes</name>
@@ -112,6 +119,13 @@ Fi asfalt però el camí es troba en un estat excel·lent</desc>
 ↗️Ens incorporem a una pista a dretes en sentit E</desc>
     <sym>Crossing</sym>
   </wpt>
+  <wpt lat="41.562612" lon="2.304503">
+    <ele>96.3782075733415</ele>
+    <name>13↗️Dreta</name>
+    <cmt>↗️Deixem Camí de Can Catafal per la dreta</cmt>
+    <desc>↗️Deixem Camí de Can Catafal per la dreta</desc>
+    <sym>Crossing</sym>
+  </wpt>
   <wpt lat="41.56612270396462" lon="2.3065443029983896">
     <ele>98.63092721104668</ele>
     <name>14↗️︵↗️</name>
@@ -121,6 +135,13 @@ Tot seguit↗️dreta deixant pista principal</cmt>
     <desc>↗️Deixem desviació esquerra
 ︵Creuem Torrent de Valdoriolf per pont 
 Tot seguit↗️dreta deixant pista principal</desc>
+    <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="41.581229" lon="2.313955">
+    <ele>116.46322519182742</ele>
+    <name>15➡️⬆️</name>
+    <cmt>Intersecció, tombem a ➡️dreta i tot seguit seguim ⬆️recte</cmt>
+    <desc>Intersecció, tombem a ➡️dreta i tot seguit seguim ⬆️recte</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="41.584496" lon="2.317036">
@@ -181,6 +202,13 @@ Prenem corriol en molt bon estat per tallar tram</desc>
 </desc>
     <sym>Crossing</sym>
   </wpt>
+  <wpt lat="41.589894" lon="2.321562">
+    <ele>118.25275141708367</ele>
+    <name>22🛝Parc</name>
+    <cmt>🛝Parc infantil amb bancs, ombra i font per parar a menjar</cmt>
+    <desc>🛝Parc infantil amb bancs, ombra i font per parar a menjar</desc>
+    <sym>Park</sym>
+  </wpt>
   <wpt lat="41.593275" lon="2.325927">
     <ele>122.02197210809692</ele>
     <name>23⬅️︵➡️</name>
@@ -205,6 +233,11 @@ Fi tram asfaltat</cmt>
 Fi tram asfaltat</desc>
     <sym>Crossing</sym>
   </wpt>
+  <wpt lat="41.59677" lon="2.33683">
+    <ele>127.5118867807557</ele>
+    <name>25↗️SPP</name>
+    <sym>Crossing</sym>
+  </wpt>
   <wpt lat="41.600077" lon="2.338988">
     <ele>131.6556036266038</ele>
     <name>26➡️︵⬅️</name>
@@ -212,6 +245,15 @@ Fi tram asfaltat</desc>
 Inici tram asfaltat</cmt>
     <desc>➡️Dreta per ︵creuar Riu Mogent i ⬅️esquerra
 Inici tram asfaltat</desc>
+    <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="41.600195" lon="2.341209">
+    <ele>131.0366345338398</ele>
+    <name>27⬅️</name>
+    <cmt>⬅️Esquerra per camí
+Fi tram asfaltat</cmt>
+    <desc>⬅️Esquerra per camí
+Fi tram asfaltat</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="41.608325" lon="2.351835">
@@ -271,48 +313,6 @@ Aquesta carretera sol tenir poc trànsit però precaució i si no ho veieu clar 
     <desc>↖️🚉Estació Cardedeu en 1,9km
 ➡️Continuació etapa 4, 🚉Estació Llinars en 3,55km</desc>
     <sym>Information</sym>
-  </wpt>
-  <wpt lat="41.562612" lon="2.304503">
-    <ele>96.3782075733415</ele>
-    <name>13↗️Dreta</name>
-    <cmt>↗️Deixem Camí de Can Catafal per la dreta</cmt>
-    <desc>↗️Deixem Camí de Can Catafal per la dreta</desc>
-    <sym>Crossing</sym>
-  </wpt>
-  <wpt lat="41.581229" lon="2.313955">
-    <ele>116.46322519182742</ele>
-    <name>15➡️⬆️</name>
-    <cmt>Intersecció, tombem a ➡️dreta i tot seguit seguim ⬆️recte</cmt>
-    <desc>Intersecció, tombem a ➡️dreta i tot seguit seguim ⬆️recte</desc>
-    <sym>Crossing</sym>
-  </wpt>
-  <wpt lat="41.589894" lon="2.321562">
-    <ele>118.25275141708367</ele>
-    <name>22🛝Parc</name>
-    <cmt>🛝Parc infantil amb bancs, ombra i font per parar a menjar</cmt>
-    <desc>🛝Parc infantil amb bancs, ombra i font per parar a menjar</desc>
-    <sym>Park</sym>
-  </wpt>
-  <wpt lat="41.59677" lon="2.33683">
-    <ele>127.5118867807557</ele>
-    <name>25↗️SPP</name>
-    <sym>Crossing</sym>
-  </wpt>
-  <wpt lat="41.600195" lon="2.341209">
-    <ele>131.0366345338398</ele>
-    <name>27⬅️</name>
-    <cmt>⬅️Esquerra per camí
-Fi tram asfaltat</cmt>
-    <desc>⬅️Esquerra per camí
-Fi tram asfaltat</desc>
-    <sym>Crossing</sym>
-  </wpt>
-  <wpt lat="41.553591" lon="2.272431">
-    <ele>85.52906827763712</ele>
-    <name>8🥪Picnic</name>
-    <cmt>Zona amb un parell de taules de Pícnic, bona ombra i bones vistes</cmt>
-    <desc>Zona amb un parell de taules de Pícnic, bona ombra i bones vistes</desc>
-    <sym>Picnic Area</sym>
   </wpt>
   <trk>
     <name>Barcelona a França - Etapa 3: Mollet - Cardedeu</name>
