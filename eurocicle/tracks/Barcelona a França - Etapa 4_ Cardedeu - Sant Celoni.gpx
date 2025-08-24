@@ -250,6 +250,7 @@ Passada la rotonda, dreta per creuar i prenem a esquerres Ronda Sud direcció NE
     <name>30➡️⬅️SE</name>
     <cmt>Abans de la rotonda, creuem per la nostra dreta el lateral i el seguim direcció SE arrimats a la dreta</cmt>
     <desc>Abans de la rotonda, creuem per la nostra dreta el lateral i el seguim direcció SE arrimats a la dreta</desc>
+    <sym>Crossing</sym>
   </wpt>
   <wpt lat="41.692401" lon="2.456228">
     <ele>196.4436097950688</ele>
