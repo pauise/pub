@@ -291,19 +291,14 @@ Aquesta carretera sol tenir poc trànsit però precaució i si no ho veieu clar 
   </wpt>
   <wpt lat="41.623497" lon="2.367625">
     <ele>171.45984771433382</ele>
-    <name>31➡️⚠️🚗</name>
+    <name>31➡️⚠️🚗︵</name>
     <cmt>➡️Dreta
-⚠️🚗Atenció Tram amb trànsit de 200m</cmt>
+⚠️🚗Atenció Tram amb trànsit de 200m
+︵Creuem AP-7 i C-35</cmt>
     <desc>➡️Dreta
-⚠️🚗Atenció Tram amb trànsit de 200m</desc>
+⚠️🚗Atenció Tram amb trànsit de 200m
+︵Creuem AP-7 i C-35</desc>
     <sym>Alert</sym>
-  </wpt>
-  <wpt lat="41.624656" lon="2.368419">
-    <ele>166.17230525146454</ele>
-    <name>32︵</name>
-    <cmt>Creuem AP-7 i C-35</cmt>
-    <desc>Creuem AP-7 i C-35</desc>
-    <sym>Bridge</sym>
   </wpt>
   <wpt lat="41.62509" lon="2.368352">
     <ele>167.3118412677671</ele>
