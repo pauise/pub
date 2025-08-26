@@ -36,6 +36,11 @@ Fi asfalt</cmt>
 Fi asfalt</desc>
     <sym>Crossing</sym>
   </wpt>
+  <wpt lat="41.811943" lon="2.751309">
+    <ele>77.23658879990762</ele>
+    <name>4➡️</name>
+    <sym>Crossing</sym>
+  </wpt>
   <wpt lat="41.818093" lon="2.762803">
     <ele>81.54582030884927</ele>
     <name>5🔺↖️⬅️⚠️🚗➡️⌒⬅️</name>
@@ -47,11 +52,6 @@ Fi asfalt</desc>
 ↖️Ens incorporem a un tram de carretera vella
 ⬅️⚠️🚗En uns 20m ens incorporem al Lateral de l&apos;A2 que seguirem només durant uns 20m. No sol haver trànsit però si aneu amb nens millor a peu aquest tram.
 ➡️De seguida ens sortim del Lateral de l&apos;A2 per la dreta per creuar ⌒sota l&apos;A2 i tombar ⬅️esquerra tot seguit</desc>
-    <sym>Crossing</sym>
-  </wpt>
-  <wpt lat="41.811943" lon="2.751309">
-    <ele>77.23658879990762</ele>
-    <name>4➡️</name>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="41.831775" lon="2.760173">
