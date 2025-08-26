@@ -105,6 +105,7 @@ En 20m tombem⬅️esquerra</desc>
 📷Pantà de Can Matllo</cmt>
     <desc>➡️Tombem a la dreta i seguidament a ⬅️l&apos;esquerra
 📷Pantà de Can Matllo</desc>
+    <sym>Crossing</sym>
   </wpt>
   <wpt lat="41.838132" lon="2.777238">
     <ele>102.62841808088189</ele>
@@ -142,6 +143,7 @@ En 20m tombem⬅️esquerra</desc>
 </cmt>
     <desc>Dreta i esquerra tot seguit.
 </desc>
+    <sym>Crossing</sym>
   </wpt>
   <wpt lat="41.838788" lon="2.792417">
     <ele>92.72991444650191</ele>
@@ -150,6 +152,7 @@ En 20m tombem⬅️esquerra</desc>
 Inici pista</cmt>
     <desc>Precaució carrer tallat, valles. 
 Inici pista</desc>
+    <sym>End of road</sym>
   </wpt>
   <wpt lat="41.840304" lon="2.792684">
     <ele>92.88220844222577</ele>
