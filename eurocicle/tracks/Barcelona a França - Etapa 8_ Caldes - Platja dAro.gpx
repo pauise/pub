@@ -43,6 +43,7 @@
 ⬅️Esquerra🧭direcció E</cmt>
     <desc>↖️Seguim per l&apos;esquerra per la🌳Plaça de la Creu
 ⬅️Esquerra🧭direcció E</desc>
+    <sym>Crossing</sym>
   </wpt>
   <wpt lat="41.836875" lon="2.811773">
     <ele>109.81790165333096</ele>
@@ -76,6 +77,7 @@ Inici carril bici cap a cementiri i urbanització Aigües Bones</desc>
     <name>10⬆️</name>
     <cmt>Fi asfalt</cmt>
     <desc>Fi asfalt</desc>
+    <sym>End of road</sym>
   </wpt>
   <wpt lat="41.829408" lon="2.821597">
     <ele>143.8111604798789</ele>
@@ -133,6 +135,7 @@ En uns 200m ↗️seguim per la dreta</cmt>
     <desc>Urbanització La Mata
 Inici asfalt
 En uns 200m ↗️seguim per la dreta</desc>
+    <sym>Crossing</sym>
   </wpt>
   <wpt lat="41.821933" lon="2.872705">
     <ele>156.21207701326486</ele>
@@ -189,7 +192,7 @@ Inici camí</desc>
     <name>25🍽️</name>
     <cmt>Restaurant Ca La Maria</cmt>
     <desc>Restaurant Ca La Maria</desc>
-    <sym>Restaurant</sym>
+    <sym>Meal</sym>
   </wpt>
   <wpt lat="41.82875" lon="2.959955">
     <ele>62.11559090886295</ele>
@@ -198,14 +201,14 @@ Inici camí</desc>
 A la dreta accès a Càmping Ridaura amb bungalows</cmt>
     <desc>Seguim recte 
 A la dreta accès a Càmping Ridaura amb bungalows</desc>
-    <sym>Campground</sym>
+    <sym>Campsite</sym>
   </wpt>
   <wpt lat="41.828276" lon="2.979713">
     <ele>56.23526794551522</ele>
     <name>27🍽️</name>
     <cmt>Restaurant Font Picant</cmt>
     <desc>Restaurant Font Picant</desc>
-    <sym>Restaurant</sym>
+    <sym>Meal</sym>
   </wpt>
   <wpt lat="41.812817" lon="3.009591">
     <ele>34.2743646113209</ele>
@@ -214,7 +217,7 @@ A la dreta accès a Càmping Ridaura amb bungalows</desc>
 🏕️Càmping Mas Sant Josep prenent la primera a la dreta i en uns 500m</cmt>
     <desc>Grill Ruta Baviera
 🏕️Càmping Mas Sant Josep prenent la primera a la dreta i en uns 500m</desc>
-    <sym>Restaurant</sym>
+    <sym>Campsite</sym>
   </wpt>
   <wpt lat="41.813735" lon="3.030919">
     <ele>20.771415873595046</ele>
@@ -225,7 +228,7 @@ A la dreta accès a Càmping Ridaura amb bungalows</desc>
     <desc>🔧Centre BTT Baix Empordà
 🚾Lavabos i🌳Parc
 📷Edifici antiga estació Castell d&apos;Aro i petita locomotora</desc>
-    <sym>Car Repair</sym>
+    <sym>Camera</sym>
   </wpt>
   <wpt lat="41.809938" lon="3.037127">
     <ele>16.684245903278608</ele>
