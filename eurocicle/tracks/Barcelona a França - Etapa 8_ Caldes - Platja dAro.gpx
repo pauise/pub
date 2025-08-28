@@ -71,26 +71,32 @@ Inici carril bici cap a cementiri i urbanització Aigües Bones</desc>
 ➡️Prenem primer carrer a la dreta</desc>
     <sym>Crossing</sym>
   </wpt>
+  <wpt lat="41.826025" lon="2.825454">
+    <ele>150.4939360935242</ele>
+    <name>10⬆️</name>
+    <cmt>Fi asfalt</cmt>
+    <desc>Fi asfalt</desc>
+  </wpt>
   <wpt lat="41.829408" lon="2.821597">
     <ele>143.8111604798789</ele>
-    <name>10⬅️</name>
+    <name>11⬅️</name>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="41.815171" lon="2.829734">
     <ele>164.70680869687385</ele>
-    <name>11⬅️</name>
+    <name>12⬅️</name>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="41.816661" lon="2.842778">
     <ele>160.5921640550954</ele>
-    <name>12⬅️↖️SPP</name>
+    <name>13⬅️↖️SPP</name>
     <cmt>Després de tombar 90º esquerra en uns metres deixem una pista secundària a la nostra dreta i SPP</cmt>
     <desc>Després de tombar 90º esquerra en uns metres deixem una pista secundària a la nostra dreta i SPP</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="41.827424" lon="2.846731">
     <ele>132.49485094168006</ele>
-    <name>13↗️➡️</name>
+    <name>14↗️➡️</name>
     <cmt>Agafem el camí de la dreta per retallar ruta
 En uns 30m desemboquem a una pista més important i la seguim a la dreta</cmt>
     <desc>Agafem el camí de la dreta per retallar ruta
@@ -99,19 +105,19 @@ En uns 30m desemboquem a una pista més important i la seguim a la dreta</desc>
   </wpt>
   <wpt lat="41.826653" lon="2.850195">
     <ele>129.31024669511712</ele>
-    <name>14⬅️</name>
+    <name>15⬅️</name>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="41.832387" lon="2.856492">
     <ele>129.72272022585688</ele>
-    <name>15➡️</name>
+    <name>16➡️</name>
     <cmt>Dreta quan som molt pròxims a la carretera GI-674 que a la dreta també ens duria a Llagostera</cmt>
     <desc>Dreta quan som molt pròxims a la carretera GI-674 que a la dreta també ens duria a Llagostera</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="41.822381" lon="2.858837">
     <ele>142.16968192090363</ele>
-    <name>16⬆️🔚🛏️Can Gascons⬅️</name>
+    <name>17⬆️🔚🛏️Can Gascons⬅️</name>
     <cmt>Seguim recte
 Si aneu amb nens, a l&apos;esquerra teniu allotjament en un punt ideal per dividir aquesta etapa per la meïtat ja que els 20 kms que us quedarien serien la majoria de carrilet amb 5 de pujada suau i 15 de baixada suau i pla.</cmt>
     <desc>Seguim recte
@@ -120,7 +126,7 @@ Si aneu amb nens, a l&apos;esquerra teniu allotjament en un punt ideal per divid
   </wpt>
   <wpt lat="41.822945" lon="2.868682">
     <ele>157.10457146115397</ele>
-    <name>17⬆️↗️</name>
+    <name>18⬆️↗️</name>
     <cmt>Urbanització La Mata
 Inici asfalt
 En uns 200m ↗️seguim per la dreta</cmt>
@@ -130,7 +136,7 @@ En uns 200m ↗️seguim per la dreta</desc>
   </wpt>
   <wpt lat="41.821933" lon="2.872705">
     <ele>156.21207701326486</ele>
-    <name>18↖️</name>
+    <name>19↖️</name>
     <cmt>Deixem asfalt i ens desviem lleugerament a l&apos;esquerra.
 Inici camí</cmt>
     <desc>Deixem asfalt i ens desviem lleugerament a l&apos;esquerra.
@@ -139,14 +145,14 @@ Inici camí</desc>
   </wpt>
   <wpt lat="41.825148" lon="2.8846">
     <ele>124.70589753415047</ele>
-    <name>19⬆️</name>
+    <name>20⬆️</name>
     <cmt>Ens incorporem a pista més important</cmt>
     <desc>Ens incorporem a pista més important</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="41.826232" lon="2.887704">
     <ele>121.63011992932356</ele>
-    <name>20➡️🧭SE⚠️🚲</name>
+    <name>21➡️🧭SE⚠️🚲</name>
     <cmt>➡️Arribem a la Ruta del Carrilet que la prenem a la dreta cap a Sant Feliu de Guíxols 🧭direcció SE
 ⚠️🚲Precaució, és una ruta molt transitada per ciclistes i peatons</cmt>
     <desc>➡️Arribem a la Ruta del Carrilet que la prenem a la dreta cap a Sant Feliu de Guíxols 🧭direcció SE
@@ -155,7 +161,7 @@ Inici camí</desc>
   </wpt>
   <wpt lat="41.824932" lon="2.888722">
     <ele>124.70068779224603</ele>
-    <name>21🚶🌳🍽️🛝ℹ️Llagostera</name>
+    <name>22🚶🌳🍽️🛝ℹ️Llagostera</name>
     <cmt>🚶Creuem carretera per pas de vianants
 🌳🍽️Parc i Restaurant El Carril
 🛝Seguint pel carrilet tot seguit parc infantil i ℹ️Oficina de Turisme a l&apos;edifici de l&apos;antiga estació</cmt>
@@ -166,28 +172,28 @@ Inici camí</desc>
   </wpt>
   <wpt lat="41.820859" lon="2.899066">
     <ele>138.03145410148437</ele>
-    <name>22↗️🚲</name>
+    <name>23↗️🚲</name>
     <cmt>Seguim per la Ruta del Carrilet a dretes separat del trànsit</cmt>
     <desc>Seguim per la Ruta del Carrilet a dretes separat del trànsit</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="41.82172" lon="2.906088">
     <ele>147.74119267265257</ele>
-    <name>23➡️⌒</name>
+    <name>24➡️⌒</name>
     <cmt>Dreta per sota el pont de la carretera</cmt>
     <desc>Dreta per sota el pont de la carretera</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="41.828117" lon="2.945345">
     <ele>72.05903657381529</ele>
-    <name>24🍽️</name>
+    <name>25🍽️</name>
     <cmt>Restaurant Ca La Maria</cmt>
     <desc>Restaurant Ca La Maria</desc>
     <sym>Restaurant</sym>
   </wpt>
   <wpt lat="41.82875" lon="2.959955">
     <ele>62.11559090886295</ele>
-    <name>25⬆️🔚🏕️Càmping Ridaura</name>
+    <name>26⬆️🔚🏕️Càmping Ridaura</name>
     <cmt>Seguim recte 
 A la dreta accès a Càmping Ridaura amb bungalows</cmt>
     <desc>Seguim recte 
@@ -196,14 +202,14 @@ A la dreta accès a Càmping Ridaura amb bungalows</desc>
   </wpt>
   <wpt lat="41.828276" lon="2.979713">
     <ele>56.23526794551522</ele>
-    <name>26🍽️</name>
+    <name>27🍽️</name>
     <cmt>Restaurant Font Picant</cmt>
     <desc>Restaurant Font Picant</desc>
     <sym>Restaurant</sym>
   </wpt>
   <wpt lat="41.812817" lon="3.009591">
     <ele>34.2743646113209</ele>
-    <name>27🍽️🏕️</name>
+    <name>28🍽️🏕️</name>
     <cmt>Grill Ruta Baviera
 🏕️Càmping Mas Sant Josep prenent la primera a la dreta i en uns 500m</cmt>
     <desc>Grill Ruta Baviera
@@ -212,7 +218,7 @@ A la dreta accès a Càmping Ridaura amb bungalows</desc>
   </wpt>
   <wpt lat="41.813735" lon="3.030919">
     <ele>20.771415873595046</ele>
-    <name>28🔧🚾🌳📷Antiga Estació Castell d&apos;Aro</name>
+    <name>29🔧🚾🌳📷Antiga Estació Castell d&apos;Aro</name>
     <cmt>🔧Centre BTT Baix Empordà
 🚾Lavabos i🌳Parc
 📷Edifici antiga estació Castell d&apos;Aro i petita locomotora</cmt>
@@ -223,7 +229,7 @@ A la dreta accès a Càmping Ridaura amb bungalows</desc>
   </wpt>
   <wpt lat="41.809938" lon="3.037127">
     <ele>16.684245903278608</ele>
-    <name>29⬅️🚲🔚🏕️Càmping Rimbau⬆️</name>
+    <name>30⬅️🚲🔚🏕️Càmping Rimbau⬆️</name>
     <cmt>Esquerra. Abandonem Ruta del Carrilet
 Inici carril bici sense asfaltar però en molt bon estat
 🔚Escapatòria a 🏕️Càmping Rimbau⬆️</cmt>
@@ -234,14 +240,14 @@ Inici carril bici sense asfaltar però en molt bon estat
   </wpt>
   <wpt lat="41.812411" lon="3.042286">
     <ele>9.819584607566485</ele>
-    <name>30⬆️🔚🏕️Càmping Valldaro⬅️</name>
+    <name>31⬆️🔚🏕️Càmping Valldaro⬅️</name>
     <cmt>🔚Escapatòria a 🏕️Càmping Valldaro⬅️</cmt>
     <desc>🔚Escapatòria a 🏕️Càmping Valldaro⬅️</desc>
     <sym>Exit</sym>
   </wpt>
   <wpt lat="41.809985" lon="3.05663">
     <ele>3.6594171111788403</ele>
-    <name>31⬆️</name>
+    <name>32⬆️</name>
     <cmt>Seguim recte per camí GR-92 tram curt</cmt>
     <desc>Seguim recte per camí GR-92 tram curt</desc>
     <sym>Crossing</sym>
