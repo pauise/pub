@@ -39,6 +39,7 @@ En endavant aniran venint més restaurants, parcs, supermercats i tot tipus de c
     <name>3↖️🚶➡️🚲🧭NE</name>
     <cmt>Creuem a l&apos;altra banda per agafar el carril bici direcció NE</cmt>
     <desc>Creuem a l&apos;altra banda per agafar el carril bici direcció NE</desc>
+    <sym>Crossing</sym>
   </wpt>
   <wpt lat="41.836402" lon="3.086207">
     <ele>25.912160390651728</ele>
@@ -72,15 +73,17 @@ Següent seguim pel carrer que surt lleugerament a la dreta direcció platja i l
   </wpt>
   <wpt lat="41.840744" lon="3.095571">
     <ele>4.362819508046162</ele>
-    <name>6↗️</name>
-    <cmt>Seguim GR-92 per la dreta</cmt>
-    <desc>Seguim GR-92 per la dreta</desc>
+    <name>6↗️🍽️🏨🏖️</name>
+    <cmt>Seguim GR-92 per la dreta. Anirem trobant Restaurants, Hotels i la platja per si volem aturar-nos a prendre un bany.</cmt>
+    <desc>Seguim GR-92 per la dreta. Anirem trobant Restaurants, Hotels i la platja per si volem aturar-nos a prendre un bany.</desc>
+    <sym>Crossing</sym>
   </wpt>
   <wpt lat="41.848855" lon="3.114199">
     <ele>3.7618036670850064</ele>
     <name>7⬅️➡️</name>
     <cmt>Just en arribar a unes escales, tombem ⬅️ esquerra fins la carretera que no creuarem sinó que la seguirem per l&apos;acera a la dreta fins que poguem creuar-la</cmt>
     <desc>Just en arribar a unes escales, tombem ⬅️ esquerra fins la carretera que no creuarem sinó que la seguirem per l&apos;acera a la dreta fins que poguem creuar-la</desc>
+    <sym>Crossing</sym>
   </wpt>
   <wpt lat="41.849535" lon="3.114693">
     <ele>9.892177184764392</ele>
@@ -150,6 +153,7 @@ Per evitar cotxes de cara, creuar momentàniament fins tenir visibilitat per tor
 Fi asfalt</cmt>
     <desc>Tombem lleugerament dreta per iniciar la Ruta del Tren Petit
 Fi asfalt</desc>
+    <sym>End of road</sym>
   </wpt>
   <wpt lat="41.872407" lon="3.141441">
     <ele>16.23494083453055</ele>
