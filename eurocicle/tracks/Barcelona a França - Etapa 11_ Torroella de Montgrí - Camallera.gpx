@@ -134,6 +134,7 @@ Precaució, creuem carretera i continuem pel carrer asfaltat de l&apos;altra ban
 Creuem el riu Rec del Molí i seguidament seguim paral·lels direcció W</cmt>
     <desc>Lloc pintoresc
 Creuem el riu Rec del Molí i seguidament seguim paral·lels direcció W</desc>
+    <sym>Camera</sym>
   </wpt>
   <wpt lat="42.083259" lon="2.986099">
     <ele>25.20067328289211</ele>
@@ -154,7 +155,7 @@ Creuem el riu Rec del Molí i seguidament seguim paral·lels direcció W</desc>
     <name>20⬆️🍽️</name>
     <cmt>Restaurant El Xalet</cmt>
     <desc>Restaurant El Xalet</desc>
-    <sym>Restaurant</sym>
+    <sym>Meal</sym>
   </wpt>
   <wpt lat="42.085647" lon="2.977533">
     <ele>33.42009450434798</ele>
@@ -183,7 +184,7 @@ Carretera molt poc transitada</desc>
 A la nostra dreta dispensar mèdic</cmt>
     <desc>Seguim recte.
 A la nostra dreta dispensar mèdic</desc>
-    <sym>Pharmacy</sym>
+    <sym>Waypoint</sym>
   </wpt>
   <wpt lat="42.120043" lon="2.964117">
     <ele>81.29382536402426</ele>
