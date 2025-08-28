@@ -10715,333 +10715,44 @@ a Palafrugell ➡️dreta: Hotel, Restaurant i Informació Turística en 500m i 
       <trkpt lat="41.910769394699344" lon="3.1555581364345926">
         <ele>45.59787741140508</ele>
       </trkpt>
-      <trkpt lat="41.9108" lon="3.15562">
-        <ele>45.75</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <highway>secondary</highway>
-              <surface>asphalt</surface>
-              <oneway>yes</oneway>
-              <route_bicycle_icn>yes</route_bicycle_icn>
-              <estimated_traffic_class>4</estimated_traffic_class>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
+      <trkpt lat="41.910769394699344" lon="3.1555581364345926">
+        <ele>45.59787741140508</ele>
       </trkpt>
-      <trkpt lat="41.910787" lon="3.155632">
-        <ele>45.75</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <highway>secondary</highway>
-              <surface>asphalt</surface>
-              <oneway>yes</oneway>
-              <route_bicycle_icn>yes</route_bicycle_icn>
-              <estimated_traffic_class>4</estimated_traffic_class>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
+      <trkpt lat="41.9108525921267" lon="3.15545962478987">
+        <ele>46.472770019714744</ele>
       </trkpt>
-      <trkpt lat="41.910685" lon="3.155667">
-        <ele>45.25</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <highway>secondary</highway>
-              <surface>asphalt</surface>
-              <junction>roundabout</junction>
-              <cycleway_right>no</cycleway_right>
-              <route_bicycle_icn>yes</route_bicycle_icn>
-              <estimated_traffic_class>4</estimated_traffic_class>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
+      <trkpt lat="41.91095965846608" lon="3.1553390844651403">
+        <ele>46.91471628468989</ele>
       </trkpt>
-      <trkpt lat="41.910655" lon="3.155664">
-        <ele>45</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <highway>secondary</highway>
-              <surface>asphalt</surface>
-              <junction>roundabout</junction>
-              <cycleway_right>no</cycleway_right>
-              <route_bicycle_icn>yes</route_bicycle_icn>
-              <estimated_traffic_class>4</estimated_traffic_class>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
+      <trkpt lat="41.91095965846608" lon="3.1553390844651403">
+        <ele>46.91471628468989</ele>
       </trkpt>
-      <trkpt lat="41.910624" lon="3.155671">
-        <ele>45</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <highway>secondary</highway>
-              <surface>asphalt</surface>
-              <junction>roundabout</junction>
-              <cycleway_right>no</cycleway_right>
-              <estimated_traffic_class>4</estimated_traffic_class>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
+      <trkpt lat="41.91131148849731" lon="3.1549628043244975">
+        <ele>49.639440977643716</ele>
       </trkpt>
-      <trkpt lat="41.910587" lon="3.155693">
-        <ele>44.75</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <highway>secondary</highway>
-              <surface>asphalt</surface>
-              <junction>roundabout</junction>
-              <cycleway_right>no</cycleway_right>
-              <estimated_traffic_class>4</estimated_traffic_class>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
+      <trkpt lat="41.91166331852855" lon="3.1545865241838547">
+        <ele>53.39977055132849</ele>
       </trkpt>
-      <trkpt lat="41.910544" lon="3.155749">
-        <ele>44.25</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <highway>secondary</highway>
-              <surface>asphalt</surface>
-              <junction>roundabout</junction>
-              <cycleway_right>no</cycleway_right>
-              <estimated_traffic_class>4</estimated_traffic_class>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
+      <trkpt lat="41.912015148559775" lon="3.154210244043212">
+        <ele>56.99064261204975</ele>
       </trkpt>
-      <trkpt lat="41.910527" lon="3.155798">
-        <ele>44</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <highway>secondary</highway>
-              <surface>asphalt</surface>
-              <junction>roundabout</junction>
-              <cycleway_right>no</cycleway_right>
-              <estimated_traffic_class>4</estimated_traffic_class>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
+      <trkpt lat="41.91236697859101" lon="3.1538339639025694">
+        <ele>58.3904895000702</ele>
       </trkpt>
-      <trkpt lat="41.910522" lon="3.155879">
-        <ele>43.75</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <highway>secondary</highway>
-              <surface>asphalt</surface>
-              <junction>roundabout</junction>
-              <cycleway_right>no</cycleway_right>
-              <route_bicycle_icn>yes</route_bicycle_icn>
-              <route_bicycle_rcn>yes</route_bicycle_rcn>
-              <estimated_traffic_class>4</estimated_traffic_class>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
+      <trkpt lat="41.91270861384908" lon="3.1534685870116164">
+        <ele>59.05809467926939</ele>
       </trkpt>
-      <trkpt lat="41.910531" lon="3.155921">
-        <ele>43.75</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <highway>secondary</highway>
-              <surface>asphalt</surface>
-              <junction>roundabout</junction>
-              <cycleway_right>no</cycleway_right>
-              <route_bicycle_icn>yes</route_bicycle_icn>
-              <estimated_traffic_class>4</estimated_traffic_class>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
+      <trkpt lat="41.91270861384908" lon="3.1534685870116164">
+        <ele>59.05809467926939</ele>
       </trkpt>
-      <trkpt lat="41.910553" lon="3.155972">
-        <ele>43.75</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <highway>secondary</highway>
-              <surface>asphalt</surface>
-              <junction>roundabout</junction>
-              <cycleway_right>no</cycleway_right>
-              <route_bicycle_icn>yes</route_bicycle_icn>
-              <estimated_traffic_class>4</estimated_traffic_class>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
+      <trkpt lat="41.912765" lon="3.153604">
+        <ele>58.71892765094605</ele>
       </trkpt>
-      <trkpt lat="41.910604" lon="3.156025">
-        <ele>43.75</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <highway>secondary</highway>
-              <surface>asphalt</surface>
-              <junction>roundabout</junction>
-              <cycleway_right>no</cycleway_right>
-              <route_bicycle_icn>yes</route_bicycle_icn>
-              <estimated_traffic_class>4</estimated_traffic_class>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="41.910669" lon="3.156041">
-        <ele>44</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <highway>secondary</highway>
-              <surface>asphalt</surface>
-              <junction>roundabout</junction>
-              <cycleway_right>no</cycleway_right>
-              <route_bicycle_icn>yes</route_bicycle_icn>
-              <estimated_traffic_class>4</estimated_traffic_class>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="41.910711" lon="3.156029">
-        <ele>44.25</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <highway>secondary</highway>
-              <surface>asphalt</surface>
-              <junction>roundabout</junction>
-              <cycleway_right>no</cycleway_right>
-              <route_bicycle_icn>yes</route_bicycle_icn>
-              <estimated_traffic_class>4</estimated_traffic_class>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="41.910751" lon="3.155998">
-        <ele>44.5</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <highway>secondary</highway>
-              <surface>asphalt</surface>
-              <junction>roundabout</junction>
-              <cycleway_right>no</cycleway_right>
-              <route_bicycle_icn>yes</route_bicycle_icn>
-              <estimated_traffic_class>4</estimated_traffic_class>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="41.91079" lon="3.15593">
-        <ele>44.5</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <highway>secondary</highway>
-              <surface>asphalt</surface>
-              <junction>roundabout</junction>
-              <cycleway_right>no</cycleway_right>
-              <route_bicycle_icn>yes</route_bicycle_icn>
-              <estimated_traffic_class>4</estimated_traffic_class>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="41.910802" lon="3.155852">
-        <ele>44.75</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <highway>secondary</highway>
-              <surface>asphalt</surface>
-              <oneway>yes</oneway>
-              <cycleway_right>no</cycleway_right>
-              <route_bicycle_icn>yes</route_bicycle_icn>
-              <estimated_traffic_class>5</estimated_traffic_class>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="41.910869" lon="3.155672">
-        <ele>45.75</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <highway>secondary</highway>
-              <surface>asphalt</surface>
-              <oneway>yes</oneway>
-              <cycleway_right>no</cycleway_right>
-              <route_bicycle_icn>yes</route_bicycle_icn>
-              <estimated_traffic_class>5</estimated_traffic_class>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="41.910925" lon="3.155595">
-        <ele>46.5</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <highway>secondary</highway>
-              <surface>asphalt</surface>
-              <oneway>yes</oneway>
-              <cycleway_right>no</cycleway_right>
-              <route_bicycle_icn>yes</route_bicycle_icn>
-              <estimated_traffic_class>5</estimated_traffic_class>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="41.911234" lon="3.155233">
-        <ele>49.75</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <highway>secondary</highway>
-              <surface>asphalt</surface>
-              <oneway>yes</oneway>
-              <cycleway_right>no</cycleway_right>
-              <route_bicycle_icn>yes</route_bicycle_icn>
-              <estimated_traffic_class>5</estimated_traffic_class>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="41.911651" lon="3.154791">
-        <ele>54</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <highway>secondary</highway>
-              <surface>asphalt</surface>
-              <oneway>yes</oneway>
-              <cycleway_right>no</cycleway_right>
-              <route_bicycle_icn>yes</route_bicycle_icn>
-              <estimated_traffic_class>5</estimated_traffic_class>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="41.911775" lon="3.15466">
-        <ele>55.5</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <highway>secondary</highway>
-              <surface>asphalt</surface>
-              <oneway>yes</oneway>
-              <cycleway_right>no</cycleway_right>
-              <route_bicycle_icn>yes</route_bicycle_icn>
-              <estimated_traffic_class>5</estimated_traffic_class>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="41.911801" lon="3.15463">
+      <trkpt lat="41.912765" lon="3.153604">
         <ele>56</ele>
+      </trkpt>
+      <trkpt lat="41.91276586163696" lon="3.153604648750632">
+        <ele>60.462362103183644</ele>
         <extensions>
           <gpxtpx:TrackPointExtension>
             <gpxtpx:Extensions>
@@ -11208,6 +10919,9 @@ a Palafrugell ➡️dreta: Hotel, Restaurant i Informació Turística en 500m i 
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
+      </trkpt>
+      <trkpt lat="41.913305" lon="3.153383">
+        <ele>62</ele>
       </trkpt>
       <trkpt lat="41.913305" lon="3.153383">
         <ele>62</ele>
