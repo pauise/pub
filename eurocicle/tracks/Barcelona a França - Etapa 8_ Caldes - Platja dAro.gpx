@@ -201,7 +201,7 @@ Inici camí</desc>
 A la dreta accès a Càmping Ridaura amb bungalows</cmt>
     <desc>Seguim recte 
 A la dreta accès a Càmping Ridaura amb bungalows</desc>
-    <sym>Campsite</sym>
+    <sym>Exit</sym>
   </wpt>
   <wpt lat="41.828276" lon="2.979713">
     <ele>56.23526794551522</ele>
@@ -217,7 +217,7 @@ A la dreta accès a Càmping Ridaura amb bungalows</desc>
 🏕️Càmping Mas Sant Josep prenent la primera a la dreta i en uns 500m</cmt>
     <desc>Grill Ruta Baviera
 🏕️Càmping Mas Sant Josep prenent la primera a la dreta i en uns 500m</desc>
-    <sym>Campsite</sym>
+    <sym>Exit</sym>
   </wpt>
   <wpt lat="41.813735" lon="3.030919">
     <ele>20.771415873595046</ele>
