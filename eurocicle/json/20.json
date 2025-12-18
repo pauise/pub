@@ -17,9 +17,41 @@
         {"km": 19.7, "alt": 168}  
     ],
     "wps": [
-        {"km": 0, "paviment": 1} ]
-     
+        {"km": 0, "paviment": 1},
+        {"km": 0.08, "paviment": 1},
+        {"km": 0.4, "paviment": 1},
+        {"km": 0.53, "paviment": 2},
+        {"km": 3.65, "paviment": 2},
+        {"km": 4.85, "paviment": 2},
+        {"km": 4.97, "paviment": 2},
+        {"km": 5.4, "paviment": 2},
+        {"km": 5.99, "paviment": 2},
+        {"km": 6.53, "paviment": 2},
+        {"km": 7.01, "paviment": 2},
+        {"km": 7.1, "paviment": 2},
+        {"km": 7.7, "paviment": 2},
+        {"km": 8.99, "paviment": 3},
+        {"km": 9.41, "paviment": 2},
+        {"km": 11.39, "paviment": 2},
+        {"km": 11.85, "paviment": 2},
+        {"km": 12.12, "paviment": 1},
+        {"km": 12.39, "paviment": 1},
+        {"km": 12.60, "paviment": 1},
+        {"km": 12.68, "paviment": 4},
+        {"km": 12.84, "paviment": 1},
+        {"km": 12.92, "paviment": 2},
+        {"km": 13.46, "paviment": 1},
+        {"km": 14.32, "paviment": 2},
+        {"km": 14.61, "paviment": 2},
+        {"km": 15.04, "paviment": 1},
+        {"km": 15.28, "paviment": 2},
+        {"km": 16.79, "paviment": 1},
+        {"km": 18.96, "paviment": 1},
+        {"km": 19.21, "paviment": 1},
+        {"km": 19.49, "paviment": 1}
+    ]
 }
+
 
 
 
