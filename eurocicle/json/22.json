@@ -1,0 +1,39 @@
+## ETAPA 22 Sant Celoni - Hostalric
+etapa = {
+    'title': 'Etapa 22 Sant Celoni - Hostalric',
+    'full_track_url': 'https://raw.githubusercontent.com/pauise/pub/refs/heads/main/eurocicle/tracks/Barcelona%20a%20Fran%C3%A7a%20-%20Etapa%205_%20Sant%20Celoni%20-%20Hostalric.gpx',
+    'prf': np.array([
+        {'km': 0, 'alt': 150},
+        {'km': 0.19, 'alt': 151},
+        {'km': 0.69, 'alt': 137},
+        {'km': 10.12, 'alt': 75},
+        {'km': 12.59, 'alt': 67},
+        {'km': 13.84, 'alt': 67},
+        {'km': 14.96, 'alt': 102},
+        {'km': 15.47, 'alt': 102},
+        {'km': 15.79, 'alt': 82},
+        {'km': 16.01, 'alt': 79}  # last km
+    ]),
+    'wps': np.array([
+        {'km': 0, 'paviment': 1},
+        {'km': 0.19, 'paviment': 1},
+        {'km': 0.42, 'paviment': 1},
+        {'km': 0.64, 'paviment': 1},
+        {'km': 0.77, 'paviment': 2},
+        {'km': 7.38, 'paviment': 2},
+        {'km': 8.74, 'paviment': 2},
+        {'km': 10.67, 'paviment': 2},
+        {'km': 10.93, 'paviment': 2},
+        {'km': 12.36, 'paviment': 2},
+        {'km': 12.51, 'paviment': 4},
+        {'km': 12.86, 'paviment': 1},
+        {'km': 14.14, 'paviment': 1},
+        {'km': 14.40, 'paviment': 1},
+        {'km': 14.95, 'paviment': 1},
+        {'km': 15.05, 'paviment': 1},
+        {'km': 15.16, 'paviment': 1},
+        {'km': 15.67, 'paviment': 1},
+        {'km': 15.77, 'paviment': 1}
+        #{'km': last_km, 'paviment': 1}
+      ])
+    }
