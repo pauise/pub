@@ -1,5 +1,5 @@
 ## ETAPA 21 Cardedeu - Sant Celoni
-dades[4] = {
+etapa = {
     'title': 'Etapa 21 Cardedeu - Sant Celoni',
     'full_track_url': 'https://raw.githubusercontent.com/pauise/pub/refs/heads/main/eurocicle/tracks/Barcelona%20a%20Fran%C3%A7a%20-%20Etapa%204_%20Cardedeu%20-%20Sant%20Celoni.gpx',
     'prf': np.array([
