@@ -1,6 +1,6 @@
-## ETAPA 1 Barcelona - Montcada
+## ETAPA 18b Barcelona - Montcada
 etapa = {
-    'title': 'Etapa 1 Barcelona - Montcada',
+    'title': 'Etapa 18b Barcelona - Montcada',
     'full_track_url': 'https://raw.githubusercontent.com/pauise/pub/refs/heads/main/eurocicle/tracks/Barcelona%20a%20Fran%C3%A7a%20-%20Etapa%201_%20Barcelona%20-%20Montcada.gpx',
     'prf': np.array([
         {'km': 0, 'alt': 26},
@@ -39,7 +39,8 @@ etapa = {
         {'km': 9.98, 'paviment': 1},
         {'km': 10.83, 'paviment': 1},
         {'km': 14.07, 'paviment': 1},
-        {'km': 14.2, 'paviment': 1}, # 14.2
-        {'km': 14.44, 'paviment': 1} # 14.44
+        {'km': 14.2, 'paviment': 1},
+        {'km': 14.44, 'paviment': 1}
       ])
   }
+
