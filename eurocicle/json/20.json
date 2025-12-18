@@ -1,7 +1,23 @@
 {
     "title": "Etapa 20 Mollet - Cardedeu",
-    "full_track_url": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/eurocicle/tracks/Barcelona%20a%20Fran%C3%A7a%20-%20Etapa%203_%20Mollet%20-%20Cardedeu.gpx"
+    "full_track_url": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/eurocicle/tracks/Barcelona%20a%20Fran%C3%A7a%20-%20Etapa%203_%20Mollet%20-%20Cardedeu.gpx",
+    "prf": [
+        {"km": 0, "alt": 62},
+        {"km": 0.83, "alt": 54},
+        {"km": 3.28, "alt": 73},
+        {"km": 3.65, "alt": 80},
+        {"km": 4.86, "alt": 79},
+        {"km": 10.91, "alt": 107},
+        {"km": 12.55, "alt": 133},
+        {"km": 12.81, "alt": 116},
+        {"km": 13.73, "alt": 122},
+        {"km": 14.09, "alt": 138},
+        {"km": 14.29, "alt": 131},
+        {"km": 19.37, "alt": 171},
+        {"km": 19.7, "alt": 168}  
+    ]
 }
+
 
 
 
