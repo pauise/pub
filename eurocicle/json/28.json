@@ -1,0 +1,43 @@
+## ETAPA 28 Torroella de Montgrí - Camallera
+etapa = {
+    'title': 'Etapa 28 Torroella de Montgrí - Camallera',
+    'full_track_url': 'https://raw.githubusercontent.com/pauise/pub/refs/heads/main/eurocicle/tracks/Barcelona%20a%20Fran%C3%A7a%20-%20Etapa%2011_%20Torroella%20de%20Montgr%C3%AD%20-%20Camallera.gpx',
+    'prf': np.array([
+        {'km': 0, 'alt': 8},
+        {'km': 11.58, 'alt': 19},
+        {'km': 12.38, 'alt': 37},
+        {'km': 12.64, 'alt': 20},
+        {'km': 18.05, 'alt': 38},
+        {'km': 18.57, 'alt': 45},
+        {'km': 19.8, 'alt': 87},
+        {'km': 20.58, 'alt': 80},
+        {'km': 21.46, 'alt': 79}  # last km
+    ]),
+    'wps': np.array([
+        {'km': 0, 'paviment': 2},
+        {'km': 0.64, 'paviment': 2},
+        {'km': 4.47, 'paviment': 2},
+        {'km': 6.18, 'paviment': 1},
+        {'km': 6.54, 'paviment': 1},
+        {'km': 6.82, 'paviment': 2},
+        {'km': 8.38, 'paviment': 2},
+        {'km': 8.53, 'paviment': 2},
+        {'km': 9.42, 'paviment': 2},
+        {'km': 10.86, 'paviment': 2},
+        {'km': 11.99, 'paviment': 1},
+        {'km': 12.3, 'paviment': 1},
+        {'km': 12.45, 'paviment': 1},
+        {'km': 12.55, 'paviment': 2},
+        {'km': 12.75, 'paviment': 2},
+        {'km': 14.38, 'paviment': 3},
+        {'km': 14.64, 'paviment': 3},
+        {'km': 14.96, 'paviment': 3},
+        {'km': 14.99, 'paviment': 3},
+        {'km': 15.37, 'paviment': 3},
+        {'km': 15.85, 'paviment': 1},
+        {'km': 16.22, 'paviment': 1},
+        {'km': 18.32, 'paviment': 1},
+        {'km': 21.09, 'paviment': 1}
+        #{'km': last_km, 'paviment': 1}
+      ])
+    }
