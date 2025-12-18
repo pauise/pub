@@ -1,6 +1,6 @@
-## ETAPA 3 Mollet - Cardedeu
+## ETAPA 20 Mollet - Cardedeu
 etapa = {
-    'title': 'Etapa 3 Mollet - Cardedeu',
+    'title': 'Etapa 20 Mollet - Cardedeu',
     'full_track_url': 'https://raw.githubusercontent.com/pauise/pub/refs/heads/main/eurocicle/tracks/Barcelona%20a%20Fran%C3%A7a%20-%20Etapa%203_%20Mollet%20-%20Cardedeu.gpx',
     'prf': np.array([
         {'km': 0, 'alt': 62},
@@ -53,3 +53,4 @@ etapa = {
         #{'km': last_km, 'paviment': 1}
       ])
     }
+
