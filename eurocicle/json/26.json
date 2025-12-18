@@ -1,48 +1,46 @@
-## ETAPA 26 Platja d'Aro - Palafrugell
-etapa = {
-    'title': 'Etapa 26 Platja d''Aro - Palafrugell',
-    'full_track_url': 'https://raw.githubusercontent.com/pauise/pub/refs/heads/main/eurocicle/tracks/Barcelona%20a%20Fran%C3%A7a%20-%20Etapa%209_%20Platja%20dAro%20-%20Palafrugell.gpx',
-    'prf': np.array([
-        {'km': 0, 'alt': 7},
-        {'km': 1.57, 'alt': 9},
-        {'km': 2.51, 'alt': 36},
-        {'km': 4.64, 'alt': 34},
-        {'km': 4.89, 'alt': 8},
-        {'km': 8.81, 'alt': 5},
-        {'km': 12.71, 'alt': 31},
-        {'km': 16.76, 'alt': 44},
-        #{'km': 17.57, 'alt': 68}  # last km
-        {'km': 17.48, 'alt': 68}  # last km
-    ]),
-    'wps': np.array([
-        {'km': 0, 'paviment': 1},
-        {'km': 0.1, 'paviment': 1},
-        {'km': 1.08, 'paviment': 1},
-        {'km': 2.12, 'paviment': 1},
-        {'km': 4.14, 'paviment': 1},
-        {'km': 4.55, 'paviment': 1},
-        {'km': 5.25, 'paviment': 1},
-        {'km': 7.07, 'paviment': 1},
-        {'km': 7.19, 'paviment': 1},
-        {'km': 7.44, 'paviment': 1},
-        {'km': 7.52, 'paviment': 1},
-        {'km': 7.64, 'paviment': 1},
-        {'km': 9.29, 'paviment': 1},
-        {'km': 9.38, 'paviment': 1},
-        {'km': 9.73, 'paviment': 1},
-        {'km': 9.82, 'paviment': 1},
-        {'km': 10.16, 'paviment': 2},
-        {'km': 11.12, 'paviment': 2},
-        {'km': 11.55, 'paviment': 2},
-        {'km': 11.82, 'paviment': 2},
-        {'km': 14.18, 'paviment': 2},
-        {'km': 15.72, 'paviment': 2},
-        {'km': 15.90, 'paviment': 2},
-        {'km': 16.60, 'paviment': 1},
-        {'km': 16.69, 'paviment': 1},
-        {'km': 16.77, 'paviment': 1},
-        {'km': 17.08, 'paviment': 3},
-        {'km': 17.29, 'paviment': 1}
-        #{'km': last_km, 'paviment': 1}
-      ])
+{
+    "title": "Etapa 26 Platja d""Aro - Palafrugell",
+    "full_track_url": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/eurocicle/tracks/Barcelona%20a%20Fran%C3%A7a%20-%20Etapa%209_%20Platja%20dAro%20-%20Palafrugell.gpx",
+    "prf": [
+        {"km": 0, "alt": 7},
+        {"km": 1.57, "alt": 9},
+        {"km": 2.51, "alt": 36},
+        {"km": 4.64, "alt": 34},
+        {"km": 4.89, "alt": 8},
+        {"km": 8.81, "alt": 5},
+        {"km": 12.71, "alt": 31},
+        {"km": 16.76, "alt": 44},
+        {"km": 17.48, "alt": 68}
+    ],
+    "wps": [
+        {"km": 0, "paviment": 1},
+        {"km": 0.1, "paviment": 1},
+        {"km": 1.08, "paviment": 1},
+        {"km": 2.12, "paviment": 1},
+        {"km": 4.14, "paviment": 1},
+        {"km": 4.55, "paviment": 1},
+        {"km": 5.25, "paviment": 1},
+        {"km": 7.07, "paviment": 1},
+        {"km": 7.19, "paviment": 1},
+        {"km": 7.44, "paviment": 1},
+        {"km": 7.52, "paviment": 1},
+        {"km": 7.64, "paviment": 1},
+        {"km": 9.29, "paviment": 1},
+        {"km": 9.38, "paviment": 1},
+        {"km": 9.73, "paviment": 1},
+        {"km": 9.82, "paviment": 1},
+        {"km": 10.16, "paviment": 2},
+        {"km": 11.12, "paviment": 2},
+        {"km": 11.55, "paviment": 2},
+        {"km": 11.82, "paviment": 2},
+        {"km": 14.18, "paviment": 2},
+        {"km": 15.72, "paviment": 2},
+        {"km": 15.90, "paviment": 2},
+        {"km": 16.60, "paviment": 1},
+        {"km": 16.69, "paviment": 1},
+        {"km": 16.77, "paviment": 1},
+        {"km": 17.08, "paviment": 3},
+        {"km": 17.29, "paviment": 1}
+        
+      ]
     }
