@@ -10,97 +10,77 @@
   <trk>
     <name>Enllaç Estació Gelida</name>
     <trkseg>
-      <trkpt lat="41.449065" lon="1.866766">
-        <ele>88.25</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
-              <highway>unclassified</highway>
-              <surface>asphalt</surface>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
+      <trkpt lat="41.446304" lon="1.865091">
+        <ele>112</ele>
+      </trkpt>
+      <trkpt lat="41.44634" lon="1.865082">
+        <ele>111.75</ele>
+      </trkpt>
+      <trkpt lat="41.446375" lon="1.865062">
+        <ele>111.25</ele>
+      </trkpt>
+      <trkpt lat="41.446405" lon="1.865034">
+        <ele>110.75</ele>
+      </trkpt>
+      <trkpt lat="41.446575" lon="1.864997">
+        <ele>108.75</ele>
+      </trkpt>
+      <trkpt lat="41.446633" lon="1.864982">
+        <ele>108.25</ele>
+      </trkpt>
+      <trkpt lat="41.44717" lon="1.865">
+        <ele>101.75</ele>
+      </trkpt>
+      <trkpt lat="41.44732" lon="1.865005">
+        <ele>100</ele>
+      </trkpt>
+      <trkpt lat="41.447426" lon="1.865025">
+        <ele>98.75</ele>
+      </trkpt>
+      <trkpt lat="41.447514" lon="1.865053">
+        <ele>98</ele>
+      </trkpt>
+      <trkpt lat="41.447591" lon="1.865098">
+        <ele>97.25</ele>
+      </trkpt>
+      <trkpt lat="41.447727" lon="1.865201">
+        <ele>96</ele>
+      </trkpt>
+      <trkpt lat="41.448129" lon="1.86577">
+        <ele>93</ele>
+      </trkpt>
+      <trkpt lat="41.448776" lon="1.866698">
+        <ele>90.25</ele>
+      </trkpt>
+      <trkpt lat="41.448851" lon="1.866739">
+        <ele>89.75</ele>
       </trkpt>
       <trkpt lat="41.44897" lon="1.866759">
         <ele>88.75</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <highway>service</highway>
-              <surface>asphalt</surface>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
       </trkpt>
       <trkpt lat="41.44899" lon="1.866676">
         <ele>88.5</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <highway>service</highway>
-              <surface>asphalt</surface>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
       </trkpt>
       <trkpt lat="41.448995" lon="1.866607">
         <ele>88.25</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <highway>service</highway>
-              <surface>asphalt</surface>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
       </trkpt>
       <trkpt lat="41.448949" lon="1.866501">
         <ele>88.25</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <highway>service</highway>
-              <surface>asphalt</surface>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
       </trkpt>
       <trkpt lat="41.448937" lon="1.866472">
         <ele>88.25</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <highway>service</highway>
-              <surface>asphalt</surface>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
       </trkpt>
       <trkpt lat="41.448681" lon="1.866024">
         <ele>89</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <highway>service</highway>
-              <surface>asphalt</surface>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
       </trkpt>
       <trkpt lat="41.448493" lon="1.865682">
         <ele>89.25</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <highway>service</highway>
-              <surface>asphalt</surface>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
       </trkpt>
-      <trkpt lat="41.448436" lon="1.865514">
+      <trkpt lat="41.448431" lon="1.865499">
         <ele>89.25</ele>
+      </trkpt>
+      <trkpt lat="41.448419" lon="1.865466">
+        <ele>88.75</ele>
       </trkpt>
     </trkseg>
   </trk>
