@@ -1,8 +1,0 @@
-{
-  etapes: [
-    {
-      "id": "01.00",
-      "data": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/eurocicle/json/transcat.01.00.Vinar%C3%B2s.Ulldecona.json"
-    }
-  ]
-}
