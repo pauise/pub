@@ -1,0 +1,14 @@
+{
+    "title": "Enllaç etapa 3 amb Estació Camarles-Deltebre",
+    "full_track_url": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/tracks/03.50.Estaci%C3%B3%20Camarles-Deltebre.gpx",
+    "prf": [
+        {"km": 0, "alt": 4},
+        {"km": 0.57, "alt": 13}
+    ],
+    "wps": [
+        {"km": 0, "paviment": 1},
+        {"km": 0.11, "paviment": 1},
+        {"km": 0.42, "paviment": 1},
+        {"km": 0.57, "paviment": 1}
+      ]
+  }
