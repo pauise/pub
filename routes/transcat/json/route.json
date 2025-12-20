@@ -6,6 +6,12 @@
       "nom": "Vinaròs - Ulldecona",
       "data": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/json/01.00.Vinar%C3%B2s.Ulldecona.json",
       "km": 21.52
+    },
+    {
+      "id": "02.00",
+      "nom": "Ulldecona - L'Aldea",
+      "data": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/json/02.00.Ulldecona-L'Aldea.json",
+      "km": 28.11
     }
   ]
 }
