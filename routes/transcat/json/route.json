@@ -30,6 +30,13 @@
       "nom": "Estació Camarles-Deltebre",
       "data": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/json/03.50.Estaci%C3%B3%20Camarles-Deltebre.json",
       "km": 0.57
+    },
+    {
+      "id": "03.99",
+      "nom": "Estació L'Ampolla-Perelló-Deltebre",
+      "data": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/json/03.99.Estaci%C3%B3%20L'Ampolla.json",
+      "km": 0.31
     }
+    
   ]
 }
