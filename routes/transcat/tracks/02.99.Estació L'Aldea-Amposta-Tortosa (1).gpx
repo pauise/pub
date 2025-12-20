@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx creator="CompeGPS" version="1.1" schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/WaypointExtension/v1 http://www8.garmin.com/xmlschemas/WaypointExtensionv1.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www8.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/ActivityExtension/v1 http://www8.garmin.com/xmlschemas/ActivityExtensionv1.xsd http://www.garmin.com/xmlschemas/AdventuresExtensions/v1 http://www8.garmin.com/xmlschemas/AdventuresExtensionv1.xsd http://www.garmin.com/xmlschemas/PressureExtension/v1 http://www.garmin.com/xmlschemas/PressureExtensionv1.xsd http://www.garmin.com/xmlschemas/TripExtensions/v1 http://www.garmin.com/xmlschemas/TripExtensionsv1.xsd http://www.garmin.com/xmlschemas/TripMetaDataExtensions/v1 http://www.garmin.com/xmlschemas/TripMetaDataExtensionsv1.xsd http://www.garmin.com/xmlschemas/ViaPointTransportationModeExtensions/v1 http://www.garmin.com/xmlschemas/ViaPointTransportationModeExtensionsv1.xsd http://www.garmin.com/xmlschemas/CreationTimeExtension/v1 http://www.garmin.com/xmlschemas/CreationTimeExtensionsv1.xsd http://www.garmin.com/xmlschemas/AccelerationExtension/v1 http://www.garmin.com/xmlschemas/AccelerationExtensionv1.xsd http://www.garmin.com/xmlschemas/PowerExtension/v1 http://www.garmin.com/xmlschemas/PowerExtensionv1.xsd http://www.garmin.com/xmlschemas/VideoExtension/v1 http://www.garmin.com/xmlschemas/VideoExtensionv1.xsd" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/PowerExtension/v1 http://www.garmin.com/xmlschemas/PowerExtensionv1.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxpx="http://www.garmin.com/xmlschemas/PowerExtension/v1" xmlns:gpx_style="http://www.topografix.com/GPX/gpx_style/0/2">
+  <metadata>
+    <name>02.99.Estació L&apos;Aldea-Amposta-Tortosa</name>
+    <author>
+      <name>gpx.studio</name>
+      <link href="https://gpx.studio"/>
+    </author>
+    <link href="http://www.compegps.com">
+      <text>CompeGPS TEAM, SL</text>
+    </link>
+  </metadata>
+  <wpt lat="40.744012" lon="0.628486">
+    <ele>5.768635529420207</ele>
+    <name>🟢Enllaç Estació L&apos;Aldea 🧭N</name>
+    <cmt>Enllaç Estació L&apos;Aldea 🧭N</cmt>
+    <desc>Enllaç Estació L&apos;Aldea 🧭N</desc>
+    <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="40.748554" lon="0.626264">
+    <ele>14.478775654360671</ele>
+    <name>2 ╣⬅️</name>
+    <cmt>╣⬅️Esquerra</cmt>
+    <desc>╣⬅️Esquerra</desc>
+    <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="40.747961" lon="0.62506">
+    <ele>14.243278499772007</ele>
+    <name>3 ╬➡️</name>
+    <cmt>╬➡️Dreta</cmt>
+    <desc>╬➡️Dreta</desc>
+    <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="40.749607" lon="0.622086">
+    <ele>17.774208238726178</ele>
+    <name>4 ╦➡️🛝</name>
+    <cmt>╦➡️Dreta. 🛝Parc infantil</cmt>
+    <desc>╦➡️Dreta. 🛝Parc infantil</desc>
+    <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="40.753333" lon="0.620062">
+    <ele>26.912473584991687</ele>
+    <name>5 ╣⬅️</name>
+    <cmt>╣⬅️Esquerra</cmt>
+    <desc>╣⬅️Esquerra</desc>
+    <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="40.752573" lon="0.614234">
+    <ele>27.075700378348394</ele>
+    <name>6 ╦➡️</name>
+    <cmt>╦➡️Dreta</cmt>
+    <desc>╦➡️Dreta</desc>
+    <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="40.753408" lon="0.614344">
+    <ele>32.179619015317414</ele>
+    <name>🚉Estació L&apos;Aldea-Amposta-Tortosa</name>
+    <cmt>🚉Estació L&apos;Aldea-Amposta-Tortosa R16 i MD</cmt>
+    <desc>🚉Estació L&apos;Aldea-Amposta-Tortosa R16 i MD</desc>
+    <sym>Ground Transportation</sym>
+  </wpt>
+  <trk>
+    <name>Transcat - Etapa 02-03 Enllaç Estació L&apos;Aldea-Amposta-Tortosa</name>
+    <extensions>
+      <gpx_style:line>
+        <gpx_style:width>4</gpx_style:width>
+      </gpx_style:line>
+    </extensions>
+    <trkseg>
+      <trkpt lat="40.743983" lon="0.628488">
+        <ele>5.5</ele>
+      </trkpt>
+      <trkpt lat="40.744068" lon="0.628494">
+        <ele>5.5</ele>
+      </trkpt>
+      <trkpt lat="40.744841" lon="0.628497">
+        <ele>6</ele>
+      </trkpt>
+      <trkpt lat="40.745195" lon="0.628356">
+        <ele>6.2</ele>
+      </trkpt>
+      <trkpt lat="40.746822" lon="0.627466">
+        <ele>11.5</ele>
+      </trkpt>
+      <trkpt lat="40.747591" lon="0.626915">
+        <ele>11</ele>
+      </trkpt>
+      <trkpt lat="40.748149" lon="0.626572">
+        <ele>13.3</ele>
+      </trkpt>
+      <trkpt lat="40.748272" lon="0.626483">
+        <ele>13.8</ele>
+      </trkpt>
+      <trkpt lat="40.748598" lon="0.626235">
+        <ele>14.8</ele>
+      </trkpt>
+      <trkpt lat="40.748272" lon="0.625638">
+        <ele>14.3</ele>
+      </trkpt>
+      <trkpt lat="40.747942" lon="0.625034">
+        <ele>14.8</ele>
+      </trkpt>
+      <trkpt lat="40.748255" lon="0.624745">
+        <ele>16</ele>
+      </trkpt>
+      <trkpt lat="40.748654" lon="0.624372">
+        <ele>16.8</ele>
+      </trkpt>
+      <trkpt lat="40.749053" lon="0.623995">
+        <ele>17</ele>
+      </trkpt>
+      <trkpt lat="40.749406" lon="0.623671">
+        <ele>17.5</ele>
+      </trkpt>
+      <trkpt lat="40.749775" lon="0.623333">
+        <ele>17.3</ele>
+      </trkpt>
+      <trkpt lat="40.750097" lon="0.623011">
+        <ele>17.5</ele>
+      </trkpt>
+      <trkpt lat="40.749859" lon="0.622546">
+        <ele>17.8</ele>
+      </trkpt>
+      <trkpt lat="40.749583" lon="0.622022">
+        <ele>18.3</ele>
+      </trkpt>
+      <trkpt lat="40.749968" lon="0.621667">
+        <ele>18</ele>
+      </trkpt>
+      <trkpt lat="40.750357" lon="0.621308">
+        <ele>19</ele>
+      </trkpt>
+      <trkpt lat="40.750746" lon="0.62095">
+        <ele>20.5</ele>
+      </trkpt>
+      <trkpt lat="40.751105" lon="0.620625">
+        <ele>21.8</ele>
+      </trkpt>
+      <trkpt lat="40.751503" lon="0.620253">
+        <ele>22.8</ele>
+      </trkpt>
+      <trkpt lat="40.752357" lon="0.620185">
+        <ele>24.5</ele>
+      </trkpt>
+      <trkpt lat="40.752776" lon="0.620051">
+        <ele>25.5</ele>
+      </trkpt>
+      <trkpt lat="40.753326" lon="0.620067">
+        <ele>26.8</ele>
+      </trkpt>
+      <trkpt lat="40.753352" lon="0.619924">
+        <ele>26.8</ele>
+      </trkpt>
+      <trkpt lat="40.753271" lon="0.619102">
+        <ele>26</ele>
+      </trkpt>
+      <trkpt lat="40.75272" lon="0.617597">
+        <ele>28.3</ele>
+      </trkpt>
+      <trkpt lat="40.752639" lon="0.617315">
+        <ele>28.3</ele>
+      </trkpt>
+      <trkpt lat="40.752627" lon="0.616778">
+        <ele>27.3</ele>
+      </trkpt>
+      <trkpt lat="40.752573" lon="0.614239">
+        <ele>27.3</ele>
+      </trkpt>
+      <trkpt lat="40.753005" lon="0.614183">
+        <ele>30</ele>
+      </trkpt>
+      <trkpt lat="40.753091" lon="0.614273">
+        <ele>30.3</ele>
+      </trkpt>
+      <trkpt lat="40.753209" lon="0.61447">
+        <ele>32.8</ele>
+      </trkpt>
+      <trkpt lat="40.753452" lon="0.614309">
+        <ele>33.2</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
