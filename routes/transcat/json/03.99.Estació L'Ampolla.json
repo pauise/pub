@@ -1,0 +1,13 @@
+{
+    "title": "Enllaç etapa 3 i 4 amb Estació L'Ampolla-Perelló-Deltebre",
+    "full_track_url": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/tracks/03.99.Estaci%C3%B3%20L'Ampolla.gpx",
+    "prf": [
+        {"km": 0, "alt": 2},
+        {"km": 0.31, "alt": 8}
+    ],
+    "wps": [
+        {"km": 0, "paviment": 1},
+        {"km": 0.14, "paviment": 1},
+        {"km": 0.31, "paviment": 1}
+      ]
+  }
