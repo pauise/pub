@@ -91,6 +91,15 @@ En arribar a la 🔄 la passem sense entrar però tot seguit ens incorporem a l&
     <desc>➡️Dreta pel🚶pas de vianants i seguidament ⬅️esquerra pel 🚲carril bici</desc>
     <sym>Crossing</sym>
   </wpt>
+  <wpt lat="40.810192" lon="0.706532">
+    <ele>7.250226005828555</ele>
+    <name>10 🚳↗️⚠️🚗</name>
+    <cmt>🚳Fi carril bici.
+Ens incorporem a la via per la ↗️dreta amb ⚠️🚗precaució trànsit</cmt>
+    <desc>🚳Fi carril bici.
+Ens incorporem a la via per la ↗️dreta amb ⚠️🚗precaució trànsit</desc>
+    <sym>Alert</sym>
+  </wpt>
   <wpt lat="40.810834" lon="0.708317">
     <ele>1.5108769558377657</ele>
     <name>🏁Final etapa 3 ╬⬅️🚉L&apos;Ampolla 300m</name>
@@ -101,15 +110,6 @@ En arribar a la 🔄 la passem sense entrar però tot seguit ens incorporem a l&
 ⬆️ A Etapa 4
 ⬅️ A L&apos;Ampolla 🛒☕🍽️ i 🚉Estació L&apos;Ampolla-Perelló-Deltebre en 300m</desc>
     <sym>Crossing</sym>
-  </wpt>
-  <wpt lat="40.810192" lon="0.706532">
-    <ele>7.250226005828555</ele>
-    <name>10 🚳↗️⚠️🚗</name>
-    <cmt>🚳Fi carril bici.
-Ens incorporem a la via per la ↗️dreta amb ⚠️🚗precaució trànsit</cmt>
-    <desc>🚳Fi carril bici.
-Ens incorporem a la via per la ↗️dreta amb ⚠️🚗precaució trànsit</desc>
-    <sym>Alert</sym>
   </wpt>
   <trk>
     <name>Transcat - Etapa 03 L&apos;Aldea - L&apos;Ampolla</name>
