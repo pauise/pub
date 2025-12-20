@@ -21,7 +21,7 @@
     },
     {
       "id": "03.00",
-      "nom": "L'Aldea-L'Ampolla",
+      "nom": "L'Aldea - L'Ampolla",
       "data": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/json/03.00.L'Aldea.L'Ampolla.json",
       "km": 10.83
     },
@@ -36,7 +36,18 @@
       "nom": "Estació L'Ampolla-Perelló-Deltebre",
       "data": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/json/03.99.Estaci%C3%B3%20L'Ampolla.json",
       "km": 0.31
+    },
+    {
+      "id": "04.00",
+      "nom": "L'Ampolla - L'Ametlla de Mar",
+      "data": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/json/04.00.L'Ampolla.L'Ametlla%20de%20Mar.json",
+      "km": 15.5
+    },
+    {
+      "id": "04.99",
+      "nom": "Estació L'Ametlla de Mar",
+      "data": "",
+      "km": 0.1
     }
-    
   ]
 }
