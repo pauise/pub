@@ -18,7 +18,18 @@
       "nom": "Estació L'Aldea-Amposta-Tortosa",
       "data": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/json/02.99.Estaci%C3%B3%20L'Aldea-Amposta-Tortosa.json",
       "km": 2.16
+    },
+    {
+      "id": "03.00",
+      "nom": "L'Aldea-L'Ampolla",
+      "data": ".json",
+      "km": 10
+    },
+    {
+      "id": "03.50",
+      "nom": "Estació Camarles-Deltebre",
+      "data": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/json/03.50.Estaci%C3%B3%20Camarles-Deltebre.json",
+      "km": 0.57
     }
-
   ]
 }
