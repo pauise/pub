@@ -28,13 +28,6 @@ Agafem el ⌒ pas subterrani per creuar les vies
     <desc>🔄Rotonda. Prenem el camí de la 3a ➡️</desc>
     <sym>Crossing</sym>
   </wpt>
-  <wpt lat="40.656479" lon="0.510344">
-    <ele>103.87601010652185</ele>
-    <name>6 ↗️</name>
-    <cmt>↗️Seguim per la dreta pel Camí d&apos;Ulldecona a Freginals</cmt>
-    <desc>↗️Seguim per la dreta pel Camí d&apos;Ulldecona a Freginals</desc>
-    <sym>Crossing</sym>
-  </wpt>
   <wpt lat="40.61128" lon="0.466194">
     <ele>128.7991283596774</ele>
     <name>3 ⬆️. A 🍽️➡️250m</name>
@@ -58,6 +51,13 @@ A 🍽️Restaurant ➡️Dreta en 250m</desc>
 ︵ Creuem AP-7 i tot seguit ╣↙️esquerra en ‼️baixada i molt tancada</cmt>
     <desc> ╣Deixem camí a esquerra i⬆️seguim recte
 ︵ Creuem AP-7 i tot seguit ╣↙️esquerra en ‼️baixada i molt tancada</desc>
+    <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="40.656479" lon="0.510344">
+    <ele>103.87601010652185</ele>
+    <name>6 ↗️</name>
+    <cmt>↗️Seguim per la dreta pel Camí d&apos;Ulldecona a Freginals</cmt>
+    <desc>↗️Seguim per la dreta pel Camí d&apos;Ulldecona a Freginals</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="40.666542" lon="0.518772">
@@ -241,11 +241,6 @@ Inici tram enquitranat</desc>
     <desc>Seguim per la ↗️dreta. Descartem un camí que transcorre paral·lel entre la carretera i el nostre camí</desc>
     <sym>Crossing</sym>
   </wpt>
-  <wpt lat="40.730962" lon="0.620987">
-    <ele>-0.5435365492471678</ele>
-    <name>27 ╦➡️</name>
-    <sym>Crossing</sym>
-  </wpt>
   <wpt lat="40.730322" lon="0.609825">
     <ele>-0.09286399995764352</ele>
     <name>26 ↗️. 300m🛏️</name>
@@ -253,6 +248,11 @@ Inici tram enquitranat</desc>
 En 300m 🛏️Hotel Mas de Bernis amb piscina</cmt>
     <desc>Seguim per la via principal a la ↗️dreta
 En 300m 🛏️Hotel Mas de Bernis amb piscina</desc>
+    <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="40.730962" lon="0.620987">
+    <ele>-0.5435365492471678</ele>
+    <name>27 ╦➡️</name>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="40.731304" lon="0.628118">
@@ -276,12 +276,10 @@ Sortim pel camí direcció 🧭NE que hi ha darrera l&apos;ermita</desc>
     <name>🏁Final etapa 2 ╬</name>
     <cmt>╬ Cruïlla:
 ⬆️ A L&apos;Aldea 🛒☕🍽️ en 800m i 🚉Estació L&apos;Aldea-Amposta-Tortosa en 2.15km
-
-A L&apos;Aldea</cmt>
+</cmt>
     <desc>╬ Cruïlla:
 ⬆️ A L&apos;Aldea 🛒☕🍽️ en 800m i 🚉Estació L&apos;Aldea-Amposta-Tortosa en 2.15km
-
-A L&apos;Aldea</desc>
+</desc>
   </wpt>
   <trk>
     <name>Transcat - Etapa 02 Ulldecona - L&apos;Aldea</name>
