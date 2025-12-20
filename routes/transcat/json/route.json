@@ -12,6 +12,13 @@
       "nom": "Ulldecona - L'Aldea",
       "data": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/json/02.00.Ulldecona-L'Aldea.json",
       "km": 28.11
+    },
+    {
+      "id": "02.99",
+      "nom": "Estació L'Aldea-Amposta-Tortosa",
+      "data": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/json/02.99.L'Aldea-Amposta-Tortosa.json",
+      "km": 2.16
     }
+
   ]
 }
