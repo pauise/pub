@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx creator="https://gpx.studio" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/PowerExtension/v1 http://www.garmin.com/xmlschemas/PowerExtensionv1.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxpx="http://www.garmin.com/xmlschemas/PowerExtension/v1" xmlns:gpx_style="http://www.topografix.com/GPX/gpx_style/0/2">
+  <metadata>
+    <name>Enllaç Camarles-Deltebre</name>
+    <author>
+      <name>gpx.studio</name>
+      <link href="https://gpx.studio"/>
+    </author>
+  </metadata>
+  <wpt lat="40.771092" lon="0.673753">
+    <ele>3.3625809066472656</ele>
+    <name>🟢Enllaç Camarles 🧭W</name>
+    <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="40.771377" lon="0.672483">
+    <ele>9.301662507936985</ele>
+    <name>2 ╦➡️</name>
+    <cmt>╦➡️Dreta</cmt>
+    <desc>╦➡️Dreta</desc>
+    <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="40.774041" lon="0.673381">
+    <ele>9.0857718226036</ele>
+    <name>3 ╣⬅️</name>
+    <cmt>╣⬅️Esquerra</cmt>
+    <desc>╣⬅️Esquerra</desc>
+    <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="40.774672" lon="0.67185">
+    <ele>13.505034867236667</ele>
+    <name>🚉Estació Camarles-Deltebre</name>
+    <cmt>🚉Estació Camarles-Deltebre R16</cmt>
+    <desc>🚉Estació Camarles-Deltebre R16</desc>
+    <sym>Ground Transportation</sym>
+  </wpt>
+  <trk>
+    <name>Enllaç Camarles-Deltebre</name>
+    <trkseg>
+      <trkpt lat="40.771089" lon="0.673765">
+        <ele>3.75</ele>
+      </trkpt>
+      <trkpt lat="40.771113" lon="0.673671">
+        <ele>4.25</ele>
+      </trkpt>
+      <trkpt lat="40.771115" lon="0.673665">
+        <ele>4.25</ele>
+      </trkpt>
+      <trkpt lat="40.771163" lon="0.67347">
+        <ele>5</ele>
+      </trkpt>
+      <trkpt lat="40.771209" lon="0.673232">
+        <ele>6</ele>
+      </trkpt>
+      <trkpt lat="40.771285" lon="0.672918">
+        <ele>7.25</ele>
+      </trkpt>
+      <trkpt lat="40.771377" lon="0.672478">
+        <ele>9</ele>
+      </trkpt>
+      <trkpt lat="40.771586" lon="0.672585">
+        <ele>9.25</ele>
+      </trkpt>
+      <trkpt lat="40.771622" lon="0.672601">
+        <ele>9.25</ele>
+      </trkpt>
+      <trkpt lat="40.771672" lon="0.672627">
+        <ele>9.5</ele>
+      </trkpt>
+      <trkpt lat="40.771939" lon="0.672766">
+        <ele>9.25</ele>
+      </trkpt>
+      <trkpt lat="40.772254" lon="0.672919">
+        <ele>9</ele>
+      </trkpt>
+      <trkpt lat="40.772389" lon="0.672985">
+        <ele>9</ele>
+      </trkpt>
+      <trkpt lat="40.772426" lon="0.672991">
+        <ele>9</ele>
+      </trkpt>
+      <trkpt lat="40.772606" lon="0.67305">
+        <ele>9</ele>
+      </trkpt>
+      <trkpt lat="40.772795" lon="0.673113">
+        <ele>8.75</ele>
+      </trkpt>
+      <trkpt lat="40.773172" lon="0.673215">
+        <ele>8.25</ele>
+      </trkpt>
+      <trkpt lat="40.773365" lon="0.673265">
+        <ele>8.25</ele>
+      </trkpt>
+      <trkpt lat="40.773547" lon="0.673284">
+        <ele>8.5</ele>
+      </trkpt>
+      <trkpt lat="40.77378" lon="0.673329">
+        <ele>9</ele>
+      </trkpt>
+      <trkpt lat="40.774044" lon="0.673385">
+        <ele>9.25</ele>
+      </trkpt>
+      <trkpt lat="40.774132" lon="0.67313">
+        <ele>10.5</ele>
+      </trkpt>
+      <trkpt lat="40.774319" lon="0.672604">
+        <ele>12.5</ele>
+      </trkpt>
+      <trkpt lat="40.774507" lon="0.672088">
+        <ele>13</ele>
+      </trkpt>
+      <trkpt lat="40.774686" lon="0.671832">
+        <ele>13</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
