@@ -22,8 +22,8 @@
     {
       "id": "03.00",
       "nom": "L'Aldea-L'Ampolla",
-      "data": ".json",
-      "km": 10
+      "data": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/json/03.00.L'Aldea.L'Ampolla.json",
+      "km": 10.83
     },
     {
       "id": "03.50",
