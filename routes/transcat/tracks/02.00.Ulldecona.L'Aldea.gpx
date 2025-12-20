@@ -26,7 +26,7 @@ Agafem el ⌒ pas subterrani per creuar les vies
     <name>2 🔄3a ➡️</name>
     <cmt>🔄Rotonda. Prenem el camí de la 3a ➡️</cmt>
     <desc>🔄Rotonda. Prenem el camí de la 3a ➡️</desc>
-    <sym>Crossing</sym>
+    <sym>Rotonda</sym>
   </wpt>
   <wpt lat="40.61128" lon="0.466194">
     <ele>128.7991283596774</ele>
@@ -136,7 +136,7 @@ Inici asfalt i passem davant una 🐴hípica</desc>
 ⚠️🚗Tram amb trànsit. Si anem amb nens, prenem l&apos;acera per la banda esquerra que és prou ample</cmt>
     <desc>🔄Rotonda. Sortim per la 2a↗️a la dreta
 ⚠️🚗Tram amb trànsit. Si anem amb nens, prenem l&apos;acera per la banda esquerra que és prou ample</desc>
-    <sym>Crossing</sym>
+    <sym>Rotonda</sym>
   </wpt>
   <wpt lat="40.70614970183607" lon="0.5709713061786772">
     <ele>18.664724239497918</ele>
@@ -145,7 +145,7 @@ Inici asfalt i passem davant una 🐴hípica</desc>
 En aquesta zona hi ha: 🛒Ametller, Mercadona i Lidl, i 🛂Policia</cmt>
     <desc>🔄Rotonda. Prenem 1a sortida a la↖️esquerra cap a dins de la rotonda. Zona 🚶peatonal. ╬ Creuem de nou i seguim⬆️recte.
 En aquesta zona hi ha: 🛒Ametller, Mercadona i Lidl, i 🛂Policia</desc>
-    <sym>Crossing</sym>
+    <sym>Rotonda</sym>
   </wpt>
   <wpt lat="40.709159" lon="0.572059">
     <ele>23.40960402830219</ele>
@@ -156,7 +156,7 @@ En 20m ╣⬅️esquerra pel carrer del General Prim</cmt>
     <desc>↗️Sortim del carril.
 Prenem la 🔄rotonda i la 1a a la ➡️dreta
 En 20m ╣⬅️esquerra pel carrer del General Prim</desc>
-    <sym>Crossing</sym>
+    <sym>Rotonda</sym>
   </wpt>
   <wpt lat="40.712959" lon="0.576729">
     <ele>17.089408351365094</ele>
