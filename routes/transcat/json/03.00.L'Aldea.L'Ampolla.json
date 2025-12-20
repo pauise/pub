@@ -1,0 +1,24 @@
+{
+    "title": "Etapa 3: L'Aldea - L'Ampolla",
+    "full_track_url": "http://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/tracks/03.00.L'Aldea.L'Ampolla.gpx",
+    "prf": [
+        {"km": 0, "alt": 6},
+        {"km": 6.85, "alt": 0},
+        {"km": 10.08, "alt": 0},
+        {"km": 10.43, "alt": 8},
+        {"km": 10.83, "alt": 2}
+    ],
+    "wps": [
+        {"km": 0, "paviment": 1},
+        {"km": 3.30, "paviment": 1},
+        {"km": 3.74, "paviment": 1},
+        {"km": 4.04, "paviment": 1},
+        {"km": 5.26, "paviment": 1},
+        {"km": 8.38, "paviment": 1},
+        {"km": 8.63, "paviment": 1},
+        {"km": 8.89, "paviment": 1},
+        {"km": 9.40, "paviment": 1},
+        {"km": 10.66, "paviment": 1},
+        {"km": 10.83, "paviment": 1}
+      ]
+  }
