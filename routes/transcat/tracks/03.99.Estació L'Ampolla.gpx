@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx creator="https://gpx.studio" version="1.1" schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/PowerExtension/v1 http://www.garmin.com/xmlschemas/PowerExtensionv1.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/PowerExtension/v1 http://www.garmin.com/xmlschemas/PowerExtensionv1.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxpx="http://www.garmin.com/xmlschemas/PowerExtension/v1" xmlns:gpx_style="http://www.topografix.com/GPX/gpx_style/0/2">
+  <metadata>
+    <name>Enllaç Estació L&apos;Ampolla</name>
+    <author>
+      <name>gpx.studio</name>
+      <link href="https://gpx.studio"/>
+    </author>
+  </metadata>
+  <wpt lat="40.810836" lon="0.708314">
+    <ele>1.5236082643277733</ele>
+    <name>🟢Enllaç Estació L&apos;Ampolla 🧭N</name>
+    <cmt>╬ Cruïlla. Prenem 🧭N:
+🧭E a Etapa 3
+🧭W a Etapa 4
+</cmt>
+    <desc>╬ Cruïlla. Prenem 🧭N:
+🧭E a Etapa 3
+🧭W a Etapa 4
+</desc>
+    <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="40.81177" lon="0.707509">
+    <ele>7.530900074253515</ele>
+    <name>2 ↗️🔺╦➡️╬➡️</name>
+    <cmt>Prenem el carrer peatonal a la ↗️dreta. 🔺Pujada
+Al ╦ cap del carrer ➡️dreta i a la següent ╬ cruïlla ➡️dreta
+</cmt>
+    <desc>Prenem el carrer peatonal a la ↗️dreta. 🔺Pujada
+Al ╦ cap del carrer ➡️dreta i a la següent ╬ cruïlla ➡️dreta
+</desc>
+    <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="40.811988" lon="0.708099">
+    <ele>7.788230856602177</ele>
+    <name>🚉Estació L&apos;Ampolla-Perelló-Deltebre</name>
+    <cmt>🚉Estació L&apos;Ampolla-Perelló-Deltebre R16</cmt>
+    <desc>🚉Estació L&apos;Ampolla-Perelló-Deltebre R16</desc>
+    <sym>Ground Transportation</sym>
+  </wpt>
+  <trk>
+    <name>Enllaç Estació L&apos;Ampolla</name>
+    <trkseg>
+      <trkpt lat="40.810835" lon="0.708311">
+        <ele>1.75</ele>
+      </trkpt>
+      <trkpt lat="40.81084" lon="0.708377">
+        <ele>1.75</ele>
+      </trkpt>
+      <trkpt lat="40.810867" lon="0.708415">
+        <ele>2</ele>
+      </trkpt>
+      <trkpt lat="40.810877" lon="0.708415">
+        <ele>2</ele>
+      </trkpt>
+      <trkpt lat="40.810933" lon="0.708409">
+        <ele>2.25</ele>
+      </trkpt>
+      <trkpt lat="40.811004" lon="0.708363">
+        <ele>2.75</ele>
+      </trkpt>
+      <trkpt lat="40.811015" lon="0.70834">
+        <ele>2.75</ele>
+      </trkpt>
+      <trkpt lat="40.811031" lon="0.708291">
+        <ele>3</ele>
+      </trkpt>
+      <trkpt lat="40.811046" lon="0.708275">
+        <ele>3</ele>
+      </trkpt>
+      <trkpt lat="40.81111" lon="0.708256">
+        <ele>3.5</ele>
+      </trkpt>
+      <trkpt lat="40.811143" lon="0.708254">
+        <ele>3.5</ele>
+      </trkpt>
+      <trkpt lat="40.811201" lon="0.708272">
+        <ele>3.75</ele>
+      </trkpt>
+      <trkpt lat="40.811278" lon="0.708235">
+        <ele>4.25</ele>
+      </trkpt>
+      <trkpt lat="40.811383" lon="0.70814">
+        <ele>5</ele>
+      </trkpt>
+      <trkpt lat="40.811526" lon="0.707996">
+        <ele>6</ele>
+      </trkpt>
+      <trkpt lat="40.811566" lon="0.707945">
+        <ele>6.5</ele>
+      </trkpt>
+      <trkpt lat="40.81166" lon="0.707733">
+        <ele>7.25</ele>
+      </trkpt>
+      <trkpt lat="40.811686" lon="0.707679">
+        <ele>7.5</ele>
+      </trkpt>
+      <trkpt lat="40.811766" lon="0.707509">
+        <ele>8.25</ele>
+      </trkpt>
+      <trkpt lat="40.811872" lon="0.707509">
+        <ele>8.5</ele>
+      </trkpt>
+      <trkpt lat="40.81215" lon="0.70721">
+        <ele>9.75</ele>
+      </trkpt>
+      <trkpt lat="40.812317" lon="0.707471">
+        <ele>10.25</ele>
+      </trkpt>
+      <trkpt lat="40.811886" lon="0.707941">
+        <ele>8</ele>
+      </trkpt>
+      <trkpt lat="40.812" lon="0.708124">
+        <ele>8.25</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
