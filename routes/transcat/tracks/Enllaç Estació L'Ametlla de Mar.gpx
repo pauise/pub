@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx creator="https://gpx.studio" version="1.1" schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/PowerExtension/v1 http://www.garmin.com/xmlschemas/PowerExtensionv1.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/PowerExtension/v1 http://www.garmin.com/xmlschemas/PowerExtensionv1.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxpx="http://www.garmin.com/xmlschemas/PowerExtension/v1" xmlns:gpx_style="http://www.topografix.com/GPX/gpx_style/0/2">
+  <metadata>
+    <name>Enllaç Estació L&apos;Ametlla de Mar</name>
+    <author>
+      <name>gpx.studio</name>
+      <link href="https://gpx.studio"/>
+    </author>
+  </metadata>
+  <wpt lat="40.884866" lon="0.800922">
+    <ele>22.09118293337633</ele>
+    <name>🟢╦ L&apos;Ametlla 🧭NW</name>
+    <cmt>Des de la cruïlla on acaba etapa 4 i comença etapa 5, prenem direcció 🧭NW</cmt>
+    <desc>Des de la cruïlla on acaba etapa 4 i comença etapa 5, prenem direcció 🧭NW</desc>
+    <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="40.885516" lon="0.800341">
+    <ele>22.54314488104238</ele>
+    <name>2 ╦🚉⬅️a Vinaròs,➡️a Barcelona</name>
+    <cmt>╦ Cruïlla🚉Estació L&apos;Ampolla.
+⬅️a Vinaròs,➡️a Barcelona</cmt>
+    <desc>╦ Cruïlla🚉Estació L&apos;Ampolla.
+⬅️a Vinaròs,➡️a Barcelona</desc>
+    <sym>Ground Transportation</sym>
+  </wpt>
+  <wpt lat="40.886343" lon="0.800202">
+    <ele>22.02043209089905</ele>
+    <name>🏁Final enllaç 🚉L&apos;Ametlla de Mar</name>
+    <sym>Ground Transportation</sym>
+  </wpt>
+  <trk>
+    <name>Enllaç Estació L&apos;Ametlla de Mar</name>
+    <trkseg>
+      <trkpt lat="40.884864" lon="0.800923">
+        <ele>22</ele>
+      </trkpt>
+      <trkpt lat="40.885208" lon="0.800618">
+        <ele>22.75</ele>
+      </trkpt>
+      <trkpt lat="40.885442" lon="0.800397">
+        <ele>22.25</ele>
+      </trkpt>
+      <trkpt lat="40.885514" lon="0.80034">
+        <ele>22.25</ele>
+      </trkpt>
+      <trkpt lat="40.88547" lon="0.800295">
+        <ele>22.25</ele>
+      </trkpt>
+      <trkpt lat="40.885429" lon="0.800253">
+        <ele>22.25</ele>
+      </trkpt>
+      <trkpt lat="40.885389" lon="0.800214">
+        <ele>22.5</ele>
+      </trkpt>
+      <trkpt lat="40.88494" lon="0.799771">
+        <ele>21.75</ele>
+      </trkpt>
+      <trkpt lat="40.884925" lon="0.799745">
+        <ele>21.5</ele>
+      </trkpt>
+      <trkpt lat="40.884913" lon="0.799691">
+        <ele>21.25</ele>
+      </trkpt>
+      <trkpt lat="40.884925" lon="0.799634">
+        <ele>21.25</ele>
+      </trkpt>
+      <trkpt lat="40.885043" lon="0.799423">
+        <ele>20.75</ele>
+      </trkpt>
+      <trkpt lat="40.885102" lon="0.799342">
+        <ele>20.75</ele>
+      </trkpt>
+      <trkpt lat="40.885146" lon="0.799306">
+        <ele>20.75</ele>
+      </trkpt>
+      <trkpt lat="40.88523" lon="0.799263">
+        <ele>20.75</ele>
+      </trkpt>
+      <trkpt lat="40.885315" lon="0.799252">
+        <ele>20.75</ele>
+      </trkpt>
+      <trkpt lat="40.8855" lon="0.799289">
+        <ele>21.25</ele>
+      </trkpt>
+      <trkpt lat="40.885554" lon="0.799313">
+        <ele>21.5</ele>
+      </trkpt>
+      <trkpt lat="40.885545" lon="0.799446">
+        <ele>21.5</ele>
+      </trkpt>
+      <trkpt lat="40.885559" lon="0.799491">
+        <ele>21.5</ele>
+      </trkpt>
+      <trkpt lat="40.885587" lon="0.799527">
+        <ele>21.75</ele>
+      </trkpt>
+      <trkpt lat="40.885625" lon="0.799545">
+        <ele>21.75</ele>
+      </trkpt>
+      <trkpt lat="40.885737" lon="0.799572">
+        <ele>21.75</ele>
+      </trkpt>
+      <trkpt lat="40.886" lon="0.799684">
+        <ele>22</ele>
+      </trkpt>
+      <trkpt lat="40.886019" lon="0.799702">
+        <ele>22</ele>
+      </trkpt>
+      <trkpt lat="40.886034" lon="0.799737">
+        <ele>22</ele>
+      </trkpt>
+      <trkpt lat="40.886043" lon="0.799783">
+        <ele>22</ele>
+      </trkpt>
+      <trkpt lat="40.886031" lon="0.799881">
+        <ele>22</ele>
+      </trkpt>
+      <trkpt lat="40.886037" lon="0.7999">
+        <ele>22</ele>
+      </trkpt>
+      <trkpt lat="40.886195" lon="0.800059">
+        <ele>22</ele>
+      </trkpt>
+      <trkpt lat="40.886316" lon="0.800176">
+        <ele>22</ele>
+      </trkpt>
+      <trkpt lat="40.886346" lon="0.800205">
+        <ele>22</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
