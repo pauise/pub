@@ -1,0 +1,13 @@
+{
+    "title": "Enllaç etapa 4 i 5 amb Estació L'Ametlla de Mar",
+    "full_track_url": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/tracks/04.99.Estaci%C3%B3%20L'Ametlla%20de%20Mar.gpx",
+    "prf": [
+        {"km": 0, "alt": 22},
+        {"km": 0.39, "alt": 22}
+    ],
+    "wps": [
+        {"km": 0, "paviment": 1},
+        {"km": 0.09, "paviment": 1},
+        {"km": 0.39, "paviment": 1}
+      ]
+  }
