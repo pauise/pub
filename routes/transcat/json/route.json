@@ -46,7 +46,7 @@
     {
       "id": "04.99",
       "nom": "Estació L'Ametlla de Mar",
-      "data": "",
+      "data": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/json/04.99.Estaci%C3%B3%20L'Ametlla%20de%20Mar.json",
       "km": 0.39
     }
   ]
