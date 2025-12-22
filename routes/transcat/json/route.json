@@ -60,7 +60,12 @@
       "nom": "L'Hospitalet de l'Infant - Cambrils",
       "data": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/json/06.00.L'Hospitalet%20de%20l'Infant.Cambrils.json",
       "km": 21.02
+    },
+    {
+      "id": "06.99",
+      "nom": "Estació Cambrils",
+      "data": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/tracks/06.99.Estaci%C3%B3%20Cambrils.gpx",
+      "km": 1.33
     }
-    
   ]
 }
