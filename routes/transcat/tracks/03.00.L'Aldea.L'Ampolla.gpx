@@ -26,7 +26,7 @@ A L&apos;Aldea 🛒☕🍽️ en 800m i 🚉Estació L&apos;Aldea-Amposta-Tortos
 Prenem a ⬅️l&apos;esquerra i seguit el ╠ primer trencall a la ➡️dreta</cmt>
     <desc>Arribem a la ╦⚠️🚗 T-340.
 Prenem a ⬅️l&apos;esquerra i seguit el ╠ primer trencall a la ➡️dreta</desc>
-    <sym>Crossing</sym>
+    <sym>Alert</sym>
   </wpt>
   <wpt lat="40.765145" lon="0.659534">
     <ele>5.699054946480635</ele>
@@ -73,7 +73,7 @@ Travessem el 🅿️pàrking
 Compte, ⚠️🚗trànsit. Circulem per la nostra dreta</cmt>
     <desc>Ens incorporem a la carretera ↗️a la dreta
 Compte, ⚠️🚗trànsit. Circulem per la nostra dreta</desc>
-    <sym>Crossing</sym>
+    <sym>Alert</sym>
   </wpt>
   <wpt lat="40.797761" lon="0.696262">
     <ele>-0.2981560181353349</ele>
