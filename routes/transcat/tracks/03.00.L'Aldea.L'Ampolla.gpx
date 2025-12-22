@@ -89,7 +89,7 @@ En arribar a la 🔄 la passem sense entrar però tot seguit ens incorporem a l&
     <name>9 ➡️🚶⬅️🚲</name>
     <cmt>➡️Dreta pel🚶pas de vianants i seguidament ⬅️esquerra pel 🚲carril bici</cmt>
     <desc>➡️Dreta pel🚶pas de vianants i seguidament ⬅️esquerra pel 🚲carril bici</desc>
-    <sym>Crossing</sym>
+    <sym>Bike Lane</sym>
   </wpt>
   <wpt lat="40.810192" lon="0.706532">
     <ele>7.250226005828555</ele>
