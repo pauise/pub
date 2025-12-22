@@ -66,6 +66,20 @@
       "nom": "Estació Cambrils",
       "data": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/json/06.99.Estaci%C3%B3%20Cambrils.json",
       "km": 1.33
-    }
+    },
+    {
+      "id": "07.00",
+      "nom": "Cambrils - Vila-seca",
+      "data": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/json/07.00.Cambrils.Vila-seca.json",
+      "km": 9.75
+    },
+    {
+      "id": "07.99",
+      "nom": "Estació Vila-seca",
+      "data": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/json/07.99.Estaci%C3%B3%20Vila-seca.json",
+      "km": 0.6
+    },
+
+    
   ]
 }
