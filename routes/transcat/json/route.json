@@ -48,6 +48,12 @@
       "nom": "Estació L'Ametlla de Mar",
       "data": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/json/04.99.Estaci%C3%B3%20L'Ametlla%20de%20Mar.json",
       "km": 0.39
+    },
+    {
+      "id": "05.00",
+      "nom": "L'Ametlla de Mar - L'Hospitalet de l'Infant",
+      "data": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/json/05.00.L'Ametlla%20de%20Mar.L'Hospitalet%20de%20l'Infant.json",
+      "km": 18.95
     }
   ]
 }
