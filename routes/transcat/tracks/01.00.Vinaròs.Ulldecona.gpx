@@ -126,9 +126,11 @@ Inici asfalt mal estat</desc>
   </wpt>
   <wpt lat="40.592444" lon="0.443292">
     <ele>131.88841928551116</ele>
-    <name>16 🔄2a ➡️</name>
-    <cmt>🔄Rotonda. Prenem 2a ➡️dreta</cmt>
-    <desc>🔄Rotonda. Prenem 2a ➡️dreta</desc>
+    <name>16 🔄2a ➡️🌊🍽️</name>
+    <cmt>🔄Rotonda. Prenem 2a ➡️dreta
+Passarem 🌊Piscina municipal i una 🍽️Hamburgueseria</cmt>
+    <desc>🔄Rotonda. Prenem 2a ➡️dreta
+Passarem 🌊Piscina municipal i una 🍽️Hamburgueseria</desc>
     <sym>Rotonda</sym>
   </wpt>
   <wpt lat="40.595308" lon="0.447014">
@@ -140,9 +142,11 @@ Inici asfalt mal estat</desc>
   </wpt>
   <wpt lat="40.595963" lon="0.44919">
     <ele>130.87928077193934</ele>
-    <name>🏁Final etapa 11 🚉Ulldecona</name>
-    <cmt>🚉Estació Ulldecona R16 i MD</cmt>
-    <desc>🚉Estació Ulldecona R16 i MD</desc>
+    <name>🏁Final etapa 1 🚉Ulldecona🌳🛝</name>
+    <cmt>🚉Estació Ulldecona R16 i MD
+🌳🛝Parc infantil més endavant</cmt>
+    <desc>🚉Estació Ulldecona R16 i MD
+🌳🛝Parc infantil més endavant</desc>
     <sym>Ground Transportation</sym>
   </wpt>
   <trk>
