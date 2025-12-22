@@ -7,15 +7,47 @@
    </head>
 <body>
 
-<h1>My first SVG</h1>
+<h1>SVG Viewer</h1>
 
-<svg width="500" height="240" xmlns="http://www.w3.org/2000/svg">
-   <line x1="50" y1="50" x2="50" y2="100" stroke="#0000dd" stroke-width="2" stroke-dasharray="2,2" />
-   <circle cx="50" cy="50" r="10" stroke="black" stroke-width="1" fill="#0000dd" />
-   <text x="50" y="50" fill="white" font-size="12" font-weight="black" text-anchor="middle" dominant-baseline="central">27</text>
+<svg width="1000" height="500" xmlns="http://www.w3.org/2000/svg">
+   
+   <!-- Waypoint 250,50-->
+   <line x1="250" y1="50" x2="250" y2="100" stroke="#0000dd" stroke-width="2" stroke-dasharray="2,2" />
+   <circle cx="250" cy="50" r="10" stroke="black" stroke-width="1" fill="#0000dd" />
+   <text x="250" y="50" fill="white" font-size="12" font-weight="black" text-anchor="middle" dominant-baseline="central">27</text>
+
+   <!-- Gràfic principal -->
+   <line x1="95" y1="10" x2="1000" y2="10" stroke="black" stroke-width="1" />
+   <line x1="95" y1="480" x2="1000" y2="480" stroke="black" stroke-width="1" />
+   <line x1="90" y1="10" x2="90" y2="485" stroke="black" stroke-width="1" />
+   <line x1="1000" y1="10" x2="1000" y2="485" stroke="black" stroke-width="1" />
+      
    
    Sorry, your browser does not support inline SVG.
 </svg> 
  
 </body>
 </html>
+<!--
+Notes
+=====
+Dades: Per construir el gràfic s'ha de coneixer l'alçada màxima, la mínima i els kms
+Dimensions: Fixes, 240 alt x 400 ample
+Marques horitzontals: 
+   - Sempre entre les mínimes i les 20 marques màxim
+   - Les marques seran generalment d'1km, excepte que la ruta sigui molt llarga; 
+      Fins a 20 kms, 1 km/marca, més de 20; 2 kms/marca... de 40; 5 k/m... de 100; 10... de 200; 20... de 400; 50... de 1000;100.
+      x_escala_rules = [ {"fins_km": 20; "km_per_marca": 1}, {"fins_km": 40; "km_per_marca": 2}, {"fins_km": 100; "km_per_marca": 5}, ... ]
+Etiquetes horitzontals: 
+   - Sempre es marcarà el 0 i l'últim km. 
+   - Si l'últim km pot tapar l'anterior punt km, llavors no es posa l'anterior
+   - La resta de punts km es posen o bé
+Marques verticals:
+   - Sempre entre les 6 i les 10 marques màxim
+   - Sempre es deixarà una cota sencera per sota l'alçada mínima i 4 per sobre de la màxima
+   - Dit d'una altra manera, la gràfica transcorrerà entre el 5% i el 55% de la graella. La resta són marge 0-5% i 95-100%, waypoints 55-75% i per parcials d'etapa 75-95%
+   - Per tant, si alçada màxima - mínima = alt_diff_perfil ; alt_escala = 2 x alt_diff_perfil
+   - Ara bé, hi haurà una alt_escala mínima; ja que si la alt_diff_perfil és baixa per ser etapa plana, no dibuixarem puntes en una etapa plana
+      Fins a 125m diff, 25m/marca. Fins a 250m diff, 50m/marca. Fins a 500, 100. Fins a 1000, 200. Fins a 2000, 400. Fins a 5000, 1000.
+
+-->
