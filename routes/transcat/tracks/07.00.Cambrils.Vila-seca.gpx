@@ -26,14 +26,14 @@
 A la nostra dreta deixem el 🌊Pavelló municipal i tot seguit el parking i el 🛒lidl</cmt>
     <desc>🔄Rotonda. Sortir per la 2a a la ↗️dreta (lateral Via Augusta).
 A la nostra dreta deixem el 🌊Pavelló municipal i tot seguit el parking i el 🛒lidl</desc>
-    <sym>Crossing</sym>
+    <sym>Rotonda</sym>
   </wpt>
   <wpt lat="41.073045" lon="1.058412">
     <ele>16.760778426053953</ele>
     <name>3 🔄1a↗️</name>
     <cmt>🔄Rotonda. Sortir per la 1a a la ↗️dreta pel Camí de Vilafortuny</cmt>
     <desc>🔄Rotonda. Sortir per la 1a a la ↗️dreta pel Camí de Vilafortuny</desc>
-    <sym>Crossing</sym>
+    <sym>Rotonda</sym>
   </wpt>
   <wpt lat="41.074643" lon="1.064003">
     <ele>20.093110089190642</ele>
@@ -61,7 +61,7 @@ A la nostra dreta deixem el 🌊Pavelló municipal i tot seguit el parking i el 
     <name>7 🔄2a↗️🧭E</name>
     <cmt>Retrobem asfalt.🔄Rotonda. Sortim per la 2a a la ↗️dreta 🧭E per Avinguda del Mas d&apos;en Bosc</cmt>
     <desc>Retrobem asfalt.🔄Rotonda. Sortim per la 2a a la ↗️dreta 🧭E per Avinguda del Mas d&apos;en Bosc</desc>
-    <sym>Crossing</sym>
+    <sym>Rotonda</sym>
   </wpt>
   <wpt lat="41.085528" lon="1.097083">
     <ele>32.414298947537866</ele>
@@ -77,7 +77,7 @@ A la nostra dreta deixem el 🌊Pavelló municipal i tot seguit el parking i el 
 🔄Rotonda. Sortir per la 2a a la ↗️dreta pel Carrer de l&apos;Occident</cmt>
     <desc>Vila-seca.
 🔄Rotonda. Sortir per la 2a a la ↗️dreta pel Carrer de l&apos;Occident</desc>
-    <sym>Crossing</sym>
+    <sym>Rotonda</sym>
   </wpt>
   <wpt lat="41.107979" lon="1.143121">
     <ele>40.195905870078995</ele>
@@ -91,7 +91,7 @@ A la nostra dreta deixem el 🌊Pavelló municipal i tot seguit el parking i el 
     <name>11 🔄2a↗️</name>
     <cmt>🔄Rotonda. Sortir per la 2a a la ↗️dreta</cmt>
     <desc>🔄Rotonda. Sortir per la 2a a la ↗️dreta</desc>
-    <sym>Crossing</sym>
+    <sym>Rotonda</sym>
   </wpt>
   <wpt lat="41.110217" lon="1.144243">
     <ele>42.900000000001455</ele>
