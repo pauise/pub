@@ -18,7 +18,7 @@
     <name>2 🔄3a↗️🧭NE</name>
     <cmt>🔄Rotonda. Sortim per la 3a a la ↗️dreta 🧭NE pel carrer de l&apos;Oregal</cmt>
     <desc>🔄Rotonda. Sortim per la 3a a la ↗️dreta 🧭NE pel carrer de l&apos;Oregal</desc>
-    <sym>Crossing</sym>
+    <sym>Rotonda</sym>
   </wpt>
   <wpt lat="41.001017" lon="0.920176">
     <ele>30.84630588365483</ele>
@@ -32,7 +32,7 @@
     <name>4 🔄2a ↗️🧭NW ︵</name>
     <cmt>🔄Rotonda. Sortir per la 2a a la ↗️dreta 🧭NW per ︵ creuar vies i autopista</cmt>
     <desc>🔄Rotonda. Sortir per la 2a a la ↗️dreta 🧭NW per ︵ creuar vies i autopista</desc>
-    <sym>Crossing</sym>
+    <sym>Rotonda</sym>
   </wpt>
   <wpt lat="41.006853" lon="0.915369">
     <ele>44.23016312625292</ele>
@@ -95,11 +95,11 @@ Sortim per l&apos;acera a la ↗️dreta i creuem el següent🚶pas de vianants
     <name>13 ☕🔄2a↗️</name>
     <cmt>☕Bar a banda esquerra i 🔄Rotonda. Sortir per la 2a a la ↗️dreta pel Camí del Casalot</cmt>
     <desc>☕Bar a banda esquerra i 🔄Rotonda. Sortir per la 2a a la ↗️dreta pel Camí del Casalot</desc>
-    <sym>Crossing</sym>
+    <sym>Rotonda</sym>
   </wpt>
   <wpt lat="41.03607" lon="0.925834">
     <ele>71.5438510378347</ele>
-    <name>14 ↖️︵</name>
+    <name>14 ↖️︵↗️</name>
     <cmt>Seguim per ↖️l&apos;esquerra per ︵ creuar AP-7 i tot seguit ens desviem per la ↗️dreta</cmt>
     <desc>Seguim per ↖️l&apos;esquerra per ︵ creuar AP-7 i tot seguit ens desviem per la ↗️dreta</desc>
     <sym>Crossing</sym>
@@ -132,19 +132,19 @@ Sortim per l&apos;acera a la ↗️dreta i creuem el següent🚶pas de vianants
     <desc>╬ Cruïlla. Anem a ⬅️l&apos;esquerra per seguir paral·lels a l&apos;AP-7 🧭NE per camí sense asfaltar</desc>
     <sym>Crossing</sym>
   </wpt>
+  <wpt lat="41.055071" lon="0.98453">
+    <ele>34.03120744148277</ele>
+    <name>19 🚶</name>
+    <cmt>Tram delicat i molt mal marcat, potser és necessari fer-lo a 🚶peu</cmt>
+    <desc>Tram delicat i molt mal marcat, potser és necessari fer-lo a 🚶peu</desc>
+    <sym>Alert</sym>
+  </wpt>
   <wpt lat="41.056505" lon="0.986675">
     <ele>31.2702106467458</ele>
     <name>20 ╦↘️︵↖️🧭NE</name>
     <cmt>╦ Cruïlla amb camí més important. Gir tancat a ↘️dreta per passar per sota del pont de les vies ︵ i resseguir a ↖️esquerres per seguir paral·lels a les vies 🧭NE</cmt>
     <desc>╦ Cruïlla amb camí més important. Gir tancat a ↘️dreta per passar per sota del pont de les vies ︵ i resseguir a ↖️esquerres per seguir paral·lels a les vies 🧭NE</desc>
     <sym>Crossing</sym>
-  </wpt>
-  <wpt lat="41.055071" lon="0.98453">
-    <ele>34.03120744148277</ele>
-    <name>19 🚶</name>
-    <cmt>Tram delicat i molt mal marcat, potser és necessari fer-lo a 🚶peu</cmt>
-    <desc>Tram delicat i molt mal marcat, potser és necessari fer-lo a 🚶peu</desc>
-    <sym>Road</sym>
   </wpt>
   <wpt lat="41.05907" lon="0.990425">
     <ele>29.786761124991923</ele>
@@ -179,7 +179,7 @@ Sortim per l&apos;acera a la ↗️dreta i creuem el següent🚶pas de vianants
     <name>25 ╦↗️🚲</name>
     <cmt>╦ Cruïlla. Ens incorporem per la ↗️ al 🚲carril bici</cmt>
     <desc>╦ Cruïlla. Ens incorporem per la ↗️ al 🚲carril bici</desc>
-    <sym>Bike Trail</sym>
+    <sym>Bike Lane</sym>
   </wpt>
   <wpt lat="41.052573" lon="1.023246">
     <ele>5.219736941951195</ele>
