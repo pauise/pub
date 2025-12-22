@@ -38,7 +38,7 @@
   <wpt lat="40.914598" lon="0.828001">
     <ele>13.820145463479028</ele>
     <name>4 Fi asfalt</name>
-    <sym>Road</sym>
+    <sym>End of Road</sym>
   </wpt>
   <wpt lat="40.917106" lon="0.831366">
     <ele>13.001786125544676</ele>
@@ -56,14 +56,14 @@ En 70m ╦ cruïlla i a la ↘️dreta i tot seguit continuem per ↖️l&apos;e
 En 50m, seguim pel carrer principal a ↖️l&apos;esquerra</cmt>
     <desc>🔄Rotonda. Sortim per la 3a a la ↗️dreta
 En 50m, seguim pel carrer principal a ↖️l&apos;esquerra</desc>
-    <sym>Crossing</sym>
+    <sym>Rotonda</sym>
   </wpt>
   <wpt lat="40.930334" lon="0.844658">
     <ele>26.654620513745748</ele>
     <name>7 🔄2a↗️</name>
     <cmt>🔄Rotonda. Sortim per la 2a a la ↗️dreta</cmt>
     <desc>🔄Rotonda. Sortim per la 2a a la ↗️dreta</desc>
-    <sym>Crossing</sym>
+    <sym>Rotonda</sym>
   </wpt>
   <wpt lat="40.935942" lon="0.85707">
     <ele>6.380853429739648</ele>
@@ -91,6 +91,7 @@ Tot seguit passem el ︵ sobre el tren i de seguida a la ↗️dreta. Abans de c
   <wpt lat="40.939637" lon="0.851029">
     <ele>26.476101973466864</ele>
     <name>11 Fi asfalt</name>
+    <sym>End of Road</sym>
   </wpt>
   <wpt lat="40.941133" lon="0.852435">
     <ele>21.580653783214572</ele>
@@ -122,7 +123,7 @@ Tot seguit passem el ︵ sobre el tren i de seguida a la ↗️dreta. Abans de c
     <name>16 ╠➡️⌒ 30m ╦⬅️</name>
     <cmt>Ens ╠ desviem a la ➡️dreta pel ⌒ túnel per creuar l&apos;A-7 i en sortir 30m més tard ens ╦ incorporem a ⬅️l&apos;esquerra</cmt>
     <desc>Ens ╠ desviem a la ➡️dreta pel ⌒ túnel per creuar l&apos;A-7 i en sortir 30m més tard ens ╦ incorporem a ⬅️l&apos;esquerra</desc>
-    <sym>Crossing</sym>
+    <sym>Tunnel</sym>
   </wpt>
   <wpt lat="40.986437" lon="0.893005">
     <ele>79.67275826465419</ele>
@@ -134,18 +135,18 @@ Tot seguit passem el ︵ sobre el tren i de seguida a la ↗️dreta. Abans de c
   <wpt lat="40.98899" lon="0.899115">
     <ele>54.03493524896761</ele>
     <name>18 ╠➡️⌒ ╦⬅️</name>
-    <cmt>╠ Desviem a la ➡️dreta pel ⌒ túnel sota l&apos;AP-7 i en sortir ╦ a ⬅️l&apos;esquerra</cmt>
-    <desc>╠ Desviem a la ➡️dreta pel ⌒ túnel sota l&apos;AP-7 i en sortir ╦ a ⬅️l&apos;esquerra</desc>
-    <sym>Crossing</sym>
+    <cmt>╠ Desviem a la ➡️dreta pel ⌒ túnel sota l&apos;AP-7 i en sortir ╦ a ⬅️l&apos;esquerra. Fi asfalt</cmt>
+    <desc>╠ Desviem a la ➡️dreta pel ⌒ túnel sota l&apos;AP-7 i en sortir ╦ a ⬅️l&apos;esquerra. Fi asfalt</desc>
+    <sym>Tunnel</sym>
   </wpt>
   <wpt lat="40.998276" lon="0.908938">
     <ele>50.29416404472598</ele>
     <name>19 ╠➡️︵</name>
-    <cmt>╠ Desviació a la ➡️dreta
+    <cmt>╠ Desviació a la ➡️dreta per asfalt
 Passem pel ︵ sobre les vies</cmt>
-    <desc>╠ Desviació a la ➡️dreta
+    <desc>╠ Desviació a la ➡️dreta per asfalt
 Passem pel ︵ sobre les vies</desc>
-    <sym>Crossing</sym>
+    <sym>Bridge</sym>
   </wpt>
   <wpt lat="40.99925541986846" lon="0.9129517175399542">
     <ele>36.607945562246464</ele>
