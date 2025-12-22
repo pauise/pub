@@ -45,11 +45,14 @@
 
    <!-- Gràfic principal -->
    <!-- Eliminem linia superior : line x1="95" y1="10" x2="1000" y2="10" stroke="black" stroke-width="1" /-->
-   <line x1="95" y1="480" x2="1000" y2="480" stroke="black" stroke-width="1" />
+   <line x1="95" y1="480" x2="980" y2="480" stroke="black" stroke-width="1" />
    <line x1="100" y1="20" x2="100" y2="485" stroke="black" stroke-width="1" />
-   <line x1="1000" y1="20" x2="1000" y2="485" stroke="black" stroke-width="1" />
+   <line x1="980" y1="20" x2="980" y2="485" stroke="black" stroke-width="1" />
    <text x="90" y="16" fill="black" font-size="12" font-weight="black" text-anchor="end">400</text>
 
+   <!-- Sortida -->
+   <circle cx="100" cy="20" r="16" fill="green" stroke="black" stroke-width="1" />
+   <text x="100" y="500" fill="black" font-size="12" font-weight="black" text-anchor="middle">0</text>
    <!-- Meta -->
    <defs>
      <pattern id="ajedrez" x="0" y="0" width="10" height="10" patternUnits="userSpaceOnUse">
@@ -58,7 +61,8 @@
        <rect x="5" y="5" width="5" height="5" fill="black" />
      </pattern>
    </defs>
-   <circle cx="1000" cy="20" r="16" fill="url(#ajedrez)" stroke="black" stroke-width="1" />
+   <circle cx="980" cy="20" r="16" fill="url(#ajedrez)" stroke="black" stroke-width="1" />
+   <text x="980" y="500" fill="black" font-size="12" font-weight="black" text-anchor="middle">14.7</text>
    
    <!-- Marques verticals -->
    <!-- line x1="95" y1="10" x2="1000" y2="10" stroke="black" stroke-width="1" /-->
