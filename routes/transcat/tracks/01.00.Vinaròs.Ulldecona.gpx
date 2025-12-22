@@ -44,7 +44,7 @@ A Vinaròs ⬆️🧭SE 2,5 kms</desc>
     <name>5 ╦⬅️🚲EV-8</name>
     <cmt>⬅️Esquerra per 🚲Carril Lúdic / EuroVelo 8</cmt>
     <desc>⬅️Esquerra per 🚲Carril Lúdic / EuroVelo 8</desc>
-    <sym>Crossing</sym>
+    <sym>Bike Lane</sym>
   </wpt>
   <wpt lat="40.493781" lon="0.439652">
     <ele>39.623116998511506</ele>
@@ -83,7 +83,7 @@ Inici asfalt en mal estat</desc>
 A⬅️també Ulldecona per EV-8 però més dur i llarg</cmt>
     <desc>➡️Dreta per ⌒creuar AP-7 per sota i ⬅️esquerra
 A⬅️també Ulldecona per EV-8 però més dur i llarg</desc>
-    <sym>Crossing</sym>
+    <sym>Tunnel</sym>
   </wpt>
   <wpt lat="40.545506" lon="0.420046">
     <ele>109.01300531473564</ele>
