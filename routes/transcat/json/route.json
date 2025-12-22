@@ -54,6 +54,13 @@
       "nom": "L'Ametlla de Mar - L'Hospitalet de l'Infant",
       "data": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/json/05.00.L'Ametlla%20de%20Mar.L'Hospitalet%20de%20l'Infant.json",
       "km": 18.95
+    },
+    {
+      "id": "06.00",
+      "nom": "L'Hospitalet de l'Infant - Cambrils",
+      "data": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/json/06.00.L'Hospitalet%20de%20l'Infant.Cambrils.json",
+      "km": 21.02
     }
+    
   ]
 }
