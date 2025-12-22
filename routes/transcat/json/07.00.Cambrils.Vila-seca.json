@@ -1,0 +1,35 @@
+{
+    "title": "Etapa 7: Cambrils - Vila-seca",
+    "full_track_url": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/tracks/07.00.Cambrils.Vila-seca.gpx",
+    "prf": [
+        {"km": 0, "alt": 17},
+        {"km": 1.21, "alt": 22},
+        {"km": 1.67, "alt": 15},
+        {"km": 2.74, "alt": 23},
+        {"km": 3.09, "alt": 32},
+        {"km": 3.73, "alt": 36},
+        {"km": 4.35, "alt": 26},
+        {"km": 4.90, "alt": 25},
+        {"km": 5.66, "alt": 30},
+        {"km": 5.93, "alt": 24},
+        {"km": 6.76, "alt": 26},
+        {"km": 9.6, "alt": 48},
+        {"km": 9.75, "alt": 47}
+    ],
+    "wps": [
+        {"km": 0, "paviment": 1},
+        {"km": 0.19, "paviment": 1},
+        {"km": 0.36, "paviment": 1},
+        {"km": 0.87, "paviment": 1},
+        {"km": 1.44, "paviment": 1},
+        {"km": 1.72, "paviment": 2},
+        {"km": 3.77, "paviment": 1},
+        {"km": 4.03, "paviment": 1},
+        {"km": 8.63., "paviment": 1},
+        {"km": 8.88, "paviment": 1},
+        {"km": 8.98, "paviment": 1},
+        {"km": 9.15, "paviment": 1},
+        {"km": 9.35, "paviment": 1},
+        {"km": 9.75, "paviment": 1}
+      ]
+  }
