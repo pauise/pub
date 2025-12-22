@@ -113,16 +113,16 @@ Tot seguit passem el ︵ sobre el tren i de seguida a la ↗️dreta. Abans de c
     <desc>╦ Camí asfaltat, ens incorporem a ↖️l&apos;esquerra i seguim paral·lels a l&apos;A-7.</desc>
     <sym>Crossing</sym>
   </wpt>
+  <wpt lat="40.975379" lon="0.880126">
+    <ele>94.71568552684089</ele>
+    <name>15 Fi asfalt</name>
+  </wpt>
   <wpt lat="40.982984" lon="0.887564">
     <ele>65.61050824927341</ele>
     <name>16 ╠➡️⌒ 30m ╦⬅️</name>
     <cmt>Ens ╠ desviem a la ➡️dreta pel ⌒ túnel per creuar l&apos;A-7 i en sortir 30m més tard ens ╦ incorporem a ⬅️l&apos;esquerra</cmt>
     <desc>Ens ╠ desviem a la ➡️dreta pel ⌒ túnel per creuar l&apos;A-7 i en sortir 30m més tard ens ╦ incorporem a ⬅️l&apos;esquerra</desc>
     <sym>Crossing</sym>
-  </wpt>
-  <wpt lat="40.975379" lon="0.880126">
-    <ele>94.71568552684089</ele>
-    <name>15 Fi asfalt</name>
   </wpt>
   <wpt lat="40.986437" lon="0.893005">
     <ele>79.67275826465419</ele>
