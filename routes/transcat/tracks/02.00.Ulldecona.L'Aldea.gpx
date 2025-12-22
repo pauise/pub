@@ -94,7 +94,7 @@ Entrem a Freginals per 🔺forta pujada durant 80m
 ╦ En arribar a l&apos;encreuament de la ⚠️🚗C-103 agafem a⬅️l&apos;esquerra i tot seguit prenem la sortida a la ↗️dreta i ens mantenim a ↖️l&apos;esquerra pel camí paral·lel a la carretera</cmt>
     <desc>↖️Ens incorporem a la carretera
 ╦ En arribar a l&apos;encreuament de la ⚠️🚗C-103 agafem a⬅️l&apos;esquerra i tot seguit prenem la sortida a la ↗️dreta i ens mantenim a ↖️l&apos;esquerra pel camí paral·lel a la carretera</desc>
-    <sym>Crossing</sym>
+    <sym>Alert</sym>
   </wpt>
   <wpt lat="40.682168" lon="0.525935">
     <ele>138.90539953261674</ele>
@@ -118,7 +118,7 @@ Tot seguit, seguim per la ↗️dreta pel camí sense asfaltar
 Inici camí en molt mal estat</cmt>
     <desc>╬⬆️Creuem la ⚠️🚗carretera C-103 i prenem el camí a la ➡️dreta 🧭N paral·lels a la carretera C-103
 Inici camí en molt mal estat</desc>
-    <sym>Crossing</sym>
+    <sym>Alert</sym>
   </wpt>
   <wpt lat="40.694657" lon="0.536119">
     <ele>78.0683416017338</ele>
@@ -129,7 +129,7 @@ Inici asfalt i passem davant una 🐴hípica</cmt>
     <desc>╦ Cruïlla. ➡️Dreta per ╬ creuar la ⚠️🚗C-103 i seguir ⬆️recte pel camí. 
 En uns 20m ╦ cruïlla camí de Solsó. ⬅️Esquerra.
 Inici asfalt i passem davant una 🐴hípica</desc>
-    <sym>Crossing</sym>
+    <sym>Alert</sym>
   </wpt>
   <wpt lat="40.700651" lon="0.565491">
     <ele>31.857609507721705</ele>
@@ -225,7 +225,7 @@ Seguit, ╬ cruïlla camí del canal. Prenem a ⬅️l&apos;esquerra 🧭W</cmt>
 ╬ Cruïlla. ⬅️Esquerra per ︵ creuar canal
 Seguit, ╬ cruïlla⚠️🚗TV-3454. Creuem ⬆️recte
 Seguit, ╬ cruïlla camí del canal. Prenem a ⬅️l&apos;esquerra 🧭W</desc>
-    <sym>Crossing</sym>
+    <sym>Alert</sym>
   </wpt>
   <wpt lat="40.713686" lon="0.595379">
     <ele>0.40043434668356487</ele>
@@ -245,11 +245,11 @@ Inici tram enquitranat</desc>
   </wpt>
   <wpt lat="40.730322" lon="0.609825">
     <ele>-0.09286399995764352</ele>
-    <name>26 ↗️. 300m🛏️</name>
+    <name>26 ↗️. 300m🛏️🌊</name>
     <cmt>Seguim per la via principal a la ↗️dreta
-En 300m 🛏️Hotel Mas de Bernis amb piscina</cmt>
+En 300m 🛏️Hotel Mas de Bernis amb 🌊piscina</cmt>
     <desc>Seguim per la via principal a la ↗️dreta
-En 300m 🛏️Hotel Mas de Bernis amb piscina</desc>
+En 300m 🛏️Hotel Mas de Bernis amb 🌊piscina</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="40.730962" lon="0.620987">
