@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx creator="https://gpx.studio" version="1.1" schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/PowerExtension/v1 http://www.garmin.com/xmlschemas/PowerExtensionv1.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/PowerExtension/v1 http://www.garmin.com/xmlschemas/PowerExtensionv1.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxpx="http://www.garmin.com/xmlschemas/PowerExtension/v1" xmlns:gpx_style="http://www.topografix.com/GPX/gpx_style/0/2">
+  <metadata>
+    <name>Enllaç Estació Vila-seca</name>
+    <author>
+      <name>gpx.studio</name>
+      <link href="https://gpx.studio"/>
+    </author>
+  </metadata>
+  <wpt lat="41.114261" lon="1.145367">
+    <ele>44.80631066332668</ele>
+    <name>🟢Vila-seca ╬🧭NE</name>
+    <cmt>Vila-seca ╬🧭NE
+A Etapa 8 🧭NW
+A Etapa 7 🧭SW</cmt>
+    <desc>Vila-seca ╬🧭NE
+A Etapa 8 🧭NW
+A Etapa 7 🧭SW</desc>
+    <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="41.114966" lon="1.146506">
+    <ele>44.305292484520535</ele>
+    <name>2 ╦➡️</name>
+    <cmt>╦ Cruïlla.➡️Dreta</cmt>
+    <desc>╦ Cruïlla.➡️Dreta</desc>
+    <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="41.113217" lon="1.148357">
+    <ele>48.26313994636337</ele>
+    <name>3 ╦⬅️╣⬅️🅿️↗️</name>
+    <cmt>╦ Cruïlla.⬅️Esquerra i seguidament ens ╣ desviem a ⬅️l&apos;esquerra pel 🅿️parking i seguim per la ↗️dreta</cmt>
+    <desc>╦ Cruïlla.⬅️Esquerra i seguidament ens ╣ desviem a ⬅️l&apos;esquerra pel 🅿️parking i seguim per la ↗️dreta</desc>
+    <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="41.112724" lon="1.150276">
+    <ele>42.49931957160707</ele>
+    <name>🏁Final enllaç🚉Estació Vila-seca</name>
+    <cmt>🚉Estació Vila-seca R16</cmt>
+    <desc>🚉Estació Vila-seca R16</desc>
+    <sym>Ground Transportation</sym>
+  </wpt>
+  <trk>
+    <name>Enllaç Estació Vila-seca</name>
+    <trkseg>
+      <trkpt lat="41.114254" lon="1.145368">
+        <ele>46.5</ele>
+      </trkpt>
+      <trkpt lat="41.114259" lon="1.145364">
+        <ele>46.75</ele>
+      </trkpt>
+      <trkpt lat="41.115029" lon="1.146614">
+        <ele>44.75</ele>
+      </trkpt>
+      <trkpt lat="41.114566" lon="1.147079">
+        <ele>45.75</ele>
+      </trkpt>
+      <trkpt lat="41.114096" lon="1.14755">
+        <ele>47</ele>
+      </trkpt>
+      <trkpt lat="41.113504" lon="1.148092">
+        <ele>47.5</ele>
+      </trkpt>
+      <trkpt lat="41.113175" lon="1.148392">
+        <ele>47.75</ele>
+      </trkpt>
+      <trkpt lat="41.113416" lon="1.148826">
+        <ele>45.25</ele>
+      </trkpt>
+      <trkpt lat="41.11339" lon="1.149066">
+        <ele>44.25</ele>
+      </trkpt>
+      <trkpt lat="41.113503" lon="1.149237">
+        <ele>43.5</ele>
+      </trkpt>
+      <trkpt lat="41.11342" lon="1.149346">
+        <ele>43.25</ele>
+      </trkpt>
+      <trkpt lat="41.112855" lon="1.150073">
+        <ele>44</ele>
+      </trkpt>
+      <trkpt lat="41.112741" lon="1.150238">
+        <ele>43.75</ele>
+      </trkpt>
+      <trkpt lat="41.112713" lon="1.150301">
+        <ele>41</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
