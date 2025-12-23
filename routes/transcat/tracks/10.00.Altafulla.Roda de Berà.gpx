@@ -35,226 +35,226 @@
   </wpt>
   <wpt lat="41.152371" lon="1.383819">
     <ele>28.809781530597718</ele>
-    <name>3 ╬➡️</name>
+    <name>4 ╬➡️</name>
     <cmt>╬ Cruïlla.➡️Dreta</cmt>
     <desc>╬ Cruïlla.➡️Dreta</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="41.147876" lon="1.393975">
     <ele>15.730326132500451</ele>
-    <name>4 Torredembarra ╦🚶➡️🧭S</name>
+    <name>5 Torredembarra ╦🚶➡️🧭S</name>
     <cmt>Arribem a Torredembarra a la ╦ T-214. Creuem pel🚶pas de vianants les dues vies i per l&apos;acera a la ➡️dreta 🧭S</cmt>
     <desc>Arribem a Torredembarra a la ╦ T-214. Creuem pel🚶pas de vianants les dues vies i per l&apos;acera a la ➡️dreta 🧭S</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="41.146269" lon="1.394948">
     <ele>19.08317259648004</ele>
-    <name>5 🚶⬅️</name>
+    <name>6 🚶⬅️</name>
     <cmt>Creuem el primer 🚶pas de vianants i en el següent carrer ens incorporem i tombem a ⬅️l&apos;esquerra. Carrer del Camí de l&apos;Era</cmt>
     <desc>Creuem el primer 🚶pas de vianants i en el següent carrer ens incorporem i tombem a ⬅️l&apos;esquerra. Carrer del Camí de l&apos;Era</desc>
     <sym>Crossing</sym>
   </wpt>
-  <wpt lat="41.147134" lon="1.400128">
-    <ele>34.211563242797936</ele>
-    <name>7 ↗️</name>
-    <cmt>Ens incorporem per la ↗️dreta a Avinguda de les Comarques Catalanes</cmt>
-    <desc>Ens incorporem per la ↗️dreta a Avinguda de les Comarques Catalanes</desc>
-    <sym>Crossing</sym>
-  </wpt>
-  <wpt lat="41.146781" lon="1.401313">
-    <ele>27.856065706722784</ele>
-    <name>8 🚶⬅️</name>
-    <cmt>En arribar al🚶pas de vianants, tombem ⬅️esquerra per Carrer de Pau Casals</cmt>
-    <desc>En arribar al🚶pas de vianants, tombem ⬅️esquerra per Carrer de Pau Casals</desc>
-    <sym>Crossing</sym>
-  </wpt>
-  <wpt lat="41.148052" lon="1.402974">
-    <ele>28.99796641972005</ele>
-    <name>9 ╦➡️</name>
-    <cmt>╦ Carrer de les Escoles. ➡️Dreta</cmt>
-    <desc>╦ Carrer de les Escoles. ➡️Dreta</desc>
-    <sym>Crossing</sym>
-  </wpt>
   <wpt lat="41.146404" lon="1.395947">
     <ele>24.04680435205823</ele>
-    <name>6 🏰╠⬆️</name>
+    <name>7 🏰╠⬆️</name>
     <cmt>🏰Castell Torredembarra. A la ╠ desviació ⬆️seguim recte.
 A ➡️ 🚉Estació Torredembarra 1,18kms</cmt>
     <desc>🏰Castell Torredembarra. A la ╠ desviació ⬆️seguim recte.
 A ➡️ 🚉Estació Torredembarra 1,18kms</desc>
     <sym>Crossing</sym>
   </wpt>
+  <wpt lat="41.147134" lon="1.400128">
+    <ele>34.211563242797936</ele>
+    <name>8 ↗️</name>
+    <cmt>Ens incorporem per la ↗️dreta a Avinguda de les Comarques Catalanes</cmt>
+    <desc>Ens incorporem per la ↗️dreta a Avinguda de les Comarques Catalanes</desc>
+    <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="41.146781" lon="1.401313">
+    <ele>27.856065706722784</ele>
+    <name>9 🚶⬅️</name>
+    <cmt>En arribar al🚶pas de vianants, tombem ⬅️esquerra per Carrer de Pau Casals</cmt>
+    <desc>En arribar al🚶pas de vianants, tombem ⬅️esquerra per Carrer de Pau Casals</desc>
+    <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="41.148052" lon="1.402974">
+    <ele>28.99796641972005</ele>
+    <name>10 ╦➡️</name>
+    <cmt>╦ Carrer de les Escoles. ➡️Dreta</cmt>
+    <desc>╦ Carrer de les Escoles. ➡️Dreta</desc>
+    <sym>Crossing</sym>
+  </wpt>
   <wpt lat="41.147862" lon="1.403215">
     <ele>28.129233519966256</ele>
-    <name>10 🔄3a↗️🧭NE</name>
+    <name>11 🔄3a↗️🧭NE</name>
     <cmt>🔄Rotonda. Surt per la 3a a la ↗️dreta 🧭NE. Camí del Camp de la Bota</cmt>
     <desc>🔄Rotonda. Surt per la 3a a la ↗️dreta 🧭NE. Camí del Camp de la Bota</desc>
-    <sym>Crossing</sym>
+    <sym>Rotonda</sym>
   </wpt>
   <wpt lat="41.149643" lon="1.408645">
     <ele>4.902650436815982</ele>
-    <name>11 ╣↗️</name>
+    <name>12 ╣↗️</name>
     <cmt>Deixem ╣ carrer secundari. Seguim per la ↗️dreta</cmt>
     <desc>Deixem ╣ carrer secundari. Seguim per la ↗️dreta</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="41.149062" lon="1.409954">
     <ele>7.196708114795171</ele>
-    <name>12 ╦⬅️⚠️🚦</name>
+    <name>13 ╦⬅️⚠️🚦</name>
     <cmt>╦ Desviar a ⬅️l&apos;esquerra per Carrer del Montisà. ⚠️Precaució🚦semàfor de pas</cmt>
     <desc>╦ Desviar a ⬅️l&apos;esquerra per Carrer del Montisà. ⚠️Precaució🚦semàfor de pas</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="41.149315" lon="1.41171">
     <ele>8.896777639894228</ele>
-    <name>13 🔄3a↗️</name>
+    <name>14 🔄3a↗️</name>
     <cmt>🔄Rotonda. Surt per la 3a a la ↗️dreta pel Carrer Camí del Moro</cmt>
     <desc>🔄Rotonda. Surt per la 3a a la ↗️dreta pel Carrer Camí del Moro</desc>
-    <sym>Crossing</sym>
+    <sym>Rotonda</sym>
   </wpt>
   <wpt lat="41.15216" lon="1.413136">
     <ele>15.687222679146373</ele>
-    <name>14 ╠➡️</name>
+    <name>15 ╠➡️</name>
     <cmt>╠ Desviar ➡️dreta per Carrer d&apos;Osona</cmt>
     <desc>╠ Desviar ➡️dreta per Carrer d&apos;Osona</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="41.152903" lon="1.416848">
     <ele>20.18699913136729</ele>
-    <name>15 ╬⚠️🚗🚶⬆️</name>
+    <name>16 ╬⚠️🚗🚶⬆️</name>
     <cmt>╬ T-210. Amb ⚠️precaució 🚗trànsit creuar a 🚶peu. Un cop creuat sortirem ⬆️recte pel Carrer de Casas</cmt>
     <desc>╬ T-210. Amb ⚠️precaució 🚗trànsit creuar a 🚶peu. Un cop creuat sortirem ⬆️recte pel Carrer de Casas</desc>
     <sym>Alert</sym>
   </wpt>
   <wpt lat="41.152895" lon="1.417506">
     <ele>20.21164950561142</ele>
-    <name>16 ╣⬅️</name>
+    <name>17 ╣⬅️</name>
     <cmt>Agafem ╣Camí de Miró a ⬅️l&apos;esquerra</cmt>
     <desc>Agafem ╣Camí de Miró a ⬅️l&apos;esquerra</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="41.153792" lon="1.418425">
     <ele>24.081333821383602</ele>
-    <name>17 ╦➡️</name>
+    <name>18 ╦➡️</name>
     <cmt>╦ Carrer del Llagut. ➡️Dreta</cmt>
     <desc>╦ Carrer del Llagut. ➡️Dreta</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="41.153505" lon="1.418806">
     <ele>21.79792474619428</ele>
-    <name>18 ╬⬅️🧭NE</name>
+    <name>19 ╬⬅️🧭NE</name>
     <cmt>╬ Carrer de Sadolla. ⬅️Esquerra🧭NE</cmt>
     <desc>╬ Carrer de Sadolla. ⬅️Esquerra🧭NE</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="41.154961" lon="1.420214">
     <ele>14.399377205317045</ele>
-    <name>19 ╬⬆️🧭N</name>
+    <name>20 ╬⬆️🧭N</name>
     <cmt>╬ Cruïlla. ⬆️Recte🧭N per Camí de Torredembarra a Creixell</cmt>
     <desc>╬ Cruïlla. ⬆️Recte🧭N per Camí de Torredembarra a Creixell</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="41.157537" lon="1.421728">
     <ele>14.987917683876645</ele>
-    <name>20 ╦↖️</name>
+    <name>21 ╦↖️</name>
     <cmt>╦ Carretera de Creixell. Ens incorporem a ↖️l&apos;esquerra</cmt>
     <desc>╦ Carretera de Creixell. Ens incorporem a ↖️l&apos;esquerra</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="41.159564" lon="1.429458">
     <ele>17.984005561099234</ele>
-    <name>21 Creixell ╬⬅️</name>
+    <name>22 Creixell ╬⬅️</name>
     <cmt>Arribem al nucli de Creixell. ╬ Cruïlla. ⬅️Esquerra pel Carrer del Cap de Tossa</cmt>
     <desc>Arribem al nucli de Creixell. ╬ Cruïlla. ⬅️Esquerra pel Carrer del Cap de Tossa</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="41.16027" lon="1.431048">
     <ele>21.158484329470568</ele>
-    <name>22 🔄2a↗️</name>
+    <name>23 🔄2a↗️</name>
     <cmt>🔄Rotonda. Surt per la 2a a la ↗️dreta pel Carrer de la Punta Falconera</cmt>
     <desc>🔄Rotonda. Surt per la 2a a la ↗️dreta pel Carrer de la Punta Falconera</desc>
-    <sym>Crossing</sym>
+    <sym>Rotonda</sym>
   </wpt>
   <wpt lat="41.160176" lon="1.432492">
     <ele>18.12801765322622</ele>
-    <name>23 ╣⬅️</name>
+    <name>24 ╣⬅️</name>
     <cmt>╣ Desviar a ⬅️l&apos;esquerra per Carrer de la Punta de la Mora</cmt>
     <desc>╣ Desviar a ⬅️l&apos;esquerra per Carrer de la Punta de la Mora</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="41.160959400357285" lon="1.4321536215805963">
     <ele>20.607268629176758</ele>
-    <name>24 ╬➡️</name>
+    <name>25 ╬➡️</name>
     <cmt>╬ Cruïlla. ➡️Dreta per Carrer de la Gala</cmt>
     <desc>╬ Cruïlla. ➡️Dreta per Carrer de la Gala</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="41.1627" lon="1.434389">
     <ele>13.543571549654146</ele>
-    <name>25 🔄2a↗️</name>
+    <name>26 🔄2a↗️</name>
     <cmt>🔄Rotonda. Surt per la 2a a la ↗️dreta per Via Apia</cmt>
     <desc>🔄Rotonda. Surt per la 2a a la ↗️dreta per Via Apia</desc>
-    <sym>Crossing</sym>
+    <sym>Rotonda</sym>
   </wpt>
   <wpt lat="41.166461" lon="1.435697">
     <ele>30.740431819810283</ele>
-    <name>26 ╬↗️🧭NE</name>
+    <name>27 ╬↗️🧭NE</name>
     <cmt>╬ Cruïlla. Agafem el carrer que surt uns 45º↗️dreta🧭NE Carrer del Pallars</cmt>
     <desc>╬ Cruïlla. Agafem el carrer que surt uns 45º↗️dreta🧭NE Carrer del Pallars</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="41.16949" lon="1.439932">
     <ele>54.518918740680746</ele>
-    <name>27 ╦⬅️</name>
+    <name>28 ╦⬅️</name>
     <cmt>╦ Cruïlla. ⬅️Esquerra. Carrer de Valls. Sortim de Creixell</cmt>
     <desc>╦ Cruïlla. ⬅️Esquerra. Carrer de Valls. Sortim de Creixell</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="41.174116" lon="1.437099">
     <ele>59.88259430097626</ele>
-    <name>28 ╦➡️</name>
+    <name>29 ╦➡️</name>
     <cmt>╦ Avinguda de la Llum. ➡️Dreta</cmt>
     <desc>╦ Avinguda de la Llum. ➡️Dreta</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="41.175543" lon="1.442287">
     <ele>40.02098408136528</ele>
-    <name>29 🔄1a↗️🧭S</name>
+    <name>30 🔄1a↗️🧭S</name>
     <cmt>🔄Rotonda. Surt per la 1a a la ↗️dreta🧭S. Fi asfalt</cmt>
     <desc>🔄Rotonda. Surt per la 1a a la ↗️dreta🧭S. Fi asfalt</desc>
-    <sym>Crossing</sym>
+    <sym>Rotonda</sym>
   </wpt>
   <wpt lat="41.175789" lon="1.443997">
     <ele>27.181398016401403</ele>
-    <name>30 ╠↖️</name>
+    <name>31 ╠↖️</name>
     <cmt>╠ Desviem per ↖️l&apos;esquerra. Inici asfalt</cmt>
     <desc>╠ Desviem per ↖️l&apos;esquerra. Inici asfalt</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="41.182803" lon="1.446319">
     <ele>50.81902624747588</ele>
-    <name>31 ╬➡️🧭E</name>
+    <name>32 ╬➡️🧭E</name>
     <cmt>╬ Cruïlla. ➡️Dreta 🧭E per Carrer de la Llum</cmt>
     <desc>╬ Cruïlla. ➡️Dreta 🧭E per Carrer de la Llum</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="41.18309" lon="1.450444">
     <ele>49.65674709370417</ele>
-    <name>32 🔄3a↗️🧭N</name>
+    <name>33 🔄3a↗️🧭N</name>
     <cmt>🔄Rotonda. Surt per la 3a a la ↗️dreta 🧭N</cmt>
     <desc>🔄Rotonda. Surt per la 3a a la ↗️dreta 🧭N</desc>
-    <sym>Crossing</sym>
+    <sym>Rotonda</sym>
   </wpt>
   <wpt lat="41.183991" lon="1.450596">
     <ele>51.56275176396859</ele>
-    <name>33 🔄2a↗️🧭NE↗️</name>
+    <name>34 🔄2a↗️🧭NE↗️</name>
     <cmt>🔄Rotonda. Surt per la 2a a la ↗️dreta 🧭NE i mantenint ↗️dreta per Carrer de la Font</cmt>
     <desc>🔄Rotonda. Surt per la 2a a la ↗️dreta 🧭NE i mantenint ↗️dreta per Carrer de la Font</desc>
-    <sym>Crossing</sym>
+    <sym>Rotonda</sym>
   </wpt>
   <wpt lat="41.185126" lon="1.453445">
     <ele>45.75409761459845</ele>
-    <name>34 ⛲╦➡️↙️</name>
+    <name>35 ⛲╦➡️↙️</name>
     <cmt>⛲Font però potabilitat desconeguda
 ╦ Cruïlla. ➡️Dreta i tot seguit tancat ↙️esquerra per Carrer Major</cmt>
     <desc>⛲Font però potabilitat desconeguda
@@ -263,7 +263,7 @@ A ➡️ 🚉Estació Torredembarra 1,18kms</desc>
   </wpt>
   <wpt lat="41.186269" lon="1.454544">
     <ele>57.62908273795709</ele>
-    <name>35 ⚠️🚂⬆️➡️</name>
+    <name>36 ⚠️🚂⬆️➡️</name>
     <cmt>⚠️Precaució 🚂 pas a nivell, ⬆️creuem i tot seguit per l&apos;andana anem a la ➡️dreta</cmt>
     <desc>⚠️Precaució 🚂 pas a nivell, ⬆️creuem i tot seguit per l&apos;andana anem a la ➡️dreta</desc>
     <sym>Crossing</sym>
