@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx creator="https://gpx.studio" version="1.1" schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/PowerExtension/v1 http://www.garmin.com/xmlschemas/PowerExtensionv1.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/PowerExtension/v1 http://www.garmin.com/xmlschemas/PowerExtensionv1.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxpx="http://www.garmin.com/xmlschemas/PowerExtension/v1" xmlns:gpx_style="http://www.topografix.com/GPX/gpx_style/0/2">
+  <metadata>
+    <name>Enllaç Estació El Vendrell</name>
+    <author>
+      <name>gpx.studio</name>
+      <link href="https://gpx.studio"/>
+    </author>
+  </metadata>
+  <wpt lat="41.21971" lon="1.537575">
+    <ele>45.76811379664675</ele>
+    <name>🟢el Vendrell centre</name>
+    <cmt>╬ Cruïlla el Vendrell centre, 🧭W ︵ sota les vies per 🚶l&apos;acera de la ↗️dreta:
+🧭NE a Etapa 12 a L&apos;Arboç
+🧭SW🌳🛝Parc infantil en 100m i Etapa 11 a Roda de Berà</cmt>
+    <desc>╬ Cruïlla el Vendrell centre, 🧭W ︵ sota les vies per 🚶l&apos;acera de la ↗️dreta:
+🧭NE a Etapa 12 a L&apos;Arboç
+🧭SW🌳🛝Parc infantil en 100m i Etapa 11 a Roda de Berà</desc>
+    <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="41.219893" lon="1.536509">
+    <ele>52.84753388603326</ele>
+    <name>2 ↘️</name>
+    <cmt>Tombem mitja volta a la ↘️dreta</cmt>
+    <desc>Tombem mitja volta a la ↘️dreta</desc>
+    <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="41.219877" lon="1.536935">
+    <ele>50.78846860322263</ele>
+    <name>3 🚶⬅️➡️🚲⬅️</name>
+    <cmt>Al🚶pas de vianants,⬅️esquerra i ➡️dreta. Connectem amb el 🚲carril bici que seguim a ⬅️l&apos;esquerra</cmt>
+    <desc>Al🚶pas de vianants,⬅️esquerra i ➡️dreta. Connectem amb el 🚲carril bici que seguim a ⬅️l&apos;esquerra</desc>
+    <sym>Bike Trail</sym>
+  </wpt>
+  <wpt lat="41.221088" lon="1.537692">
+    <ele>49.343153656274254</ele>
+    <name>🏁Final enllaç🚉Estació el Vendrell</name>
+    <cmt>🚉Estació el Vendrell R4</cmt>
+    <desc>🚉Estació el Vendrell R4</desc>
+    <sym>Ground Transportation</sym>
+  </wpt>
+  <trk>
+    <name>Enllaç Estació El Vendrell</name>
+    <trkseg>
+      <trkpt lat="41.219707" lon="1.537592">
+        <ele>45.74366058129907</ele>
+      </trkpt>
+      <trkpt lat="41.21976278413783" lon="1.5375062626539204">
+        <ele>45.97109989125081</ele>
+      </trkpt>
+      <trkpt lat="41.21976278413783" lon="1.5375062626539204">
+        <ele>45.97109989125081</ele>
+      </trkpt>
+      <trkpt lat="41.21983790178763" lon="1.5369168594015312">
+        <ele>50.56015779841754</ele>
+      </trkpt>
+      <trkpt lat="41.21989046348551" lon="1.5365044392077607">
+        <ele>52.8293413004182</ele>
+      </trkpt>
+      <trkpt lat="41.21989046348551" lon="1.5365044392077607">
+        <ele>52.8293413004182</ele>
+      </trkpt>
+      <trkpt lat="41.2199192538923" lon="1.5365227449514407">
+        <ele>53.100535285886394</ele>
+      </trkpt>
+      <trkpt lat="41.2199192538923" lon="1.5365227449514407">
+        <ele>53.100535285886394</ele>
+      </trkpt>
+      <trkpt lat="41.21987078393872" lon="1.5369450599525578">
+        <ele>50.6421490498945</ele>
+      </trkpt>
+      <trkpt lat="41.21987078393872" lon="1.5369450599525578">
+        <ele>50.6421490498945</ele>
+      </trkpt>
+      <trkpt lat="41.21992085421789" lon="1.5370216112459048">
+        <ele>50.41714372162702</ele>
+      </trkpt>
+      <trkpt lat="41.21992085421789" lon="1.5370216112459048">
+        <ele>50.41714372162702</ele>
+      </trkpt>
+      <trkpt lat="41.21990958840854" lon="1.537111475807393">
+        <ele>49.49252495686607</ele>
+      </trkpt>
+      <trkpt lat="41.22032390632625" lon="1.537343790017081">
+        <ele>50.38850224907583</ele>
+      </trkpt>
+      <trkpt lat="41.22064926165646" lon="1.5375262215827377">
+        <ele>49.98826784323984</ele>
+      </trkpt>
+      <trkpt lat="41.22064926165646" lon="1.5375262215827377">
+        <ele>49.98826784323984</ele>
+      </trkpt>
+      <trkpt lat="41.22064926165646" lon="1.5375262215827377">
+        <ele>49.98826784323984</ele>
+      </trkpt>
+      <trkpt lat="41.22096595175901" lon="1.537599444557543">
+        <ele>49.667221438327154</ele>
+      </trkpt>
+      <trkpt lat="41.22096595175901" lon="1.537599444557543">
+        <ele>49.667221438327154</ele>
+      </trkpt>
+      <trkpt lat="41.22109781187672" lon="1.5377066345744481">
+        <ele>49.29014979468222</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
