@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx creator="https://gpx.studio" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/PowerExtension/v1 http://www.garmin.com/xmlschemas/PowerExtensionv1.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxpx="http://www.garmin.com/xmlschemas/PowerExtension/v1" xmlns:gpx_style="http://www.topografix.com/GPX/gpx_style/0/2">
+  <metadata>
+    <name>Enllaç Estació Torredembarra</name>
+    <desc>Castell Torredembarra - Estació Torredembarra</desc>
+    <author>
+      <name>gpx.studio</name>
+      <link href="https://gpx.studio"/>
+    </author>
+  </metadata>
+  <wpt lat="41.146361" lon="1.396006">
+    <ele>25.07594325119743</ele>
+    <name>🟢Castell Torredembarra ╦ 🧭SE</name>
+    <cmt>╦ Cruïlla, 🧭SE per Carrer dels Clapers:
+🧭E continuació Etapa 10 a Roda de Berà
+🧭SW a Altafulla</cmt>
+    <desc>╦ Cruïlla, 🧭SE per Carrer dels Clapers:
+🧭E continuació Etapa 10 a Roda de Berà
+🧭SW a Altafulla</desc>
+    <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="41.145691" lon="1.397321">
+    <ele>29.381326829177734</ele>
+    <name>2 ╬➡️⬆️🧭S</name>
+    <cmt>╬ Plaça de l&apos;Escorxador. ➡️Dreta i agafem ⬆️davant la Baixada de Sant Antoni 🧭S</cmt>
+    <desc>╬ Plaça de l&apos;Escorxador. ➡️Dreta i agafem ⬆️davant la Baixada de Sant Antoni 🧭S</desc>
+    <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="41.144969" lon="1.397225">
+    <ele>23.848119610388615</ele>
+    <name>3 ╣⬅️</name>
+    <cmt>╣ Carrer de Santa Rosalia. ⬅️Esquerra</cmt>
+    <desc>╣ Carrer de Santa Rosalia. ⬅️Esquerra</desc>
+    <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="41.144745" lon="1.398704">
+    <ele>22.854658481619396</ele>
+    <name>4 ╦➡️🧭S</name>
+    <cmt>╦ Carrer de Gibert ➡️Dreta🧭S</cmt>
+    <desc>╦ Carrer de Gibert ➡️Dreta🧭S</desc>
+    <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="41.144413" lon="1.398686">
+    <ele>20.197858466324906</ele>
+    <name>5 ╬ ⬅️</name>
+    <cmt>╬ Carrer d&apos;Antoni Roig. ⬅️Esquerra</cmt>
+    <desc>╬ Carrer d&apos;Antoni Roig. ⬅️Esquerra</desc>
+    <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="41.144321" lon="1.401744">
+    <ele>21.185898840800604</ele>
+    <name>6 ╠➡️</name>
+    <cmt>╠ Carrer de Ferran de Querol. ➡️Dreta</cmt>
+    <desc>╠ Carrer de Ferran de Querol. ➡️Dreta</desc>
+    <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="41.142242" lon="1.402581">
+    <ele>7.541609383488961</ele>
+    <name>7 ╦⚠️🚗🚶⬅️🚲</name>
+    <cmt>╦ Passeig de Miramar. Creuem amb ⚠️🚗precaució a🚶peu i a ⬅️l&apos;esquerra pel 🚲carril bici</cmt>
+    <desc>╦ Passeig de Miramar. Creuem amb ⚠️🚗precaució a🚶peu i a ⬅️l&apos;esquerra pel 🚲carril bici</desc>
+    <sym>Bike Trail</sym>
+  </wpt>
+  <wpt lat="41.1428936635121" lon="1.4055984065196583">
+    <ele>4.932894009319578</ele>
+    <name>🏁Final enllaç🚉Estació Torredembarra</name>
+    <cmt>🚉Estació Torredembarra R14 R15 R16 R17</cmt>
+    <desc>🚉Estació Torredembarra R14 R15 R16 R17</desc>
+    <sym>Ground Transportation</sym>
+  </wpt>
+  <trk>
+    <name>Enllaç Estació Torredembarra</name>
+    <trkseg>
+      <trkpt lat="41.146375" lon="1.395984">
+        <ele>23.5</ele>
+      </trkpt>
+      <trkpt lat="41.146144" lon="1.396433">
+        <ele>27</ele>
+      </trkpt>
+      <trkpt lat="41.145669" lon="1.397353">
+        <ele>28.75</ele>
+      </trkpt>
+      <trkpt lat="41.145284" lon="1.397354">
+        <ele>26.5</ele>
+      </trkpt>
+      <trkpt lat="41.14524" lon="1.397483">
+        <ele>26.25</ele>
+      </trkpt>
+      <trkpt lat="41.145054" lon="1.397338">
+        <ele>25</ele>
+      </trkpt>
+      <trkpt lat="41.144963" lon="1.397223">
+        <ele>24.25</ele>
+      </trkpt>
+      <trkpt lat="41.144878" lon="1.397501">
+        <ele>24</ele>
+      </trkpt>
+      <trkpt lat="41.144736" lon="1.398716">
+        <ele>23</ele>
+      </trkpt>
+      <trkpt lat="41.144741" lon="1.398716">
+        <ele>24.5</ele>
+      </trkpt>
+      <trkpt lat="41.144739" lon="1.398716">
+        <ele>23</ele>
+      </trkpt>
+      <trkpt lat="41.144736" lon="1.398716">
+        <ele>23</ele>
+      </trkpt>
+      <trkpt lat="41.144397" lon="1.39869">
+        <ele>20.5</ele>
+      </trkpt>
+      <trkpt lat="41.144395" lon="1.398715">
+        <ele>20.75</ele>
+      </trkpt>
+      <trkpt lat="41.144395" lon="1.398715">
+        <ele>20.5</ele>
+      </trkpt>
+      <trkpt lat="41.144247" lon="1.400648">
+        <ele>20.75</ele>
+      </trkpt>
+      <trkpt lat="41.144245" lon="1.400739">
+        <ele>20.5</ele>
+      </trkpt>
+      <trkpt lat="41.144283" lon="1.401344">
+        <ele>21</ele>
+      </trkpt>
+      <trkpt lat="41.14433" lon="1.40179">
+        <ele>21.25</ele>
+      </trkpt>
+      <trkpt lat="41.143757" lon="1.402013">
+        <ele>17.75</ele>
+      </trkpt>
+      <trkpt lat="41.143622" lon="1.402061">
+        <ele>17</ele>
+      </trkpt>
+      <trkpt lat="41.143056" lon="1.40226">
+        <ele>13</ele>
+      </trkpt>
+      <trkpt lat="41.142301" lon="1.402558">
+        <ele>8.5</ele>
+      </trkpt>
+      <trkpt lat="41.142212" lon="1.402593">
+        <ele>8.5</ele>
+      </trkpt>
+      <trkpt lat="41.142217" lon="1.402618">
+        <ele>6.75</ele>
+      </trkpt>
+      <trkpt lat="41.142217" lon="1.402618">
+        <ele>7.4298148139171545</ele>
+      </trkpt>
+      <trkpt lat="41.142187084084554" lon="1.4026284654459857">
+        <ele>7.333182792180499</ele>
+      </trkpt>
+      <trkpt lat="41.142165" lon="1.402655">
+        <ele>7.2533290606466965</ele>
+      </trkpt>
+      <trkpt lat="41.142165" lon="1.402655">
+        <ele>7</ele>
+      </trkpt>
+      <trkpt lat="41.142164" lon="1.402654">
+        <ele>8</ele>
+      </trkpt>
+      <trkpt lat="41.142421" lon="1.403768">
+        <ele>7</ele>
+      </trkpt>
+      <trkpt lat="41.142749" lon="1.405248">
+        <ele>6.5</ele>
+      </trkpt>
+      <trkpt lat="41.142776" lon="1.405346">
+        <ele>7</ele>
+      </trkpt>
+      <trkpt lat="41.142775" lon="1.405345">
+        <ele>6.75</ele>
+      </trkpt>
+      <trkpt lat="41.142799" lon="1.405431">
+        <ele>7</ele>
+      </trkpt>
+      <trkpt lat="41.14286" lon="1.405508">
+        <ele>7</ele>
+      </trkpt>
+      <trkpt lat="41.142879" lon="1.405554">
+        <ele>7.25</ele>
+      </trkpt>
+      <trkpt lat="41.142904" lon="1.405614">
+        <ele>7.25</ele>
+      </trkpt>
+      <trkpt lat="41.142902" lon="1.405615">
+        <ele>7.25</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
