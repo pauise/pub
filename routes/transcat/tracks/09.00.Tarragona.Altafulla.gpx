@@ -19,14 +19,14 @@ En principi hi ha un carril pacificat però si no ho veiem clar podem anar per l
 ↗️🧭NW a Etapa 8
 ↗️🧭SE a 🚉Estació Tarragona
 En principi hi ha un carril pacificat però si no ho veiem clar podem anar per l&apos;acera</desc>
-    <sym>Crossing</sym>
+    <sym>Rotonda</sym>
   </wpt>
   <wpt lat="41.122728" lon="1.243579">
     <ele>40.51562719086024</ele>
     <name>2🔄2a↗️</name>
     <cmt>🔄Rotonda. Surt per la 2a a la ↗️dreta per continuar pel mateix carrer</cmt>
     <desc>🔄Rotonda. Surt per la 2a a la ↗️dreta per continuar pel mateix carrer</desc>
-    <sym>Crossing</sym>
+    <sym>Rotonda</sym>
   </wpt>
   <wpt lat="41.123109" lon="1.24533">
     <ele>48.75191195772973</ele>
@@ -35,7 +35,7 @@ En principi hi ha un carril pacificat però si no ho veiem clar podem anar per l
 Un cop creuat, ➡️dreta per l&apos;acera </cmt>
     <desc>🔄Rotonda. Surt per la 1a a ↗️dreta i de seguida girem a ⬅️l&apos;esquerra creuant pel🚶pas de vianants.
 Un cop creuat, ➡️dreta per l&apos;acera </desc>
-    <sym>Crossing</sym>
+    <sym>Rotonda</sym>
   </wpt>
   <wpt lat="41.123306" lon="1.246419">
     <ele>53.50367354215166</ele>
@@ -227,61 +227,61 @@ Allí trobem i creuem el🚶pas de vianants i ens incorporem a la via peatonal q
   </wpt>
   <wpt lat="41.139213" lon="1.345177">
     <ele>17.81894123419467</ele>
-    <name>28 ⬅️</name>
+    <name>29 ⬅️</name>
     <cmt>Abans de la rotonda, prenem la desviació a ⬅️l&apos;esquerra</cmt>
     <desc>Abans de la rotonda, prenem la desviació a ⬅️l&apos;esquerra</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="41.139375" lon="1.347047">
     <ele>16.523505635559644</ele>
-    <name>29 ↗️</name>
+    <name>30 ↗️</name>
     <cmt>Seguim pel camí de la ↗️dreta paral·lels a la N-340. Camí del Costeret</cmt>
     <desc>Seguim pel camí de la ↗️dreta paral·lels a la N-340. Camí del Costeret</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="41.142119" lon="1.350602">
     <ele>8.527950360846758</ele>
-    <name>30 ╠➡️⌒</name>
+    <name>31 ╠➡️⌒</name>
     <cmt>╠ Desviar a la ➡️dreta pel ⌒ túnel sota N-340</cmt>
     <desc>╠ Desviar a la ➡️dreta pel ⌒ túnel sota N-340</desc>
     <sym>Tunnel</sym>
   </wpt>
   <wpt lat="41.144954" lon="1.358313">
     <ele>11.9934168244251</ele>
-    <name>31 ╣⬆️╣⬅️</name>
+    <name>32 ╣⬆️╣⬅️</name>
     <cmt>Inici asfalt. Descartem la 1a ╣ desviació i seguim⬆️recte però prenem la 2a ╣desviació 10m més endavant a ⬅️l&apos;esquerra pel Carrer Castell i abans d&apos;arribar a la carretera T-202</cmt>
     <desc>Inici asfalt. Descartem la 1a ╣ desviació i seguim⬆️recte però prenem la 2a ╣desviació 10m més endavant a ⬅️l&apos;esquerra pel Carrer Castell i abans d&apos;arribar a la carretera T-202</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="41.145546" lon="1.35908">
     <ele>14.966435217112592</ele>
-    <name>32 ➡️🪜╦🚶⬅️⚠️🚗</name>
+    <name>33 ➡️🪜╦🚶⬅️⚠️🚗</name>
     <cmt>Just arribar a la plaça a la nostra ➡️dreta baixem unes🪜escales que ╦ desemboquen a la T-202. Creuem pel 🚶pas de vianants i tot seguit ens incorporem a ⬅️l&apos;esquerra. Precaució 🚗trànsit.</cmt>
     <desc>Just arribar a la plaça a la nostra ➡️dreta baixem unes🪜escales que ╦ desemboquen a la T-202. Creuem pel 🚶pas de vianants i tot seguit ens incorporem a ⬅️l&apos;esquerra. Precaució 🚗trànsit.</desc>
     <sym>Alert</sym>
   </wpt>
   <wpt lat="41.146259" lon="1.359836">
     <ele>11.086034100247215</ele>
-    <name>33 ╠➡️</name>
+    <name>34 ╠➡️</name>
     <cmt>╠ Desviació a la ➡️dreta per camí asfaltat</cmt>
     <desc>╠ Desviació a la ➡️dreta per camí asfaltat</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="41.145633" lon="1.361999">
     <ele>9</ele>
-    <name>34 Fi asfalt</name>
-    <sym>Road</sym>
+    <name>35 Fi asfalt</name>
+    <sym>End of Road</sym>
   </wpt>
   <wpt lat="41.144864" lon="1.36198">
     <ele>9.557895245338262</ele>
-    <name>35 ╣↖️</name>
+    <name>36 ╣↖️</name>
     <cmt>╣ Deixem el camí i prenem a ↖️l&apos;esquerra per creuar el Riu Gaià. Podem anar per la passarel·la per evitar el fang.</cmt>
     <desc>╣ Deixem el camí i prenem a ↖️l&apos;esquerra per creuar el Riu Gaià. Podem anar per la passarel·la per evitar el fang.</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="41.144658" lon="1.362173">
     <ele>9.268209710881159</ele>
-    <name>36 Inici asfalt. ╣⬅️</name>
+    <name>37 Inici asfalt. ╣⬅️</name>
     <cmt>╣Desviar a ⬅️l&apos;esquerra per Camí de Ferran asfaltat</cmt>
     <desc>╣Desviar a ⬅️l&apos;esquerra per Camí de Ferran asfaltat</desc>
     <sym>Crossing</sym>
