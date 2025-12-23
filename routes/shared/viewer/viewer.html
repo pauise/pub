@@ -10,33 +10,46 @@
 <h1>SVG Viewer</h1>
 
 <svg width="1000" height="500" xmlns="http://www.w3.org/2000/svg">
+  <!-- Style -->
+  <style>
+    /* <![CDATA[ */
+    .pr-line { fill: #AD00AD; stroke-width: 2; stroke-dasharray: 2,2}
+    .pr-circle { fill: pink; }
+    .pr-arch { fill: #AD00AD; }
+    .pr-text { stroke: #AD00AD; font-size: 12; font-weight: black; text-anchor: middle; dominant-baseline: central}
+      
+    .wp-line { fill: #0000dd; stroke-width: 2; stroke-dasharray: 2,2}
+    .wp-circle { fill: purple; stroke: gray; }
+    .wp-text { stroke: white; font-size: 12; font-weight: black; text-anchor: middle; dominant-baseline: central}
+    /* ]]> */
+  </style>
    
    <!-- Stage portion 350,100 -->
-   <line x1="350" y1="50" x2="350" y2="300" stroke="#AD00AD" stroke-width="2" stroke-dasharray="2,2" />
-   <line x1="400" y1="50" x2="400" y2="300" stroke="#AD00AD" stroke-width="2" stroke-dasharray="2,2" />
-   <line x1="450" y1="50" x2="450" y2="300" stroke="#AD00AD" stroke-width="2" stroke-dasharray="2,2" />
-   <circle r="16" cx="350" cy="50" fill="pink" />
-   <circle r="16" cx="400" cy="50" fill="pink" />
-   <circle r="16" cx="450" cy="50" fill="pink" />
+   <line x1="350" y1="50" x2="350" y2="300" class="pr-line" /> <!--stroke="#AD00AD" stroke-width="2" stroke-dasharray="2,2" /-->
+   <line x1="400" y1="50" x2="400" y2="300" class="pr-line" />
+   <line x1="450" y1="50" x2="450" y2="300" class="pr-line" />
+   <circle r="16" cx="350" cy="50" class="pr-circle" />
+   <circle r="16" cx="400" cy="50" class="pr-circle" />
+   <circle r="16" cx="450" cy="50" class="pr-circle" />
    <path d="M 350 50 
             L 350 34 
             A 16 16 0 0 1 366 50
             Z" 
-         fill="#AD00AD" />
+         class="pr-arch" />
    <path d="M 400 50 
             L 400 34
             A 16 16 0 1 1 400 66
             Z" 
-         fill="#AD00AD" />
+         class="pr-arch" />
    <path d="M 450 50 
             L 450 34 
             A 16 16 0 1 1 434 50
             Z" 
-         fill="#AD00AD" />
-   <text x="350" y="34" fill="#AD00AD" font-size="12" font-weight="black" text-anchor="middle" dominant-baseline="central">1h47'</text>
-   <text x="400" y="34" fill="#AD00AD" font-size="12" font-weight="black" text-anchor="middle" dominant-baseline="central">3h05'</text>
-   <text x="450" y="34" fill="#AD00AD" font-size="12" font-weight="black" text-anchor="middle" dominant-baseline="central">4h58'</text>
-   
+         class="pr-arch" />
+   <text x="350" y="34" class="pr-text">1h47'</text>
+   <text x="400" y="34" class="pr-text">3h05'</text>
+   <text x="450" y="34" class="pr-text">4h58'</text>
+   <!--text x="450" y="34" fill="#AD00AD" font-size="12" font-weight="black" text-anchor="middle" dominant-baseline="central">4h58'</text-->
    
    <!-- Waypoint 250,150-->
    <line x1="250" y1="150" x2="250" y2="300" stroke="#0000dd" stroke-width="2" stroke-dasharray="2,2" />
