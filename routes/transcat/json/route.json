@@ -78,8 +78,252 @@
       "nom": "Estació Vila-seca",
       "data": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/json/07.99.Estaci%C3%B3%20Vila-seca.json",
       "km": 0.6
+    },
+    {
+      "id": "08.00",
+      "nom": "Vila-seca - Tarragona",
+      "data": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/json/08.00.Vila-seca.Tarragona.json",
+      "km": 11.51
+    },
+    {
+      "id": "08.99",
+      "nom": "Estació Tarragona",
+      "data": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/json/07.99.Estaci%C3%B3%20Tarragona.json",
+      "km": 2.07
+    },
+    {
+      "id": "09.00",
+      "nom": "Tarragona - Altafulla",
+      "data": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/json/09.00.Tarragona.Altafulla.json",
+      "km": 1
+    },    
+    {
+      "id": "09.99",
+      "nom": "Estació Altafulla",
+      "data": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/json/07.99.Estaci%C3%B3%20Altafulla.json",
+      "km": 1
+    },
+    {
+      "id": "10.00",
+      "nom": "Altafulla - Roda de Berà",
+      "data": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/json/10.00.Altafulla.Roda.json",
+      "km": 1
+    },    
+    {
+      "id": "11.00",
+      "nom": "Roda de Berà - el Vendrell",
+      "data": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/json/11.00.Roda.Vendrell.json",
+      "km": 1
+    },    
+    {
+      "id": "10.99",
+      "nom": "Estació el Vendrell",
+      "data": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/json/07.99.Estaci%C3%B3%20Vendrell.json",
+      "km": 1
+    },
+    {
+      "id": "12.00",
+      "nom": "el Vendrell - L'Arboç",
+      "data": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/json/12.00.Vendrell.Arboç.json",
+      "km": 1
+    },
+    {
+      "id": "12.99",
+      "nom": "Estació L'Arboç",
+      "data": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/json/07.99.Estaci%C3%B3%20Arboç.json",
+      "km": 1
+    },
+    {
+      "id": "13.00",
+      "nom": "L'Arboç - Vilafranca",
+      "data": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/json/13.00.Arboç.Vilafranca.json",
+      "km": 1
+    },
+    {
+      "id": "13.60",
+      "nom": "Estació Els Monjos",
+      "data": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/json/07.99.Estaci%C3%B3%20Monjos.json",
+      "km": 1
+    },
+    {
+      "id": "14.00",
+      "nom": "Vilafranca - Sant Sadurní",
+      "data": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/json/14.00.Vilafranca.Sant%20Sadurni.json",
+      "km": 1
+    },
+    {
+      "id": "15.00",
+      "nom": "Sant Sadurní - Gelida",
+      "data": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/json/15.00.Sant%20Sadurni.Gelida.json",
+      "km": 1
+    },
+    {
+      "id": "15.99",
+      "nom": "Estació Gelida",
+      "data": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/json/07.99.Estaci%C3%B3%20Gelida.json",
+      "km": 1
+    },
+    {
+      "id": "16.00",
+      "nom": "Gelida - Papiol",
+      "data": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/json/16.00.Gelida.Papiol.json",
+      "km": 1
+    },
+    {
+      "id": "16.40",
+      "nom": "Estació Martorell Central",
+      "data": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/json/07.99.Estaci%C3%B3%20Martorell%20Central.json",
+      "km": 1
+    },
+    {
+      "id": "16.50",
+      "nom": "Estació Martorell Vila i Castellbisbal",
+      "data": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/json/07.99.Estaci%C3%B3%20Martorell%20Vila%20i%20Castellbisbal.json",
+      "km": 1
+    },
+    {
+      "id": "16.65",
+      "nom": "Estació Castellbisbal",
+      "data": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/json/07.99.Estaci%C3%B3%20Castellbisbal.json",
+      "km": 1
+    },
+    {
+      "id": "17.00",
+      "nom": "Papiol - Sant Cugat",
+      "data": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/json/17.00.Papiol.Sant%20Cugat.json",
+      "km": 1
+    },
+    {
+      "id": "17.V0",
+      "nom": "Papiol - Barcelona",
+      "data": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/json/17.V0.Papiol.Barcelona.json",
+      "km": 1
+    },
+    {
+      "id": "18.00",
+      "nom": "Sant Cugat - Montcada i Reixac",
+      "data": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/json/18.00.Sant%20Cugat.Montcada.json",
+      "km": 1
+    },
+    {
+      "id": "18.10",
+      "nom": "Estació Sant Cugat Centre",
+      "data": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/json/07.99.Estaci%C3%B3%20Sant%20Cugat%20Centre.json",
+      "km": 1
+    },
+    {
+      "id": "18.65",
+      "nom": "Estació Cerdanyola del Vallès",
+      "data": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/json/07.99.Estaci%C3%B3%20Cerdanyola.json",
+      "km": 1
+    },
+    {
+      "id": "18.99",
+      "nom": "Estació Montcada i Reixac",
+      "data": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/json/07.99.Estaci%C3%B3%20Montcada%20i%20Reixac.json",
+      "km": 1
+    },
+    {
+      "id": "18.V0",
+      "nom": "Barcelona - Montcada i Reixac",
+      "data": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/json/18.V0.Barcelona.Montcada.json",
+      "km": 1
+    },
+    {
+      "id": "19.00",
+      "nom": "Montcada i Reixac - Mollet del Vallès",
+      "data": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/json/19.00.Montcada.Mollet.json",
+      "km": 1
+    },
+    {
+      "id": "20.00",
+      "nom": "Mollet del Vallès - Cardedeu",
+      "data": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/json/20.00.Mollet.Cardedeu.json",
+      "km": 1
+    },
+    {
+      "id": "20.99",
+      "nom": "Estació Cardedeu",
+      "data": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/json/07.99.Estaci%C3%B3%20Cardedeu.json",
+      "km": 1
+    },
+    {
+      "id": "21.00",
+      "nom": "Cardedeu - Sant Celoni",
+      "data": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/json/21.00.Cardedeu.Sant%20Celoni.json",
+      "km": 1
+    },
+    {
+      "id": "22.00",
+      "nom": "Sant Celoni - Hostalric",
+      "data": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/json/22.00.Sant%20Celoni.Hostalric.json",
+      "km": 1
+    },
+    {
+      "id": "23.00",
+      "nom": "Hostalric - Sils",
+      "data": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/json/23.00.Hostalric.Sils.json",
+      "km": 1
+    },
+    {
+      "id": "24.00",
+      "nom": "Sils - Caldes de Malavella",
+      "data": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/json/24.00.Sils.Caldes.json",
+      "km": 1
+    },
+    {
+      "id": "25.00",
+      "nom": "Caldes de Malavella - Platja d'Aro",
+      "data": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/json/25.00.Caldes.Platja%20d'Aro.json",
+      "km": 1
+    },
+    {
+      "id": "26.00",
+      "nom": "Platja d'Aro - Palafrugell",
+      "data": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/json/26.00.Platja%20d'Aro.Palafrugell.json",
+      "km": 1
+    },
+    {
+      "id": "27.00",
+      "nom": "Palafrugell - Torroella de Montgrí",
+      "data": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/json/27.00.Palafrugell.Torroella.json",
+      "km": 1
+    },
+    {
+      "id": "28.00",
+      "nom": "Torroella de Montgrí - Camallera",
+      "data": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/json/28.00.Torroella.Camallera.json",
+      "km": 1
+    },
+    {
+      "id": "29.00",
+      "nom": "Camallera - Figueres",
+      "data": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/json/29.00.Camallera.Figueres.json",
+      "km": 1
+    },
+    {
+      "id": "30.00",
+      "nom": "Figueres - Capmany",
+      "data": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/json/30.00.Figueres.Capmany.json",
+      "km": 1
+    },
+    {
+      "id": "31.00",
+      "nom": "Capmany - La Jonquera",
+      "data": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/json/31.00.Capmany.Jonquera.json",
+      "km": 1
+    },
+    {
+      "id": "32.00",
+      "nom": "La Jonquera - Morellàs i les Illes",
+      "data": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/json/32.00.Jonquera.Morellas.json",
+      "km": 1
+    },
+    {
+      "id": "33.00",
+      "nom": "Morellàs i les Illes - Argelers",
+      "data": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/json/33.00.Morellas.Argelers.json",
+      "km": 1
     }
-
-    
   ]
 }
