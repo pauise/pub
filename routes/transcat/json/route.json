@@ -106,8 +106,8 @@
     {
       "id": "10.00",
       "nom": "Altafulla - Roda de Berà",
-      "data": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/json/10.00.Altafulla.Roda.json",
-      "km": 12.13
+      "data": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/json/10.00.Altafulla.Roda%20de%20Ber%C3%A0.json",
+      "km": 12.18
     },
     {
       "id": "10.25",
