@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx creator="https://gpx.studio" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/PowerExtension/v1 http://www.garmin.com/xmlschemas/PowerExtensionv1.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxpx="http://www.garmin.com/xmlschemas/PowerExtension/v1" xmlns:gpx_style="http://www.topografix.com/GPX/gpx_style/0/2">
+  <metadata>
+    <name>Enllaç Estació Sant Vicenç de Calders</name>
+    <desc>Camí de la Costa Roja - Camí dels Masos - La Creu de Coma-Ruga - Estació Sant Vicenç de Calders</desc>
+    <author>
+      <name>gpx.studio</name>
+      <link href="https://gpx.studio"/>
+    </author>
+  </metadata>
+  <wpt lat="41.200079" lon="1.51599">
+    <ele>44.94697990167336</ele>
+    <name>🟢Enllaç Estació Sant Vicenç de Calders ╠🧭SE</name>
+    <cmt>╠ Cruïlla,🧭SE a 🚉Estació Sant Vicenç de Calders en 2.28 kms
+🧭NW a Roda de Berà per Etapa 12
+🧭NE a el Vendrell per Etapa 12</cmt>
+    <desc>╠ Cruïlla,🧭SE a 🚉Estació Sant Vicenç de Calders en 2.28 kms
+🧭NW a Roda de Berà per Etapa 12
+🧭NE a el Vendrell per Etapa 12</desc>
+    <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="41.195072" lon="1.518253">
+    <ele>43.7790915336005</ele>
+    <name>2 ╠↖️</name>
+    <cmt>Seguim pel ╠ camí principal a ↖️l&apos;esquerra</cmt>
+    <desc>Seguim pel ╠ camí principal a ↖️l&apos;esquerra</desc>
+    <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="41.192268" lon="1.518875">
+    <ele>36.09302029614414</ele>
+    <name>3 ↗️↖️</name>
+    <cmt>Seguim a ↗️dreta i seguidament a ↖️esquerra</cmt>
+    <desc>Seguim a ↗️dreta i seguidament a ↖️esquerra</desc>
+    <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="41.190359" lon="1.519243">
+    <ele>28.1108233541259</ele>
+    <name>4 🔄2a↗️🧭S</name>
+    <cmt>🔄Rotonda. Surt per la 2a a la ↗️dreta 🧭S per Carrer Primavera</cmt>
+    <desc>🔄Rotonda. Surt per la 2a a la ↗️dreta 🧭S per Carrer Primavera</desc>
+    <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="41.189528" lon="1.519482">
+    <ele>23.536258543935105</ele>
+    <name>5 ╬⬆️︵ ╬⬅️╠➡️🧭SE</name>
+    <cmt>╬ Cruïlla. ⬆️Creuem recte pel ︵ pont i tot seguit a la ╬ cruïlla tombem a ⬅️esquerra i a la següent ╠ desviació a la ➡️dreta 🧭SE per Carrer del Migjorn </cmt>
+    <desc>╬ Cruïlla. ⬆️Creuem recte pel ︵ pont i tot seguit a la ╬ cruïlla tombem a ⬅️esquerra i a la següent ╠ desviació a la ➡️dreta 🧭SE per Carrer del Migjorn </desc>
+    <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="41.187691" lon="1.522523">
+    <ele>20.71548763257536</ele>
+    <name>6 ╬➡️</name>
+    <cmt>╬ Cruïlla. ➡️Dreta 90º per Carrer del Llebeig</cmt>
+    <desc>╬ Cruïlla. ➡️Dreta 90º per Carrer del Llebeig</desc>
+    <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="41.186881" lon="1.521825">
+    <ele>15.516882697074333</ele>
+    <name>7 ╣↖️🧭S</name>
+    <cmt>╣ Desviar a ↖️l&apos;esquerra 🧭S per Carrer de l&apos;Amistat</cmt>
+    <desc>╣ Desviar a ↖️l&apos;esquerra 🧭S per Carrer de l&apos;Amistat</desc>
+    <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="41.18578" lon="1.522155">
+    <ele>14.112270592320831</ele>
+    <name>8 ╦⬅️</name>
+    <cmt>╦ Carrer de l&apos;Estació. ⬅️Esquerra</cmt>
+    <desc>╦ Carrer de l&apos;Estació. ⬅️Esquerra</desc>
+    <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="41.186231" lon="1.524567">
+    <ele>16.18873625740012</ele>
+    <name>🏁Final enllaç🚉Estació Sant Vicenç de Calders</name>
+    <cmt>🚉Estació Sant Vicenç de Calders R2S R4 R13 R14 R15 R16 R17 i MD</cmt>
+    <desc>🚉Estació Sant Vicenç de Calders R2S R4 R13 R14 R15 R16 R17 i MD</desc>
+    <sym>Ground Transportation</sym>
+  </wpt>
+  <trk>
+    <name>Enllaç Estació Sant Vicenç de Calders</name>
+    <trkseg>
+      <trkpt lat="41.200091" lon="1.515984">
+        <ele>44.5</ele>
+      </trkpt>
+      <trkpt lat="41.200051" lon="1.516005">
+        <ele>44.25</ele>
+      </trkpt>
+      <trkpt lat="41.199994" lon="1.516053">
+        <ele>44</ele>
+      </trkpt>
+      <trkpt lat="41.199932" lon="1.516129">
+        <ele>44</ele>
+      </trkpt>
+      <trkpt lat="41.199217" lon="1.517459">
+        <ele>41.25</ele>
+      </trkpt>
+      <trkpt lat="41.199143" lon="1.517585">
+        <ele>40.75</ele>
+      </trkpt>
+      <trkpt lat="41.199033" lon="1.517742">
+        <ele>40.75</ele>
+      </trkpt>
+      <trkpt lat="41.198857" lon="1.517956">
+        <ele>40.75</ele>
+      </trkpt>
+      <trkpt lat="41.198745" lon="1.518122">
+        <ele>40.75</ele>
+      </trkpt>
+      <trkpt lat="41.198418" lon="1.518689">
+        <ele>40.75</ele>
+      </trkpt>
+      <trkpt lat="41.198195" lon="1.519104">
+        <ele>40.5</ele>
+      </trkpt>
+      <trkpt lat="41.197874" lon="1.519727">
+        <ele>39.75</ele>
+      </trkpt>
+      <trkpt lat="41.197824" lon="1.519799">
+        <ele>39.75</ele>
+      </trkpt>
+      <trkpt lat="41.197761" lon="1.519851">
+        <ele>39.5</ele>
+      </trkpt>
+      <trkpt lat="41.197613" lon="1.519928">
+        <ele>39.25</ele>
+      </trkpt>
+      <trkpt lat="41.197544" lon="1.51998">
+        <ele>39</ele>
+      </trkpt>
+      <trkpt lat="41.197484" lon="1.520041">
+        <ele>38.75</ele>
+      </trkpt>
+      <trkpt lat="41.197316" lon="1.520237">
+        <ele>38</ele>
+      </trkpt>
+      <trkpt lat="41.197239" lon="1.520307">
+        <ele>37.75</ele>
+      </trkpt>
+      <trkpt lat="41.197169" lon="1.520354">
+        <ele>37.25</ele>
+      </trkpt>
+      <trkpt lat="41.197091" lon="1.520386">
+        <ele>37</ele>
+      </trkpt>
+      <trkpt lat="41.197041" lon="1.520384">
+        <ele>36.75</ele>
+      </trkpt>
+      <trkpt lat="41.196993" lon="1.520362">
+        <ele>36.5</ele>
+      </trkpt>
+      <trkpt lat="41.196837" lon="1.520221">
+        <ele>36</ele>
+      </trkpt>
+      <trkpt lat="41.196661" lon="1.520138">
+        <ele>35.5</ele>
+      </trkpt>
+      <trkpt lat="41.195361" lon="1.518614">
+        <ele>40.75</ele>
+      </trkpt>
+      <trkpt lat="41.195118" lon="1.518308">
+        <ele>43.75</ele>
+      </trkpt>
+      <trkpt lat="41.195056" lon="1.518247">
+        <ele>44.5</ele>
+      </trkpt>
+      <trkpt lat="41.194815" lon="1.518385">
+        <ele>43.25</ele>
+      </trkpt>
+      <trkpt lat="41.194358" lon="1.51877">
+        <ele>39.75</ele>
+      </trkpt>
+      <trkpt lat="41.193978" lon="1.518972">
+        <ele>38</ele>
+      </trkpt>
+      <trkpt lat="41.192271" lon="1.518874">
+        <ele>36</ele>
+      </trkpt>
+      <trkpt lat="41.192001" lon="1.518617">
+        <ele>36.25</ele>
+      </trkpt>
+      <trkpt lat="41.191136" lon="1.518947">
+        <ele>33</ele>
+      </trkpt>
+      <trkpt lat="41.190778" lon="1.51909">
+        <ele>32</ele>
+      </trkpt>
+      <trkpt lat="41.190426" lon="1.519218">
+        <ele>29.75</ele>
+      </trkpt>
+      <trkpt lat="41.190319" lon="1.519252">
+        <ele>29</ele>
+      </trkpt>
+      <trkpt lat="41.190298" lon="1.51919">
+        <ele>29.25</ele>
+      </trkpt>
+      <trkpt lat="41.190269" lon="1.519154">
+        <ele>29.25</ele>
+      </trkpt>
+      <trkpt lat="41.190229" lon="1.519132">
+        <ele>29.25</ele>
+      </trkpt>
+      <trkpt lat="41.190189" lon="1.51913">
+        <ele>29</ele>
+      </trkpt>
+      <trkpt lat="41.190126" lon="1.519168">
+        <ele>28.5</ele>
+      </trkpt>
+      <trkpt lat="41.190092" lon="1.519239">
+        <ele>28</ele>
+      </trkpt>
+      <trkpt lat="41.189952" lon="1.519256">
+        <ele>27.25</ele>
+      </trkpt>
+      <trkpt lat="41.189766" lon="1.519358">
+        <ele>25.75</ele>
+      </trkpt>
+      <trkpt lat="41.18954" lon="1.519466">
+        <ele>24</ele>
+      </trkpt>
+      <trkpt lat="41.189482" lon="1.519575">
+        <ele>23.5</ele>
+      </trkpt>
+      <trkpt lat="41.189442" lon="1.51958">
+        <ele>23.25</ele>
+      </trkpt>
+      <trkpt lat="41.189251" lon="1.519661">
+        <ele>22</ele>
+      </trkpt>
+      <trkpt lat="41.189208" lon="1.519679">
+        <ele>21.75</ele>
+      </trkpt>
+      <trkpt lat="41.189238" lon="1.519726">
+        <ele>21.75</ele>
+      </trkpt>
+      <trkpt lat="41.18932" lon="1.519826">
+        <ele>22</ele>
+      </trkpt>
+      <trkpt lat="41.189467" lon="1.520044">
+        <ele>22</ele>
+      </trkpt>
+      <trkpt lat="41.18912" lon="1.52053">
+        <ele>21.5</ele>
+      </trkpt>
+      <trkpt lat="41.189074" lon="1.520607">
+        <ele>21.5</ele>
+      </trkpt>
+      <trkpt lat="41.188358" lon="1.521614">
+        <ele>20</ele>
+      </trkpt>
+      <trkpt lat="41.18797" lon="1.522124">
+        <ele>20.5</ele>
+      </trkpt>
+      <trkpt lat="41.187784" lon="1.52239">
+        <ele>20.5</ele>
+      </trkpt>
+      <trkpt lat="41.187675" lon="1.522561">
+        <ele>20.75</ele>
+      </trkpt>
+      <trkpt lat="41.187066" lon="1.521999">
+        <ele>17</ele>
+      </trkpt>
+      <trkpt lat="41.186866" lon="1.521819">
+        <ele>15.75</ele>
+      </trkpt>
+      <trkpt lat="41.186652" lon="1.521891">
+        <ele>15</ele>
+      </trkpt>
+      <trkpt lat="41.186158" lon="1.522038">
+        <ele>14.5</ele>
+      </trkpt>
+      <trkpt lat="41.185851" lon="1.522139">
+        <ele>14</ele>
+      </trkpt>
+      <trkpt lat="41.185818" lon="1.522145">
+        <ele>13.75</ele>
+      </trkpt>
+      <trkpt lat="41.185767" lon="1.522159">
+        <ele>13.5</ele>
+      </trkpt>
+      <trkpt lat="41.185792" lon="1.522344">
+        <ele>13.75</ele>
+      </trkpt>
+      <trkpt lat="41.185802" lon="1.522444">
+        <ele>13.75</ele>
+      </trkpt>
+      <trkpt lat="41.185932" lon="1.523598">
+        <ele>16.25</ele>
+      </trkpt>
+      <trkpt lat="41.185953" lon="1.523688">
+        <ele>16.25</ele>
+      </trkpt>
+      <trkpt lat="41.185967" lon="1.523809">
+        <ele>16.5</ele>
+      </trkpt>
+      <trkpt lat="41.18602" lon="1.523839">
+        <ele>16.5</ele>
+      </trkpt>
+      <trkpt lat="41.186093" lon="1.524233">
+        <ele>17.25</ele>
+      </trkpt>
+      <trkpt lat="41.186195" lon="1.524264">
+        <ele>17.75</ele>
+      </trkpt>
+      <trkpt lat="41.186234" lon="1.524588">
+        <ele>18.25</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
