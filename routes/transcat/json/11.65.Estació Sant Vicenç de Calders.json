@@ -1,0 +1,23 @@
+{
+    "title": "Enllaç etapa 11 amb Estació Sant Vicenç de Calders",
+    "full_track_url": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/tracks/11.65.Estaci%C3%B3%20Sant%20Vicen%C3%A7%20de%20Calders.gpx",
+    "prf": [
+        {"km": 0, "alt": 45},
+        {"km": 0.56, "alt": 36},
+        {"km": 0.8, "alt": 45},
+        {"km": 1.49, "alt": 22},
+        {"km": 2.06, "alt": 14},
+        {"km": 2.28, "alt": 18}
+    ],
+    "wps": [
+        {"km": 0, "paviment": 1},
+        {"km": 0.8, "paviment": 1},
+        {"km": 1.12, "paviment": 1},
+        {"km": 1.35, "paviment": 1},
+        {"km": 1.46, "paviment": 1},
+        {"km": 1.83, "paviment": 1},
+        {"km": 1.94, "paviment": 1},
+        {"km": 2.06, "paviment": 1},
+        {"km": 2.28, "paviment": 1}
+      ]
+  }
