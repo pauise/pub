@@ -107,8 +107,14 @@
       "id": "10.00",
       "nom": "Altafulla - Roda de Berà",
       "data": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/json/10.00.Altafulla.Roda.json",
-      "km": 1
-    },    
+      "km": 12.13
+    },
+    {
+      "id": "10.25",
+      "nom": "Estació Torredembarra",
+      "data": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/json/10.25.Estaci%C3%B3%20Torredembarra.json",
+      "km": 1.18
+    },
     {
       "id": "11.00",
       "nom": "Roda de Berà - el Vendrell",
