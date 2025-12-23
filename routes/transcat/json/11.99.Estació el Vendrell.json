@@ -1,0 +1,16 @@
+{
+    "title": "Enllaç etapa 11 i 12 amb Estació el Vendrell",
+    "full_track_url": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/tracks/11.99.Estaci%C3%B3%20el%20Vendrell.gpx",
+    "prf": [
+        {"km": 0, "alt": 46},
+        {"km": 0.09, "alt": 53},
+        {"km": 0.15, "alt": 49},
+        {"km": 0.29, "alt": 49}
+    ],
+    "wps": [
+        {"km": 0, "paviment": 1},
+        {"km": 0.09, "paviment": 1},
+        {"km": 0.13, "paviment": 1},
+        {"km": 0.29, "paviment": 1}
+      ]
+  }
