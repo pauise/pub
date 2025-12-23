@@ -1,0 +1,22 @@
+{
+    "title": "Enllaç etapa 10 amb Estació Torredembarra",
+    "full_track_url": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/tracks/10.25.Estaci%C3%B3%20Torredembarra.gpx",
+    "prf": [
+        {"km": 0, "alt": 24},
+        {"km": 0.14, "alt": 29},
+        {"km": 0.4, "alt": 21},
+        {"km": 0.66, "alt": 21},
+        {"km": 0.89, "alt": 9},
+        {"km": 1.18, "alt": 7}
+    ],
+    "wps": [
+        {"km": 0, "paviment": 1},
+        {"km": 0.14, "paviment": 1},
+        {"km": 0.23, "paviment": 1},
+        {"km": 0.36, "paviment": 1},
+        {"km": 0.4, "paviment": 1},
+        {"km": 0.66, "paviment": 1},
+        {"km": 0.9, "paviment": 1},
+        {"km": 1.18, "paviment": 1}
+      ]
+  }
