@@ -118,15 +118,15 @@
     {
       "id": "11.00",
       "nom": "Roda de Berà - el Vendrell",
-      "data": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/json/11.00.Roda.Vendrell.json",
-      "km": 1
+      "data": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/json/11.00.Roda%20de%20Ber%C3%A0.el%20Vendrell.json",
+      "km": 9.49
     },    
     {
-      "id": "10.99",
+      "id": "11.99",
       "nom": "Estació el Vendrell",
-      "data": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/json/07.99.Estaci%C3%B3%20Vendrell.json",
-      "km": 1
-    },
+      "data": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/json/11.99.Estaci%C3%B3%20el%20Vendrell.json",
+      "km": 0.29
+    },    
     {
       "id": "12.00",
       "nom": "el Vendrell - L'Arboç",
