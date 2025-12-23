@@ -1,0 +1,18 @@
+{
+    "title": "Enllaç etapa 9 i 10 amb Estació Altafulla",
+    "full_track_url": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/tracks/09.99.Estaci%C3%B3%20Altafulla.gpx",
+    "prf": [
+        {"km": 0, "alt": 27},
+        {"km": 0.34, "alt": 15},
+        {"km": 1.05, "alt": 16},
+        {"km": 1.27, "alt": 7}
+    ],
+    "wps": [
+        {"km": 0, "paviment": 1},
+        {"km": 0.34, "paviment": 1},
+        {"km": 0.43, "paviment": 1},
+        {"km": 0.91, "paviment": 1},
+        {"km": 1.05, "paviment": 1},
+        {"km": 1.27, "paviment": 1}
+      ]
+  }
