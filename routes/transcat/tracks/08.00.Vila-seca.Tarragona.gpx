@@ -31,7 +31,7 @@ A Etapa 7 🧭SW</desc>
     <name>3 🔄2a↗️</name>
     <cmt>🔄Rotonda. Sortir per la 2a a la ↗️dreta</cmt>
     <desc>🔄Rotonda. Sortir per la 2a a la ↗️dreta</desc>
-    <sym>Crossing</sym>
+    <sym>Rotonda</sym>
   </wpt>
   <wpt lat="41.120093" lon="1.153236">
     <ele>43.29963445387633</ele>
@@ -66,7 +66,7 @@ A Etapa 7 🧭SW</desc>
     <name>8 ⚠️🚗🔄➡️🚶</name>
     <cmt>Amb molta precaució pel ⚠️🚗trànsit, creuem la sortida de la 🔄rotonda per la que venim caminant i creuem el sentit invers d&apos;entrada per tornar a agafar el voral de volta cap avall a la ➡️dreta a 🚶peu</cmt>
     <desc>Amb molta precaució pel ⚠️🚗trànsit, creuem la sortida de la 🔄rotonda per la que venim caminant i creuem el sentit invers d&apos;entrada per tornar a agafar el voral de volta cap avall a la ➡️dreta a 🚶peu</desc>
-    <sym>Crossing</sym>
+    <sym>Alert</sym>
   </wpt>
   <wpt lat="41.118442" lon="1.162692">
     <ele>32.928376735514966</ele>
@@ -157,14 +157,14 @@ A Etapa 7 🧭SW</desc>
     <name>21 🔄2a↗️</name>
     <cmt>🔄Rotonda. Sortim per la 2a a la ↗️dreta</cmt>
     <desc>🔄Rotonda. Sortim per la 2a a la ↗️dreta</desc>
-    <sym>Crossing</sym>
+    <sym>Rotonda</sym>
   </wpt>
   <wpt lat="41.131638" lon="1.205483">
     <ele>55.21589221912812</ele>
     <name>22 🔄1a↗️︵🔄2a↗️</name>
     <cmt>🔄Rotonda. Sortir per la 1a a la ↗️dreta per creuar l&apos;A-7 pel ︵ pont i seguidament 🔄rotonda. Sortir per la 2a a la↗️dreta</cmt>
     <desc>🔄Rotonda. Sortir per la 1a a la ↗️dreta per creuar l&apos;A-7 pel ︵ pont i seguidament 🔄rotonda. Sortir per la 2a a la↗️dreta</desc>
-    <sym>Crossing</sym>
+    <sym>Rotonda</sym>
   </wpt>
   <wpt lat="41.130093" lon="1.206879">
     <ele>50.61025912012062</ele>
@@ -192,7 +192,6 @@ A Etapa 7 🧭SW</desc>
     <name>26 ⬆️Inici asfalt ︵</name>
     <cmt>Inici asfalt. Seguim⬆️recte i tot seguit creuem A-27 per sobre el ︵ pont. </cmt>
     <desc>Inici asfalt. Seguim⬆️recte i tot seguit creuem A-27 per sobre el ︵ pont. </desc>
-    <sym>Road</sym>
   </wpt>
   <wpt lat="41.124332" lon="1.230983">
     <ele>12.30760480544824</ele>
@@ -227,18 +226,18 @@ A Etapa 7 🧭SW</desc>
     <name>31 🔄1a↗️</name>
     <cmt>🔄Rotonda. Surt per la 1a a la↗️dreta per Rambla Francesc Macià</cmt>
     <desc>🔄Rotonda. Surt per la 1a a la↗️dreta per Rambla Francesc Macià</desc>
-    <sym>Crossing</sym>
+    <sym>Rotonda</sym>
   </wpt>
   <wpt lat="41.121062" lon="1.240809">
     <ele>32.90986445276138</ele>
-    <name>32 🏁Final etapa 8🔄</name>
+    <name>🏁Final etapa 8🔄</name>
     <cmt>🔄Rotonda:
 1a ↗️🧭SW a 🚉Estació Tarragona
 3a ↗️🧭NE a Etapa 9</cmt>
     <desc>🔄Rotonda:
 1a ↗️🧭SW a 🚉Estació Tarragona
 3a ↗️🧭NE a Etapa 9</desc>
-    <sym>Crossing</sym>
+    <sym>Rotonda</sym>
   </wpt>
   <trk>
     <name>Transcat - Etapa 8: Vila-seca - Tarragona</name>
