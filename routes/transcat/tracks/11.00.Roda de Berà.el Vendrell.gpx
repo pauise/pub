@@ -52,44 +52,53 @@ Sortim per l&apos;andana🧭E</desc>
     <desc>A la ╠ desviació seguim ⬆️recte pel Camí de la Costa Roja</desc>
     <sym>Crossing</sym>
   </wpt>
+  <wpt lat="41.200079" lon="1.51599">
+    <ele>44.94697990167336</ele>
+    <name>7 ╠⬆️</name>
+    <cmt>╠ Cruïlla. Seguim ⬆️recte:
+🧭SE a 🚉Estació Sant Vicenç de Calders en 2.28 kms</cmt>
+    <desc>╠ Cruïlla. Seguim ⬆️recte:
+🧭SE a 🚉Estació Sant Vicenç de Calders en 2.28 kms</desc>
+    <sym>Crossing</sym>
+  </wpt>
   <wpt lat="41.202014" lon="1.518523">
     <ele>47.17008625664825</ele>
-    <name>7 🔄1a↗️🧭SE</name>
+    <name>8 🔄1a↗️🧭SE</name>
     <cmt>🔄Rotonda. Surt per la 1a a la ↗️dreta 🧭SE pel Camí del Mar</cmt>
     <desc>🔄Rotonda. Surt per la 1a a la ↗️dreta 🧭SE pel Camí del Mar</desc>
     <sym>Rotonda</sym>
   </wpt>
   <wpt lat="41.200327" lon="1.522662">
     <ele>33.95443099793113</ele>
-    <name>8 ╦⬅️</name>
+    <name>9 ╦⬅️</name>
     <cmt>╦ Cruïlla. ⬅️Esquerra pel Camí del Mar. Fi asfalt</cmt>
     <desc>╦ Cruïlla. ⬅️Esquerra pel Camí del Mar. Fi asfalt</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="41.200486" lon="1.523527">
     <ele>34.35084179295241</ele>
-    <name>9 ╠↖️🧭NE</name>
+    <name>10 ╠↖️🧭NE</name>
     <cmt>╠ Desviem a ↖️l&apos;esquerra 🧭NE pel Camí Ral </cmt>
     <desc>╠ Desviem a ↖️l&apos;esquerra 🧭NE pel Camí Ral </desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="41.205428" lon="1.52906">
     <ele>30.693976562872507</ele>
-    <name>10 ╦↖️🧭N Via Augusta</name>
+    <name>11 ╦↖️🧭N Via Augusta</name>
     <cmt>Ens ╦ incorporem a camí més important per ↖️l&apos;esquerra 🧭N per Via Augusta</cmt>
     <desc>Ens ╦ incorporem a camí més important per ↖️l&apos;esquerra 🧭N per Via Augusta</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="41.208295" lon="1.53013">
     <ele>31.96869805587548</ele>
-    <name>11 ╠↖️</name>
+    <name>12 ╠↖️</name>
     <cmt>Seguim camí principal per ↖️l&apos;esquerra</cmt>
     <desc>Seguim camí principal per ↖️l&apos;esquerra</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="41.211801" lon="1.530393">
     <ele>38.77206036322822</ele>
-    <name>12 El Vendrell ╦➡️</name>
+    <name>13 El Vendrell ╦➡️</name>
     <cmt>El Vendrell
 ╦ Carrer de l&apos;Alguer.➡️Dreta. Inici asfalt.</cmt>
     <desc>El Vendrell
@@ -98,21 +107,21 @@ Sortim per l&apos;andana🧭E</desc>
   </wpt>
   <wpt lat="41.213527" lon="1.532967">
     <ele>42.00373223568314</ele>
-    <name>13 ↗️🚶</name>
+    <name>14 ↗️🚶</name>
     <cmt>Ens passem a l&apos;acera perquè el carrer esdevé sentit prohibit però ens interessa seguir-lo</cmt>
     <desc>Ens passem a l&apos;acera perquè el carrer esdevé sentit prohibit però ens interessa seguir-lo</desc>
     <sym>Alert</sym>
   </wpt>
   <wpt lat="41.213957" lon="1.533564">
     <ele>42.968439040007524</ele>
-    <name>14 ➡️↖️↗️🚶</name>
+    <name>15 ➡️↖️↗️🚶</name>
     <cmt>En arriba a la Plaça del Cintoi, ➡️Dreta per Carrer del President Companys i de seguida ↖️esquerra i ↗️dreta per 🚶l&apos;acera del Carrer del País Valencià</cmt>
     <desc>En arriba a la Plaça del Cintoi, ➡️Dreta per Carrer del President Companys i de seguida ↖️esquerra i ↗️dreta per 🚶l&apos;acera del Carrer del País Valencià</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="41.214046" lon="1.534546">
     <ele>40.29730446226959</ele>
-    <name>15 🛒🚶↖️🚶🚲↖️</name>
+    <name>16 🛒🚶↖️🚶🚲↖️</name>
     <cmt>🛒Supermercat
 Seguim per l&apos;acera, creuem el 1r 🚶pas de vianants , seguim a ↖️esquerres i creuem el 2n 🚶pas de vianants i ens incorporem al 🚲carril bici que comença aquí per ↖️l&apos;esquerra</cmt>
     <desc>🛒Supermercat
@@ -121,7 +130,7 @@ Seguim per l&apos;acera, creuem el 1r 🚶pas de vianants , seguim a ↖️esque
   </wpt>
   <wpt lat="41.215951" lon="1.535665">
     <ele>41.35174173112063</ele>
-    <name>16 ╬➡️⌒ ╬ ⬅️🧭NE</name>
+    <name>17 ╬➡️⌒ ╬ ⬅️🧭NE</name>
     <cmt>╬ Carrer del Forn de Calç. ➡️Dreta per ⌒ túnel sota les vies.
 Un cop creuat, ╬ cruïlla. ⬅️Esquerra 🧭NE per Carrer de Josep Tarradelles</cmt>
     <desc>╬ Carrer del Forn de Calç. ➡️Dreta per ⌒ túnel sota les vies.
@@ -130,7 +139,7 @@ Un cop creuat, ╬ cruïlla. ⬅️Esquerra 🧭NE per Carrer de Josep Tarradell
   </wpt>
   <wpt lat="41.216789" lon="1.536912">
     <ele>42.900000000001455</ele>
-    <name>17 ╣⬅️🧭N</name>
+    <name>18 ╣⬅️🧭N</name>
     <cmt>╣ Desviar.⬅️Esquerra 🧭N per Carrer de Ramon d&apos;Abadal</cmt>
     <desc>╣ Desviar.⬅️Esquerra 🧭N per Carrer de Ramon d&apos;Abadal</desc>
     <sym>Crossing</sym>
