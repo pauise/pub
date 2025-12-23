@@ -1,0 +1,19 @@
+{
+    "title": "Enllaç etapa 8 i 9 amb Estació Tarragona",
+    "full_track_url": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/tracks/08.99.Estaci%C3%B3%20Tarragona.gpx",
+    "prf": [
+        {"km": 0, "alt": 33},
+        {"km": 0.39, "alt": 22},
+        {"km": 0.77, "alt": 49},
+        {"km": 1.17, "alt": 44},
+        {"km": 1.85, "alt": 9}
+    ],
+    "wps": [
+        {"km": 0, "paviment": 1},
+        {"km": 0.39, "paviment": 1},
+        {"km": 1.14, "paviment": 1},
+        {"km": 1.39, "paviment": 1},
+        {"km": 1.62, "paviment": 1},
+        {"km": 0.6, "paviment": 1}
+      ]
+  }
