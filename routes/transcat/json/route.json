@@ -88,8 +88,8 @@
     {
       "id": "08.99",
       "nom": "Estació Tarragona",
-      "data": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/json/07.99.Estaci%C3%B3%20Tarragona.json",
-      "km": 2.07
+      "data": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/json/08.99.Estaci%C3%B3%20Tarragona.json",
+      "km": 1.85
     },
     {
       "id": "09.00",
