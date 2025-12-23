@@ -95,13 +95,13 @@
       "id": "09.00",
       "nom": "Tarragona - Altafulla",
       "data": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/json/09.00.Tarragona.Altafulla.json",
-      "km": 1
+      "km": 13.94
     },    
     {
       "id": "09.99",
       "nom": "Estació Altafulla",
       "data": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/json/07.99.Estaci%C3%B3%20Altafulla.json",
-      "km": 1
+      "km": 1.27
     },
     {
       "id": "10.00",
