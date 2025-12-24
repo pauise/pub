@@ -154,8 +154,8 @@
     {
       "id": "13.60",
       "nom": "Estació Els Monjos",
-      "data": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/json/07.99.Estaci%C3%B3%20Monjos.json",
-      "km": 1
+      "data": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/json/13.60.Estaci%C3%B3%20els%20Monjos.json",
+      "km": 0.39
     },
     {
       "id": "14.00",
