@@ -164,6 +164,12 @@
       "km": 1
     },
     {
+      "id": "14.25",
+      "nom": "Estació La Granada",
+      "data": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/json/14.25.Estaci%C3%B3%20La%20Granada.json",
+      "km": 0.68
+    },
+    {
       "id": "15.00",
       "nom": "Sant Sadurní - Gelida",
       "data": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/json/15.00.Sant%20Sadurni.Gelida.json",
