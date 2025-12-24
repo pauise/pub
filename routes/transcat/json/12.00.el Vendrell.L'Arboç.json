@@ -1,0 +1,34 @@
+{
+    "title": "Etapa 12: el Vendrell - L'Arboç",
+    "full_track_url": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/tracks/12.00.el%20Vendrell.L'Arbo%C3%A7.gpx",
+    "prf": [
+        {"km": 0, "alt": 46},
+        {"km": 6.94, "alt": 136},
+        {"km": 7.32, "alt": 121},
+        {"km": 8.75, "alt": 160}
+    ],
+    "wps": [
+        {"km": 0, "paviment": 1},
+        {"km": 0.17, "paviment": 1},
+        {"km": 0.43, "paviment": 1},
+        {"km": 0.63, "paviment": 1},
+        {"km": 0.89, "paviment": 1},
+        {"km": 1.66, "paviment": 1},
+        {"km": 2.24, "paviment": 1},
+        {"km": 3.81, "paviment": 1},
+        {"km": 3.86, "paviment": 1},
+        {"km": 4.25, "paviment": 1},
+        {"km": 5.19, "paviment": 1},
+        {"km": 5.28, "paviment": 1},
+        {"km": 5.9, "paviment": 1},
+        {"km": 6.76, "paviment": 1},
+        {"km": 6.91, "paviment": 1},
+        {"km": 7, "paviment": 1},
+        {"km": 7.14, "paviment": 1},
+        {"km": 8.16, "paviment": 1},
+        {"km": 8.24, "paviment": 1},
+        {"km": 8.49, "paviment": 1},
+        {"km": 8.69, "paviment": 1},
+        {"km": 8.75, "paviment": 1}
+      ]
+  }
