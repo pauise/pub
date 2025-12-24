@@ -1,0 +1,15 @@
+{
+    "title": "Enllaç etapa 14 i 15 amb Estació Sant Sadurní d'Anoia",
+    "full_track_url": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/tracks/14.99.Estaci%C3%B3%20Sant%20Sadurn%C3%AD.gpx",
+    "prf": [
+        {"km": 0, "alt": 143},
+        {"km": 0.09, "alt": 136},
+        {"km": 0.2, "alt": 150},
+        {"km": 0.29, "alt": 145},
+        {"km": 0.44, "alt": 152}
+    ],
+    "wps": [
+        {"km": 0, "paviment": 1},
+        {"km": 0.44, "paviment": 1}
+      ]
+  }
