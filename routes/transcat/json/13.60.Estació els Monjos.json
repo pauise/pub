@@ -1,0 +1,13 @@
+{
+    "title": "Enllaç 13 amb Estació els Monjos",
+    "full_track_url": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/tracks/13.60.Estaci%C3%B3%20Els%20Monjos.gpx",
+    "prf": [
+        {"km": 0, "alt": 166},
+        {"km": 0.09, "alt": 167},
+        {"km": 0.39, "alt": 162}
+    ],
+    "wps": [
+        {"km": 0, "paviment": 1},
+        {"km": 0.39, "paviment": 1}
+      ]
+  }
