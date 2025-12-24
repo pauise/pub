@@ -36,7 +36,7 @@
   <wpt lat="41.264264" lon="1.603817">
     <ele>151.49665852850427</ele>
     <name>4 Fi asfalt</name>
-    <sym>Road</sym>
+    <sym>End of Road</sym>
   </wpt>
   <wpt lat="41.262415" lon="1.604761">
     <ele>150.6506142350326</ele>
@@ -92,7 +92,7 @@
     <name>12 ⛪╠↖️</name>
     <cmt>⛪Església de Sant Esteve. ╠ Seguim per ↖️l&apos;esquerra</cmt>
     <desc>⛪Església de Sant Esteve. ╠ Seguim per ↖️l&apos;esquerra</desc>
-    <sym>Crossing</sym>
+    <sym>Church</sym>
   </wpt>
   <wpt lat="41.293795" lon="1.641286">
     <ele>135.6098685941663</ele>
@@ -141,125 +141,125 @@
     <name>19 ↖️N-340🚲🧭NE</name>
     <cmt>Ens incorporem ↖️ a la N-340 🚲pacificada 🧭NE</cmt>
     <desc>Ens incorporem ↖️ a la N-340 🚲pacificada 🧭NE</desc>
-    <sym>Bike Trail</sym>
+    <sym>Bike Lane</sym>
   </wpt>
   <wpt lat="41.309317" lon="1.646934">
     <ele>161.84301291150706</ele>
-    <name>21 ↖️🚲</name>
+    <name>20 ↖️🚲</name>
     <cmt>Per ↖️l&apos;esquerra ens incorporem al 🚲carril bici del lateral </cmt>
     <desc>Per ↖️l&apos;esquerra ens incorporem al 🚲carril bici del lateral </desc>
-    <sym>Bike Trail</sym>
+    <sym>Bike Lane</sym>
   </wpt>
   <wpt lat="41.311723" lon="1.649152">
     <ele>167.70269282718726</ele>
-    <name>22 ↖️🚶🚲</name>
+    <name>21 ↖️🚶🚲</name>
     <cmt>Tombem a ↖️esquerres i creuant el🚶pas de vianants continuem pel 🚲carril bici</cmt>
     <desc>Tombem a ↖️esquerres i creuant el🚶pas de vianants continuem pel 🚲carril bici</desc>
-    <sym>Bike Trail</sym>
-  </wpt>
-  <wpt lat="41.318361" lon="1.658608">
-    <ele>170.65671741563202</ele>
-    <name>24 ⬅️🚲</name>
-    <cmt>Continuem a ⬅️l&apos;esquerra pel 🚲carril bici</cmt>
-    <desc>Continuem a ⬅️l&apos;esquerra pel 🚲carril bici</desc>
-    <sym>Bike Trail</sym>
-  </wpt>
-  <wpt lat="41.319736" lon="1.657546">
-    <ele>171.33768237400923</ele>
-    <name>25 ╠➡️</name>
-    <cmt>╠ Deixem el carril bici i tombem a la ➡️dreta</cmt>
-    <desc>╠ Deixem el carril bici i tombem a la ➡️dreta</desc>
-    <sym>Crossing</sym>
-  </wpt>
-  <wpt lat="41.320807" lon="1.659593">
-    <ele>173.7594235748984</ele>
-    <name>26 ⬆️🌳🛝🚰🥪☕🍽️↖️🧭NE</name>
-    <cmt>Al cap del carrer pujem a l&apos;acera i seguim ⬆️recte per entrar al 🌳🛝🚰🥪Parc del Patufet. Enfront☕🍽️terrassa. Seguirem ↖️esquerra 45º Carrer del Most🧭NE</cmt>
-    <desc>Al cap del carrer pujem a l&apos;acera i seguim ⬆️recte per entrar al 🌳🛝🚰🥪Parc del Patufet. Enfront☕🍽️terrassa. Seguirem ↖️esquerra 45º Carrer del Most🧭NE</desc>
-    <sym>Park</sym>
-  </wpt>
-  <wpt lat="41.321718" lon="1.660308">
-    <ele>178.20250472438127</ele>
-    <name>27 🔄2a↗️🧭NE🚲</name>
-    <cmt>🔄Rotonda. Surt per la 2a a la ↗️dreta 🧭NE per 🚲carril bici de Carrer de les Flors</cmt>
-    <desc>🔄Rotonda. Surt per la 2a a la ↗️dreta 🧭NE per 🚲carril bici de Carrer de les Flors</desc>
-    <sym>Bike Trail</sym>
-  </wpt>
-  <wpt lat="41.323266" lon="1.66303">
-    <ele>172.52250367220554</ele>
-    <name>28 🚳╬↗️</name>
-    <cmt>🚳Fi carril bici. ╬ Cruïlla. Seguim lleugerament a la ↗️dreta per Rambla de Penyalet</cmt>
-    <desc>🚳Fi carril bici. ╬ Cruïlla. Seguim lleugerament a la ↗️dreta per Rambla de Penyalet</desc>
-    <sym>Crossing</sym>
-  </wpt>
-  <wpt lat="41.324124" lon="1.664668">
-    <ele>175.90000000000146</ele>
-    <name>29 🍽️╬➡️🌳🛝☕</name>
-    <cmt>🍽️Braseria. ╬ Cruïlla. ➡️Dreta per Carrer de Santa Margarida. Passem 🌳🛝Parc infantil i ☕bar</cmt>
-    <desc>🍽️Braseria. ╬ Cruïlla. ➡️Dreta per Carrer de Santa Margarida. Passem 🌳🛝Parc infantil i ☕bar</desc>
-    <sym>Crossing</sym>
-  </wpt>
-  <wpt lat="41.323042" lon="1.665936">
-    <ele>173.0117065170076</ele>
-    <name>30 ⚕️╦⬅️🚶</name>
-    <cmt>⚕️Farmàcia. ╦ Cruïlla. ⬅️Esquerra per 🚶l&apos;acera d&apos;Avinguda de Catalunya (N-340)</cmt>
-    <desc>⚕️Farmàcia. ╦ Cruïlla. ⬅️Esquerra per 🚶l&apos;acera d&apos;Avinguda de Catalunya (N-340)</desc>
-    <sym>Crossing</sym>
-  </wpt>
-  <wpt lat="41.32729168700649" lon="1.6752427362619073">
-    <ele>175.98581520198005</ele>
-    <name>32 ↖️⌒</name>
-    <cmt>Seguim a ↖️l&apos;esquerra pel ⌒ túnel sota la sortida de l&apos;AP-7</cmt>
-    <desc>Seguim a ↖️l&apos;esquerra pel ⌒ túnel sota la sortida de l&apos;AP-7</desc>
-    <sym>Tunnel</sym>
+    <sym>Bike Lane</sym>
   </wpt>
   <wpt lat="41.317515" lon="1.657442">
     <ele>165.73344085036587</ele>
-    <name>23 ╠ ⬆️🚲</name>
+    <name>22 ╠ ⬆️🚲</name>
     <cmt>╠ Carrer de l&apos;Estació. Seguim ⬆️recte pel 🚲 carril bici:
 ➡️ a 🚉Estació els Monjos en 0,39kms</cmt>
     <desc>╠ Carrer de l&apos;Estació. Seguim ⬆️recte pel 🚲 carril bici:
 ➡️ a 🚉Estació els Monjos en 0,39kms</desc>
     <sym>Crossing</sym>
   </wpt>
+  <wpt lat="41.318361" lon="1.658608">
+    <ele>170.65671741563202</ele>
+    <name>23 ⬅️🚲</name>
+    <cmt>Continuem a ⬅️l&apos;esquerra pel 🚲carril bici</cmt>
+    <desc>Continuem a ⬅️l&apos;esquerra pel 🚲carril bici</desc>
+    <sym>Bike Lane</sym>
+  </wpt>
+  <wpt lat="41.319736" lon="1.657546">
+    <ele>171.33768237400923</ele>
+    <name>24 ╠➡️</name>
+    <cmt>╠ Deixem el carril bici i tombem a la ➡️dreta</cmt>
+    <desc>╠ Deixem el carril bici i tombem a la ➡️dreta</desc>
+    <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="41.320807" lon="1.659593">
+    <ele>173.7594235748984</ele>
+    <name>25 ⬆️🌳🛝🚰🥪☕🍽️↖️🧭NE</name>
+    <cmt>Al cap del carrer pujem a l&apos;acera i seguim ⬆️recte per entrar al 🌳🛝🚰🥪Parc del Patufet. Enfront☕🍽️terrassa. Seguirem ↖️esquerra 45º Carrer del Most🧭NE</cmt>
+    <desc>Al cap del carrer pujem a l&apos;acera i seguim ⬆️recte per entrar al 🌳🛝🚰🥪Parc del Patufet. Enfront☕🍽️terrassa. Seguirem ↖️esquerra 45º Carrer del Most🧭NE</desc>
+    <sym>Park</sym>
+  </wpt>
+  <wpt lat="41.321718" lon="1.660308">
+    <ele>178.20250472438127</ele>
+    <name>26 🔄2a↗️🧭NE🚲</name>
+    <cmt>🔄Rotonda. Surt per la 2a a la ↗️dreta 🧭NE per 🚲carril bici de Carrer de les Flors</cmt>
+    <desc>🔄Rotonda. Surt per la 2a a la ↗️dreta 🧭NE per 🚲carril bici de Carrer de les Flors</desc>
+    <sym>Bike Lane</sym>
+  </wpt>
+  <wpt lat="41.323266" lon="1.66303">
+    <ele>172.52250367220554</ele>
+    <name>27 🚳╬↗️</name>
+    <cmt>🚳Fi carril bici. ╬ Cruïlla. Seguim lleugerament a la ↗️dreta per Rambla de Penyalet</cmt>
+    <desc>🚳Fi carril bici. ╬ Cruïlla. Seguim lleugerament a la ↗️dreta per Rambla de Penyalet</desc>
+    <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="41.324124" lon="1.664668">
+    <ele>175.90000000000146</ele>
+    <name>28 🍽️╬➡️🌳🛝☕</name>
+    <cmt>🍽️Braseria. ╬ Cruïlla. ➡️Dreta per Carrer de Santa Margarida. Passem 🌳🛝Parc infantil i ☕bar</cmt>
+    <desc>🍽️Braseria. ╬ Cruïlla. ➡️Dreta per Carrer de Santa Margarida. Passem 🌳🛝Parc infantil i ☕bar</desc>
+    <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="41.323042" lon="1.665936">
+    <ele>173.0117065170076</ele>
+    <name>29 ⚕️╦⬅️🚶</name>
+    <cmt>⚕️Farmàcia. ╦ Cruïlla. ⬅️Esquerra per 🚶l&apos;acera d&apos;Avinguda de Catalunya (N-340)</cmt>
+    <desc>⚕️Farmàcia. ╦ Cruïlla. ⬅️Esquerra per 🚶l&apos;acera d&apos;Avinguda de Catalunya (N-340)</desc>
+    <sym>Crossing</sym>
+  </wpt>
   <wpt lat="41.323294" lon="1.666426">
     <ele>174.433835425808</ele>
-    <name>31 ➡️🚶⬅️🚲🧭NE</name>
+    <name>30 ➡️🚶⬅️🚲🧭NE</name>
     <cmt>➡️Dreta per 🚶creuar pel pas de vianants i ⬅️esquerra pel 🚲carril bici 🧭NE</cmt>
     <desc>➡️Dreta per 🚶creuar pel pas de vianants i ⬅️esquerra pel 🚲carril bici 🧭NE</desc>
-    <sym>Bike Trail</sym>
+    <sym>Bike Lane</sym>
+  </wpt>
+  <wpt lat="41.32729168700649" lon="1.6752427362619073">
+    <ele>175.98581520198005</ele>
+    <name>31 ↖️⌒</name>
+    <cmt>Seguim a ↖️l&apos;esquerra pel ⌒ túnel sota la sortida de l&apos;AP-7</cmt>
+    <desc>Seguim a ↖️l&apos;esquerra pel ⌒ túnel sota la sortida de l&apos;AP-7</desc>
+    <sym>Tunnel</sym>
   </wpt>
   <wpt lat="41.331712" lon="1.679882">
     <ele>186.8950280682663</ele>
-    <name>33 ↗️🚲</name>
+    <name>32 ↗️🚲</name>
     <cmt>Seguim ↗️pel 🚲 carril bici</cmt>
     <desc>Seguim ↗️pel 🚲 carril bici</desc>
-    <sym>Bike Trail</sym>
+    <sym>Bike Lane</sym>
   </wpt>
   <wpt lat="41.338849" lon="1.691117">
     <ele>199.9917384687346</ele>
-    <name>34 🚳⬆️🚶</name>
+    <name>33 🚳⬆️🚶</name>
     <cmt>🚳Fi carril bici. ⬆️Recte per 🚶 l&apos;acera</cmt>
     <desc>🚳Fi carril bici. ⬆️Recte per 🚶 l&apos;acera</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="41.33934" lon="1.691765">
     <ele>203.68615488912997</ele>
-    <name>35 ➡️🚲🧭SW</name>
+    <name>34 ➡️🚲🧭SW</name>
     <cmt>Agafem el carrer a la ➡️dreta i ens incorporem a un 🚲carril bici 🧭SW pel Carrer del Camí Fariner</cmt>
     <desc>Agafem el carrer a la ➡️dreta i ens incorporem a un 🚲carril bici 🧭SW pel Carrer del Camí Fariner</desc>
-    <sym>Bike Trail</sym>
+    <sym>Bike Lane</sym>
   </wpt>
   <wpt lat="41.338851" lon="1.692841">
     <ele>206.78512437179097</ele>
-    <name>36 ⬆️🚲</name>
+    <name>35 ⬆️🚲</name>
     <cmt>⬆️Segium pel 🚲carril bici del Camí Fariner</cmt>
     <desc>⬆️Segium pel 🚲carril bici del Camí Fariner</desc>
-    <sym>Bike Trail</sym>
+    <sym>Bike Lane</sym>
   </wpt>
   <wpt lat="41.338182" lon="1.695797">
     <ele>214.87219843725956</ele>
-    <name>37 🚳╦🚶⬅️🚰➡️</name>
+    <name>36 🚳╦🚶⬅️🚰➡️</name>
     <cmt>🚳Fi carril bici. ╦ Ctra. de Moja. Creuar per🚶pas de vianants i ⬅️esquerra. 🚰Font potable. 
 Agafem a la ➡️dreta el carrer d&apos;Ignasi Iglesias</cmt>
     <desc>🚳Fi carril bici. ╦ Ctra. de Moja. Creuar per🚶pas de vianants i ⬅️esquerra. 🚰Font potable. 
@@ -268,31 +268,31 @@ Agafem a la ➡️dreta el carrer d&apos;Ignasi Iglesias</desc>
   </wpt>
   <wpt lat="41.339611" lon="1.697381">
     <ele>220.4459202476316</ele>
-    <name>38 ╬➡️🚶</name>
+    <name>37 ╬➡️🚶</name>
     <cmt>╬ Cruïlla amb Carrer Tossa de Mar.➡️Dreta. Aquest tram podríem anar per 🚶l&apos;acera </cmt>
     <desc>╬ Cruïlla amb Carrer Tossa de Mar.➡️Dreta. Aquest tram podríem anar per 🚶l&apos;acera </desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="41.338913" lon="1.698165">
     <ele>216.9993944231619</ele>
-    <name>39 🛒⬅️🚶➡️🚶⬆️5m⬅️🚲</name>
+    <name>38 🛒⬅️🚶➡️🚶⬆️5m⬅️🚲</name>
     <cmt>🛒Supermercat. ⬅️Esquerra en el🚶pas de vianants , ➡️dreta i creuar l&apos;altre 🚶pas i 5m més ⬆️endavant ⬅️esquerra per 🚲carril bici</cmt>
     <desc>🛒Supermercat. ⬅️Esquerra en el🚶pas de vianants , ➡️dreta i creuar l&apos;altre 🚶pas i 5m més ⬆️endavant ⬅️esquerra per 🚲carril bici</desc>
-    <sym>Bike Trail</sym>
+    <sym>Bike Lane</sym>
   </wpt>
   <wpt lat="41.341699" lon="1.700891">
     <ele>220.72003130303585</ele>
-    <name>40 ↖️🚲</name>
+    <name>39 ↖️🚲</name>
     <cmt>Continuem ↖️ lleugerament a esquerres pel 🚲carril bici</cmt>
     <desc>Continuem ↖️ lleugerament a esquerres pel 🚲carril bici</desc>
-    <sym>Bike Trail</sym>
+    <sym>Bike Lane</sym>
   </wpt>
   <wpt lat="41.342702" lon="1.701603">
     <ele>224.42898351755062</ele>
-    <name>41 ↗️🚶↖️🚲</name>
+    <name>40 ↗️🚶↖️🚲</name>
     <cmt>Seguim a dretes ↗️ per creuar per un ampli🚶pas de vianants i seguit a ↖️esquerres retrobem el 🚲carril bici</cmt>
     <desc>Seguim a dretes ↗️ per creuar per un ampli🚶pas de vianants i seguit a ↖️esquerres retrobem el 🚲carril bici</desc>
-    <sym>Bike Trail</sym>
+    <sym>Bike Lane</sym>
   </wpt>
   <wpt lat="41.344465" lon="1.703553">
     <ele>223.14930175999265</ele>
