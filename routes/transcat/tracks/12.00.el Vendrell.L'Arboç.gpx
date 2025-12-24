@@ -31,21 +31,21 @@
     <name>3🔄2a↗️🧭N</name>
     <cmt>🔄Rotonda. Surt per la 2a a la ↗️dreta🧭N per Carrer del Margalló</cmt>
     <desc>🔄Rotonda. Surt per la 2a a la ↗️dreta🧭N per Carrer del Margalló</desc>
-    <sym>Crossing</sym>
+    <sym>Rotonda</sym>
   </wpt>
   <wpt lat="41.223085" lon="1.541506">
     <ele>56.61593941338458</ele>
     <name>4 🔄2a↗️🚶🧭NE</name>
     <cmt>🔄Rotonda. Surt per la 2a a la ↗️dreta, creuar a l&apos;altra banda per 🚶pas de vianants i seguir per l&apos;acera 🧭NE per Carretera de Barcelona</cmt>
     <desc>🔄Rotonda. Surt per la 2a a la ↗️dreta, creuar a l&apos;altra banda per 🚶pas de vianants i seguir per l&apos;acera 🧭NE per Carretera de Barcelona</desc>
-    <sym>Crossing</sym>
+    <sym>Rotonda</sym>
   </wpt>
   <wpt lat="41.224488" lon="1.543903">
     <ele>56.00699757118742</ele>
     <name>5 🔄1r🚶⬅️🧭N</name>
     <cmt>🔄Rotonda. Seguim per l&apos;acera i en el 1r🚶pas de vianants baixem i ens incorporem a la carretera ⬅️🧭N pel Carrer de les Mates</cmt>
     <desc>🔄Rotonda. Seguim per l&apos;acera i en el 1r🚶pas de vianants baixem i ens incorporem a la carretera ⬅️🧭N pel Carrer de les Mates</desc>
-    <sym>Crossing</sym>
+    <sym>Rotonda</sym>
   </wpt>
   <wpt lat="41.229883" lon="1.548656">
     <ele>59.53868448101026</ele>
@@ -73,7 +73,7 @@
     <name>9 🔄2a↗️🧭N</name>
     <cmt>🔄Rotonda. Surt per la 2a a la ↗️dreta 🧭N per Camí del Bellrec</cmt>
     <desc>🔄Rotonda. Surt per la 2a a la ↗️dreta 🧭N per Camí del Bellrec</desc>
-    <sym>Crossing</sym>
+    <sym>Rotonda</sym>
   </wpt>
   <wpt lat="41.24419" lon="1.567454">
     <ele>91.66237515614343</ele>
