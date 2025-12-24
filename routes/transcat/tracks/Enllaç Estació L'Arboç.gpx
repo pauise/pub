@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx creator="https://gpx.studio" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/PowerExtension/v1 http://www.garmin.com/xmlschemas/PowerExtensionv1.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxpx="http://www.garmin.com/xmlschemas/PowerExtension/v1" xmlns:gpx_style="http://www.topografix.com/GPX/gpx_style/0/2">
+  <metadata>
+    <name>Enllaç Estació L&apos;Arboç</name>
+    <desc>L&apos;Arboç centre - Estació L&apos;Arboç</desc>
+    <author>
+      <name>gpx.studio</name>
+      <link href="https://gpx.studio"/>
+    </author>
+  </metadata>
+  <wpt lat="41.265837" lon="1.601983">
+    <ele>159.59712634400566</ele>
+    <name>🟢 L&apos;Arboç centre ╬</name>
+    <cmt>╬ Cruïlla l&apos;Arboç centre. 🧭N a ⌒🚉Estació l&apos;Arboç en 1,08km per Carrer Tallat:
+🧭W a Etapa 12 a el Vendrell
+🧭E a Etapa 13 a Vilafranca</cmt>
+    <desc>╬ Cruïlla l&apos;Arboç centre. 🧭N a ⌒🚉Estació l&apos;Arboç en 1,08km per Carrer Tallat:
+🧭W a Etapa 12 a el Vendrell
+🧭E a Etapa 13 a Vilafranca</desc>
+    <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="41.266438" lon="1.602159">
+    <ele>168.94667290295075</ele>
+    <name>2 ╦↖️</name>
+    <cmt>╦ Rambla Gran ↖️esquerra</cmt>
+    <desc>╦ Rambla Gran ↖️esquerra</desc>
+    <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="41.267494" lon="1.602154">
+    <ele>170.55121637378008</ele>
+    <name>3 ↖️</name>
+    <cmt>↖️45º Esquerra per Carrer Josep Anselm Clavè</cmt>
+    <desc>↖️45º Esquerra per Carrer Josep Anselm Clavè</desc>
+    <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="41.267893" lon="1.601782">
+    <ele>169.0286293203948</ele>
+    <name>4 ↖️</name>
+    <cmt>Seguim per ↖️l&apos;esquerra</cmt>
+    <desc>Seguim per ↖️l&apos;esquerra</desc>
+    <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="41.268014" lon="1.601431">
+    <ele>169.3249914023836</ele>
+    <name>5 ╬➡️</name>
+    <cmt>╬ Cruïlla. ➡️Dreta per Carrer de la Balada</cmt>
+    <desc>╬ Cruïlla. ➡️Dreta per Carrer de la Balada</desc>
+    <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="41.270862" lon="1.600655">
+    <ele>157.2905998146448</ele>
+    <name>6 ╦↙️</name>
+    <cmt>╦ Avinguda de Sant Jordi. ↙️Esquerra tancat</cmt>
+    <desc>╦ Avinguda de Sant Jordi. ↙️Esquerra tancat</desc>
+    <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="41.270603" lon="1.600132">
+    <ele>152.85842069226746</ele>
+    <name>7 ╠➡️</name>
+    <cmt>╠ Desviar a la ➡️dreta</cmt>
+    <desc>╠ Desviar a la ➡️dreta</desc>
+    <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="41.27099" lon="1.599399">
+    <ele>155.3219038340448</ele>
+    <name>8 ╦➡️</name>
+    <cmt>╦ Carrer de Pompeu Fabra. ➡️Dreta</cmt>
+    <desc>╦ Carrer de Pompeu Fabra. ➡️Dreta</desc>
+    <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="41.273327" lon="1.600538">
+    <ele>150.30804076452873</ele>
+    <name>🏁Final enllaç🚉Estació L&apos;Arboç</name>
+    <cmt>🚉Estació L&apos;Arboç R4</cmt>
+    <desc>🚉Estació L&apos;Arboç R4</desc>
+    <sym>Ground Transportation</sym>
+  </wpt>
+  <trk>
+    <name>Enllaç Estació L&apos;Arboç</name>
+    <trkseg>
+      <trkpt lat="41.265831" lon="1.601974">
+        <ele>160</ele>
+      </trkpt>
+      <trkpt lat="41.265831" lon="1.601982">
+        <ele>160.25</ele>
+      </trkpt>
+      <trkpt lat="41.266441" lon="1.60216">
+        <ele>166.75</ele>
+      </trkpt>
+      <trkpt lat="41.266487" lon="1.602185">
+        <ele>167.25</ele>
+      </trkpt>
+      <trkpt lat="41.266567" lon="1.602129">
+        <ele>168</ele>
+      </trkpt>
+      <trkpt lat="41.267202" lon="1.60213">
+        <ele>169.75</ele>
+      </trkpt>
+      <trkpt lat="41.267513" lon="1.602155">
+        <ele>170.25</ele>
+      </trkpt>
+      <trkpt lat="41.267552" lon="1.602189">
+        <ele>170.25</ele>
+      </trkpt>
+      <trkpt lat="41.267731" lon="1.60196">
+        <ele>169.25</ele>
+      </trkpt>
+      <trkpt lat="41.267931" lon="1.601735">
+        <ele>168.25</ele>
+      </trkpt>
+      <trkpt lat="41.268029" lon="1.60136">
+        <ele>166.75</ele>
+      </trkpt>
+      <trkpt lat="41.268681" lon="1.601137">
+        <ele>163</ele>
+      </trkpt>
+      <trkpt lat="41.268872" lon="1.601049">
+        <ele>160.75</ele>
+      </trkpt>
+      <trkpt lat="41.268888" lon="1.601044">
+        <ele>160.75</ele>
+      </trkpt>
+      <trkpt lat="41.269067" lon="1.600994">
+        <ele>158.75</ele>
+      </trkpt>
+      <trkpt lat="41.269751" lon="1.600874">
+        <ele>155.75</ele>
+      </trkpt>
+      <trkpt lat="41.269895" lon="1.60081">
+        <ele>155</ele>
+      </trkpt>
+      <trkpt lat="41.270965" lon="1.600641">
+        <ele>157</ele>
+      </trkpt>
+      <trkpt lat="41.270748" lon="1.60031">
+        <ele>155</ele>
+      </trkpt>
+      <trkpt lat="41.270549" lon="1.600071">
+        <ele>153.25</ele>
+      </trkpt>
+      <trkpt lat="41.271052" lon="1.599311">
+        <ele>152.75</ele>
+      </trkpt>
+      <trkpt lat="41.271284" lon="1.599354">
+        <ele>153.75</ele>
+      </trkpt>
+      <trkpt lat="41.271534" lon="1.599347">
+        <ele>154.25</ele>
+      </trkpt>
+      <trkpt lat="41.271782" lon="1.599282">
+        <ele>154</ele>
+      </trkpt>
+      <trkpt lat="41.272105" lon="1.599143">
+        <ele>151.75</ele>
+      </trkpt>
+      <trkpt lat="41.272231" lon="1.599157">
+        <ele>151.25</ele>
+      </trkpt>
+      <trkpt lat="41.272409" lon="1.599333">
+        <ele>151</ele>
+      </trkpt>
+      <trkpt lat="41.272624" lon="1.599573">
+        <ele>151.5</ele>
+      </trkpt>
+      <trkpt lat="41.272734" lon="1.599676">
+        <ele>151.5</ele>
+      </trkpt>
+      <trkpt lat="41.272855" lon="1.599829">
+        <ele>151.25</ele>
+      </trkpt>
+      <trkpt lat="41.273164" lon="1.600181">
+        <ele>150.25</ele>
+      </trkpt>
+      <trkpt lat="41.273263" lon="1.600361">
+        <ele>150.25</ele>
+      </trkpt>
+      <trkpt lat="41.273242" lon="1.600435">
+        <ele>150.5</ele>
+      </trkpt>
+      <trkpt lat="41.273336" lon="1.60055">
+        <ele>149</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
