@@ -24,7 +24,7 @@
     <name>2 ↖️🚶➡️🚲🧭E</name>
     <cmt>Seguim ↖️lleugerament a esquerra per creuar per un ampli 🚶pas de peatons i després a la ➡️dreta pel 🚲carril bici 🧭E per Avinguda de Barcelona</cmt>
     <desc>Seguim ↖️lleugerament a esquerra per creuar per un ampli 🚶pas de peatons i després a la ➡️dreta pel 🚲carril bici 🧭E per Avinguda de Barcelona</desc>
-    <sym>Bike Trail</sym>
+    <sym>Bike Lane</sym>
   </wpt>
   <wpt lat="41.347967" lon="1.710429">
     <ele>217.3516646064826</ele>
@@ -40,7 +40,7 @@
     <name>4 🔄2a↗️</name>
     <cmt>🔄Rotonda. Surt per la 2a a la ↗️dreta seguint pel mateix carrer</cmt>
     <desc>🔄Rotonda. Surt per la 2a a la ↗️dreta seguint pel mateix carrer</desc>
-    <sym>Crossing</sym>
+    <sym>Rotonda</sym>
   </wpt>
   <wpt lat="41.350466" lon="1.71278">
     <ele>219.29761113618426</ele>
@@ -91,30 +91,39 @@
     <desc>╠ Seguim ⬆️recte paral·lels a l&apos;AP-7</desc>
     <sym>Crossing</sym>
   </wpt>
+  <wpt lat="41.367863" lon="1.727215">
+    <ele>238.90560467807612</ele>
+    <name>12 ╣⬆️: A⬅️🚉 680m</name>
+    <cmt>╣Seguir ⬆️recte:
+A ⬅️l&apos;esquerra enllaç a🚉Estació La Granada en 680m</cmt>
+    <desc>╣Seguir ⬆️recte:
+A ⬅️l&apos;esquerra enllaç a🚉Estació La Granada en 680m</desc>
+    <sym>Crossing</sym>
+  </wpt>
   <wpt lat="41.374678" lon="1.734934">
     <ele>252.53662138490492</ele>
-    <name>12 ╦⬅️︵</name>
+    <name>13 ╦⬅️︵</name>
     <cmt>╦ Cruïlla. ⬅️Esquerra per asfalt creuar AP-7 per sobre el ︵ pont</cmt>
     <desc>╦ Cruïlla. ⬅️Esquerra per asfalt creuar AP-7 per sobre el ︵ pont</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="41.375237" lon="1.733495">
     <ele>254.39234546492455</ele>
-    <name>13 ╠↘️</name>
+    <name>14 ╠↘️</name>
     <cmt>╠ Desviar per gir molt tancat a la ↘️dreta per agafar pista sense asfaltar que transcorre paral·lela a l&apos;AP-7</cmt>
     <desc>╠ Desviar per gir molt tancat a la ↘️dreta per agafar pista sense asfaltar que transcorre paral·lela a l&apos;AP-7</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="41.389768" lon="1.759999">
     <ele>200.03624503607986</ele>
-    <name>14 ╬⬆️ </name>
+    <name>15 ╬⬆️ </name>
     <cmt>╬ Cruïlla. Seguim⬆️recte paral·lels a l&apos;AP-7</cmt>
     <desc>╬ Cruïlla. Seguim⬆️recte paral·lels a l&apos;AP-7</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="41.395512" lon="1.768758">
     <ele>187.04270464000402</ele>
-    <name>15 🚉╦➡️</name>
+    <name>16 🚉╦➡️</name>
     <cmt>╦ Camí de l&apos;Estació. Inici asfalt.➡️Dreta:
 a ⬅️🚉Estació Llavern-Subirats en 25m</cmt>
     <desc>╦ Camí de l&apos;Estació. Inici asfalt.➡️Dreta:
@@ -123,7 +132,7 @@ a ⬅️🚉Estació Llavern-Subirats en 25m</desc>
   </wpt>
   <wpt lat="41.39534" lon="1.769253">
     <ele>185.9165446246054</ele>
-    <name>16 ↗️⚠️🚗</name>
+    <name>17 ↗️⚠️🚗</name>
     <cmt>Ens incorporem per la ↗️dreta a la carretera BV-2429 per molt pocs metres. ⚠️Precaució 🚗trànsit.
 NO agafem el carril bici lateral o haurem de saltar les barrera més endavant</cmt>
     <desc>Ens incorporem per la ↗️dreta a la carretera BV-2429 per molt pocs metres. ⚠️Precaució 🚗trànsit.
@@ -132,98 +141,84 @@ NO agafem el carril bici lateral o haurem de saltar les barrera més endavant</d
   </wpt>
   <wpt lat="41.394848" lon="1.769934">
     <ele>189.7286267324823</ele>
-    <name>17 🔄3a↗️</name>
+    <name>18 🔄3a↗️</name>
     <cmt>🔄Rotonda. Surt per la 3a a la ↗️dreta. Pista asfaltada que transcorre paral·lela a l&apos;AP-7</cmt>
     <desc>🔄Rotonda. Surt per la 3a a la ↗️dreta. Pista asfaltada que transcorre paral·lela a l&apos;AP-7</desc>
-    <sym>Crossing</sym>
+    <sym>Rotonda</sym>
   </wpt>
   <wpt lat="41.396793" lon="1.774539">
     <ele>191.4815660673908</ele>
-    <name>18 ╣↖️</name>
+    <name>19 ╣↖️</name>
     <cmt>╣ Ens desviem per seguir per ↖️l&apos;esquerra, paral·lels a l&apos;AP-7 per Camí de Can Batista</cmt>
     <desc>╣ Ens desviem per seguir per ↖️l&apos;esquerra, paral·lels a l&apos;AP-7 per Camí de Can Batista</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="41.398926" lon="1.778955">
     <ele>181.7276653762404</ele>
-    <name>19 ╠↖️</name>
+    <name>20 ╠↖️</name>
     <cmt>╠ Seguim per ↖️l&apos;esquerra</cmt>
     <desc>╠ Seguim per ↖️l&apos;esquerra</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="41.403295" lon="1.780347">
     <ele>200.63137372326037</ele>
-    <name>20 ╬➡️</name>
+    <name>21 ╬➡️</name>
     <cmt>╬ Cruïlla. ➡️Dreta</cmt>
     <desc>╬ Cruïlla. ➡️Dreta</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="41.399907" lon="1.785337">
     <ele>220.61608678933212</ele>
-    <name>21 ╣⬅️</name>
+    <name>22 ╣⬅️</name>
     <cmt>╣ Desviar a ⬅️l&apos;esquerra per camí sense asfaltar</cmt>
     <desc>╣ Desviar a ⬅️l&apos;esquerra per camí sense asfaltar</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="41.407562" lon="1.787452">
     <ele>217.2115305259722</ele>
-    <name>22 ╦↗️🧭N</name>
+    <name>23 ╦↗️🧭N</name>
     <cmt>Diversos camins es junten en una pista ╦ més important que seguirem lleugerament a la ↗️dreta 🧭N . Camí del Sot</cmt>
     <desc>Diversos camins es junten en una pista ╦ més important que seguirem lleugerament a la ↗️dreta 🧭N . Camí del Sot</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="41.412985" lon="1.787655">
     <ele>177.19741921030197</ele>
-    <name>23 ╠↖️🔻⌒⌒</name>
+    <name>24 ╠↖️🔻⌒⌒</name>
     <cmt>╠ Seguim per la nostra ↖️esquerra. Passem dos ⌒ túnels sota l&apos;AP-7</cmt>
     <desc>╠ Seguim per la nostra ↖️esquerra. Passem dos ⌒ túnels sota l&apos;AP-7</desc>
     <sym>Tunnel</sym>
   </wpt>
   <wpt lat="41.413801" lon="1.786679">
     <ele>168.75573256341775</ele>
-    <name>24 ╣➡️</name>
+    <name>25 ╣➡️</name>
     <cmt>╣ Seguim via principal per la ➡️dreta</cmt>
     <desc>╣ Seguim via principal per la ➡️dreta</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="41.414344" lon="1.78593">
     <ele>165.45184115907222</ele>
-    <name>25 ⌒ ╬➡️</name>
+    <name>26 ⌒ ╬➡️</name>
     <cmt>⌒ Túnel i seguidament ╬ cruïlla. ➡️Dreta</cmt>
     <desc>⌒ Túnel i seguidament ╬ cruïlla. ➡️Dreta</desc>
     <sym>Crossing</sym>
   </wpt>
-  <wpt lat="41.417979" lon="1.791277">
-    <ele>168.03475337759633</ele>
-    <name>26 ╣🚶↖️</name>
-    <cmt>Arribem a una ╣desviació. Busquem una traça de 🚶corriol lleugerament a ↖️l&apos;esquerra de la pista que segueix recte</cmt>
-    <desc>Arribem a una ╣desviació. Busquem una traça de 🚶corriol lleugerament a ↖️l&apos;esquerra de la pista que segueix recte</desc>
-    <sym>Crossing</sym>
-  </wpt>
-  <wpt lat="41.420156" lon="1.795643">
-    <ele>158.7210368682446</ele>
-    <name>27 ↖️20m↖️︵ </name>
-    <cmt>Ens incorporem a la carretera ↖️lleugerament a l&apos;esquerra pel voral que és prou ample i en 20m desviar ↖️esquerra per creuar les vies sobre el ︵ pont</cmt>
-    <desc>Ens incorporem a la carretera ↖️lleugerament a l&apos;esquerra pel voral que és prou ample i en 20m desviar ↖️esquerra per creuar les vies sobre el ︵ pont</desc>
-    <sym>Crossing</sym>
-  </wpt>
   <wpt lat="41.415173" lon="1.785132">
     <ele>154.11142656002286</ele>
-    <name>26 ⚠️🚂🚶╦➡️</name>
+    <name>27 ⚠️🚂🚶╦➡️</name>
     <cmt>⚠️Precaució🚂 vía de tren. Creuem a 🚶peu i en el ╦ camí tombem a la ➡️dreta</cmt>
     <desc>⚠️Precaució🚂 vía de tren. Creuem a 🚶peu i en el ╦ camí tombem a la ➡️dreta</desc>
     <sym>Alert</sym>
   </wpt>
   <wpt lat="41.419374" lon="1.787596">
     <ele>139.66614377663655</ele>
-    <name>27 ↗️🔻╦↖️╦↗️</name>
+    <name>28 ↗️🔻╦↖️╦↗️</name>
     <cmt>↗️Cap a la dreta🔻baixem una rampa. Trobem una pista ╦ que seguim a ↖️l&apos;esquerra i tot seguit ens ╦ incorporem a ↗️dretes a un camí asfaltat</cmt>
     <desc>↗️Cap a la dreta🔻baixem una rampa. Trobem una pista ╦ que seguim a ↖️l&apos;esquerra i tot seguit ens ╦ incorporem a ↗️dretes a un camí asfaltat</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="41.42119" lon="1.789735">
     <ele>126.91007055781743</ele>
-    <name>28 ︵ ╦➡️</name>
+    <name>29 ︵ ╦➡️</name>
     <cmt>Després del ︵ pont, a la ╦ cruïlla a la ➡️dreta</cmt>
     <desc>Després del ︵ pont, a la ╦ cruïlla a la ➡️dreta</desc>
     <sym>Crossing</sym>
@@ -237,22 +232,6 @@ NO agafem el carril bici lateral o haurem de saltar les barrera més endavant</d
     <desc>╦ Cruïlla de Sant Sadurní d&apos;Anoia
 ⬅️ a Etapa 15 a Gelida
 ➡️ a 🚉Estació Sant Sadurní d&apos;Anoia 440m</desc>
-    <sym>Crossing</sym>
-  </wpt>
-  <wpt lat="41.420645" lon="1.794545">
-    <ele>149.89318866362</ele>
-    <name>🏁Final etapa 14🚉Estació Sant Sadurní d&apos;Anoia</name>
-    <cmt>🚉Estació Sant Sadurní d&apos;Anoia R4</cmt>
-    <desc>🚉Estació Sant Sadurní d&apos;Anoia R4</desc>
-    <sym>Ground Transportation</sym>
-  </wpt>
-  <wpt lat="41.367863" lon="1.727215">
-    <ele>238.90560467807612</ele>
-    <name>11b ╣⬆️: A⬅️🚉 680m</name>
-    <cmt>╣Seguir ⬆️recte:
-A ⬅️l&apos;esquerra enllaç a🚉Estació La Granada en 680m</cmt>
-    <desc>╣Seguir ⬆️recte:
-A ⬅️l&apos;esquerra enllaç a🚉Estació La Granada en 680m</desc>
     <sym>Crossing</sym>
   </wpt>
   <trk>
