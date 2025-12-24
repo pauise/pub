@@ -147,9 +147,9 @@
     },
     {
       "id": "13.00",
-      "nom": "L'Arboç - Vilafranca",
-      "data": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/json/13.00.Arboç.Vilafranca.json",
-      "km": 1
+      "nom": "L'Arboç - Vilafranca del Penedès",
+      "data": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/json/13.00.L'Arbo%C3%A7.Vilafranca.json",
+      "km": 16.09
     },
     {
       "id": "13.60",
