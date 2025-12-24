@@ -159,9 +159,9 @@
     },
     {
       "id": "14.00",
-      "nom": "Vilafranca - Sant Sadurní",
-      "data": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/json/14.00.Vilafranca.Sant%20Sadurni.json",
-      "km": 1
+      "nom": "Vilafranca del Penedès - Sant Sadurní d'Anoia",
+      "data": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/json/14.00.Vilafranca.Sant%20Sadurn%C3%AD.json",
+      "km": 15.29
     },
     {
       "id": "14.25",
@@ -171,7 +171,7 @@
     },
     {
       "id": "15.00",
-      "nom": "Sant Sadurní - Gelida",
+      "nom": "Sant Sadurní d'Anoia - Gelida",
       "data": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/json/15.00.Sant%20Sadurni.Gelida.json",
       "km": 1
     },
