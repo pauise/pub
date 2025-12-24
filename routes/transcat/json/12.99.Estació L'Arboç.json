@@ -1,0 +1,21 @@
+{
+    "title": "Enllaç etapa 12 i 13 amb Estació L'Arboç",
+    "full_track_url": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/tracks/12.99.Estaci%C3%B3%20L'Arbo%C3%A7.gpx",
+    "prf": [
+        {"km": 0, "alt": 160},
+        {"km": 0.16, "alt": 170},
+        {"km": 0.5, "alt": 155},
+        {"km": 1.08, "alt": 149}
+    ],
+    "wps": [
+        {"km": 0, "paviment": 1},
+        {"km": 0.07, "paviment": 1},
+        {"km": 0.19, "paviment": 1},
+        {"km": 0.24, "paviment": 1},
+        {"km": 0.28, "paviment": 1},
+        {"km": 0.61, "paviment": 1},
+        {"km": 0.68, "paviment": 1},
+        {"km": 0.76, "paviment": 1},
+        {"km": 1.08, "paviment": 1}
+      ]
+  }
