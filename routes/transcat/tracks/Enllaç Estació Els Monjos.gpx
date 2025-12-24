@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx creator="https://gpx.studio" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/PowerExtension/v1 http://www.garmin.com/xmlschemas/PowerExtensionv1.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxpx="http://www.garmin.com/xmlschemas/PowerExtension/v1" xmlns:gpx_style="http://www.topografix.com/GPX/gpx_style/0/2">
+  <metadata>
+    <name>Enllaç Estació Els Monjos</name>
+    <author>
+      <name>gpx.studio</name>
+      <link href="https://gpx.studio"/>
+    </author>
+  </metadata>
+  <wpt lat="41.317497" lon="1.65744">
+    <ele>165.89238157975885</ele>
+    <name>🟢 Enllaç Etapa 13 PK 10 🚶⬆️🧭SE</name>
+    <cmt>Des de l&apos;Etapa 13 PK 10, creuem N-340a pel 🚶pas de vianants i agafem el Carrer de l&apos;Estació que surt ⬆️davant nostre 🧭SE</cmt>
+    <desc>Des de l&apos;Etapa 13 PK 10, creuem N-340a pel 🚶pas de vianants i agafem el Carrer de l&apos;Estació que surt ⬆️davant nostre 🧭SE</desc>
+    <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="41.315038" lon="1.660376">
+    <ele>161.36525141326803</ele>
+    <name>🏁Final enllaç🚉Estació els Monjos</name>
+    <cmt>🚉Estació els Monjos R4</cmt>
+    <desc>🚉Estació els Monjos R4</desc>
+    <sym>Ground Transportation</sym>
+  </wpt>
+  <trk>
+    <name>Enllaç Estació Els Monjos</name>
+    <trkseg>
+      <trkpt lat="41.317501" lon="1.657436">
+        <ele>165.87469246143644</ele>
+      </trkpt>
+      <trkpt lat="41.317432607526" lon="1.6575066518764459">
+        <ele>166.18687624223574</ele>
+      </trkpt>
+      <trkpt lat="41.317424216540466" lon="1.657623895640062">
+        <ele>165.8108174302838</ele>
+      </trkpt>
+      <trkpt lat="41.317424216540466" lon="1.657623895640062">
+        <ele>166.06670386020613</ele>
+      </trkpt>
+      <trkpt lat="41.316841" lon="1.657961">
+        <ele>166.5</ele>
+      </trkpt>
+      <trkpt lat="41.316565" lon="1.658157">
+        <ele>166</ele>
+      </trkpt>
+      <trkpt lat="41.315454" lon="1.660005">
+        <ele>163.5</ele>
+      </trkpt>
+      <trkpt lat="41.315116" lon="1.660513">
+        <ele>162</ele>
+      </trkpt>
+      <trkpt lat="41.315032" lon="1.660369">
+        <ele>162.25</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
