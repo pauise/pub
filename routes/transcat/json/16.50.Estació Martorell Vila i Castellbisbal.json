@@ -1,0 +1,12 @@
+{
+    "title": "Enllaç 16 amb Estació Martorell Vila i Castellbisbal",
+    "full_track_url": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/tracks/16.50.Estaci%C3%B3%20Martorell%20Vila%20i%20Castellbisbal.gpx",
+    "prf": [
+        {"km": 0, "alt": 60},
+        {"km": 0.15, "alt": 63}
+    ],
+    "wps": [
+        {"km": 0, "paviment": 1},
+        {"km": 0.15, "paviment": 1}
+      ]
+  }
