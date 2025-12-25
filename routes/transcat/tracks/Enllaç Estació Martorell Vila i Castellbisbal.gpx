@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx creator="https://gpx.studio" version="1.1" schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/PowerExtension/v1 http://www.garmin.com/xmlschemas/PowerExtensionv1.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/PowerExtension/v1 http://www.garmin.com/xmlschemas/PowerExtensionv1.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxpx="http://www.garmin.com/xmlschemas/PowerExtension/v1" xmlns:gpx_style="http://www.topografix.com/GPX/gpx_style/0/2">
+  <metadata>
+    <name>Enllaç Estació Martorell Vila i Castellbisbal</name>
+    <author>
+      <name>gpx.studio</name>
+      <link href="https://gpx.studio"/>
+    </author>
+  </metadata>
+  <wpt lat="41.475045" lon="1.938651">
+    <ele>63.00449086567877</ele>
+    <name>🟢Enllaç Etapa 16 PK 8,5 🧭N</name>
+    <cmt>🧭N:
+🧭W a Martorell i Gelida per Etapa 16
+🧭S a Papiol per Etapa 16</cmt>
+    <desc>🧭N:
+🧭W a Martorell i Gelida per Etapa 16
+🧭S a Papiol per Etapa 16</desc>
+    <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="41.476345" lon="1.938974">
+    <ele>63.66713131694174</ele>
+    <name>🏁🚉Estació Martorell Vila i Castellbisbal</name>
+    <cmt>🚉Estació Martorell Vila i Castellbisbal FGC S4 S8</cmt>
+    <desc>🚉Estació Martorell Vila i Castellbisbal FGC S4 S8</desc>
+    <sym>Ground Transportation</sym>
+  </wpt>
+  <trk>
+    <name>Enllaç Estació Martorell Vila i Castellbisbal</name>
+    <trkseg>
+      <trkpt lat="41.475027" lon="1.938649">
+        <ele>60.25</ele>
+      </trkpt>
+      <trkpt lat="41.475031" lon="1.93865">
+        <ele>60.5</ele>
+      </trkpt>
+      <trkpt lat="41.475241" lon="1.938657">
+        <ele>61.5</ele>
+      </trkpt>
+      <trkpt lat="41.475323" lon="1.938669">
+        <ele>62</ele>
+      </trkpt>
+      <trkpt lat="41.47571" lon="1.938773">
+        <ele>65.25</ele>
+      </trkpt>
+      <trkpt lat="41.476252" lon="1.938955">
+        <ele>64.75</ele>
+      </trkpt>
+      <trkpt lat="41.47636" lon="1.938976">
+        <ele>62.75</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
