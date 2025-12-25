@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx creator="https://gpx.studio" version="1.1" schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/PowerExtension/v1 http://www.garmin.com/xmlschemas/PowerExtensionv1.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/PowerExtension/v1 http://www.garmin.com/xmlschemas/PowerExtensionv1.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxpx="http://www.garmin.com/xmlschemas/PowerExtension/v1" xmlns:gpx_style="http://www.topografix.com/GPX/gpx_style/0/2">
+  <metadata>
+    <name>Enllaç Estació Castellbisbal</name>
+    <author>
+      <name>gpx.studio</name>
+      <link href="https://gpx.studio"/>
+    </author>
+  </metadata>
+  <wpt lat="41.473284" lon="1.964941">
+    <ele>37.47643477218713</ele>
+    <name>🟢Enllaç Etapa 15 PK 11,6 🧭NE</name>
+    <cmt>🧭NE a 🚉Estació Castellbisbal
+🧭NW a Martorell i Gelida per Etapa 16
+🧭SE a Papiol per Etapa 16</cmt>
+    <desc>🧭NE a 🚉Estació Castellbisbal
+🧭NW a Martorell i Gelida per Etapa 16
+🧭SE a Papiol per Etapa 16</desc>
+    <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="41.473899" lon="1.965852">
+    <ele>44.82264427496238</ele>
+    <name>2 ⌒ ╦➡️</name>
+    <cmt>Passem ⌒ túnel sota les vies i a la ╦ cruïlla a la ➡️dreta</cmt>
+    <desc>Passem ⌒ túnel sota les vies i a la ╦ cruïlla a la ➡️dreta</desc>
+    <sym>Tunnel</sym>
+  </wpt>
+  <wpt lat="41.473413" lon="1.967874">
+    <ele>45.56061397334582</ele>
+    <name>🏁🚉Estació Castellbisbal</name>
+    <cmt>🚉Estació Castellbisbal R4 i R8</cmt>
+    <desc>🚉Estació Castellbisbal R4 i R8</desc>
+    <sym>Ground Transportation</sym>
+  </wpt>
+  <trk>
+    <name>Enllaç Estació Castellbisbal</name>
+    <trkseg>
+      <trkpt lat="41.473288" lon="1.964933">
+        <ele>36.75</ele>
+      </trkpt>
+      <trkpt lat="41.473279" lon="1.964933">
+        <ele>36.75</ele>
+      </trkpt>
+      <trkpt lat="41.473355" lon="1.965052">
+        <ele>39.25</ele>
+      </trkpt>
+      <trkpt lat="41.473355" lon="1.96505">
+        <ele>37.5</ele>
+      </trkpt>
+      <trkpt lat="41.473495" lon="1.965267">
+        <ele>39.25</ele>
+      </trkpt>
+      <trkpt lat="41.47384" lon="1.965759">
+        <ele>43.25</ele>
+      </trkpt>
+      <trkpt lat="41.473877" lon="1.965816">
+        <ele>43.75</ele>
+      </trkpt>
+      <trkpt lat="41.473919" lon="1.965875">
+        <ele>44</ele>
+      </trkpt>
+      <trkpt lat="41.474175" lon="1.966125">
+        <ele>44.75</ele>
+      </trkpt>
+      <trkpt lat="41.474258" lon="1.966217">
+        <ele>44.5</ele>
+      </trkpt>
+      <trkpt lat="41.474127" lon="1.966459">
+        <ele>44.75</ele>
+      </trkpt>
+      <trkpt lat="41.474028" lon="1.966702">
+        <ele>44.5</ele>
+      </trkpt>
+      <trkpt lat="41.473999" lon="1.966847">
+        <ele>44.25</ele>
+      </trkpt>
+      <trkpt lat="41.473972" lon="1.966829">
+        <ele>44.25</ele>
+      </trkpt>
+      <trkpt lat="41.473945" lon="1.96683">
+        <ele>44.25</ele>
+      </trkpt>
+      <trkpt lat="41.473914" lon="1.966846">
+        <ele>44</ele>
+      </trkpt>
+      <trkpt lat="41.473866" lon="1.966915">
+        <ele>44</ele>
+      </trkpt>
+      <trkpt lat="41.473588" lon="1.967419">
+        <ele>44.25</ele>
+      </trkpt>
+      <trkpt lat="41.47367" lon="1.967509">
+        <ele>44</ele>
+      </trkpt>
+      <trkpt lat="41.473402" lon="1.967894">
+        <ele>44.75</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
