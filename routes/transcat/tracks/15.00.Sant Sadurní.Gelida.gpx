@@ -52,7 +52,7 @@
     <name>6 ╦➡️╣↖️</name>
     <cmt>╦ Carrer Jaume Guix. ➡️Dreta i de seguida deixem el carrer ╣ per l&apos;esquerra↖️ pel 🚲carril bici</cmt>
     <desc>╦ Carrer Jaume Guix. ➡️Dreta i de seguida deixem el carrer ╣ per l&apos;esquerra↖️ pel 🚲carril bici</desc>
-    <sym>Bike Trail</sym>
+    <sym>Bike Lane</sym>
   </wpt>
   <wpt lat="41.431711" lon="1.785399">
     <ele>183.44340930713372</ele>
@@ -85,7 +85,7 @@
   <wpt lat="41.434557" lon="1.78506">
     <ele>181.16106240013738</ele>
     <name>11 Fi asfalt ⬆️</name>
-    <sym>Road</sym>
+    <sym>End of Road</sym>
   </wpt>
   <wpt lat="41.438168" lon="1.782956">
     <ele>168.3659457579882</ele>
@@ -285,28 +285,28 @@
   </wpt>
   <wpt lat="41.454511" lon="1.847057">
     <ele>148.62144132126195</ele>
-    <name>39 Inici asfalt ︵ ╦➡️🧭SW GR-5</name>
+    <name>40 Inici asfalt ︵ ╦➡️🧭SW GR-5</name>
     <cmt>Inici asfalt. Creuem vies pel ︵ pont i seguit ╦ prenem a la ➡️dreta 🧭SW per GR-5</cmt>
     <desc>Inici asfalt. Creuem vies pel ︵ pont i seguit ╦ prenem a la ➡️dreta 🧭SW per GR-5</desc>
     <sym>Bridge</sym>
   </wpt>
   <wpt lat="41.4527" lon="1.855635">
     <ele>136.688891378532</ele>
-    <name>40 ╣⬅️GR-5</name>
+    <name>41 ╣⬅️GR-5</name>
     <cmt>╣ Desviar a ⬅️l&apos;esquerra per GR-5</cmt>
     <desc>╣ Desviar a ⬅️l&apos;esquerra per GR-5</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="41.452362" lon="1.865314">
     <ele>79.44268392031121</ele>
-    <name>41 ╦↘️GR-5</name>
+    <name>42 ╦↘️GR-5</name>
     <cmt>╦ Cruïlla.↘️Dreta tancat per GR-5</cmt>
     <desc>╦ Cruïlla.↘️Dreta tancat per GR-5</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="41.450847" lon="1.867043">
     <ele>76.80375620713528</ele>
-    <name>42 ╦➡️︵</name>
+    <name>43 ╦➡️︵</name>
     <cmt>╦ Cruïlla.➡️Dreta pel ︵ pont sobre Riu Anoia</cmt>
     <desc>╦ Cruïlla.➡️Dreta pel ︵ pont sobre Riu Anoia</desc>
     <sym>Crossing</sym>
