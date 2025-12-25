@@ -285,9 +285,9 @@
   </wpt>
   <wpt lat="41.454511" lon="1.847057">
     <ele>148.62144132126195</ele>
-    <name>40 Inici asfalt ︵ ╦➡️🧭SW GR-5</name>
-    <cmt>Inici asfalt. Creuem vies pel ︵ pont i seguit ╦ prenem a la ➡️dreta 🧭SW per GR-5</cmt>
-    <desc>Inici asfalt. Creuem vies pel ︵ pont i seguit ╦ prenem a la ➡️dreta 🧭SW per GR-5</desc>
+    <name>40 ︵ ╦➡️🧭SW GR-5</name>
+    <cmt>Creuem vies pel ︵ pont i seguit ╦ prenem a la ➡️dreta 🧭SW per GR-5</cmt>
+    <desc>Creuem vies pel ︵ pont i seguit ╦ prenem a la ➡️dreta 🧭SW per GR-5</desc>
     <sym>Bridge</sym>
   </wpt>
   <wpt lat="41.4527" lon="1.855635">
