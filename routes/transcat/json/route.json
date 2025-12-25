@@ -208,8 +208,8 @@
     {
       "id": "16.65",
       "nom": "Estació Castellbisbal",
-      "data": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/json/07.99.Estaci%C3%B3%20Castellbisbal.json",
-      "km": 1
+      "data": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/json/16.65.Estaci%C3%B3%20Castellbisbal.json",
+      "km": 0.34
     },
     {
       "id": "17.00",
