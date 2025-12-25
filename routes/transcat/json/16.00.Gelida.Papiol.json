@@ -1,0 +1,40 @@
+{
+    "title": "Etapa 16: Gelida - el Papiol",
+    "full_track_url": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/tracks/16.00.Gelida.Papiol.gpx",
+    "prf": [
+        {"km": 0, "alt": 89},
+        {"km": 0.75, "alt": 124},
+        {"km": 4.77, "alt": 61},
+        {"km": 7.1, "alt": 51},
+        {"km": 8.26, "alt": 67},
+        {"km": 12.49, "alt": 39},
+        {"km": 18.36, "alt": 39}
+    ],
+    "wps": [
+        {"km": 0, "paviment": 1},
+        {"km": 0.25, "paviment": 1},
+        {"km": 0.56, "paviment": 2},
+        {"km": 1.4, "paviment": 2},
+        {"km": 1.6, "paviment": 2},
+        {"km": 1.85, "paviment": 2},
+        {"km": 3.99, "paviment": 1},
+        {"km": 5.12, "paviment": 1},
+        {"km": 6.4, "paviment": 1},
+        {"km": 6.48, "paviment": 1},
+        {"km": 7.25, "paviment": 1},
+        {"km": 7.4, "paviment": 1},
+        {"km": 7.47, "paviment": 1},
+        {"km": 7.71, "paviment": 1},
+        {"km": 8.25, "paviment": 1},
+        {"km": 8.34, "paviment": 1},
+        {"km": 8.51, "paviment": 2},
+        {"km": 11.6, "paviment": 2},
+        {"km": 16.52, "paviment": 2},
+        {"km": 16.63, "paviment": 2},
+        {"km": 16.76, "paviment": 2},
+        {"km": 17.79, "paviment": 2},
+        {"km": 17.86, "paviment": 1},
+        {"km": 18.02, "paviment": 1},
+        {"km": 18.36, "paviment": 1}
+      ]
+  }
