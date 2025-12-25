@@ -1,0 +1,14 @@
+{
+    "title": "Enllaç 16 amb Estació Martorell Central",
+    "full_track_url": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/tracks/16.40.Estaci%C3%B3%20Martorell%20Central.gpx",
+    "prf": [
+        {"km": 0, "alt": 55},
+        {"km": 0.43, "alt": 73},
+        {"km": 0.6, "alt": 63}
+    ],
+    "wps": [
+        {"km": 0, "paviment": 1},
+        {"km": 0.26, "paviment": 1},
+        {"km": 0.6, "paviment": 1}
+      ]
+  }
