@@ -1,1 +1,13 @@
-d
+{
+    "title": "Enllaç 16 amb Estació Castellbisbal",
+    "full_track_url": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/tracks/16.65.Estaci%C3%B3%20Castellbisbal.gpx",
+    "prf": [
+        {"km": 0, "alt": 37},
+        {"km": 0.1, "alt": 44},
+        {"km": 0.34, "alt": 45}
+    ],
+    "wps": [
+        {"km": 0, "paviment": 1},
+        {"km": 0.34, "paviment": 1}
+      ]
+  }
