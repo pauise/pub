@@ -185,7 +185,7 @@
       "id": "15.99",
       "nom": "Estació Gelida",
       "data": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/json/07.99.Estaci%C3%B3%20Gelida.json",
-      "km": 1
+      "km": 0.1
     },
     {
       "id": "16.00",
@@ -197,13 +197,13 @@
       "id": "16.40",
       "nom": "Estació Martorell Central",
       "data": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/json/07.99.Estaci%C3%B3%20Martorell%20Central.json",
-      "km": 1
+      "km": 0.6
     },
     {
       "id": "16.50",
       "nom": "Estació Martorell Vila i Castellbisbal",
-      "data": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/json/07.99.Estaci%C3%B3%20Martorell%20Vila%20i%20Castellbisbal.json",
-      "km": 1
+      "data": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/json/16.50.Estaci%C3%B3%20Martorell%20Vila%20i%20Castellbisbal.json",
+      "km": 0.15
     },
     {
       "id": "16.65",
