@@ -178,8 +178,8 @@
     {
       "id": "15.00",
       "nom": "Sant Sadurní d'Anoia - Gelida",
-      "data": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/json/15.00.Sant%20Sadurni.Gelida.json",
-      "km": 1
+      "data": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/json/15.00.Sant%20Sadurn%C3%AD.Gelida.json",
+      "km": 15.3
     },
     {
       "id": "15.99",
