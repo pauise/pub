@@ -213,19 +213,19 @@
     },
     {
       "id": "17.00",
-      "nom": "Papiol - Sant Cugat",
+      "nom": "el Papiol - Sant Cugat del Vallès",
       "data": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/json/17.00.Papiol.Sant%20Cugat.json",
-      "km": 1
+      "km": 18.36
     },
     {
       "id": "17.V0",
-      "nom": "Papiol - Barcelona",
+      "nom": "el Papiol - Barcelona",
       "data": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/json/17.V0.Papiol.Barcelona.json",
       "km": 1
     },
     {
       "id": "18.00",
-      "nom": "Sant Cugat - Montcada i Reixac",
+      "nom": "Sant Cugat del Vallès - Montcada i Reixac",
       "data": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/json/18.00.Sant%20Cugat.Montcada.json",
       "km": 1
     },
