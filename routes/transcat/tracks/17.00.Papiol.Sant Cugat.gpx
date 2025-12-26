@@ -25,7 +25,7 @@
   <wpt lat="41.438138" lon="2.001862">
     <ele>47.976804675465345</ele>
     <name>3 Fi asfalt</name>
-    <sym>Road</sym>
+    <sym>End of Road</sym>
   </wpt>
   <wpt lat="41.455103" lon="2.019081">
     <ele>163.25719955341532</ele>
@@ -109,14 +109,14 @@
     <name>15 🔄1a↗️🧭S</name>
     <cmt>🔄Rotonda. Surt per la 1a a la ↗️dreta 🧭S</cmt>
     <desc>🔄Rotonda. Surt per la 1a a la ↗️dreta 🧭S</desc>
-    <sym>Crossing</sym>
+    <sym>Rotonda</sym>
   </wpt>
   <wpt lat="41.468388" lon="2.046959">
     <ele>107.70988053443871</ele>
     <name>16 ╬⬅️</name>
     <cmt>╬ Camí de Sant Cugat al Papiol.⬅️Esquerra per 🚲carril bici</cmt>
     <desc>╬ Camí de Sant Cugat al Papiol.⬅️Esquerra per 🚲carril bici</desc>
-    <sym>Bike Trail</sym>
+    <sym>Bike Lane</sym>
   </wpt>
   <wpt lat="41.469042" lon="2.061892">
     <ele>127.4873364802453</ele>
