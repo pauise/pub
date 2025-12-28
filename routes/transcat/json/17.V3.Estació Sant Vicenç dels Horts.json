@@ -1,0 +1,19 @@
+{
+    "title": "Enllaç 17 Variant Barcelona amb Estació Sant Vicenç dels Horts",
+    "full_track_url": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/tracks/17.V3.Estaci%C3%B3%20Sant%20Vicen%C3%A7%20dels%20Horts.gpx",
+    "prf": [
+        {"km": 0, "alt": 19},
+        {"km": 0.17, "alt": 25},
+        {"km": 0.25, "alt": 21},
+        {"km": 0.39, "alt": 21},
+        {"km": 0.59, "alt": 28},
+        {"km": 0.87, "alt": 32}
+    ],
+    "wps": [
+        {"km": 0, "paviment": 1},
+        {"km": 0.13, "paviment": 1},
+        {"km": 0.49, "paviment": 1},
+        {"km": 0.6, "paviment": 1},
+        {"km": 0.87, "paviment": 1}
+      ]
+  }
