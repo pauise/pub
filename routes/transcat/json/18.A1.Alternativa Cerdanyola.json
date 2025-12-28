@@ -15,18 +15,12 @@
     ],
     "wps": [
         {"km": 0, "paviment": 1},
-        {"km": ., "paviment": 1},
-        {"km": ., "paviment": 1},
-        {"km": ., "paviment": 1},
-        {"km": ., "paviment": 1},
-        {"km": ., "paviment": 1},
-        {"km": ., "paviment": 1},
-        {"km": ., "paviment": 1},
-        {"km": ., "paviment": 1},
-        {"km": ., "paviment": 1},
-        {"km": ., "paviment": 1},
-        {"km": ., "paviment": 1},
-        {"km": ., "paviment": 1},
+        {"km": 0.7, "paviment": 1},
+        {"km": 1.31, "paviment": 1},
+        {"km": 1.39, "paviment": 1},
+        {"km": 1.44, "paviment": 1},
+        {"km": 1.49, "paviment": 1},
+        {"km": 2.15, "paviment": 1},
         {"km": 2.38, "paviment": 1}
       ]
   }
