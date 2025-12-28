@@ -2,7 +2,7 @@
 <gpx creator="https://gpx.studio" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/PowerExtension/v1 http://www.garmin.com/xmlschemas/PowerExtensionv1.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxpx="http://www.garmin.com/xmlschemas/PowerExtension/v1" xmlns:gpx_style="http://www.topografix.com/GPX/gpx_style/0/2">
   <metadata>
     <name>17.V2 Enllaç Estació Sant Feliu</name>
-    <desc>Etapa 17 Variant per Barcelona PK X,XX - Camí de no seque - Sant Feliu - Estació de Sant Feliu</desc>
+    <desc>Etapa 17 Variant per Barcelona PK 5,3 - Sant Feliu de Llobregat - Estació de Sant Feliu</desc>
     <author>
       <name>gpx.studio</name>
       <link href="https://gpx.studio"/>
@@ -10,9 +10,13 @@
   </metadata>
   <wpt lat="41.392707" lon="2.022037">
     <ele>21.031362012332508</ele>
-    <name>🟢Enllaç ╣a Sant Feliu ↖️🧭SE</name>
-    <cmt>Etapa 17 Variant Barcelona PK 5,3 ╣ desviar a Sant Feliu lleugerament ↖️esquerra 🧭SE</cmt>
-    <desc>Etapa 17 Variant Barcelona PK 5,3 ╣ desviar a Sant Feliu lleugerament ↖️esquerra 🧭SE</desc>
+    <name>🟢Enllaç a Sant Feliu ╣↖️🧭SE</name>
+    <cmt>Etapa 17 Variant Barcelona PK 5,3 ╣ desviar a Sant Feliu lleugerament ↖️esquerra 🧭SE
+🧭S a Sant Vincenç dels Horts, Sant Boi, L'Hospitalet, Esplugues i Barcelona per Etapa 17 Variant Barcelona 17.V0 i Alternativa Diagonal 17.VA
+🧭N a Molins i el Papiol per Etapa 17 Variant Barcelona en 5,3 kms</cmt>
+    <desc>Etapa 17 Variant Barcelona PK 5,3 ╣ desviar a Sant Feliu lleugerament ↖️esquerra 🧭SE
+🧭S a Sant Vincenç dels Horts, Sant Boi, L'Hospitalet, Esplugues i Barcelona per Etapa 17 Variant Barcelona 17.V0 i Alternativa Diagonal 17.VA
+🧭N a Molins i el Papiol per Etapa 17 Variant Barcelona en 5,3 kms</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="41.391721" lon="2.022519">
@@ -55,14 +59,14 @@
     <name>7 ⬅️➡️🚶➡️🚲🧭E</name>
     <cmt>En acabar el parc, ⬅️esquerra per la vorera i seguit ➡️dreta pel 🚶pas de vianants ens incorporem per la ➡️dreta al 🚲carril bici 🧭E per Carrer de Prolongació de Falguera</cmt>
     <desc>En acabar el parc, ⬅️esquerra per la vorera i seguit ➡️dreta pel 🚶pas de vianants ens incorporem per la ➡️dreta al 🚲carril bici 🧭E per Carrer de Prolongació de Falguera</desc>
-    <sym>Bike Trail</sym>
+    <sym>Bike Lane</sym>
   </wpt>
   <wpt lat="41.384299" lon="2.04275">
     <ele>35.82347108525086</ele>
     <name>8 ➡️⬅️🚲🧭E</name>
     <cmt>Canviem a la banda dreta. ➡️Dreta per creuar i ⬅️esquerra continuem per 🚲carril bici🧭E</cmt>
     <desc>Canviem a la banda dreta. ➡️Dreta per creuar i ⬅️esquerra continuem per 🚲carril bici🧭E</desc>
-    <sym>Bike Trail</sym>
+    <sym>Bike Lane</sym>
   </wpt>
   <wpt lat="41.385278" lon="2.044931">
     <ele>39.86457821740268</ele>
