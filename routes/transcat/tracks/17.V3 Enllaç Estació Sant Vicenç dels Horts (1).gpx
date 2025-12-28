@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx creator="https://gpx.studio" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/PowerExtension/v1 http://www.garmin.com/xmlschemas/PowerExtensionv1.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxpx="http://www.garmin.com/xmlschemas/PowerExtension/v1" xmlns:gpx_style="http://www.topografix.com/GPX/gpx_style/0/2">
+  <metadata>
+    <name>17.V3 Enllaç Estació Sant Vicenç dels Horts</name>
+    <desc>Etapa 17 Variant Barcelona PK XX,XX - Estació Sant Vicenç dels Horts</desc>
+    <author>
+      <name>gpx.studio</name>
+      <link href="https://gpx.studio"/>
+    </author>
+  </metadata>
+  <wpt lat="41.387671" lon="2.021122">
+    <ele>17.171817712759616</ele>
+    <name>🟢Enllaç a Sant Vicenç dels Horts ╣↗️🧭W</name>
+    <cmt>╣ Cruïlla amb Etapa 17 Variant Barcelona PK 6,19. Seguim pel camí més marcat 🧭W:
+🧭S a Sant Boi, L&apos;Hospitalet, Esplugues i Barcelona per Etapa 17 Variant Barcelona 17.V0 i Alternativa Diagonal 17.VA
+🧭E a Sant Feliu, Molins i el Papiol per Etapa 17 Variant Barcelona en 6,2 kms</cmt>
+    <desc>╣ Cruïlla amb Etapa 17 Variant Barcelona PK 6,19. Seguim pel camí més marcat 🧭W:
+🧭S a Sant Boi, L&apos;Hospitalet, Esplugues i Barcelona per Etapa 17 Variant Barcelona 17.V0 i Alternativa Diagonal 17.VA
+🧭E a Sant Feliu, Molins i el Papiol per Etapa 17 Variant Barcelona en 6,2 kms</desc>
+    <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="41.387611" lon="2.019715">
+    <ele>23.122210204553074</ele>
+    <name>2 ╠↖️╠↖️╠↗️🧭W</name>
+    <cmt>╠ SPP per ↖️l&apos;esquerra 2 cops i a la 3a ╠ desviem a la ↗️dreta 🧭W</cmt>
+    <desc>╠ SPP per ↖️l&apos;esquerra 2 cops i a la 3a ╠ desviem a la ↗️dreta 🧭W</desc>
+    <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="41.386485" lon="2.015863">
+    <ele>23.870835048752816</ele>
+    <name>3 ⌒➡️</name>
+    <cmt>Creuem una rotonda per un pas ⌒ subterrani i després ➡️dreta</cmt>
+    <desc>Creuem una rotonda per un pas ⌒ subterrani i després ➡️dreta</desc>
+    <sym>Tunnel</sym>
+  </wpt>
+  <wpt lat="41.386732" lon="2.014996">
+    <ele>28.22792413260405</ele>
+    <name>4 ╦⬅️</name>
+    <cmt>Agafem el ╦ Carrer Nou a ⬅️l&apos;esquerra</cmt>
+    <desc>Agafem el ╦ Carrer Nou a ⬅️l&apos;esquerra</desc>
+    <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="41.388175" lon="2.012635">
+    <ele>32.31072402438252</ele>
+    <name>🏁Final enllaç 🚉Sant Vicenç dels Horts</name>
+    <cmt>🚉Estació Sant Vicenç dels Horts FGC S3 S4 S8 S9 R5 R50 R6 R60</cmt>
+    <desc>🚉Estació Sant Vicenç dels Horts FGC S3 S4 S8 S9 R5 R50 R6 R60</desc>
+    <sym>Ground Transportation</sym>
+  </wpt>
+  <trk>
+    <name>17.V3 Enllaç Estació Sant Vicenç dels Horts</name>
+    <trkseg>
+      <trkpt lat="41.387673" lon="2.02115">
+        <ele>19</ele>
+      </trkpt>
+      <trkpt lat="41.387672" lon="2.021146">
+        <ele>19.25</ele>
+      </trkpt>
+      <trkpt lat="41.38765" lon="2.020976">
+        <ele>19.75</ele>
+      </trkpt>
+      <trkpt lat="41.387484" lon="2.020057">
+        <ele>22.5</ele>
+      </trkpt>
+      <trkpt lat="41.387625" lon="2.019662">
+        <ele>24</ele>
+      </trkpt>
+      <trkpt lat="41.387613" lon="2.01962">
+        <ele>24</ele>
+      </trkpt>
+      <trkpt lat="41.387525" lon="2.019303">
+        <ele>24.5</ele>
+      </trkpt>
+      <trkpt lat="41.387463" lon="2.019193">
+        <ele>24.5</ele>
+      </trkpt>
+      <trkpt lat="41.387368" lon="2.01907">
+        <ele>23.5</ele>
+      </trkpt>
+      <trkpt lat="41.387192" lon="2.018376">
+        <ele>21</ele>
+      </trkpt>
+      <trkpt lat="41.387143" lon="2.018138">
+        <ele>20.75</ele>
+      </trkpt>
+      <trkpt lat="41.38697" lon="2.016899">
+        <ele>20.75</ele>
+      </trkpt>
+      <trkpt lat="41.386945" lon="2.01679">
+        <ele>20.75</ele>
+      </trkpt>
+      <trkpt lat="41.386903" lon="2.01669">
+        <ele>20.5</ele>
+      </trkpt>
+      <trkpt lat="41.386457" lon="2.016045">
+        <ele>24</ele>
+      </trkpt>
+      <trkpt lat="41.386441" lon="2.016008">
+        <ele>24.25</ele>
+      </trkpt>
+      <trkpt lat="41.386439" lon="2.015959">
+        <ele>24.5</ele>
+      </trkpt>
+      <trkpt lat="41.386449" lon="2.015928">
+        <ele>24.75</ele>
+      </trkpt>
+      <trkpt lat="41.386498" lon="2.015845">
+        <ele>25</ele>
+      </trkpt>
+      <trkpt lat="41.386508" lon="2.015806">
+        <ele>25.25</ele>
+      </trkpt>
+      <trkpt lat="41.386504" lon="2.015768">
+        <ele>25.25</ele>
+      </trkpt>
+      <trkpt lat="41.386499" lon="2.015717">
+        <ele>25.5</ele>
+      </trkpt>
+      <trkpt lat="41.386496" lon="2.015526">
+        <ele>26</ele>
+      </trkpt>
+      <trkpt lat="41.386488" lon="2.015467">
+        <ele>26</ele>
+      </trkpt>
+      <trkpt lat="41.386464" lon="2.015287">
+        <ele>26.5</ele>
+      </trkpt>
+      <trkpt lat="41.386462" lon="2.01527">
+        <ele>26.5</ele>
+      </trkpt>
+      <trkpt lat="41.386419" lon="2.015019">
+        <ele>27</ele>
+      </trkpt>
+      <trkpt lat="41.38642" lon="2.014961">
+        <ele>27</ele>
+      </trkpt>
+      <trkpt lat="41.386504" lon="2.014952">
+        <ele>27.25</ele>
+      </trkpt>
+      <trkpt lat="41.386611" lon="2.014967">
+        <ele>27.75</ele>
+      </trkpt>
+      <trkpt lat="41.386668" lon="2.01498">
+        <ele>27.75</ele>
+      </trkpt>
+      <trkpt lat="41.386769" lon="2.01502">
+        <ele>27.5</ele>
+      </trkpt>
+      <trkpt lat="41.386763" lon="2.014461">
+        <ele>27.75</ele>
+      </trkpt>
+      <trkpt lat="41.386771" lon="2.014392">
+        <ele>28</ele>
+      </trkpt>
+      <trkpt lat="41.386799" lon="2.014197">
+        <ele>28</ele>
+      </trkpt>
+      <trkpt lat="41.386863" lon="2.014056">
+        <ele>28.5</ele>
+      </trkpt>
+      <trkpt lat="41.386953" lon="2.013962">
+        <ele>28.75</ele>
+      </trkpt>
+      <trkpt lat="41.387326" lon="2.013704">
+        <ele>30.25</ele>
+      </trkpt>
+      <trkpt lat="41.38745" lon="2.013586">
+        <ele>30.75</ele>
+      </trkpt>
+      <trkpt lat="41.38763" lon="2.013356">
+        <ele>31.5</ele>
+      </trkpt>
+      <trkpt lat="41.388117" lon="2.012727">
+        <ele>31.5</ele>
+      </trkpt>
+      <trkpt lat="41.388156" lon="2.012662">
+        <ele>31.5</ele>
+      </trkpt>
+      <trkpt lat="41.388185" lon="2.012621">
+        <ele>31.75</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
