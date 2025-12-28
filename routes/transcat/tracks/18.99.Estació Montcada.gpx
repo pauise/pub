@@ -10,7 +10,13 @@
   </metadata>
   <wpt lat="41.487676" lon="2.187984">
     <ele>39.90846740105288</ele>
-    <name>🟢Enllaç 🚉Estació Montcada i Reixac 🚦🧭S</name>
+    <name>🟢Enllaç ╬ Montcada i Reixac 🚦🧭S</name>
+    <cmt>╬ Cruïlla Montcada i Reixac. Creuem pel 🚦semàfor 🧭S.
+🧭W a Cerdanyola i Sant Cugat per Etapa 18
+🧭S a Barcelona per Etapa 18.V0</cmt>
+    <desc>╬ Cruïlla Montcada i Reixac. Creuem pel 🚦semàfor 🧭S.
+🧭W a Cerdanyola i Sant Cugat per Etapa 18
+🧭S a Barcelona per Etapa 18.V0</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="41.484453" lon="2.187342">
