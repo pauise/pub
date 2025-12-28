@@ -224,6 +224,30 @@
       "km": 1
     },
     {
+      "id": "17.V1",
+      "nom": "Estació Molins de Rei",
+      "data": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/json/17.V1.Estaci%C3%B3%20Molins.json",
+      "km": 1.65
+    },
+    {
+      "id": "17.V2",
+      "nom": "Estació Sant Feliu de Llobregat",
+      "data": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/json/17.V2.Estaci%C3%B3%20Sant%20Feliu.json",
+      "km": 3.24
+    },
+    {
+      "id": "17.V3",
+      "nom": "Estació Sant Vicenç dels Horts",
+      "data": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/json/17.V3.Estaci%C3%B3%20Sant%20Feliu.json",
+      "km": 0.87
+    },
+    {
+      "id": "17.V4",
+      "nom": "Estació Sant Boi de Llobregat",
+      "data": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/json/17.V4.Estaci%C3%B3%20Sant%20Feliu.json",
+      "km": 0.33
+    },
+    {
       "id": "18.00",
       "nom": "Sant Cugat del Vallès - Montcada i Reixac",
       "data": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/json/18.00.Sant%20Cugat.Montcada.json",
