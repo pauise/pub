@@ -1,0 +1,32 @@
+{
+    "title": "Etapa 18 Alternativa 1: Cerdanyola opció per evitar fang riera",
+    "full_track_url": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/tracks/18.A1.Alternativa%20Cerdanyola.gpx",
+    "prf": [
+        {"km": 0, "alt": 85},
+        {"km": 0.19, "alt": 83},
+        {"km": 0.36, "alt": 88},
+        {"km": 0.48, "alt": 87},
+        {"km": 0.7, "alt": 100},
+        {"km": 1.41, "alt": 77},
+        {"km": 1.52, "alt": 71},
+        {"km": 1.94, "alt": 82},
+        {"km": 2.21, "alt": 78},
+        {"km": 2.38, "alt": 61}
+    ],
+    "wps": [
+        {"km": 0, "paviment": 1},
+        {"km": ., "paviment": 1},
+        {"km": ., "paviment": 1},
+        {"km": ., "paviment": 1},
+        {"km": ., "paviment": 1},
+        {"km": ., "paviment": 1},
+        {"km": ., "paviment": 1},
+        {"km": ., "paviment": 1},
+        {"km": ., "paviment": 1},
+        {"km": ., "paviment": 1},
+        {"km": ., "paviment": 1},
+        {"km": ., "paviment": 1},
+        {"km": ., "paviment": 1},
+        {"km": 2.38, "paviment": 1}
+      ]
+  }
