@@ -10,9 +10,9 @@
   </metadata>
   <wpt lat="41.48493308816532" lon="2.1282334977205437">
     <ele>85.29420247994729</ele>
-    <name>🟢Alternativa evitar fang 🔄🚲🧭E</name>
-    <cmt>Sortim de la 🔄rotonda seguint 🚲 carril bici 🧭E</cmt>
-    <desc>Sortim de la 🔄rotonda seguint 🚲 carril bici 🧭E</desc>
+    <name>🟢Alternativa Cerdanyola 🔄🚲🧭E</name>
+    <cmt>Opció per evitar fang del tram de la riera. Sortim de la 🔄rotonda seguint 🚲 carril bici 🧭E</cmt>
+    <desc>Opció per evitar fang del tram de la riera. Sortim de la 🔄rotonda seguint 🚲 carril bici 🧭E</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="41.485971" lon="2.136156">
@@ -20,7 +20,7 @@
     <name>2 🚳↗️🚶⬅️🚶➡️🚲</name>
     <cmt>🚳Fi carril bici. Seguim a la ↗️dreta per la 🚶vorera i creuem a ⬅️l&apos;esquerra el 🚶pas de vianants i seguidament ➡️dreta per 🚲carril bici</cmt>
     <desc>🚳Fi carril bici. Seguim a la ↗️dreta per la 🚶vorera i creuem a ⬅️l&apos;esquerra el 🚶pas de vianants i seguidament ➡️dreta per 🚲carril bici</desc>
-    <sym>Bike Trail</sym>
+    <sym>Bike Lane</sym>
   </wpt>
   <wpt lat="41.483172" lon="2.142215">
     <ele>76.52741579511904</ele>
@@ -36,33 +36,30 @@
     <desc>Mantenim a ↖️esquerres i ➡️dreta pel 🚶pas de vianants i creuat ➡️dreta per 🚲carril bici</desc>
     <sym>Crossing</sym>
   </wpt>
-  <wpt lat="0" lon="0">
-    <ele>0</ele>
-  </wpt>
   <wpt lat="41.483226" lon="2.143626">
     <ele>75.713431264292</ele>
     <name>5 🚳↖️🚶</name>
     <cmt>🚳Abandonem carril bici per ↖️45º esquerra per creuar pel 🚶pas de vianants del lateral de l&apos;Avinguda Canaletes</cmt>
     <desc>🚳Abandonem carril bici per ↖️45º esquerra per creuar pel 🚶pas de vianants del lateral de l&apos;Avinguda Canaletes</desc>
-    <sym>Bike Trail</sym>
+    <sym>Bike Lane</sym>
   </wpt>
   <wpt lat="41.483011" lon="2.144195">
     <ele>72.33061321660162</ele>
     <name>6 🚲🛒⚕️☕🍽️🥖</name>
     <cmt>Ens incorporem al 🚲carril bici poc visible al principi del passeig central d&apos;Avinguda Canaletes. Durants els propers metres trobarem 🛒supermercat,⚕️farmàcia, ☕🍽️terrasses i 🥖forn de pa</cmt>
     <desc>Ens incorporem al 🚲carril bici poc visible al principi del passeig central d&apos;Avinguda Canaletes. Durants els propers metres trobarem 🛒supermercat,⚕️farmàcia, ☕🍽️terrasses i 🥖forn de pa</desc>
-    <sym>Bike Trail</sym>
+    <sym>Bike Lane</sym>
   </wpt>
   <wpt lat="41.483417" lon="2.151809">
     <ele>82.27447725688202</ele>
-    <name>6 🚳➡️🚦↖️🌳🛝</name>
+    <name>7 🚳➡️🚦↖️🌳🛝</name>
     <cmt>Abandonem 🚳carril bici per la ➡️dreta. Creuem pel🚦semàfor i busquem un camí que surt a ↖️60º esquerra. 🌳Parc de la Riera. 🛝Parc infantil i bancs. </cmt>
     <desc>Abandonem 🚳carril bici per la ➡️dreta. Creuem pel🚦semàfor i busquem un camí que surt a ↖️60º esquerra. 🌳Parc de la Riera. 🛝Parc infantil i bancs. </desc>
     <sym>Park</sym>
   </wpt>
   <wpt lat="41.482308" lon="2.153791">
     <ele>60.84663492218817</ele>
-    <name>🏁Fi alternativa evitar fang ↖️🧭NE</name>
+    <name>🏁Fi alternativa Cerdanyola ↖️🧭NE</name>
     <cmt>a ↖️🧭NE continuar etapa 18 a Montcada
 a ↘️🧭SW a Sant Cugat per etapa 18 pel Parc de la Riera</cmt>
     <desc>a ↖️🧭NE continuar etapa 18 a Montcada
