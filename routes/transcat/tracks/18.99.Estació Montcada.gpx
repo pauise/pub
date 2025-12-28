@@ -12,16 +12,27 @@
     <ele>39.90846740105288</ele>
     <name>🟢Enllaç ╬ Montcada i Reixac 🚦🧭S</name>
     <cmt>╬ Cruïlla Montcada i Reixac. Creuem pel 🚦semàfor 🧭S.
+🧭N a Mollet per Etapa 19
 🧭W a Cerdanyola i Sant Cugat per Etapa 18
-🧭S a Barcelona per Etapa 18.V0</cmt>
+🧭S i E a Barcelona per Etapa 18.V0</cmt>
     <desc>╬ Cruïlla Montcada i Reixac. Creuem pel 🚦semàfor 🧭S.
+🧭N a Mollet per Etapa 19
 🧭W a Cerdanyola i Sant Cugat per Etapa 18
-🧭S a Barcelona per Etapa 18.V0</desc>
+🧭S i E a Barcelona per Etapa 18.V0 Variant per Barcelona</desc>
+    <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="41.485579" lon="2.187984">
+    <ele>41.78233212084707</ele>
+    <name>2 ╣⬆️</name>
+    <cmt>╣Seguim ⬆️recte
+Si ⬅️ a Barcelona per Etapa 18.V0 Variant per Barcelona</cmt>
+    <desc>╣Seguim ⬆️recte
+Si ⬅️ a Barcelona per Etapa 18.V0 Variant per Barcelona</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="41.484453" lon="2.187342">
     <ele>44.70301460275328</ele>
-    <name>2 ╣⬅️</name>
+    <name>3 ╣⬅️</name>
     <cmt>╣Desviar ⬅️esquerra
 Si seguim ⬆️recte i 1a ➡️dreta en 200 m arribem a 🚉Estació Montcada-Manresa R4</cmt>
     <desc>╣Desviar ⬅️esquerra
