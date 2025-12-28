@@ -1,0 +1,24 @@
+{
+    "title": "Enllaç 18 amb Estació Cerdanyola",
+    "full_track_url": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/tracks/18.65.Estaci%C3%B3%20Cerdanyola.gpx",
+    "prf": [
+        {"km": 0, "alt": 66},
+        {"km": 0.21, "alt": 72},
+        {"km": 0.57, "alt": 89},
+        {"km": 0.97, "alt": 77},
+        {"km": 1.27, "alt": 75},
+        {"km": 1.43, "alt": 78}
+    ],
+    "wps": [
+        {"km": 0, "paviment": 1},
+        {"km": 0.28, "paviment": 1},
+        {"km": 0.44, "paviment": 1},
+        {"km": 0.5, "paviment": 1},
+        {"km": 0.65, "paviment": 1},
+        {"km": 0.93, "paviment": 1},
+        {"km": 1.08, "paviment": 1},
+        {"km": 1.11, "paviment": 1},
+        {"km": 1.23, "paviment": 1},
+        {"km": 1.43, "paviment": 1}
+      ]
+  }
