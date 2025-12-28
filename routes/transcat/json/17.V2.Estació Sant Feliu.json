@@ -1,0 +1,23 @@
+{
+    "title": "Enllaç 17 Variant Barcelona amb Estació Sant Feliu de Llobregat",
+    "full_track_url": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/tracks/17.V2.Estaci%C3%B3%20Sant%20Feliu.gpx",
+    "prf": [
+        {"km": 0, "alt": 21},
+        {"km": 0.28, "alt": 19},
+        {"km": 0.61, "alt": 24},
+        {"km": 2.22, "alt": 19},
+        {"km": 3.24, "alt": 41}
+    ],
+    "wps": [
+        {"km": 0, "paviment": 2},
+        {"km": 0.12, "paviment": 2},
+        {"km": 0.76, "paviment": 1},
+        {"km": 1.51, "paviment": 1},
+        {"km": 1.65, "paviment": 1},
+        {"km": 2.25, "paviment": 1},
+        {"km": 2.46, "paviment": 1},
+        {"km": 2.81, "paviment": 1},
+        {"km": 3.05, "paviment": 1},
+        {"km": 3.24, "paviment": 1}
+      ]
+  }
