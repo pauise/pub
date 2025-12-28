@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx creator="https://gpx.studio" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/PowerExtension/v1 http://www.garmin.com/xmlschemas/PowerExtensionv1.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxpx="http://www.garmin.com/xmlschemas/PowerExtension/v1" xmlns:gpx_style="http://www.topografix.com/GPX/gpx_style/0/2">
+  <metadata>
+    <name>18.65 Enllaç Estació Cerdanyola</name>
+    <desc>Etapa 18 PK 8,35 - CAP Canaletes - Les Fontetes - Pont Riu Sec - Estació Cerdanyola del Vallès R4</desc>
+    <author>
+      <name>gpx.studio</name>
+      <link href="https://gpx.studio"/>
+    </author>
+  </metadata>
+  <wpt lat="41.481127929047716" lon="2.1428474757706795">
+    <ele>63.01353817837139</ele>
+    <name>🟢Enllaç Estació Cerdanyola ╬ 🚲🧭N</name>
+    <cmt>╬ Cruïlla. Agafem el 🚲carril bici 🧭N.
+🧭E a Montcada per Etapa 18 en 4,47 kms
+🧭W a Sant Cugat per Etapa 18 en 8,35 kms
+🧭S a Barcelona per Collserola (Forat del Vent)</cmt>
+    <desc>╬ Cruïlla. Agafem el 🚲carril bici 🧭N.
+🧭E a Montcada per Etapa 18 en 4,47 kms
+🧭W a Sant Cugat per Etapa 18 en 8,35 kms
+🧭S a Barcelona per Collserola (Forat del Vent)</desc>
+    <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="41.483345" lon="2.143525">
+    <ele>76.91550340522139</ele>
+    <name>2 ╬⬆️</name>
+    <cmt>╬ Cruïlla amb ruta alternativa a etapa 18 per evitar fang. Seguim ⬆️recte.
+⬅️ a Sant Cugat per Etapa 18.A1
+➡️ a Montcada i Reixac per Etapa 18.A1</cmt>
+    <desc>╬ Cruïlla amb ruta alternativa a etapa 18 per evitar fang. Seguim ⬆️recte.
+⬅️ a Sant Cugat per Etapa 18.A1
+➡️ a Montcada i Reixac per Etapa 18.A1</desc>
+    <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="41.484706" lon="2.143867">
+    <ele>82.21173076272548</ele>
+    <name>3 🏥</name>
+    <cmt>🏥CAP Canaletes</cmt>
+    <desc>🏥CAP Canaletes</desc>
+    <sym>Pharmacy</sym>
+  </wpt>
+  <wpt lat="41.485246" lon="2.143969">
+    <ele>86.41199459531481</ele>
+    <name>4 ╠⬆️🚳╬⬆️🅿️</name>
+    <cmt>Deixem ╠ un camí a la dreta que ens duria a la Piscina Municipal Les Fontetes i seguim ⬆️recte. 🚳Fi carril bici.  ╬ Cruïlla. Creuem ⬆️recte i ens fiquem pel 🅿️parking del Poliesportiu</cmt>
+    <desc>Deixem ╠ un camí a la dreta que ens duria a la Piscina Municipal Les Fontetes i seguim ⬆️recte. 🚳Fi carril bici.  ╬ Cruïlla. Creuem ⬆️recte i ens fiquem pel 🅿️parking del Poliesportiu</desc>
+    <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="41.486591" lon="2.143995">
+    <ele>84.37218901631492</ele>
+    <name>5 ↗️🚶</name>
+    <cmt>Ens incorporem per la ↗️dreta a la 🚶vorera</cmt>
+    <desc>Ens incorporem per la ↗️dreta a la 🚶vorera</desc>
+    <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="41.488918" lon="2.144752">
+    <ele>74.91095470065046</ele>
+    <name>6 ⬆️🚦🚦➡️🚶⬅️</name>
+    <cmt>De ⬆️front creuem els 2🚦🚦semàfors. ➡️Dreta per la vorera i seguidament ens incorporem al carrer pel 🚶pas de vianants i a ⬅️l&apos;esquerra</cmt>
+    <desc>De ⬆️front creuem els 2🚦🚦semàfors. ➡️Dreta per la vorera i seguidament ens incorporem al carrer pel 🚶pas de vianants i a ⬅️l&apos;esquerra</desc>
+    <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="41.490002" lon="2.145058">
+    <ele>83.03811540515932</ele>
+    <name>7 🚶↗️</name>
+    <cmt>Pel 🚶pas de vianants ens pujem a la vorera a la ↗️dreta</cmt>
+    <desc>Pel 🚶pas de vianants ens pujem a la vorera a la ↗️dreta</desc>
+    <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="41.490321" lon="2.145283">
+    <ele>80.08330441471286</ele>
+    <name>8 ↖️🚶↖️</name>
+    <cmt>Lleugerament a ↖️esquerres creueum pel 🚶pas de vianants i seguim a ↖️l&apos;esquerra per la vorera</cmt>
+    <desc>Lleugerament a ↖️esquerres creueum pel 🚶pas de vianants i seguim a ↖️l&apos;esquerra per la vorera</desc>
+    <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="41.491177" lon="2.145949">
+    <ele>74.8611502010851</ele>
+    <name>9 🛒🚏🛝︵🥖☕🍽️</name>
+    <cmt>Passem l&apos;accès al 🛒mercat, 🚏parada de bus a Bcn, 🛝parc infantil i creuem el ︵ pont sobre el Riu Sec. Segueixen 🥖forn,☕cafeteria i 🍽️restaurant</cmt>
+    <desc>Passem l&apos;accès al 🛒mercat, 🚏parada de bus a Bcn, 🛝parc infantil i creuem el ︵ pont sobre el Riu Sec. Segueixen 🥖forn,☕cafeteria i 🍽️restaurant</desc>
+    <sym>Bridge</sym>
+  </wpt>
+  <wpt lat="41.492546" lon="2.147379">
+    <ele>78.29708633788412</ele>
+    <name>10 🏁🚉Estació Cerdanyola</name>
+    <cmt>🚉Estació Cerdanyola R4</cmt>
+    <desc>🚉Estació Cerdanyola R4</desc>
+    <sym>Ground Transportation</sym>
+  </wpt>
+  <trk>
+    <name>18.65 Enllaç Estació Cerdanyola</name>
+    <trkseg>
+      <trkpt lat="41.481127" lon="2.142844">
+        <ele>66.25</ele>
+      </trkpt>
+      <trkpt lat="41.481286" lon="2.142899">
+        <ele>67.25</ele>
+      </trkpt>
+      <trkpt lat="41.481457" lon="2.142956">
+        <ele>68.25</ele>
+      </trkpt>
+      <trkpt lat="41.481508" lon="2.143107">
+        <ele>68.25</ele>
+      </trkpt>
+      <trkpt lat="41.481769" lon="2.143175">
+        <ele>69.25</ele>
+      </trkpt>
+      <trkpt lat="41.48255" lon="2.143368">
+        <ele>70.25</ele>
+      </trkpt>
+      <trkpt lat="41.482584" lon="2.143376">
+        <ele>70.5</ele>
+      </trkpt>
+      <trkpt lat="41.482616" lon="2.143397">
+        <ele>70.75</ele>
+      </trkpt>
+      <trkpt lat="41.482642" lon="2.14343">
+        <ele>71</ele>
+      </trkpt>
+      <trkpt lat="41.48278" lon="2.143722">
+        <ele>71.5</ele>
+      </trkpt>
+      <trkpt lat="41.482801" lon="2.143745">
+        <ele>71.75</ele>
+      </trkpt>
+      <trkpt lat="41.482859" lon="2.143763">
+        <ele>72.25</ele>
+      </trkpt>
+      <trkpt lat="41.48296" lon="2.143787">
+        <ele>73</ele>
+      </trkpt>
+      <trkpt lat="41.482997" lon="2.143794">
+        <ele>73.25</ele>
+      </trkpt>
+      <trkpt lat="41.483081" lon="2.143754">
+        <ele>74</ele>
+      </trkpt>
+      <trkpt lat="41.483177" lon="2.143661">
+        <ele>74.75</ele>
+      </trkpt>
+      <trkpt lat="41.483263" lon="2.143511">
+        <ele>75.75</ele>
+      </trkpt>
+      <trkpt lat="41.483341" lon="2.143527">
+        <ele>78</ele>
+      </trkpt>
+      <trkpt lat="41.483339" lon="2.143527">
+        <ele>76</ele>
+      </trkpt>
+      <trkpt lat="41.483703" lon="2.143604">
+        <ele>78</ele>
+      </trkpt>
+      <trkpt lat="41.484446" lon="2.143805">
+        <ele>82.25</ele>
+      </trkpt>
+      <trkpt lat="41.484792" lon="2.143898">
+        <ele>84.5</ele>
+      </trkpt>
+      <trkpt lat="41.485089" lon="2.143967">
+        <ele>86</ele>
+      </trkpt>
+      <trkpt lat="41.485261" lon="2.143973">
+        <ele>86.5</ele>
+      </trkpt>
+      <trkpt lat="41.485396" lon="2.143926">
+        <ele>87.25</ele>
+      </trkpt>
+      <trkpt lat="41.485454" lon="2.143943">
+        <ele>87.5</ele>
+      </trkpt>
+      <trkpt lat="41.485468" lon="2.143935">
+        <ele>88.25</ele>
+      </trkpt>
+      <trkpt lat="41.485468" lon="2.143935">
+        <ele>87.4926965982294</ele>
+      </trkpt>
+      <trkpt lat="41.485519889321694" lon="2.14394311043273">
+        <ele>87.63381592513153</ele>
+      </trkpt>
+      <trkpt lat="41.48588151319035" lon="2.1438440917501396">
+        <ele>88.56238955110443</ele>
+      </trkpt>
+      <trkpt lat="41.48588151319035" lon="2.1438440917501396">
+        <ele>88.56238955110443</ele>
+      </trkpt>
+      <trkpt lat="41.486084701519616" lon="2.14385911895522">
+        <ele>87.88037380571573</ele>
+      </trkpt>
+      <trkpt lat="41.486084701519616" lon="2.14385911895522">
+        <ele>87.88037380571573</ele>
+      </trkpt>
+      <trkpt lat="41.48641304229167" lon="2.1439187838377336">
+        <ele>85.3730285571896</ele>
+      </trkpt>
+      <trkpt lat="41.48641304229167" lon="2.1439187838377336">
+        <ele>85.3730285571896</ele>
+      </trkpt>
+      <trkpt lat="41.48665" lon="2.144029">
+        <ele>84.31303850746914</ele>
+      </trkpt>
+      <trkpt lat="41.48665" lon="2.144029">
+        <ele>84.75</ele>
+      </trkpt>
+      <trkpt lat="41.486784" lon="2.143949">
+        <ele>84.75</ele>
+      </trkpt>
+      <trkpt lat="41.486953" lon="2.144029">
+        <ele>84</ele>
+      </trkpt>
+      <trkpt lat="41.48716" lon="2.144161">
+        <ele>82</ele>
+      </trkpt>
+      <trkpt lat="41.487161" lon="2.144162">
+        <ele>82</ele>
+      </trkpt>
+      <trkpt lat="41.48716" lon="2.144161">
+        <ele>83</ele>
+      </trkpt>
+      <trkpt lat="41.487453" lon="2.144348">
+        <ele>82</ele>
+      </trkpt>
+      <trkpt lat="41.487846" lon="2.144616">
+        <ele>80.25</ele>
+      </trkpt>
+      <trkpt lat="41.487977" lon="2.144675">
+        <ele>79.5</ele>
+      </trkpt>
+      <trkpt lat="41.488109" lon="2.144705">
+        <ele>78.75</ele>
+      </trkpt>
+      <trkpt lat="41.488303" lon="2.144685">
+        <ele>77.75</ele>
+      </trkpt>
+      <trkpt lat="41.48872" lon="2.144603">
+        <ele>78</ele>
+      </trkpt>
+      <trkpt lat="41.48872" lon="2.144667">
+        <ele>78</ele>
+      </trkpt>
+      <trkpt lat="41.48879" lon="2.144656">
+        <ele>78</ele>
+      </trkpt>
+      <trkpt lat="41.488855" lon="2.144671">
+        <ele>78</ele>
+      </trkpt>
+      <trkpt lat="41.488896" lon="2.144718">
+        <ele>78</ele>
+      </trkpt>
+      <trkpt lat="41.48893" lon="2.144783">
+        <ele>78</ele>
+      </trkpt>
+      <trkpt lat="41.48901" lon="2.14477">
+        <ele>78</ele>
+      </trkpt>
+      <trkpt lat="41.489166" lon="2.144751">
+        <ele>78.25</ele>
+      </trkpt>
+      <trkpt lat="41.489217" lon="2.144748">
+        <ele>77.24648188436501</ele>
+      </trkpt>
+      <trkpt lat="41.48924613183601" lon="2.1450190059133547">
+        <ele>79.21322789474029</ele>
+      </trkpt>
+      <trkpt lat="41.48959351898526" lon="2.1450497365290744">
+        <ele>81.78818976609169</ele>
+      </trkpt>
+      <trkpt lat="41.48959351898526" lon="2.1450497365290744">
+        <ele>81.78818976609169</ele>
+      </trkpt>
+      <trkpt lat="41.4900254663072" lon="2.145056636404462">
+        <ele>83.10304847892354</ele>
+      </trkpt>
+      <trkpt lat="41.4900254663072" lon="2.145056636404462">
+        <ele>83.10304847892354</ele>
+      </trkpt>
+      <trkpt lat="41.490180324006104" lon="2.1451292724059954">
+        <ele>82.27945933612301</ele>
+      </trkpt>
+      <trkpt lat="41.490180324006104" lon="2.1451292724059954">
+        <ele>82.27945933612301</ele>
+      </trkpt>
+      <trkpt lat="41.490295420704484" lon="2.145254988562556">
+        <ele>80.44025867517634</ele>
+      </trkpt>
+      <trkpt lat="41.49043772179482" lon="2.1454058479493483">
+        <ele>78.76196871004124</ele>
+      </trkpt>
+      <trkpt lat="41.49052979880352" lon="2.1453918794873914">
+        <ele>78.68904315104416</ele>
+      </trkpt>
+      <trkpt lat="41.49081656280916" lon="2.145662411011898">
+        <ele>77.40417036319175</ele>
+      </trkpt>
+      <trkpt lat="41.49098311709088" lon="2.1457986072876736">
+        <ele>76.25015443479718</ele>
+      </trkpt>
+      <trkpt lat="41.49137020421217" lon="2.1461040823902917">
+        <ele>74.3574355350185</ele>
+      </trkpt>
+      <trkpt lat="41.49144876423918" lon="2.146166079111424">
+        <ele>74.71444051130463</ele>
+      </trkpt>
+      <trkpt lat="41.491813395917205" lon="2.146446061288458">
+        <ele>79.28909331299451</ele>
+      </trkpt>
+      <trkpt lat="41.49216311918037" lon="2.146823400060789">
+        <ele>80.48487525618344</ele>
+      </trkpt>
+      <trkpt lat="41.492384503884836" lon="2.147062266162635">
+        <ele>79.6730892690277</ele>
+      </trkpt>
+      <trkpt lat="41.49243891140762" lon="2.1471069652403116">
+        <ele>79.54113064517065</ele>
+      </trkpt>
+      <trkpt lat="41.49243891140762" lon="2.1471069652403116">
+        <ele>79.54113064517065</ele>
+      </trkpt>
+      <trkpt lat="41.492493318884726" lon="2.1471851886264233">
+        <ele>79.30576701453056</ele>
+      </trkpt>
+      <trkpt lat="41.49254772631545" lon="2.147386334475499">
+        <ele>78.25923391373404</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

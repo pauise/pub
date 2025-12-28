@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx creator="https://gpx.studio" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/PowerExtension/v1 http://www.garmin.com/xmlschemas/PowerExtensionv1.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxpx="http://www.garmin.com/xmlschemas/PowerExtension/v1" xmlns:gpx_style="http://www.topografix.com/GPX/gpx_style/0/2">
+  <metadata>
+    <name>18.99 Enllaç Estació Montcada</name>
+    <desc>Final etapa 18 (cruïlla Carrer Major) - Carrer Major - Estació Montcada i Reixac</desc>
+    <author>
+      <name>gpx.studio</name>
+      <link href="https://gpx.studio"/>
+    </author>
+  </metadata>
+  <wpt lat="41.487676" lon="2.187984">
+    <ele>39.90846740105288</ele>
+    <name>🟢Enllaç 🚉Estació Montcada i Reixac 🚦🧭S</name>
+    <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="41.484453" lon="2.187342">
+    <ele>44.70301460275328</ele>
+    <name>2 ╣⬅️</name>
+    <cmt>╣Desviar ⬅️esquerra
+Si seguim ⬆️recte i 1a ➡️dreta en 200 m arribem a 🚉Estació Montcada-Manresa R4</cmt>
+    <desc>╣Desviar ⬅️esquerra
+Si seguim ⬆️recte i 1a ➡️dreta en 200 m arribem a 🚉Estació Montcada-Manresa R4</desc>
+    <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="41.484289" lon="2.187927">
+    <ele>41.578789670317434</ele>
+    <name>🏁🚉Estació Montcada i Reixac</name>
+    <cmt>🚉Estació Montcada i Reixac R2N</cmt>
+    <desc>🚉Estació Montcada i Reixac R2N</desc>
+    <sym>Ground Transportation</sym>
+  </wpt>
+  <trk>
+    <name>18.99 Enllaç Estació Montcada</name>
+    <trkseg>
+      <trkpt lat="41.487678" lon="2.187984">
+        <ele>39.75</ele>
+      </trkpt>
+      <trkpt lat="41.487659" lon="2.187984">
+        <ele>40</ele>
+      </trkpt>
+      <trkpt lat="41.487598" lon="2.187994">
+        <ele>40</ele>
+      </trkpt>
+      <trkpt lat="41.48753" lon="2.188005">
+        <ele>40.25</ele>
+      </trkpt>
+      <trkpt lat="41.487513" lon="2.187993">
+        <ele>40.25</ele>
+      </trkpt>
+      <trkpt lat="41.487491" lon="2.187998">
+        <ele>40.25</ele>
+      </trkpt>
+      <trkpt lat="41.487456" lon="2.188007">
+        <ele>40.5</ele>
+      </trkpt>
+      <trkpt lat="41.487117" lon="2.188017">
+        <ele>42</ele>
+      </trkpt>
+      <trkpt lat="41.487003" lon="2.188031">
+        <ele>42.5</ele>
+      </trkpt>
+      <trkpt lat="41.48696" lon="2.188031">
+        <ele>42.75</ele>
+      </trkpt>
+      <trkpt lat="41.486807" lon="2.188031">
+        <ele>43.5</ele>
+      </trkpt>
+      <trkpt lat="41.486492" lon="2.188082">
+        <ele>43.5</ele>
+      </trkpt>
+      <trkpt lat="41.486385" lon="2.188102">
+        <ele>43</ele>
+      </trkpt>
+      <trkpt lat="41.486231" lon="2.1881">
+        <ele>42.5</ele>
+      </trkpt>
+      <trkpt lat="41.486233" lon="2.1881">
+        <ele>42.5</ele>
+      </trkpt>
+      <trkpt lat="41.486231" lon="2.1881">
+        <ele>42.5</ele>
+      </trkpt>
+      <trkpt lat="41.486088" lon="2.1881">
+        <ele>42.5</ele>
+      </trkpt>
+      <trkpt lat="41.485756" lon="2.188034">
+        <ele>42.75</ele>
+      </trkpt>
+      <trkpt lat="41.485511" lon="2.187974">
+        <ele>43.25</ele>
+      </trkpt>
+      <trkpt lat="41.485198" lon="2.187836">
+        <ele>44.25</ele>
+      </trkpt>
+      <trkpt lat="41.485038" lon="2.187765">
+        <ele>44.75</ele>
+      </trkpt>
+      <trkpt lat="41.484767" lon="2.187564">
+        <ele>45.25</ele>
+      </trkpt>
+      <trkpt lat="41.484355" lon="2.187279">
+        <ele>45.25</ele>
+      </trkpt>
+      <trkpt lat="41.484323" lon="2.18757">
+        <ele>43.25</ele>
+      </trkpt>
+      <trkpt lat="41.484318" lon="2.187617">
+        <ele>43</ele>
+      </trkpt>
+      <trkpt lat="41.484288" lon="2.187937">
+        <ele>41.5</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
