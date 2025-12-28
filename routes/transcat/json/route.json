@@ -227,25 +227,25 @@
       "id": "18.00",
       "nom": "Sant Cugat del Vallès - Montcada i Reixac",
       "data": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/json/18.00.Sant%20Cugat.Montcada.json",
-      "km": 1
+      "km": 12.82
     },
     {
-      "id": "18.10",
-      "nom": "Estació Sant Cugat Centre",
+      "id": "18.A1",
+      "nom": "Alternativa Cerdanyola",
       "data": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/json/07.99.Estaci%C3%B3%20Sant%20Cugat%20Centre.json",
-      "km": 1
+      "km": 2.38
     },
     {
       "id": "18.65",
       "nom": "Estació Cerdanyola del Vallès",
       "data": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/json/07.99.Estaci%C3%B3%20Cerdanyola.json",
-      "km": 1
+      "km": 1.43
     },
     {
       "id": "18.99",
       "nom": "Estació Montcada i Reixac",
       "data": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/json/07.99.Estaci%C3%B3%20Montcada%20i%20Reixac.json",
-      "km": 1
+      "km": 0.44
     },
     {
       "id": "18.V0",
