@@ -37,13 +37,13 @@
     <name>3 🏥</name>
     <cmt>🏥CAP Canaletes</cmt>
     <desc>🏥CAP Canaletes</desc>
-    <sym>Pharmacy</sym>
+    <sym>Hospital</sym>
   </wpt>
   <wpt lat="41.485246" lon="2.143969">
     <ele>86.41199459531481</ele>
     <name>4 ╠⬆️🚳╬⬆️🅿️</name>
-    <cmt>Deixem ╠ un camí a la dreta que ens duria a la Piscina Municipal Les Fontetes i seguim ⬆️recte. 🚳Fi carril bici.  ╬ Cruïlla. Creuem ⬆️recte i ens fiquem pel 🅿️parking del Poliesportiu</cmt>
-    <desc>Deixem ╠ un camí a la dreta que ens duria a la Piscina Municipal Les Fontetes i seguim ⬆️recte. 🚳Fi carril bici.  ╬ Cruïlla. Creuem ⬆️recte i ens fiquem pel 🅿️parking del Poliesportiu</desc>
+    <cmt>Deixem ╠ un camí a la ➡️dreta que ens duria a la 🌊Piscina Municipal Les Fontetes i seguim ⬆️recte. 🚳Fi carril bici.  ╬ Cruïlla. Creuem ⬆️recte i ens fiquem pel 🅿️parking del Poliesportiu</cmt>
+    <desc>Deixem ╠ un camí a la ➡️dreta que ens duria a la 🌊Piscina Municipal Les Fontetes i seguim ⬆️recte. 🚳Fi carril bici.  ╬ Cruïlla. Creuem ⬆️recte i ens fiquem pel 🅿️parking del Poliesportiu</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="41.486591" lon="2.143995">
@@ -83,7 +83,7 @@
   </wpt>
   <wpt lat="41.492546" lon="2.147379">
     <ele>78.29708633788412</ele>
-    <name>10 🏁🚉Estació Cerdanyola</name>
+    <name>🏁🚉Estació Cerdanyola</name>
     <cmt>🚉Estació Cerdanyola R4</cmt>
     <desc>🚉Estació Cerdanyola R4</desc>
     <sym>Ground Transportation</sym>
