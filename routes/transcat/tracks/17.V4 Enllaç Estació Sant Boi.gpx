@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx creator="https://gpx.studio" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/PowerExtension/v1 http://www.garmin.com/xmlschemas/PowerExtensionv1.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxpx="http://www.garmin.com/xmlschemas/PowerExtension/v1" xmlns:gpx_style="http://www.topografix.com/GPX/gpx_style/0/2">
+  <metadata>
+    <name>17.V4 Enllaç Estació Sant Boi</name>
+    <desc>Etapa 17 Variant Barcelona PK 11,43 - Estació de Sant Boi de Llobregat</desc>
+    <author>
+      <name>gpx.studio</name>
+      <link href="https://gpx.studio"/>
+    </author>
+  </metadata>
+  <wpt lat="41.350206" lon="2.044766">
+    <ele>10.525059128878729</ele>
+    <name>🟢Enllaç a Sant Boi ╣↗️🧭SW</name>
+    <cmt>╣ Cruïlla amb Etapa 17 Variant Barcelona PK x,xx. Seguim pel camí més marcat 🧭SW:
+🧭S a L&apos;Hospitalet i Barcelona per Etapa 17 Variant Barcelona 17.V0 
+🧭N a Sant Vicenç dels Horts, Sant Feliu, Molins i el Papiol per Etapa 17 Variant Barcelona en x,xx kms</cmt>
+    <desc>╣ Cruïlla amb Etapa 17 Variant Barcelona PK x,xx. Seguim pel camí més marcat 🧭SW:
+🧭S a L&apos;Hospitalet i Barcelona per Etapa 17 Variant Barcelona 17.V0 
+🧭N a Sant Vicenç dels Horts, Sant Feliu, Molins i el Papiol per Etapa 17 Variant Barcelona en x,xx kms</desc>
+    <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="41.34955" lon="2.04303">
+    <ele>12.619418708421724</ele>
+    <name>3 ╬⚠️🚗🚶↖️</name>
+    <cmt>╬ BV-2002⚠️Precaució 🚗trànsit. Creuem a 🚶peu i enfront surten dos camins. Agafem el de ↖️l&apos;esquerra</cmt>
+    <desc>╬ BV-2002⚠️Precaució 🚗trànsit. Creuem a 🚶peu i enfront surten dos camins. Agafem el de ↖️l&apos;esquerra</desc>
+    <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="41.349163" lon="2.042471">
+    <ele>13.718422447704164</ele>
+    <name>4 ↗️🔺</name>
+    <cmt>Lleugerament a ↗️dreta i 🔺amunt</cmt>
+    <desc>Lleugerament a ↗️dreta i 🔺amunt</desc>
+    <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="41.348608" lon="2.042937">
+    <ele>17.223473341671024</ele>
+    <name>🏁Final enllaç 🚉Sant Boi</name>
+    <cmt>🚉Estació Sant Boi de Llobregat FGC L8 S3 S4 S8 S9 R5 R50 R6 R60</cmt>
+    <desc>🚉Estació Sant Boi de Llobregat FGC L8 S3 S4 S8 S9 R5 R50 R6 R60</desc>
+    <sym>Ground Transportation</sym>
+  </wpt>
+  <trk>
+    <name>17.V4 Enllaç Estació Sant Boi</name>
+    <trkseg>
+      <trkpt lat="41.350216" lon="2.044772">
+        <ele>10.75</ele>
+      </trkpt>
+      <trkpt lat="41.350063" lon="2.044663">
+        <ele>10.75</ele>
+      </trkpt>
+      <trkpt lat="41.34994" lon="2.044473">
+        <ele>11</ele>
+      </trkpt>
+      <trkpt lat="41.349783" lon="2.043862">
+        <ele>12</ele>
+      </trkpt>
+      <trkpt lat="41.349659" lon="2.043379">
+        <ele>12.25</ele>
+      </trkpt>
+      <trkpt lat="41.349643" lon="2.043318">
+        <ele>12.25</ele>
+      </trkpt>
+      <trkpt lat="41.349546" lon="2.043023">
+        <ele>12.5</ele>
+      </trkpt>
+      <trkpt lat="41.349546" lon="2.043021">
+        <ele>12.5</ele>
+      </trkpt>
+      <trkpt lat="41.349535" lon="2.042988">
+        <ele>12.75</ele>
+      </trkpt>
+      <trkpt lat="41.34951" lon="2.042914">
+        <ele>13</ele>
+      </trkpt>
+      <trkpt lat="41.349495" lon="2.042843">
+        <ele>13</ele>
+      </trkpt>
+      <trkpt lat="41.349495" lon="2.042843">
+        <ele>13</ele>
+      </trkpt>
+      <trkpt lat="41.349493" lon="2.042832">
+        <ele>13</ele>
+      </trkpt>
+      <trkpt lat="41.349468" lon="2.042838">
+        <ele>13</ele>
+      </trkpt>
+      <trkpt lat="41.349411" lon="2.042896">
+        <ele>13</ele>
+      </trkpt>
+      <trkpt lat="41.349374" lon="2.042911">
+        <ele>13.25</ele>
+      </trkpt>
+      <trkpt lat="41.349329" lon="2.04291">
+        <ele>13.25</ele>
+      </trkpt>
+      <trkpt lat="41.349303" lon="2.042887">
+        <ele>13.25</ele>
+      </trkpt>
+      <trkpt lat="41.349284" lon="2.042849">
+        <ele>13.25</ele>
+      </trkpt>
+      <trkpt lat="41.349265" lon="2.042771">
+        <ele>13.5</ele>
+      </trkpt>
+      <trkpt lat="41.349246" lon="2.042663">
+        <ele>13.5</ele>
+      </trkpt>
+      <trkpt lat="41.349242" lon="2.042555">
+        <ele>13.75</ele>
+      </trkpt>
+      <trkpt lat="41.349234" lon="2.042505">
+        <ele>13.75</ele>
+      </trkpt>
+      <trkpt lat="41.349211" lon="2.042472">
+        <ele>14</ele>
+      </trkpt>
+      <trkpt lat="41.349183" lon="2.042465">
+        <ele>14</ele>
+      </trkpt>
+      <trkpt lat="41.349103" lon="2.042478">
+        <ele>14.25</ele>
+      </trkpt>
+      <trkpt lat="41.349075" lon="2.042478">
+        <ele>14.5</ele>
+      </trkpt>
+      <trkpt lat="41.349017" lon="2.04246">
+        <ele>15</ele>
+      </trkpt>
+      <trkpt lat="41.34893" lon="2.042452">
+        <ele>15.5</ele>
+      </trkpt>
+      <trkpt lat="41.348813" lon="2.042564">
+        <ele>16</ele>
+      </trkpt>
+      <trkpt lat="41.348749" lon="2.042649">
+        <ele>16.25</ele>
+      </trkpt>
+      <trkpt lat="41.348682" lon="2.042768">
+        <ele>16.5</ele>
+      </trkpt>
+      <trkpt lat="41.348604" lon="2.042949">
+        <ele>16.75</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
