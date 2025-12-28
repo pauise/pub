@@ -21,18 +21,18 @@
     <name>2 ↖️🚲🧭E</name>
     <cmt>Ens incorporem ↖️ a la nostra esquerra al 🚲carril bici 🧭E</cmt>
     <desc>Ens incorporem ↖️ a la nostra esquerra al 🚲carril bici 🧭E</desc>
-    <sym>Bike Trail</sym>
+    <sym>Bike Lane</sym>
   </wpt>
   <wpt lat="41.469891" lon="2.078307">
     <ele>134.2000263145433</ele>
     <name>3 ↘️🚲</name>
     <cmt>Gir tancat ↘️dreta seguim per 🚲carril bici</cmt>
     <desc>Gir tancat ↘️dreta seguim per 🚲carril bici</desc>
-    <sym>Bike Trail</sym>
+    <sym>Bike Lane</sym>
   </wpt>
   <wpt lat="41.469141" lon="2.078343">
     <ele>133.85934431788124</ele>
-    <name>4 ╣⬅️🚶</name>
+    <name>4 ╣⬅️🚶. 🧭S 100m🚉</name>
     <cmt>╣⬅️per via 🚶peatonal Carrer del Rosselló
 ⬆️ a Estació Sant Cugat Centre FGC S1 S2 🧭S en 100m</cmt>
     <desc>╣⬅️per via 🚶peatonal Carrer del Rosselló
@@ -60,21 +60,21 @@ A la següent a ⬅️l&apos;esquerra i 20m trobem 🔧taller de bicicletes</des
     <name>7 ╬🚶⬆️🚲</name>
     <cmt>╬ Carrer Francesc Moragas. Creuem pel 🚶pas de vianants i seguim ⬆️recte pel 🚲carril bici de la Rambla del Celler</cmt>
     <desc>╬ Carrer Francesc Moragas. Creuem pel 🚶pas de vianants i seguim ⬆️recte pel 🚲carril bici de la Rambla del Celler</desc>
-    <sym>Bike Trail</sym>
+    <sym>Bike Lane</sym>
   </wpt>
   <wpt lat="41.471356" lon="2.085448">
     <ele>119.22566332733354</ele>
     <name>8 🚳🔄2a↗️🚲</name>
     <cmt>🚳Fi carril bici. 🔄Rotonda. Surt per la 2a a la ↗️dreta pel 🚲carril bici</cmt>
     <desc>🚳Fi carril bici. 🔄Rotonda. Surt per la 2a a la ↗️dreta pel 🚲carril bici</desc>
-    <sym>Bike Trail</sym>
+    <sym>Bike Lane</sym>
   </wpt>
   <wpt lat="41.472017" lon="2.094978">
     <ele>107.07893110029957</ele>
     <name>9 ╣↖️🚲</name>
     <cmt>╣ Desviar a ↖️l&apos;esquerra per 🚲carril bici</cmt>
     <desc>╣ Desviar a ↖️l&apos;esquerra per 🚲carril bici</desc>
-    <sym>Bike Trail</sym>
+    <sym>Bike Lane</sym>
   </wpt>
   <wpt lat="41.472041" lon="2.096966">
     <ele>105.288194450806</ele>
@@ -95,7 +95,7 @@ A la següent a ⬅️l&apos;esquerra i 20m trobem 🔧taller de bicicletes</des
     <name>12 ⬆️🚲</name>
     <cmt>⬆️Recte. Inici 🚲carril bici</cmt>
     <desc>⬆️Recte. Inici 🚲carril bici</desc>
-    <sym>Bike Trail</sym>
+    <sym>Bike Lane</sym>
   </wpt>
   <wpt lat="41.47649519486515" lon="2.0993360732429096">
     <ele>103.97413944848314</ele>
@@ -109,7 +109,7 @@ A la següent a ⬅️l&apos;esquerra i 20m trobem 🔧taller de bicicletes</des
     <name>14 ╦➡️🚲80m🚰</name>
     <cmt>╦ Ctra Sant Cugat a Cerdanyola. ➡️Dreta per la 🚲carril bici. En 80m 🚰font i sortim de Sant Cugat</cmt>
     <desc>╦ Ctra Sant Cugat a Cerdanyola. ➡️Dreta per la 🚲carril bici. En 80m 🚰font i sortim de Sant Cugat</desc>
-    <sym>Bike Trail</sym>
+    <sym>Bike Lane</sym>
   </wpt>
   <wpt lat="41.4852" lon="2.127523">
     <ele>88.11236506507241</ele>
@@ -183,7 +183,7 @@ A la següent a ⬅️l&apos;esquerra i 20m trobem 🔧taller de bicicletes</des
     <name>24 🚦🚶➡️🚲🧭E</name>
     <cmt>🚦Semàfor. Creuem pel 🚶pas de vianants i a la ➡️dreta pel 🚲carril bici 🧭E</cmt>
     <desc>🚦Semàfor. Creuem pel 🚶pas de vianants i a la ➡️dreta pel 🚲carril bici 🧭E</desc>
-    <sym>Crossing</sym>
+    <sym>Bike Lane</sym>
   </wpt>
   <wpt lat="41.483202" lon="2.162007">
     <ele>55.22788344217548</ele>
@@ -204,21 +204,21 @@ A la següent a ⬅️l&apos;esquerra i 20m trobem 🔧taller de bicicletes</des
     <name>27 ╦➡️🚲🧭E</name>
     <cmt>╦ Carrer del Progrés.➡️Dreta per 🚲carril bici Bicivia 6 🧭E</cmt>
     <desc>╦ Carrer del Progrés.➡️Dreta per 🚲carril bici Bicivia 6 🧭E</desc>
-    <sym>Bike Trail</sym>
+    <sym>Bike Lane</sym>
   </wpt>
   <wpt lat="41.486531" lon="2.180693">
     <ele>43.89099798122638</ele>
     <name>28 ╦➡️🚲</name>
     <cmt>╦ Carrer del Vapor. ➡️Dreta per 🚲carril bici</cmt>
     <desc>╦ Carrer del Vapor. ➡️Dreta per 🚲carril bici</desc>
-    <sym>Bike Trail</sym>
+    <sym>Bike Lane</sym>
   </wpt>
   <wpt lat="41.48646208062246" lon="2.1817393329945958">
     <ele>41.381638294506324</ele>
     <name>29 ︵⬅️🚲</name>
     <cmt>Creuem riera pel ︵ Pont de la Ferreria i seguim per ⬅️l&apos;esquerra el 🚲carril bici</cmt>
     <desc>Creuem riera pel ︵ Pont de la Ferreria i seguim per ⬅️l&apos;esquerra el 🚲carril bici</desc>
-    <sym>Bike Trail</sym>
+    <sym>Bike Lane</sym>
   </wpt>
   <wpt lat="41.486303" lon="2.182528">
     <ele>43.51787860954641</ele>
