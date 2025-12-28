@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx creator="https://gpx.studio" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/PowerExtension/v1 http://www.garmin.com/xmlschemas/PowerExtensionv1.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxpx="http://www.garmin.com/xmlschemas/PowerExtension/v1" xmlns:gpx_style="http://www.topografix.com/GPX/gpx_style/0/2">
+  <metadata>
+    <name>17.V1 Enllaç Estació Molins de Rei</name>
+    <desc>Etapa 17 Variant per Barcelona PK 2,22 - Molins de Rei - Carrer Major - Estació Molins de Rei R4</desc>
+    <author>
+      <name>gpx.studio</name>
+      <link href="https://gpx.studio"/>
+    </author>
+  </metadata>
+  <wpt lat="41.417981" lon="2.007865">
+    <ele>24.21219948599513</ele>
+    <name>🟢Enllaç ╬ Molins de Rei</name>
+    <cmt>Etapa 17V0 PK 2,22 ╬ Molins de Rei🧭E
+🧭N a El Papiol per Etapa 17 Variant a 2,22 kms
+🧭S a Barcelona per Etapa 17 Variant a 23,95 kms</cmt>
+    <desc>Etapa 17V0 PK 2,22 ╬ Molins de Rei🧭E
+🧭N a El Papiol per Etapa 17 Variant a 2,22 kms
+🧭S a Barcelona per Etapa 17 Variant a 23,95 kms</desc>
+    <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="41.418189" lon="2.008803">
+    <ele>27.995542512085947</ele>
+    <name>2 ⬆️⌒</name>
+    <cmt>⬆️Recte i creuem ︵ per sota l&apos;autopista B-23</cmt>
+    <desc>⬆️Recte i creuem ︵ per sota l&apos;autopista B-23</desc>
+    <sym>Tunnel</sym>
+  </wpt>
+  <wpt lat="41.418611" lon="2.010337">
+    <ele>28.32271592782262</ele>
+    <name>3 🔄↗️🧭SE</name>
+    <cmt>Arribem a una petita 🔄rotonda on comença el Passeig Terraplè que agafarem ↗️ direcció 🧭SE. Inici asfalt.</cmt>
+    <desc>Arribem a una petita 🔄rotonda on comença el Passeig Terraplè que agafarem ↗️ direcció 🧭SE. Inici asfalt.</desc>
+    <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="41.413894" lon="2.013555">
+    <ele>29.356746930397485</ele>
+    <name>4 ╬⬅️</name>
+    <cmt>╬ Carrer de Pere Calders. ⬅️ Esquerra</cmt>
+    <desc>╬ Carrer de Pere Calders. ⬅️ Esquerra</desc>
+    <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="41.413772" lon="2.014855">
+    <ele>30.776218311117105</ele>
+    <name>5 🛝⬆️⌒ ╦ 🛒☕↗️🧭SE</name>
+    <cmt>🛝Parc Infantil. Seguim ⬆️recte per pas ⌒ sota l&apos;edifici i arribem a una ╦ plaça. 🛒Super a l&apos;esquerra. ☕Terrasseta davant. Prenem el Carrer Major tot travessant la plaça i sortint lleugerament a la ↗️dreta 🧭SE</cmt>
+    <desc>🛝Parc Infantil. Seguim ⬆️recte per pas ⌒ sota l&apos;edifici i arribem a una ╦ plaça. 🛒Super a l&apos;esquerra. ☕Terrasseta davant. Prenem el Carrer Major tot travessant la plaça i sortint lleugerament a la ↗️dreta 🧭SE</desc>
+    <sym>Tunnel</sym>
+  </wpt>
+  <wpt lat="41.412442" lon="2.017941">
+    <ele>40.43922640453228</ele>
+    <name>6 ╣↗️</name>
+    <cmt>╣Seguim a ↗️dretes</cmt>
+    <desc>╣Seguim a ↗️dretes</desc>
+    <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="41.410697" lon="2.019286">
+    <ele>33.62670886372681</ele>
+    <name>7 ╬↖️🧭SE</name>
+    <cmt>╬ Plaça i múltiples cruïlles. Seguim per la continuació del carrer lleugerament a ↖️l&apos;esquerra per Carrer del Carril 🧭SE</cmt>
+    <desc>╬ Plaça i múltiples cruïlles. Seguim per la continuació del carrer lleugerament a ↖️l&apos;esquerra per Carrer del Carril 🧭SE</desc>
+    <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="41.409794" lon="2.020479">
+    <ele>31.714040320041438</ele>
+    <name>🏁🚉Molins de Rei </name>
+    <cmt>🚉Estació de Molins de Rei R4</cmt>
+    <desc>🚉Estació de Molins de Rei R4</desc>
+    <sym>Ground Transportation</sym>
+  </wpt>
+  <trk>
+    <name>17.V1 Enllaç Estació Molins de Rei</name>
+    <trkseg>
+      <trkpt lat="41.417978" lon="2.007852">
+        <ele>24</ele>
+      </trkpt>
+      <trkpt lat="41.417996" lon="2.007941">
+        <ele>24.75</ele>
+      </trkpt>
+      <trkpt lat="41.418046" lon="2.008096">
+        <ele>25.75</ele>
+      </trkpt>
+      <trkpt lat="41.418149" lon="2.008458">
+        <ele>27.75</ele>
+      </trkpt>
+      <trkpt lat="41.418163" lon="2.008517">
+        <ele>27.75</ele>
+      </trkpt>
+      <trkpt lat="41.418169" lon="2.008576">
+        <ele>27.75</ele>
+      </trkpt>
+      <trkpt lat="41.418157" lon="2.008672">
+        <ele>27.5</ele>
+      </trkpt>
+      <trkpt lat="41.418167" lon="2.00873">
+        <ele>27.5</ele>
+      </trkpt>
+      <trkpt lat="41.418206" lon="2.008841">
+        <ele>27.5</ele>
+      </trkpt>
+      <trkpt lat="41.418414" lon="2.009374">
+        <ele>28</ele>
+      </trkpt>
+      <trkpt lat="41.418413" lon="2.009373">
+        <ele>27.75</ele>
+      </trkpt>
+      <trkpt lat="41.418499" lon="2.009593">
+        <ele>28</ele>
+      </trkpt>
+      <trkpt lat="41.418504" lon="2.009637">
+        <ele>28</ele>
+      </trkpt>
+      <trkpt lat="41.418502" lon="2.009722">
+        <ele>28</ele>
+      </trkpt>
+      <trkpt lat="41.418494" lon="2.009807">
+        <ele>28.25</ele>
+      </trkpt>
+      <trkpt lat="41.418489" lon="2.009862">
+        <ele>28.25</ele>
+      </trkpt>
+      <trkpt lat="41.418501" lon="2.010025">
+        <ele>28.25</ele>
+      </trkpt>
+      <trkpt lat="41.418543" lon="2.010188">
+        <ele>28.5</ele>
+      </trkpt>
+      <trkpt lat="41.418657" lon="2.010503">
+        <ele>28.75</ele>
+      </trkpt>
+      <trkpt lat="41.418657" lon="2.010503">
+        <ele>28.75</ele>
+      </trkpt>
+      <trkpt lat="41.418657" lon="2.010503">
+        <ele>28.75</ele>
+      </trkpt>
+      <trkpt lat="41.41859" lon="2.010575">
+        <ele>28.5</ele>
+      </trkpt>
+      <trkpt lat="41.418573" lon="2.010561">
+        <ele>28.5</ele>
+      </trkpt>
+      <trkpt lat="41.418553" lon="2.010556">
+        <ele>28.5</ele>
+      </trkpt>
+      <trkpt lat="41.418533" lon="2.01056">
+        <ele>28.25</ele>
+      </trkpt>
+      <trkpt lat="41.418502" lon="2.010592">
+        <ele>28.25</ele>
+      </trkpt>
+      <trkpt lat="41.41846" lon="2.010662">
+        <ele>28.25</ele>
+      </trkpt>
+      <trkpt lat="41.418402" lon="2.010736">
+        <ele>28</ele>
+      </trkpt>
+      <trkpt lat="41.417702" lon="2.011171">
+        <ele>27</ele>
+      </trkpt>
+      <trkpt lat="41.417616" lon="2.011224">
+        <ele>27</ele>
+      </trkpt>
+      <trkpt lat="41.417529" lon="2.011278">
+        <ele>27</ele>
+      </trkpt>
+      <trkpt lat="41.417146" lon="2.011516">
+        <ele>26.5</ele>
+      </trkpt>
+      <trkpt lat="41.41705" lon="2.01158">
+        <ele>26.25</ele>
+      </trkpt>
+      <trkpt lat="41.416599" lon="2.011858">
+        <ele>26.25</ele>
+      </trkpt>
+      <trkpt lat="41.416514" lon="2.011911">
+        <ele>26.5</ele>
+      </trkpt>
+      <trkpt lat="41.416056" lon="2.012194">
+        <ele>27.5</ele>
+      </trkpt>
+      <trkpt lat="41.415965" lon="2.01225">
+        <ele>27.75</ele>
+      </trkpt>
+      <trkpt lat="41.415614" lon="2.012463">
+        <ele>27.5</ele>
+      </trkpt>
+      <trkpt lat="41.415508" lon="2.01253">
+        <ele>27.5</ele>
+      </trkpt>
+      <trkpt lat="41.415235" lon="2.012703">
+        <ele>27.75</ele>
+      </trkpt>
+      <trkpt lat="41.415098" lon="2.012786">
+        <ele>27.75</ele>
+      </trkpt>
+      <trkpt lat="41.414598" lon="2.013096">
+        <ele>28.75</ele>
+      </trkpt>
+      <trkpt lat="41.414571" lon="2.013113">
+        <ele>28.75</ele>
+      </trkpt>
+      <trkpt lat="41.414414" lon="2.013214">
+        <ele>29</ele>
+      </trkpt>
+      <trkpt lat="41.414301" lon="2.013293">
+        <ele>29</ele>
+      </trkpt>
+      <trkpt lat="41.414284" lon="2.013304">
+        <ele>29</ele>
+      </trkpt>
+      <trkpt lat="41.413845" lon="2.013589">
+        <ele>28.75</ele>
+      </trkpt>
+      <trkpt lat="41.413845" lon="2.013589">
+        <ele>28.75</ele>
+      </trkpt>
+      <trkpt lat="41.413815" lon="2.013609">
+        <ele>28.75</ele>
+      </trkpt>
+      <trkpt lat="41.413817" lon="2.013719">
+        <ele>28.75</ele>
+      </trkpt>
+      <trkpt lat="41.413804" lon="2.014029">
+        <ele>29</ele>
+      </trkpt>
+      <trkpt lat="41.413779" lon="2.014751">
+        <ele>32.25</ele>
+      </trkpt>
+      <trkpt lat="41.413764" lon="2.015218">
+        <ele>32.25</ele>
+      </trkpt>
+      <trkpt lat="41.413763" lon="2.015278">
+        <ele>32.25</ele>
+      </trkpt>
+      <trkpt lat="41.413775" lon="2.01537">
+        <ele>32.25</ele>
+      </trkpt>
+      <trkpt lat="41.413772" lon="2.01552">
+        <ele>32.75</ele>
+      </trkpt>
+      <trkpt lat="41.413772" lon="2.01552">
+        <ele>32.75</ele>
+      </trkpt>
+      <trkpt lat="41.413772" lon="2.01552">
+        <ele>31.21003544372583</ele>
+      </trkpt>
+      <trkpt lat="41.4137422474065" lon="2.0158665017295334">
+        <ele>31.99210970033586</ele>
+      </trkpt>
+      <trkpt lat="41.413704" lon="2.016137">
+        <ele>32.71029179090025</ele>
+      </trkpt>
+      <trkpt lat="41.413704" lon="2.016137">
+        <ele>33.25</ele>
+      </trkpt>
+      <trkpt lat="41.413704" lon="2.016137">
+        <ele>33.25</ele>
+      </trkpt>
+      <trkpt lat="41.413684" lon="2.016153">
+        <ele>33.25</ele>
+      </trkpt>
+      <trkpt lat="41.41339" lon="2.0164">
+        <ele>34.25</ele>
+      </trkpt>
+      <trkpt lat="41.413037" lon="2.016685">
+        <ele>33.25</ele>
+      </trkpt>
+      <trkpt lat="41.413037" lon="2.016685">
+        <ele>33.25</ele>
+      </trkpt>
+      <trkpt lat="41.412901" lon="2.016815">
+        <ele>33.25</ele>
+      </trkpt>
+      <trkpt lat="41.412901" lon="2.016815">
+        <ele>33.25</ele>
+      </trkpt>
+      <trkpt lat="41.412805" lon="2.017023">
+        <ele>33.75</ele>
+      </trkpt>
+      <trkpt lat="41.41272" lon="2.017288">
+        <ele>35</ele>
+      </trkpt>
+      <trkpt lat="41.412666" lon="2.017467">
+        <ele>35.75</ele>
+      </trkpt>
+      <trkpt lat="41.412601" lon="2.017762">
+        <ele>37.75</ele>
+      </trkpt>
+      <trkpt lat="41.412563" lon="2.017833">
+        <ele>38.5</ele>
+      </trkpt>
+      <trkpt lat="41.412563" lon="2.017833">
+        <ele>38</ele>
+      </trkpt>
+      <trkpt lat="41.41253" lon="2.017899">
+        <ele>38.5</ele>
+      </trkpt>
+      <trkpt lat="41.412353" lon="2.018023">
+        <ele>38</ele>
+      </trkpt>
+      <trkpt lat="41.412198" lon="2.018136">
+        <ele>37.5</ele>
+      </trkpt>
+      <trkpt lat="41.412198" lon="2.018136">
+        <ele>37.5</ele>
+      </trkpt>
+      <trkpt lat="41.412161" lon="2.018164">
+        <ele>37.5</ele>
+      </trkpt>
+      <trkpt lat="41.411899" lon="2.018373">
+        <ele>36.25</ele>
+      </trkpt>
+      <trkpt lat="41.411773" lon="2.018468">
+        <ele>34.5</ele>
+      </trkpt>
+      <trkpt lat="41.411773" lon="2.018468">
+        <ele>35.5</ele>
+      </trkpt>
+      <trkpt lat="41.411545" lon="2.018641">
+        <ele>34.5</ele>
+      </trkpt>
+      <trkpt lat="41.411268" lon="2.018834">
+        <ele>34.25</ele>
+      </trkpt>
+      <trkpt lat="41.41122" lon="2.018869">
+        <ele>34</ele>
+      </trkpt>
+      <trkpt lat="41.41122" lon="2.018869">
+        <ele>34</ele>
+      </trkpt>
+      <trkpt lat="41.411035" lon="2.01901">
+        <ele>34</ele>
+      </trkpt>
+      <trkpt lat="41.410817" lon="2.019178">
+        <ele>34</ele>
+      </trkpt>
+      <trkpt lat="41.410616" lon="2.019354">
+        <ele>34.25</ele>
+      </trkpt>
+      <trkpt lat="41.410554" lon="2.019525">
+        <ele>34.75</ele>
+      </trkpt>
+      <trkpt lat="41.410485" lon="2.019586">
+        <ele>34.75</ele>
+      </trkpt>
+      <trkpt lat="41.410154" lon="2.019873">
+        <ele>34.25</ele>
+      </trkpt>
+      <trkpt lat="41.410013" lon="2.020084">
+        <ele>33.75</ele>
+      </trkpt>
+      <trkpt lat="41.4099" lon="2.02023">
+        <ele>33.25</ele>
+      </trkpt>
+      <trkpt lat="41.40984" lon="2.020298">
+        <ele>33</ele>
+      </trkpt>
+      <trkpt lat="41.409832" lon="2.02031">
+        <ele>32.5</ele>
+      </trkpt>
+      <trkpt lat="41.409832" lon="2.02031">
+        <ele>32.75</ele>
+      </trkpt>
+      <trkpt lat="41.40977" lon="2.020411">
+        <ele>32.5</ele>
+      </trkpt>
+      <trkpt lat="41.409735" lon="2.020491">
+        <ele>32.25</ele>
+      </trkpt>
+      <trkpt lat="41.409811" lon="2.020472">
+        <ele>32.75</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
