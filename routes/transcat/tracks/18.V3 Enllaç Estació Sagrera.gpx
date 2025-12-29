@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx creator="https://gpx.studio" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/PowerExtension/v1 http://www.garmin.com/xmlschemas/PowerExtensionv1.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxpx="http://www.garmin.com/xmlschemas/PowerExtension/v1" xmlns:gpx_style="http://www.topografix.com/GPX/gpx_style/0/2">
+  <metadata>
+    <name>18.V3 Enllaç Estació Sagrera</name>
+    <desc>Etapa 18 Variant Barcelona PK 4,79 - Carrer d&apos;Olesa - Estació La Sagrera-Meridiana</desc>
+    <author>
+      <name>gpx.studio</name>
+      <link href="https://gpx.studio"/>
+    </author>
+  </metadata>
+  <wpt lat="41.41978188777199" lon="2.181232637759564">
+    <ele>51.408499316078576</ele>
+    <name>🟢Etapa 18 Variant Barcelona PK 4,79 🚲🧭NE</name>
+    <cmt>Agafem 🚲carril bici del Carrer d&apos;Olesa 🧭NE</cmt>
+    <desc>Agafem 🚲carril bici del Carrer d&apos;Olesa 🧭NE</desc>
+    <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="41.422981" lon="2.186061">
+    <ele>40.345665706648816</ele>
+    <name>2 🌳🛝🚰🚳⬅️🚶</name>
+    <cmt>🌳Jardins de Virginia Woolf 🛝Parc infantil i 🚰font. Abandonem 🚳carril bici i girem ⬅️esquerra pel parc i seguim per carrer 🚶peatonal</cmt>
+    <desc>🌳Jardins de Virginia Woolf 🛝Parc infantil i 🚰font. Abandonem 🚳carril bici i girem ⬅️esquerra pel parc i seguim per carrer 🚶peatonal</desc>
+    <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="41.423734" lon="2.186244">
+    <ele>44.89070206981036</ele>
+    <name>3 ➡️⌒</name>
+    <cmt>➡️Dreta per ⌒ pas sota l&apos;edifici</cmt>
+    <desc>➡️Dreta per ⌒ pas sota l&apos;edifici</desc>
+    <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="41.423779" lon="2.186656">
+    <ele>43.39997543431883</ele>
+    <name>🏁Final enllaç🚉Sagrera</name>
+    <cmt>Ascensor accès a 🚉Estació La Sagrera-Meridiana:
+Metro: L1 L5 L9
+Rodalies: R1 R3 R4 R12</cmt>
+    <desc>Ascensor accès a 🚉Estació La Sagrera-Meridiana:
+Metro: L1 L5 L9
+Rodalies: R1 R3 R4 R12</desc>
+    <sym>Ground Transportation</sym>
+  </wpt>
+  <trk>
+    <name>18.V3 Enllaç Estació Sagrera</name>
+    <trkseg>
+      <trkpt lat="41.419779" lon="2.18122">
+        <ele>54</ele>
+      </trkpt>
+      <trkpt lat="41.420087" lon="2.181631">
+        <ele>52</ele>
+      </trkpt>
+      <trkpt lat="41.420138" lon="2.181698">
+        <ele>51.75</ele>
+      </trkpt>
+      <trkpt lat="41.420437" lon="2.182085">
+        <ele>50</ele>
+      </trkpt>
+      <trkpt lat="41.420529" lon="2.182201">
+        <ele>49.5</ele>
+      </trkpt>
+      <trkpt lat="41.420615" lon="2.18232">
+        <ele>49</ele>
+      </trkpt>
+      <trkpt lat="41.420884" lon="2.182694">
+        <ele>46.75</ele>
+      </trkpt>
+      <trkpt lat="41.421287" lon="2.18325">
+        <ele>42.75</ele>
+      </trkpt>
+      <trkpt lat="41.421695" lon="2.183799">
+        <ele>38.25</ele>
+      </trkpt>
+      <trkpt lat="41.421806" lon="2.183929">
+        <ele>38</ele>
+      </trkpt>
+      <trkpt lat="41.421892" lon="2.184044">
+        <ele>38</ele>
+      </trkpt>
+      <trkpt lat="41.422147" lon="2.184386">
+        <ele>38.75</ele>
+      </trkpt>
+      <trkpt lat="41.422203" lon="2.184457">
+        <ele>39</ele>
+      </trkpt>
+      <trkpt lat="41.422256" lon="2.184513">
+        <ele>39</ele>
+      </trkpt>
+      <trkpt lat="41.422316" lon="2.184573">
+        <ele>39.25</ele>
+      </trkpt>
+      <trkpt lat="41.42237" lon="2.184646">
+        <ele>39.25</ele>
+      </trkpt>
+      <trkpt lat="41.422869" lon="2.185341">
+        <ele>40.75</ele>
+      </trkpt>
+      <trkpt lat="41.422928" lon="2.185376">
+        <ele>41</ele>
+      </trkpt>
+      <trkpt lat="41.422978" lon="2.185491">
+        <ele>41</ele>
+      </trkpt>
+      <trkpt lat="41.423023" lon="2.185605">
+        <ele>41</ele>
+      </trkpt>
+      <trkpt lat="41.422984" lon="2.18602">
+        <ele>41</ele>
+      </trkpt>
+      <trkpt lat="41.422972" lon="2.18612">
+        <ele>41.25</ele>
+      </trkpt>
+      <trkpt lat="41.423007" lon="2.186127">
+        <ele>41.25</ele>
+      </trkpt>
+      <trkpt lat="41.423169" lon="2.186157">
+        <ele>41.75</ele>
+      </trkpt>
+      <trkpt lat="41.42316" lon="2.186277">
+        <ele>42</ele>
+      </trkpt>
+      <trkpt lat="41.423759" lon="2.186244">
+        <ele>45.25</ele>
+      </trkpt>
+      <trkpt lat="41.423778" lon="2.186652">
+        <ele>44.5</ele>
+      </trkpt>
+      <trkpt lat="41.423778" lon="2.186671">
+        <ele>44</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
