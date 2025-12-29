@@ -2,7 +2,7 @@
 <gpx creator="https://gpx.studio" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/PowerExtension/v1 http://www.garmin.com/xmlschemas/PowerExtensionv1.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxpx="http://www.garmin.com/xmlschemas/PowerExtension/v1" xmlns:gpx_style="http://www.topografix.com/GPX/gpx_style/0/2">
   <metadata>
     <name>17.V0 El Papiol - Barcelona</name>
-    <desc>El Papiol - Molins de Rei - Sant Vicenç dels Horts - Sant Feliu de Llobregat - Sant Boi de Llobregat - Bellvitge - L&apos;Hospitalet de Llobregat - Barcelona per Gran Via - Plaça Catalunya</desc>
+    <desc>El Papiol - Molins de Rei - Sant Vicenç dels Horts - Sant Boi de Llobregat - Bellvitge - L'Hospitalet i Barcelona per Gran Via - Plaça Catalunya</desc>
     <author>
       <name>gpx.studio</name>
       <link href="https://gpx.studio"/>
@@ -59,10 +59,10 @@
   <wpt lat="41.390688" lon="2.022513">
     <ele>17.252325472655663</ele>
     <name>7 ⚠️╬↗️🔻︵ </name>
-    <cmt>⚠️Atenció! ╬ Cruïlla important. Seguim lleugerament a la ↗️dreta 🔻avalll per ︵ creuar pel pont el Riu Llobregat.
+    <cmt>⚠️Atenció! ╬ Cruïlla important. Seguim lleugerament a la ↗️dreta 🔻avall per ︵ creuar pel pont el Riu Llobregat.
 ↙️ esquerra tancat connexió amb l&apos;Enllaç amb Sant Feliu (17.V3) en 50m
 ⬆️SPP a Etapa 17 Variant Barcelona Alternativa per Diagonal 17.VA 4 kms més curta però es pujen 100m) reconnexió a Gran Via amb Passeig de Gràcia en 16,45 kms</cmt>
-    <desc>⚠️Atenció! ╬ Cruïlla important. Seguim lleugerament a la ↗️dreta 🔻avalll per ︵ creuar pel pont el Riu Llobregat.
+    <desc>⚠️Atenció! ╬ Cruïlla important. Seguim lleugerament a la ↗️dreta 🔻avall per ︵ creuar pel pont el Riu Llobregat.
 ↙️ esquerra tancat connexió amb l&apos;Enllaç amb Sant Feliu (17.V3) en 50m
 ⬆️SPP a Etapa 17 Variant Barcelona Alternativa per Diagonal 17.VA 4 kms més curta però es pujen 100m) reconnexió a Gran Via amb Passeig de Gràcia en 16,45 kms</desc>
     <sym>Crossing</sym>
@@ -85,9 +85,14 @@ Creuar ︵ petit torrent i a la ╬ cruïlla a ⬅️l&apos;esquerra pel tram pa
 Creuar ︵ petit torrent i a la ╬ cruïlla a ⬅️l&apos;esquerra pel tram pavimentat</desc>
     <sym>Crossing</sym>
   </wpt>
+  <wpt lat="41.387241" lon="2.022083">
+    <ele>19.705102648866177</ele>
+    <name>10 Fi asfalt</name>
+    <sym>End of Road</sym>
+  </wpt>
   <wpt lat="41.385769" lon="2.023839">
     <ele>18.39399853942632</ele>
-    <name>11 ╠↖️</name>
+    <name>11 ╠↖️. ↗️🔺🥪</name>
     <cmt>╠ SPP a ↖️l&apos;esquerra. 
 A la ↗️ dreta 🔺amunt hi ha una taula de 🥪picnic</cmt>
     <desc>╠ SPP a ↖️l&apos;esquerra. 
@@ -131,11 +136,6 @@ Si 1a ↗️ a Enllaç Sant Boi 🧭SW en 0,33 kms</cmt>
 Si 1a ↗️ a Enllaç Sant Boi 🧭SW en 0,33 kms</desc>
     <sym>Crossing</sym>
   </wpt>
-  <wpt lat="41.387241" lon="2.022083">
-    <ele>19.705102648866177</ele>
-    <name>10 Fi asfalt</name>
-    <sym>Road</sym>
-  </wpt>
   <wpt lat="41.34744" lon="2.052264">
     <ele>15.932543450363838</ele>
     <name>17 ╣↗️╬↖️🚧</name>
@@ -159,7 +159,7 @@ Si 1a ↗️ a Enllaç Sant Boi 🧭SW en 0,33 kms</desc>
     <name>19 📷</name>
     <cmt>📷Mirador</cmt>
     <desc>📷Mirador</desc>
-    <sym>Scenic Area</sym>
+    <sym>Camera</sym>
   </wpt>
   <wpt lat="41.33698" lon="2.096747">
     <ele>5.9802956810352725</ele>
@@ -180,13 +180,13 @@ Si 1a ↗️ a Enllaç Sant Boi 🧭SW en 0,33 kms</desc>
     <name>22 ↖️Fi asfalt ╬⬆️↗️</name>
     <cmt>SPP ↖️ esquerres. Fi asfalt. ╬ Cruïlla,⬆️recte i ens mantenim a la↗️dreta</cmt>
     <desc>SPP ↖️ esquerres. Fi asfalt. ╬ Cruïlla,⬆️recte i ens mantenim a la↗️dreta</desc>
-    <sym>Road</sym>
+    <sym>End of Road</sym>
   </wpt>
   <wpt lat="41.33904190096385" lon="2.1007157665037823">
     <ele>9.368685229868655</ele>
     <name>23 ⚠️🚶︵</name>
-    <cmt>⚠️Precaució, tram molt🚶transitat per peatons. Passem per sota del ︵ pont</cmt>
-    <desc>⚠️Precaució, tram molt🚶transitat per peatons. Passem per sota del ︵ pont</desc>
+    <cmt>⚠️Precaució, tram molt estret i 🚶transitat per peatons. Passem per sota del ︵ pont</cmt>
+    <desc>⚠️Precaució, tram molt estret i 🚶transitat per peatons. Passem per sota del ︵ pont</desc>
     <sym>Alert</sym>
   </wpt>
   <wpt lat="41.339921" lon="2.101376">
@@ -201,7 +201,7 @@ Si 1a ↗️ a Enllaç Sant Boi 🧭SW en 0,33 kms</desc>
     <name>25 ╬⬆️↘️🚶🅿️🏥Bellvitge</name>
     <cmt>╬ Cruïlla. ⬆️Creuem i seguidament ↘️dreta per la 🚶vorera rodejem el 🅿️parking de l&apos;Hospital de Bellvitge</cmt>
     <desc>╬ Cruïlla. ⬆️Creuem i seguidament ↘️dreta per la 🚶vorera rodejem el 🅿️parking de l&apos;Hospital de Bellvitge</desc>
-    <sym>Hotel</sym>
+    <sym>Hospital</sym>
   </wpt>
   <wpt lat="41.343554" lon="2.104489">
     <ele>15.666842516739026</ele>
@@ -222,7 +222,7 @@ Si 1a ↗️ a Enllaç Sant Boi 🧭SW en 0,33 kms</desc>
     <name>28 ╣⬆️🚧🅿️</name>
     <cmt>Deixem el ╣carrer que tomba i seguim ⬆️rectes pel costat de la 🚧barrera i entrem al 🅿️parking per atravessar-lo</cmt>
     <desc>Deixem el ╣carrer que tomba i seguim ⬆️rectes pel costat de la 🚧barrera i entrem al 🅿️parking per atravessar-lo</desc>
-    <sym>Crossing</sym>
+    <sym>Parking</sym>
   </wpt>
   <wpt lat="41.344644" lon="2.107372">
     <ele>10.898183345656332</ele>
@@ -234,11 +234,11 @@ Si 1a ↗️ a Enllaç Sant Boi 🧭SW en 0,33 kms</desc>
   <wpt lat="41.344533" lon="2.1077">
     <ele>8.499016938965886</ele>
     <name>30 Fi asfalt</name>
-    <sym>Road</sym>
+    <sym>End of Road</sym>
   </wpt>
   <wpt lat="41.34552" lon="2.109302">
     <ele>9.73777452660811</ele>
-    <name>31 🔧⬅️⛽</name>
+    <name>31 Inici asfalt 🔧⬅️⛽</name>
     <cmt>Inici asfalt. Passem un 🔧taller ruinós i tombem esquerra⬅️ deixant la ⛽gasolinera a la dreta</cmt>
     <desc>Inici asfalt. Passem un 🔧taller ruinós i tombem esquerra⬅️ deixant la ⛽gasolinera a la dreta</desc>
     <sym>Road</sym>
@@ -269,7 +269,7 @@ Si 1a ↗️ a Enllaç Sant Boi 🧭SW en 0,33 kms</desc>
     <name>35 🛝↗️🚦🚶🚲➡️</name>
     <cmt>🛝Parc infantil. Sortim per la ↗️dreta. Inici asfalt. Creuar 🚦2 semàfors, per la vorera🚶arribem a un 🚲carril bici que agafarem a la ➡️dreta</cmt>
     <desc>🛝Parc infantil. Sortim per la ↗️dreta. Inici asfalt. Creuar 🚦2 semàfors, per la vorera🚶arribem a un 🚲carril bici que agafarem a la ➡️dreta</desc>
-    <sym>Bike Trail</sym>
+    <sym>Bike Lane</sym>
   </wpt>
   <wpt lat="41.350143" lon="2.114607">
     <ele>11.602934158906056</ele>
@@ -290,7 +290,7 @@ Si 1a ↗️ a Enllaç Sant Boi 🧭SW en 0,33 kms</desc>
     <name>38 ⬅️🚶↗️🚲</name>
     <cmt>Un cop abaix, ⬅️esquerra i creuar per 🚶pas de vianants i incorporar-se a dretes ↗️ al 🚲carril bici</cmt>
     <desc>Un cop abaix, ⬅️esquerra i creuar per 🚶pas de vianants i incorporar-se a dretes ↗️ al 🚲carril bici</desc>
-    <sym>Bike Trail</sym>
+    <sym>Bike Lane</sym>
   </wpt>
   <wpt lat="41.35671" lon="2.12437">
     <ele>8.48713209974373</ele>
@@ -308,6 +308,15 @@ A ⬅️ l&apos;esquerra 🚰 font a 10m i a 50m 🚉Estació Plaça Europa FGC 
     <desc>🚉Estació Ildefons Cerdà FGC L8 S3 S4 S8 S9 R5 R50 R6 R60</desc>
     <sym>Ground Transportation</sym>
   </wpt>
+  <wpt lat="41.374116" lon="2.147551">
+    <ele>32.27138152525397</ele>
+    <name>41 🚲⬆️. ↖️a🚉Sants en 0,92 kms</name>
+    <cmt>Seguim pel 🚲carril bici ⬆️recte. 
+↖️ a 🚉Estació Sants L3 L5 R1 R2 R3 R4 R12 R13 R14 R15 R16 en 0,92 kms</cmt>
+    <desc>Seguim pel 🚲carril bici ⬆️recte. 
+↖️ a 🚉Estació Sants L3 L5 R1 R2 R3 R4 R12 R13 R14 R15 R16 en 0,92 kms</desc>
+    <sym>Crossing</sym>
+  </wpt>
   <wpt lat="41.374696" lon="2.148338">
     <ele>35.17595730087713</ele>
     <name>42 🚳↖️🚶. ➡️ 20m 🚉Espanya</name>
@@ -320,14 +329,14 @@ A ⬅️ l&apos;esquerra 🚰 font a 10m i a 50m 🚉Estació Plaça Europa FGC 
     <name>43 ↖️🚲</name>
     <cmt>Ens ↖️incorporem al 🚲carril bici de Gran Via</cmt>
     <desc>Ens ↖️incorporem al 🚲carril bici de Gran Via</desc>
-    <sym>Bike Trail</sym>
+    <sym>Bike Lane</sym>
   </wpt>
   <wpt lat="41.377121" lon="2.151726">
     <ele>39.204184043975545</ele>
     <name>44 🚲➡️🚦⬅️</name>
     <cmt>El carril bici tomba a ➡️dreta per creuar Gran Via per 🚦semàfor i desprès ⬅️esquerra </cmt>
     <desc>El carril bici tomba a ➡️dreta per creuar Gran Via per 🚦semàfor i desprès ⬅️esquerra </desc>
-    <sym>Bike Trail</sym>
+    <sym>Bike Lane</sym>
   </wpt>
   <wpt lat="41.389065" lon="2.168135">
     <ele>33.5736774972785</ele>
@@ -348,15 +357,6 @@ Metro L1 L3
 FGC L6 L7 S1 S2
 Rodalies R1 R3 R4 R12</desc>
     <sym>Ground Transportation</sym>
-  </wpt>
-  <wpt lat="41.374116" lon="2.147551">
-    <ele>32.27138152525397</ele>
-    <name>41 🚲⬆️. ↖️a🚉Sants en 0,92 kms</name>
-    <cmt>Seguim pel 🚲carril bici ⬆️recte. 
-↖️ a 🚉Estació Sants L3 L5 R1 R2 R3 R4 R12 R13 R14 R15 R16 en 0,92 kms</cmt>
-    <desc>Seguim pel 🚲carril bici ⬆️recte. 
-↖️ a 🚉Estació Sants L3 L5 R1 R2 R3 R4 R12 R13 R14 R15 R16 en 0,92 kms</desc>
-    <sym>Crossing</sym>
   </wpt>
   <trk>
     <name>17.V0 El Papiol - Barcelona</name>
