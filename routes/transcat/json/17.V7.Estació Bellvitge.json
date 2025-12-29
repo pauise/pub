@@ -1,0 +1,15 @@
+{
+    "title": "Enllaç 17 Variant Barcelona amb Estació Bellvitge-Gornal",
+    "full_track_url": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/tracks/17.V7.Estaci%C3%B3%20Bellvitge.gpx",
+    "prf": [
+        {"km": 0, "alt": 11},
+        {"km": 0.4, "alt": 22},
+        {"km": 0.5, "alt": 13}
+    ],
+    "wps": [
+        {"km": 0, "paviment": 1},
+        {"km": 0.13, "paviment": 1},
+        {"km": 0.33, "paviment": 1},
+        {"km": 0.5, "paviment": 1}
+      ]
+  }
