@@ -1,0 +1,15 @@
+{
+    "title": "Enllaç 18 Variant Barcelona amb Estació La Sagrera-Meridiana",
+    "full_track_url": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/tracks/18.V3.Estaci%C3%B3%20Sagrera.gpx",
+    "prf": [
+        {"km": 0, "alt": 54},
+        {"km": 0.3, "alt": 38},
+        {"km": 0.69, "alt": 45}
+    ],
+    "wps": [
+        {"km": 0, "paviment": 1},
+        {"km": 0.55, "paviment": 1},
+        {"km": 0.66, "paviment": 1},
+        {"km": 0.69, "paviment": 1}
+      ]
+  }
