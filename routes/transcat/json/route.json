@@ -266,6 +266,12 @@
       "km": 0.92
     },
     {
+      "id": "17.VA",
+      "nom": "Alternativa Diagonal",
+      "data": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/json/17.VA.Alternativa%20Diagonal.json",
+      "km": 16.45
+    },
+    {
       "id": "18.00",
       "nom": "Sant Cugat del Vallès - Montcada i Reixac",
       "data": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/json/18.00.Sant%20Cugat.Montcada.json",
