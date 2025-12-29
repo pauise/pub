@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx creator="https://gpx.studio" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/PowerExtension/v1 http://www.garmin.com/xmlschemas/PowerExtensionv1.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxpx="http://www.garmin.com/xmlschemas/PowerExtension/v1" xmlns:gpx_style="http://www.topografix.com/GPX/gpx_style/0/2">
+  <metadata>
+    <name>17.V5 Enllaç Estació Cornellà</name>
+    <desc>Etapa 17 Variant Barcelona PK 13,65 - Pont - Cornellà - Estació Cornellà-Riera</desc>
+    <author>
+      <name>gpx.studio</name>
+      <link href="https://gpx.studio"/>
+    </author>
+  </metadata>
+  <wpt lat="41.344118" lon="2.068105">
+    <ele>9.11385771560999</ele>
+    <name>🟢Enllaç a Cornellà ╣⬅️︵🚶🧭N</name>
+    <cmt>╣Cruïlla amb Etapa 17 Variant Barcelona PK 13,65. ⬅️Esquerra per ︵ pont 🚶peatonal🧭N. Fins l&apos;estació és tot recte i peatonal.
+🧭SE a L&apos;Hospitalet i Barcelona per Etapa 17 Variant Barcelona 17.V0
+🧭NW a Sant Boi, Sant Vicenç dels Horts, Sant Feliu, Molins i el Papiol per Etapa 17 Variant Barcelona en 13,65 kms</cmt>
+    <desc>╣Cruïlla amb Etapa 17 Variant Barcelona PK 13,65. ⬅️Esquerra per ︵ pont 🚶peatonal🧭N. Fins l&apos;estació és tot recte i peatonal.
+🧭SE a L&apos;Hospitalet i Barcelona per Etapa 17 Variant Barcelona 17.V0
+🧭NW a Sant Boi, Sant Vicenç dels Horts, Sant Feliu, Molins i el Papiol per Etapa 17 Variant Barcelona en 13,65 kms</desc>
+    <sym>Bridge</sym>
+  </wpt>
+  <wpt lat="41.351449" lon="2.07066">
+    <ele>17.328076574393812</ele>
+    <name>🏁Final enllaç 🚉Cornellà</name>
+    <cmt>🚉Estació Cornellà-Riera FGC L8 S3 S4 S8 S9 R5 R50 R6 R60</cmt>
+    <desc>🚉Estació Cornellà-Riera FGC L8 S3 S4 S8 S9 R5 R50 R6 R60</desc>
+    <sym>Ground Transportation</sym>
+  </wpt>
+  <trk>
+    <name>17.V5 Enllaç Estació Cornellà</name>
+    <trkseg>
+      <trkpt lat="41.344088" lon="2.068103">
+        <ele>14</ele>
+      </trkpt>
+      <trkpt lat="41.344097" lon="2.068103">
+        <ele>14</ele>
+      </trkpt>
+      <trkpt lat="41.34433" lon="2.068085">
+        <ele>14</ele>
+      </trkpt>
+      <trkpt lat="41.344493" lon="2.068084">
+        <ele>14</ele>
+      </trkpt>
+      <trkpt lat="41.344713" lon="2.068098">
+        <ele>14</ele>
+      </trkpt>
+      <trkpt lat="41.344912" lon="2.06813">
+        <ele>14</ele>
+      </trkpt>
+      <trkpt lat="41.345227" lon="2.068208">
+        <ele>14</ele>
+      </trkpt>
+      <trkpt lat="41.345604" lon="2.068328">
+        <ele>14</ele>
+      </trkpt>
+      <trkpt lat="41.345829" lon="2.068434">
+        <ele>14</ele>
+      </trkpt>
+      <trkpt lat="41.346052" lon="2.068557">
+        <ele>14</ele>
+      </trkpt>
+      <trkpt lat="41.346448" lon="2.06883">
+        <ele>14</ele>
+      </trkpt>
+      <trkpt lat="41.346491" lon="2.068947">
+        <ele>14</ele>
+      </trkpt>
+      <trkpt lat="41.346784" lon="2.069156">
+        <ele>14</ele>
+      </trkpt>
+      <trkpt lat="41.347088" lon="2.069336">
+        <ele>14</ele>
+      </trkpt>
+      <trkpt lat="41.347459" lon="2.069501">
+        <ele>14</ele>
+      </trkpt>
+      <trkpt lat="41.347792" lon="2.069605">
+        <ele>14</ele>
+      </trkpt>
+      <trkpt lat="41.348161" lon="2.069679">
+        <ele>14</ele>
+      </trkpt>
+      <trkpt lat="41.348216" lon="2.069683">
+        <ele>14</ele>
+      </trkpt>
+      <trkpt lat="41.34822" lon="2.069683">
+        <ele>14</ele>
+      </trkpt>
+      <trkpt lat="41.348392" lon="2.069683">
+        <ele>13.75</ele>
+      </trkpt>
+      <trkpt lat="41.348508" lon="2.069712">
+        <ele>13.5</ele>
+      </trkpt>
+      <trkpt lat="41.349921" lon="2.070069">
+        <ele>12.75</ele>
+      </trkpt>
+      <trkpt lat="41.350057" lon="2.070115">
+        <ele>13.25</ele>
+      </trkpt>
+      <trkpt lat="41.350255" lon="2.070185">
+        <ele>14.25</ele>
+      </trkpt>
+      <trkpt lat="41.350258" lon="2.070174">
+        <ele>14.75</ele>
+      </trkpt>
+      <trkpt lat="41.349921" lon="2.070069">
+        <ele>12.75</ele>
+      </trkpt>
+      <trkpt lat="41.350057" lon="2.070115">
+        <ele>13.25</ele>
+      </trkpt>
+      <trkpt lat="41.350255" lon="2.070185">
+        <ele>14.25</ele>
+      </trkpt>
+      <trkpt lat="41.350258" lon="2.070174">
+        <ele>14.25</ele>
+      </trkpt>
+      <trkpt lat="41.350258" lon="2.070174">
+        <ele>14.25</ele>
+      </trkpt>
+      <trkpt lat="41.350255" lon="2.070185">
+        <ele>14.25</ele>
+      </trkpt>
+      <trkpt lat="41.350315" lon="2.070208">
+        <ele>14.5</ele>
+      </trkpt>
+      <trkpt lat="41.350345" lon="2.070219">
+        <ele>14.5</ele>
+      </trkpt>
+      <trkpt lat="41.350413" lon="2.070243">
+        <ele>15</ele>
+      </trkpt>
+      <trkpt lat="41.350479" lon="2.070278">
+        <ele>15.25</ele>
+      </trkpt>
+      <trkpt lat="41.350547" lon="2.070297">
+        <ele>15.75</ele>
+      </trkpt>
+      <trkpt lat="41.350562" lon="2.070301">
+        <ele>15.75</ele>
+      </trkpt>
+      <trkpt lat="41.350901" lon="2.070398">
+        <ele>17.25</ele>
+      </trkpt>
+      <trkpt lat="41.351123" lon="2.070461">
+        <ele>17.25</ele>
+      </trkpt>
+      <trkpt lat="41.351361" lon="2.070529">
+        <ele>17.25</ele>
+      </trkpt>
+      <trkpt lat="41.351377" lon="2.070533">
+        <ele>17.25</ele>
+      </trkpt>
+      <trkpt lat="41.351445" lon="2.070553">
+        <ele>17.25</ele>
+      </trkpt>
+      <trkpt lat="41.351483" lon="2.070564">
+        <ele>17</ele>
+      </trkpt>
+      <trkpt lat="41.351477" lon="2.070629">
+        <ele>17.25</ele>
+      </trkpt>
+      <trkpt lat="41.351473" lon="2.070667">
+        <ele>17.25</ele>
+      </trkpt>
+      <trkpt lat="41.351439" lon="2.07066">
+        <ele>17.25</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
