@@ -1,0 +1,38 @@
+Afegir variant per Girona per muntanya i alternativa per Celrà
+Construir els gpx i json de la part de França
+Desenvolupar generador gràfic SVG; groc a vermell fosc +pendents, blau cel a morat -pendents
+Desenvolupar enllaços de WPs
+Desenvolupar visor fotos associades a WPs, tipo 17.VA.23.jpg
+Desenvolupar codi QR amb URL a fitxa etapa
+Desenvolupar selector de capacitat física pels estimadors de temps
+Un cop tinguem totes les etapes, variants, alternatives i enllaços en gpx i json caldrà:
+1. Revisar in-situ
+  És possible que alguns camins no siguin practicables, estiguin tancats o protegits per animals
+  Poden diferir els inicis i finals d'asfalt, carrils bici nous i voreres on estigui prohibit anar-hi
+  Fotografiar a saco. Fotos ben fetes, reduint molt o inclús parant si cal. Les desviacions complicades o importants han de quedar clares. Mínim 1 foto per WP
+  Afegir les fotografies a les rutes, poder apareixen WPs nous, afegir-los al gpx, renumerar i ajustar el json.
+2. Revisar dades altimètriques
+  2.1 GPX Studio les agafa força malament, ho podem fer via CompeGPS o https://www.gpsvisualizer.com/elevation. Comparar Plaça Catalunya amb visor ICC
+  2.2 Un cop revisades les dades altimètriques, reimportar track gpx a Github
+  2.3 Revisar dades de perfil altimètric del json de cada track
+3. Revisar serveis: 
+  3.1 De cada track cal afegir informació dels següents serveis de ruta:
+    - Tallers de bicicleta, Supermercats, Hospitals, CAPs i farmàcies, Càmpings i altres allotjaments, Parcs infantils, Zones d'ombra i fonts
+  3.2 Cal afegir números de telèfon de taxistes de cada zona de pas
+  3.3 De cadascuna de les estacions de tren, cal afegir la URL
+4. Revisar simbologia:
+  Revisar que tots els símbols corresponguin i carreguin
+5. Regenerar totes les fitxes
+6. Descarregar, retallar i comprimir els mapes PNOA i topogràfics 1:25k 1:50k per Twonav
+7. Preparar paquet instal·lable dels mapes offline per Twonav
+8. Preparar branding
+    - Crear un logo, tipografia, colors, fotografies
+9. Preparar la web
+  9.1 Tota la informació de la ruta, fitxes, perfils, descàrregues tracks, mapes, ...
+  9.2 Tenda online a amazon: Gorres, samarretes, coulottes i maillots (SISMIC)
+  9.3 Preparar posicionament web Google i productes amazon
+10. Pas a producció: 
+  10.1 Obrir la tenda d'amazon
+  10.2 Publicar web 
+  10.3 Penjar-ho a Wikiloc, Strada i demés
+  10.4 Engegar campanya publicitària
