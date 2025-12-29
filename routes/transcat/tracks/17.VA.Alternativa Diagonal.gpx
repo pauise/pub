@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <gpx creator="https://gpx.studio" version="1.1" schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/PowerExtension/v1 http://www.garmin.com/xmlschemas/PowerExtensionv1.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/PowerExtension/v1 http://www.garmin.com/xmlschemas/PowerExtensionv1.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxpx="http://www.garmin.com/xmlschemas/PowerExtension/v1" xmlns:gpx_style="http://www.topografix.com/GPX/gpx_style/0/2">
   <metadata>
-    <name>17.VA Alternativa Barcelona</name>
+    <name>17.VA Alternativa Diagonal</name>
     <desc>Etapa 17 Variant Barcelona PK 5,56 - Sant Joan Despí - Esplugues - Barcelona per Carril bici Diagonal - Passeig de Gràcia - Gran Via - Etapa 17 Variant Barcelona PK 25,86. Aquesta alternativa té 3,85kms menys però puja uns 70m més</desc>
     <author>
       <name>gpx.studio</name>
@@ -61,7 +61,7 @@
     <name>7 🚰╦➡️🚲</name>
     <cmt>🚰Font per compte és un pipican. ╦ Carrer Major. ➡️Dreta per 🚲carril bici</cmt>
     <desc>🚰Font per compte és un pipican. ╦ Carrer Major. ➡️Dreta per 🚲carril bici</desc>
-    <sym>Bike Trail</sym>
+    <sym>Bike Lane</sym>
   </wpt>
   <wpt lat="41.369382" lon="2.051897">
     <ele>14.627128361724782</ele>
@@ -89,7 +89,7 @@
     <name>11 ╬🚲⬅️</name>
     <cmt>╬ Cruïlla. Abans de creuar Avinguda Barcelona ens incorporem a 🚲carril bici a ⬅️l&apos;esquerra</cmt>
     <desc>╬ Cruïlla. Abans de creuar Avinguda Barcelona ens incorporem a 🚲carril bici a ⬅️l&apos;esquerra</desc>
-    <sym>Bike Trail</sym>
+    <sym>Bike Lane</sym>
   </wpt>
   <wpt lat="41.367202" lon="2.06134">
     <ele>24.11653059200125</ele>
@@ -110,7 +110,7 @@
     <name>14 ╣🚲⬅️</name>
     <cmt>╣ Cruïlla. Ens incorporem a 🚲carril bici a ⬅️l&apos;esquerra</cmt>
     <desc>╣ Cruïlla. Ens incorporem a 🚲carril bici a ⬅️l&apos;esquerra</desc>
-    <sym>Bike Trail</sym>
+    <sym>Bike Lane</sym>
   </wpt>
   <wpt lat="41.366189" lon="2.066009">
     <ele>45.39659778120132</ele>
@@ -131,7 +131,7 @@
     <name>17 🔄1a↗️╬⬅️🧭NE🌳🛝🛒</name>
     <cmt>🔄Rotonda. Surt per la 1a a la ↗️dreta i seguidament ╬ cruïlla i a ⬅️l&apos;esquerra🧭NE per Carrer dels Cirerers. Via pacificada. Passarem 🌳🛝🛒Plaça del mercat amb parc infantil</cmt>
     <desc>🔄Rotonda. Surt per la 1a a la ↗️dreta i seguidament ╬ cruïlla i a ⬅️l&apos;esquerra🧭NE per Carrer dels Cirerers. Via pacificada. Passarem 🌳🛝🛒Plaça del mercat amb parc infantil</desc>
-    <sym>Crossing</sym>
+    <sym>Rotonda</sym>
   </wpt>
   <wpt lat="41.372572" lon="2.082634">
     <ele>81.94599990476244</ele>
@@ -145,45 +145,42 @@
     <name>19 ╬⬅️🚶🧭NE🚲</name>
     <cmt>╬ Plaça de la Sardana. ⬅️Esquerra per la 🚶vorera esquerra 🧭NE per Avinguda de Cornellà i de seguida trobarem un 🚲carril bici marcat a la vorera</cmt>
     <desc>╬ Plaça de la Sardana. ⬅️Esquerra per la 🚶vorera esquerra 🧭NE per Avinguda de Cornellà i de seguida trobarem un 🚲carril bici marcat a la vorera</desc>
-    <sym>Bike Trail</sym>
-  </wpt>
-  <wpt lat="0" lon="0">
-    <ele>0</ele>
+    <sym>Bike Lane</sym>
   </wpt>
   <wpt lat="41.377062" lon="2.088711">
     <ele>98.33164493282176</ele>
     <name>20 🚲↖️🔄3a↖️︵🧭E </name>
     <cmt>Seguim pel 🚲carril bici a ↖️esquerres, fem la 🔄rotonda per fora i a la 3a sortida a ↖️l&apos;esquerra seguim pel carril bici pel ︵ Pont d&apos;Esplugues🧭E </cmt>
     <desc>Seguim pel 🚲carril bici a ↖️esquerres, fem la 🔄rotonda per fora i a la 3a sortida a ↖️l&apos;esquerra seguim pel carril bici pel ︵ Pont d&apos;Esplugues🧭E </desc>
-    <sym>Bike Trail</sym>
+    <sym>Bike Lane</sym>
   </wpt>
   <wpt lat="41.37725" lon="2.090658">
     <ele>101.04077394404489</ele>
     <name>21 🚲↖️🧭NE</name>
     <cmt>Seguim 🚲carril bici a ↖️l&apos;esquerra per Avinguda dels Països Catalans 🧭NE</cmt>
     <desc>Seguim 🚲carril bici a ↖️l&apos;esquerra per Avinguda dels Països Catalans 🧭NE</desc>
-    <sym>Bike Trail</sym>
+    <sym>Bike Lane</sym>
   </wpt>
   <wpt lat="41.382221" lon="2.100998">
     <ele>116.09585940828647</ele>
     <name>22 🏔️📷</name>
     <cmt>🏔️Cim. 📷Vista panoràmica</cmt>
     <desc>🏔️Cim. 📷Vista panoràmica</desc>
-    <sym>Scenic Area</sym>
+    <sym>Camera</sym>
   </wpt>
   <wpt lat="41.392693" lon="2.143646">
     <ele>62.525343429959584</ele>
     <name>23 ╦🚲➡️🔄3a↗️🧭E</name>
     <cmt>╦ Plaça Francesc Macià. Per 🚲carril bici en tot moment girem ➡️dreta per resseguir la 🔄plaça i sortir per la 3a a la ↗️dreta pel carril bici del lateral de l&apos;Avinguda Diagonal 🧭E</cmt>
     <desc>╦ Plaça Francesc Macià. Per 🚲carril bici en tot moment girem ➡️dreta per resseguir la 🔄plaça i sortir per la 3a a la ↗️dreta pel carril bici del lateral de l&apos;Avinguda Diagonal 🧭E</desc>
-    <sym>Crossing</sym>
+    <sym>Rotonda</sym>
   </wpt>
   <wpt lat="41.392769" lon="2.145142">
     <ele>69.47712231214544</ele>
     <name>24 ➡️🚲</name>
     <cmt>Ens ➡️incorporem  a 🚲carril bici Avinguda Diagonal</cmt>
     <desc>Ens ➡️incorporem  a 🚲carril bici Avinguda Diagonal</desc>
-    <sym>Bike Trail</sym>
+    <sym>Bike Lane</sym>
   </wpt>
   <wpt lat="41.396333" lon="2.159156">
     <ele>55.9434167467369</ele>
@@ -194,7 +191,7 @@
   </wpt>
   <wpt lat="41.389078" lon="2.168154">
     <ele>33.772537258136865</ele>
-    <name>🏁Final alternativa Barcelona ╬</name>
+    <name>🏁Final alternativa Diagonal ╬</name>
     <cmt>╬ Cruïlla amb Gran Via. 
 Connectem amb Etapa 17.V0 PK 25,58:
 🧭S a Plaça Catalunya i final etapa 17 Variant
@@ -206,7 +203,7 @@ Connectem amb Etapa 17.V0 PK 25,58:
     <sym>Crossing</sym>
   </wpt>
   <trk>
-    <name>17.VA Alternativa Barcelona</name>
+    <name>17.VA Alternativa Diagonal</name>
     <trkseg>
       <trkpt lat="41.390427" lon="2.022608">
         <ele>16.75</ele>
