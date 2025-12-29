@@ -2,71 +2,12 @@
 <gpx creator="https://gpx.studio" version="1.1" schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/PowerExtension/v1 http://www.garmin.com/xmlschemas/PowerExtensionv1.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/PowerExtension/v1 http://www.garmin.com/xmlschemas/PowerExtensionv1.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxpx="http://www.garmin.com/xmlschemas/PowerExtension/v1" xmlns:gpx_style="http://www.topografix.com/GPX/gpx_style/0/2">
   <metadata>
     <name>19.00 Montcada - Mollet</name>
-    <desc>Montcada i Reixac - 
-Santa Perpètua de la Mogoda - 
-Mollet - Estació Mollet-Sant Fost</desc>
+    <desc>Montcada i Reixac - Estació Montcada-Ripollet - Santa Perpètua de la Mogoda - Mollet - Estació Mollet Santa-Rosa - Estació Mollet-Sant Fost</desc>
     <author>
       <name>gpx.studio</name>
       <link href="https://gpx.studio"/>
     </author>
   </metadata>
-  <wpt lat="41.455611" lon="2.195129">
-    <ele>29.134310429045094</ele>
-    <cmt>Abandonem llera, pujem rampa</cmt>
-    <desc>Abandonem llera, pujem rampa</desc>
-    <sym>Alert</sym>
-  </wpt>
-  <wpt lat="41.456116" lon="2.194558">
-    <ele>18.143576869901583</ele>
-    <cmt>Estació Metro Can Zam a la dreta a pocs metres</cmt>
-    <desc>Estació Metro Can Zam a la dreta a pocs metres</desc>
-    <sym>Ground Transportation</sym>
-  </wpt>
-  <wpt lat="41.423404" lon="2.230202">
-    <ele>7.228636917612053</ele>
-    <cmt>Dreta</cmt>
-    <desc>Dreta</desc>
-    <sym>Alert</sym>
-  </wpt>
-  <wpt lat="41.423463" lon="2.227533">
-    <ele>9.328613727727237</ele>
-    <cmt>Esquerra</cmt>
-    <desc>Esquerra</desc>
-    <sym>Alert</sym>
-  </wpt>
-  <wpt lat="41.48273" lon="2.192221">
-    <ele>38.64413835864781</ele>
-    <cmt>Esquerra</cmt>
-    <desc>Esquerra</desc>
-    <sym>Alert</sym>
-  </wpt>
-  <wpt lat="41.495905" lon="2.184337">
-    <ele>43.71469937786605</ele>
-    <name>8 🚲⬅️🧭NW.🌳🚰🛝</name>
-    <cmt>Seguim pel 🚲carril bici ⬅️esquerra per Carrer Àngel Guimerà 🧭NW. A la nostra esquerra 🌳🚰🛝Parc infantil amb ombra i font</cmt>
-    <desc>Seguim pel 🚲carril bici ⬅️esquerra per Carrer Àngel Guimerà 🧭NW. A la nostra esquerra 🌳🚰🛝Parc infantil amb ombra i font</desc>
-    <sym>Bike Trail</sym>
-  </wpt>
-  <wpt lat="41.506384" lon="2.182456">
-    <ele>65.42084241419626</ele>
-    <name>15 ╠➡️</name>
-    <cmt>╠➡️Dreta</cmt>
-    <desc>╠➡️Dreta</desc>
-    <sym>Crossing</sym>
-  </wpt>
-  <wpt lat="41.500264" lon="2.181687">
-    <ele>47.45124096004365</ele>
-    <name>13 Fi asfalt</name>
-    <cmt>Sortim de Montcada i entrem a una zona de camps</cmt>
-    <desc>Sortim de Montcada i entrem a una zona de camps</desc>
-    <sym>Road</sym>
-  </wpt>
-  <wpt lat="41.53127" lon="2.221878">
-    <ele>56.90628814534912</ele>
-    <cmt>Esquerra i enllaçar amb Passeig Fluvial</cmt>
-    <desc>Esquerra i enllaçar amb Passeig Fluvial</desc>
-    <sym>Alert</sym>
-  </wpt>
   <wpt lat="41.487678" lon="2.187985">
     <ele>39.88941898772127</ele>
     <name>🟢╬ Montcada ︵🚶🧭N</name>
@@ -94,7 +35,7 @@ Mollet - Estació Mollet-Sant Fost</desc>
     <name>3 ↖️🚲╬ ︵⬆️</name>
     <cmt>Lleugerament a ↖️esquerra ens incorporem a l&apos;inici d&apos;un 🚲carril bici que transcorre per Rambla dels Països Catalans. Creuem C-33 per sota ︵pont. Continuem rambla ⬆️recte</cmt>
     <desc>Lleugerament a ↖️esquerra ens incorporem a l&apos;inici d&apos;un 🚲carril bici que transcorre per Rambla dels Països Catalans. Creuem C-33 per sota ︵pont. Continuem rambla ⬆️recte</desc>
-    <sym>Bike Trail</sym>
+    <sym>Bike Lane</sym>
   </wpt>
   <wpt lat="41.490013" lon="2.186507">
     <ele>42.24627861411223</ele>
@@ -108,21 +49,28 @@ Mollet - Estació Mollet-Sant Fost</desc>
     <name>5 ╦➡️🚲↖️🌳🛝🚰</name>
     <cmt>Final passeig central. Girem ➡️dreta pel 🚲carril bici per creuar i seguim a ↖️esquerres per la Rambla. A la nostra dreta 🌳🛝🚰Parc infantil amb ombres i font</cmt>
     <desc>Final passeig central. Girem ➡️dreta pel 🚲carril bici per creuar i seguim a ↖️esquerres per la Rambla. A la nostra dreta 🌳🛝🚰Parc infantil amb ombres i font</desc>
-    <sym>Bike Trail</sym>
+    <sym>Bike Lane</sym>
   </wpt>
   <wpt lat="41.491778" lon="2.184962">
     <ele>40.478080039350516</ele>
     <name>6 🚲↗️</name>
     <cmt>Seguim pel 🚲carril bici a dretes↗️per la vorera</cmt>
     <desc>Seguim pel 🚲carril bici a dretes↗️per la vorera</desc>
-    <sym>Bike Trail</sym>
+    <sym>Bike Lane</sym>
   </wpt>
   <wpt lat="41.492467" lon="2.184442">
     <ele>42.5659308888956</ele>
     <name>7 🚲➡️</name>
     <cmt>Seguim pel 🚲carril bici a la ➡️dreta</cmt>
     <desc>Seguim pel 🚲carril bici a la ➡️dreta</desc>
-    <sym>Bike Trail</sym>
+    <sym>Bike Lane</sym>
+  </wpt>
+  <wpt lat="41.495905" lon="2.184337">
+    <ele>43.71469937786605</ele>
+    <name>8 🚲⬅️🧭NW.🌳🚰🛝</name>
+    <cmt>Seguim pel 🚲carril bici ⬅️esquerra per Carrer Àngel Guimerà 🧭NW. A la nostra esquerra 🌳🚰🛝Parc infantil amb ombra i font</cmt>
+    <desc>Seguim pel 🚲carril bici ⬅️esquerra per Carrer Àngel Guimerà 🧭NW. A la nostra esquerra 🌳🚰🛝Parc infantil amb ombra i font</desc>
+    <sym>Bike Lane</sym>
   </wpt>
   <wpt lat="41.496572" lon="2.18223">
     <ele>49.23487993250687</ele>
@@ -144,7 +92,7 @@ Mollet - Estació Mollet-Sant Fost</desc>
     <name>11 ╬🚲➡️🧭NE</name>
     <cmt>╬ Cruïlla. Agafem el 🚲carril bici a la ➡️dreta 🧭NE</cmt>
     <desc>╬ Cruïlla. Agafem el 🚲carril bici a la ➡️dreta 🧭NE</desc>
-    <sym>Bike Trail</sym>
+    <sym>Bike Lane</sym>
   </wpt>
   <wpt lat="41.5" lon="2.181651">
     <ele>47.577070079977105</ele>
@@ -153,11 +101,25 @@ Mollet - Estació Mollet-Sant Fost</desc>
     <desc>Petita 🔄rotonda. La fem pel 🚲carril bici a l&apos;inrevès i sortim per la 2a a l&apos;esquerra↖️🧭NE</desc>
     <sym>Crossing</sym>
   </wpt>
+  <wpt lat="41.500264" lon="2.181687">
+    <ele>47.45124096004365</ele>
+    <name>13 🚳Fi asfalt</name>
+    <cmt>🚳Fi carril bici i asfalt. Sortim de Montcada i entrem a una zona de camps</cmt>
+    <desc>🚳Fi carril bici i asfalt. Sortim de Montcada i entrem a una zona de camps</desc>
+    <sym>End of Road</sym>
+  </wpt>
   <wpt lat="41.502836" lon="2.181659">
     <ele>61.10216257360376</ele>
     <name>14 ╠➡️</name>
     <cmt>╠ SPP ➡️dreta</cmt>
     <desc>╠ SPP ➡️dreta</desc>
+    <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="41.506384" lon="2.182456">
+    <ele>65.42084241419626</ele>
+    <name>15 ╠➡️</name>
+    <cmt>╠➡️Dreta</cmt>
+    <desc>╠➡️Dreta</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="41.514449" lon="2.181666">
@@ -228,7 +190,7 @@ Mollet - Estació Mollet-Sant Fost</desc>
     <name>25 ⬅️🚶🚲➡️🔻</name>
     <cmt>⬅️Esquerra pel 🚶pas de vianants trobem al centre de l&apos;avinguda el 🚲carril bici que agafem a la ➡️dreta 🔻avall </cmt>
     <desc>⬅️Esquerra pel 🚶pas de vianants trobem al centre de l&apos;avinguda el 🚲carril bici que agafem a la ➡️dreta 🔻avall </desc>
-    <sym>Bike Trail</sym>
+    <sym>Bike Lane</sym>
   </wpt>
   <wpt lat="41.528969" lon="2.185996">
     <ele>67.54178229154623</ele>
@@ -269,42 +231,42 @@ Mollet - Estació Mollet-Sant Fost</desc>
   </wpt>
   <wpt lat="41.536626" lon="2.186118">
     <ele>71.54813368557969</ele>
-    <name>32 ╠🚶➡️🔻🚲</name>
+    <name>31 ╠🚶➡️🔻🚲</name>
     <cmt>╠ Desviar per 🚶vorera estreta a la ➡️dreta 🔻avall. No ho sembla però és 🚲carril bici</cmt>
     <desc>╠ Desviar per 🚶vorera estreta a la ➡️dreta 🔻avall. No ho sembla però és 🚲carril bici</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="41.538534" lon="2.189835">
     <ele>76.01006204672234</ele>
-    <name>33 ⬅️➡️🧭E ︵</name>
+    <name>32 ⬅️➡️🧭E ︵</name>
     <cmt>Canviar a banda esquerra. Gir ⬅️esquerra i ➡️dreta seguit 🧭E passem sota ︵ pont C-59 pel voral esquerra de la Carretera a Mollet per pista sense asfaltar. Sortim de Santa Perpètua</cmt>
     <desc>Canviar a banda esquerra. Gir ⬅️esquerra i ➡️dreta seguit 🧭E passem sota ︵ pont C-59 pel voral esquerra de la Carretera a Mollet per pista sense asfaltar. Sortim de Santa Perpètua</desc>
-    <sym>Road</sym>
+    <sym>End of Road</sym>
   </wpt>
   <wpt lat="41.537397" lon="2.200705">
     <ele>90.92148693334451</ele>
-    <name>34 ╬⚠️🚗➡️↖️</name>
+    <name>33 ╬⚠️🚗➡️↖️</name>
     <cmt>╬ Cruïlla amb ⚠️precaució 🚗trànsit ➡️creuem i ens incorporem a la vorera de l&apos;altra banda a mà ↖️esquerra</cmt>
     <desc>╬ Cruïlla amb ⚠️precaució 🚗trànsit ➡️creuem i ens incorporem a la vorera de l&apos;altra banda a mà ↖️esquerra</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="41.537362" lon="2.201706">
     <ele>86.34717348915777</ele>
-    <name>35 Mollet🚶🔄2a ↗️🧭E</name>
+    <name>34 Mollet🚶🔄2a ↗️🧭E</name>
     <cmt>Mollet del Vallès. Per la 🚶vorera dreta, fem la 🔄rotonda i sortim per la 2a a la  ↗️dreta 🧭E</cmt>
     <desc>Mollet del Vallès. Per la 🚶vorera dreta, fem la 🔄rotonda i sortim per la 2a a la  ↗️dreta 🧭E</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="41.537657" lon="2.205915">
     <ele>79.15506788087188</ele>
-    <name>36 ⚠️‼️🛤️➡️🌳🛝</name>
+    <name>35 ⚠️‼️🛤️➡️🌳🛝</name>
     <cmt>⚠️‼️Màxima precaució 🛤️creuar vies i ➡️dreta. Via pacificada. Passarem 🌳🛝Parc infantil amb ombra i bancs</cmt>
     <desc>⚠️‼️Màxima precaució 🛤️creuar vies i ➡️dreta. Via pacificada. Passarem 🌳🛝Parc infantil amb ombra i bancs</desc>
     <sym>Alert</sym>
   </wpt>
   <wpt lat="41.536673" lon="2.20631">
     <ele>78.88250103453224</ele>
-    <name>37 🚉Mollet-Santa Rosa R3 ╣⬅️🧭E</name>
+    <name>36 🚉Mollet-Santa Rosa R3 ╣⬅️🧭E</name>
     <cmt>🚉Estació Mollet-Santa Rosa R3
 ╣ Cruïlla a ⬅️l&apos;esquerra 🧭E . Via pacificada</cmt>
     <desc>🚉Estació Mollet-Santa Rosa R3
@@ -314,31 +276,31 @@ Mollet - Estació Mollet-Sant Fost</desc>
   </wpt>
   <wpt lat="41.536768" lon="2.209463">
     <ele>66.01091230807377</ele>
-    <name>38 ╦➡️</name>
+    <name>37 ╦➡️</name>
     <cmt>╦ Carrer de l&apos;Alzina. ➡️Dreta. Via pacificada</cmt>
     <desc>╦ Carrer de l&apos;Alzina. ➡️Dreta. Via pacificada</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="41.535677" lon="2.209676">
     <ele>65.2826358491582</ele>
-    <name>39 ↖️🚶</name>
+    <name>38 ↖️🚶</name>
     <cmt>45º ↖️esquerra i agafem carrer 🚶peatonal</cmt>
     <desc>45º ↖️esquerra i agafem carrer 🚶peatonal</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="41.535121" lon="2.21107">
     <ele>64.05621532145898</ele>
-    <name>40 ⬆️</name>
+    <name>39 ⬆️</name>
     <cmt>Ens incorporem al carrer que surt just ⬆️enfront</cmt>
     <desc>Ens incorporem al carrer que surt just ⬆️enfront</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="41.533092" lon="2.216979">
     <ele>62.71635227904343</ele>
-    <name>41 ↗️🅿️</name>
+    <name>40 ↗️🅿️</name>
     <cmt>Per la ↗️dreta accedim al 🅿️parking de l&apos;estació</cmt>
     <desc>Per la ↗️dreta accedim al 🅿️parking de l&apos;estació</desc>
-    <sym>Parking Area</sym>
+    <sym>Parking</sym>
   </wpt>
   <wpt lat="41.533499" lon="2.217481">
     <ele>61.69476209776547</ele>
