@@ -299,7 +299,13 @@
       "id": "18.V0",
       "nom": "Barcelona - Montcada i Reixac",
       "data": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/json/18.V0.Barcelona.Montcada.json",
-      "km": 1
+      "km": 14.54
+    },
+    {
+      "id": "18.V3",
+      "nom": "Estació La Sagrera-Meridiana",
+      "data": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/json/18.V3.Estaci%C3%B3%20Sagrera.json",
+      "km": 0.69
     },
     {
       "id": "19.00",
