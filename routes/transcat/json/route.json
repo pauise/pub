@@ -248,6 +248,12 @@
       "km": 0.33
     },
     {
+      "id": "17.V5",
+      "nom": "Estació Cornellà-Riera",
+      "data": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/json/17.V5.Estaci%C3%B3%20Cornell%C3%A0.json",
+      "km": 0.95
+    },
+    {
       "id": "18.00",
       "nom": "Sant Cugat del Vallès - Montcada i Reixac",
       "data": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/json/18.00.Sant%20Cugat.Montcada.json",
