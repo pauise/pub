@@ -1,0 +1,13 @@
+{
+    "title": "Enllaç 17 Variant Barcelona amb Estació Cornellà-Riera",
+    "full_track_url": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/tracks/17.V5.Estaci%C3%B3%20Cornell%C3%A0.gpx",
+    "prf": [
+        {"km": 0, "alt": 14},
+        {"km": 0.28, "alt": 27},
+        {"km": 0.95, "alt": 17}
+    ],
+    "wps": [
+        {"km": 0, "paviment": 1},
+        {"km": 0.95, "paviment": 1}
+      ]
+  }
