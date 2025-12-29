@@ -71,8 +71,8 @@ Seguim per Passeig de Gràcia ⬆️recte</desc>
   <wpt lat="41.402632" lon="2.173495">
     <ele>43.19025259256706</ele>
     <name>7 ⬅️↗️➡️🛝🚰🛒</name>
-    <cmt>Per evitar gent, al mig de la plaça desviar ⬅️esquerra i seguit a ↗️dretes i abans de sortir a la ➡️dreta pel 🛝Parc Infantil amb 🚰font. Davant un 🛒Supermercat gran</cmt>
-    <desc>Per evitar gent, al mig de la plaça desviar ⬅️esquerra i seguit a ↗️dretes i abans de sortir a la ➡️dreta pel 🛝Parc Infantil amb 🚰font. Davant un 🛒Supermercat gran</desc>
+    <cmt>Per evitar gent, al mig de la plaça desviar ⬅️esquerra i seguit a ↗️dretes i abans de sortir del parc, a la ➡️dreta pel 🛝Parc Infantil amb 🚰font. Davant un 🛒Supermercat gran</cmt>
+    <desc>Per evitar gent, al mig de la plaça desviar ⬅️esquerra i seguit a ↗️dretes i abans de sortir del parc, a la ➡️dreta pel 🛝Parc Infantil amb 🚰font. Davant un 🛒Supermercat gran</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="41.403239" lon="2.173098">
@@ -80,7 +80,7 @@ Seguim per Passeig de Gràcia ⬆️recte</desc>
     <name>8 ➡️🚲</name>
     <cmt>Sortim del parc per Provença i ens incorporem a ➡️dretes al 🚲carril bici</cmt>
     <desc>Sortim del parc per Provença i ens incorporem a ➡️dretes al 🚲carril bici</desc>
-    <sym>Bike Trail</sym>
+    <sym>Bike Lane</sym>
   </wpt>
   <wpt lat="41.407601" lon="2.178694">
     <ele>43.090760238002986</ele>
@@ -115,7 +115,7 @@ Seguim per Passeig de Gràcia ⬆️recte</desc>
     <name>13 ╣↖️🚲15m🚰</name>
     <cmt>Continuem per ╣Passeig Maragall a ↖️esquerres pel 🚲carril bici. En 15m assem pel costat d&apos;una 🚰font a la nostra dreta </cmt>
     <desc>Continuem per ╣Passeig Maragall a ↖️esquerres pel 🚲carril bici. En 15m assem pel costat d&apos;una 🚰font a la nostra dreta </desc>
-    <sym>Bike Trail</sym>
+    <sym>Bike Lane</sym>
   </wpt>
   <wpt lat="41.419229" lon="2.180763">
     <ele>56.93100904623871</ele>
@@ -123,6 +123,29 @@ Seguim per Passeig de Gràcia ⬆️recte</desc>
     <cmt>Just 🚦creuar ╬ Carrer Olesa ens incorporem per la ↗️dreta al 🚲carril bici del lateral</cmt>
     <desc>Just 🚦creuar ╬ Carrer Olesa ens incorporem per la ↗️dreta al 🚲carril bici del lateral</desc>
     <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="41.419764" lon="2.181194">
+    <ele>51.5350584513922</ele>
+    <name>15 🚳↖️🌳🚶🛝🚰🛒☕🍽️</name>
+    <cmt>🚳Abandonem carril bici i pujem a la vorera de ↖️l&apos;esquerra per creuar la🌳plaça 🚶peatonal. Trobarem 🛝parc infantil, 🚰font, 🛒supermercat i ☕🍽️terrasses.
+Si seguim ⬆️recte pel 🚲carril bici del Carrer d&apos;Olesa arribem a 🚉Estació La Sagrera-Meridiana R3 R4 R12 en 0,69 km per Enllaç 18.V3</cmt>
+    <desc>🚳Abandonem carril bici i pujem a la vorera de ↖️l&apos;esquerra per creuar la🌳plaça 🚶peatonal. Trobarem 🛝parc infantil, 🚰font, 🛒supermercat i ☕🍽️terrasses.
+Si seguim ⬆️recte pel 🚲carril bici del Carrer d&apos;Olesa arribem a 🚉Estació La Sagrera-Meridiana R3 R4 R12 en 0,69 km per Enllaç 18.V3</desc>
+    <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="41.420697" lon="2.180865">
+    <ele>53.78988116192718</ele>
+    <name>16 ↗️🧭N</name>
+    <cmt>Ens incorporem a ↗️dretes 🧭N al Carrer de Puerto Príncipe. Via pacificada. </cmt>
+    <desc>Ens incorporem a ↗️dretes 🧭N al Carrer de Puerto Príncipe. Via pacificada. </desc>
+    <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="41.423821" lon="2.181443">
+    <ele>48.18174898882823</ele>
+    <name>17 ↗️🚲⬅️</name>
+    <cmt>Seguim pel carrer a ↗️dretes i topem amb el 🚲carril bici de Felip II que seguirem a ⬅️l&apos;esquerra</cmt>
+    <desc>Seguim pel carrer a ↗️dretes i topem amb el 🚲carril bici de Felip II que seguirem a ⬅️l&apos;esquerra</desc>
+    <sym>Bike Lane</sym>
   </wpt>
   <wpt lat="41.427626" lon="2.177341">
     <ele>54.976297167984214</ele>
@@ -136,7 +159,7 @@ Seguim per Passeig de Gràcia ⬆️recte</desc>
     <name>19 🚰↗️🚲</name>
     <cmt>🚰Font a l&apos;altra acera. Seguim lleugerament a la ↗️dreta pel mateix 🚲carril bici però ara és el Carrer de Piferrer</cmt>
     <desc>🚰Font a l&apos;altra acera. Seguim lleugerament a la ↗️dreta pel mateix 🚲carril bici però ara és el Carrer de Piferrer</desc>
-    <sym>Bike Trail</sym>
+    <sym>Bike Lane</sym>
   </wpt>
   <wpt lat="41.436952" lon="2.180398">
     <ele>51.09558499557933</ele>
@@ -164,7 +187,7 @@ Seguim per Passeig de Gràcia ⬆️recte</desc>
     <name>23 ↖️🧭N🔻🚲</name>
     <cmt>Un cop creuada la Meridiana, ↖️esquerra  🧭N🔻avall per 🚲carril bici, entrem al barri de Sant Andreu</cmt>
     <desc>Un cop creuada la Meridiana, ↖️esquerra  🧭N🔻avall per 🚲carril bici, entrem al barri de Sant Andreu</desc>
-    <sym>Bike Trail</sym>
+    <sym>Bike Lane</sym>
   </wpt>
   <wpt lat="41.443956" lon="2.187115">
     <ele>47.480118257742674</ele>
@@ -192,30 +215,7 @@ Seguim per Passeig de Gràcia ⬆️recte</desc>
     <name>27 🚲</name>
     <cmt>🚲Bicivia 8</cmt>
     <desc>🚲Bicivia 8</desc>
-    <sym>Bike Trail</sym>
-  </wpt>
-  <wpt lat="41.419764" lon="2.181194">
-    <ele>51.5350584513922</ele>
-    <name>15 🚳↖️🌳🚶🛝🚰🛒☕🍽️</name>
-    <cmt>🚳Abandonem carril bici i pujem a la vorera de ↖️l&apos;esquerra per creuar la🌳plaça 🚶peatonal. Trobarem 🛝parc infantil, 🚰font, 🛒supermercat i ☕🍽️terrasses.
-Si seguim ⬆️recte pel 🚲carril bici del Carrer d&apos;Olesa arribem a 🚉Estació La Sagrera-Meridiana R3 R4 R12 en 0,69 km per Enllaç 18.V3</cmt>
-    <desc>🚳Abandonem carril bici i pujem a la vorera de ↖️l&apos;esquerra per creuar la🌳plaça 🚶peatonal. Trobarem 🛝parc infantil, 🚰font, 🛒supermercat i ☕🍽️terrasses.
-Si seguim ⬆️recte pel 🚲carril bici del Carrer d&apos;Olesa arribem a 🚉Estació La Sagrera-Meridiana R3 R4 R12 en 0,69 km per Enllaç 18.V3</desc>
-    <sym>Crossing</sym>
-  </wpt>
-  <wpt lat="41.420697" lon="2.180865">
-    <ele>53.78988116192718</ele>
-    <name>16 ↗️🧭N</name>
-    <cmt>Ens incorporem a ↗️dretes 🧭N al Carrer de Puerto Príncipe. Via pacificada. </cmt>
-    <desc>Ens incorporem a ↗️dretes 🧭N al Carrer de Puerto Príncipe. Via pacificada. </desc>
-    <sym>Crossing</sym>
-  </wpt>
-  <wpt lat="41.423821" lon="2.181443">
-    <ele>48.18174898882823</ele>
-    <name>17 ↗️🚲⬅️</name>
-    <cmt>Seguim pel carrer a ↗️dretes i topem amb el 🚲carril bici de Felip II que seguirem a ⬅️l&apos;esquerra</cmt>
-    <desc>Seguim pel carrer a ↗️dretes i topem amb el 🚲carril bici de Felip II que seguirem a ⬅️l&apos;esquerra</desc>
-    <sym>Bike Trail</sym>
+    <sym>Bike Lane</sym>
   </wpt>
   <wpt lat="41.482688" lon="2.192201">
     <ele>38.605080614659016</ele>
@@ -248,7 +248,7 @@ Si seguim ⬆️recte pel 🚲carril bici del Carrer d&apos;Olesa arribem a 🚉
   <wpt lat="41.485504" lon="2.188072">
     <ele>41.34343748482622</ele>
     <name>32 ╦➡️</name>
-    <cmt>╦ Carrer Major ➡️Dreta.
+    <cmt>╦ Carrer Major ➡️Dreta. Via pacificada
 ⬅️ a🚉Estació Montcada i Reixac R2 en 200m</cmt>
     <desc>╦ Carrer Major ➡️Dreta.
 ⬅️ a🚉Estació Montcada i Reixac R2 en 200m</desc>
@@ -260,53 +260,17 @@ Si seguim ⬆️recte pel 🚲carril bici del Carrer d&apos;Olesa arribem a 🚉
     <cmt>╬ Cruïlla de Montcada
 🧭N a Mollet per Etapa 19
 🧭W a Cerdanyola i Sant Cugat per Etapa 17
-🧭S a Barcelona per Etapa 18 Variant Barcelona </cmt>
+🧭S a Barcelona per Etapa 18 Variant Barcelona</cmt>
     <desc>╬ Cruïlla de Montcada
 🧭N a Mollet per Etapa 19
 🧭W a Cerdanyola i Sant Cugat per Etapa 17
-🧭S a Barcelona per Etapa 18 Variant Barcelona </desc>
+🧭S a Barcelona per Etapa 18 Variant Barcelona</desc>
     <sym>Crossing</sym>
   </wpt>
   <trk>
     <name>18.V0 Barcelona - Montcada</name>
-    <cmt>Ruta circular des de Jardins Palau Robert passant per:
-- Jardins del Doctor Samuel Hahnemann (2.0 km)
-- Jardins del Palau de Pedralbes (3.8 km)
-- Ajuntament d&apos;Esplugues (6.7 km)
-- Aiguamolls de Molins de Rei (15.2 km)
-- Pont de Molins de Rei (17.0 km)
-- Font de Can Barba (24.5 km)
-- Jardins de Miquel Martí i Pol (27.0 km)
-- Monestir de Sant Cugat (30.4 km)
-- Passera de Montflorit (35.0 km)
-- Parc de la Riera (36.1 km)
-- Passera de Na Joana (37.3 km)
-- Iglesia Santa Engracia (40.7 km)
-- Puente sobre Besos (42.6 km)
-- Pont Vell de Santa Coloma (45.8 km)
-- Jardins de Can Verdaguer (48.5 km)
-- Jardins de Massana (49.6 km)
-- Jardins de Maria Soteras Mauri (50.9 km)
-- Basílica de la Sagrada Família (53.2 km)</cmt>
-    <desc>Ruta circular des de Jardins Palau Robert passant per:
-- Jardins del Doctor Samuel Hahnemann (2.0 km)
-- Jardins del Palau de Pedralbes (3.8 km)
-- Ajuntament d&apos;Esplugues (6.7 km)
-- Aiguamolls de Molins de Rei (15.2 km)
-- Pont de Molins de Rei (17.0 km)
-- Font de Can Barba (24.5 km)
-- Jardins de Miquel Martí i Pol (27.0 km)
-- Monestir de Sant Cugat (30.4 km)
-- Passera de Montflorit (35.0 km)
-- Parc de la Riera (36.1 km)
-- Passera de Na Joana (37.3 km)
-- Iglesia Santa Engracia (40.7 km)
-- Puente sobre Besos (42.6 km)
-- Pont Vell de Santa Coloma (45.8 km)
-- Jardins de Can Verdaguer (48.5 km)
-- Jardins de Massana (49.6 km)
-- Jardins de Maria Soteras Mauri (50.9 km)
-- Basílica de la Sagrada Família (53.2 km)</desc>
+    <cmt>Plaça Catalunya - Passeig de Gràcia - València - Sicília - Sagrada Família - Provença - Cartagena - Rosselló - Freser - Maragall - Olesa - Felip II - Rio de Janeiro - Passeig de Santa Coloma - Pont de Santa Coloma - Passeig Fluvial del Besòs - Montcada i Reixac</cmt>
+    <desc>Plaça Catalunya - Passeig de Gràcia - València - Sicília - Sagrada Família - Provença - Cartagena - Rosselló - Freser - Maragall - Olesa - Felip II - Rio de Janeiro - Passeig de Santa Coloma - Pont de Santa Coloma - Passeig Fluvial del Besòs - Montcada i Reixac</desc>
     <trkseg>
       <trkpt lat="41.38697" lon="2.17005">
         <ele>25.25</ele>
