@@ -2,126 +2,13 @@
 <gpx creator="Wikiloc - http://www.wikiloc.com" version="1.1" schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/PowerExtension/v1 http://www.garmin.com/xmlschemas/PowerExtensionv1.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/PowerExtension/v1 http://www.garmin.com/xmlschemas/PowerExtensionv1.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxpx="http://www.garmin.com/xmlschemas/PowerExtension/v1" xmlns:gpx_style="http://www.topografix.com/GPX/gpx_style/0/2">
   <metadata>
     <name>18.V0 Barcelona - Montcada</name>
-    <desc>Plaça Catalunya - Passeig de Gràcia - Diagonal - Provença - Sagrada Família - Meridiana - Via Júlia - Passeig de Santa Coloma - Pont de Santa Coloma - Passeig Fluvial del Besòs - Montcada i Reixac</desc>
+    <desc>Plaça Catalunya - Passeig de Gràcia - València - Sicília - Sagrada Família - Provença - Cartagena - Rosselló - Freser - Maragall - Olesa - Felip II - Rio de Janeiro - Passeig de Santa Coloma - Pont de Santa Coloma - Passeig Fluvial del Besòs - Montcada i Reixac</desc>
     <author>
       <name>gpx.studio</name>
       <link href="https://gpx.studio"/>
     </author>
-    <link href="https://www.wikiloc.com/wikiloc/view.do?id=237866591">
-      <text>Volta Collserola I on Wikiloc</text>
-    </link>
     <time>1970-01-01T00:00:00.000Z</time>
   </metadata>
-  <wpt lat="41.394618" lon="2.15194">
-    <ele>62</ele>
-    <name>Punt d&apos;interès</name>
-    <cmt>Punt d&apos;interès</cmt>
-  </wpt>
-  <wpt lat="41.386605" lon="2.118404">
-    <ele>71</ele>
-    <name>Jardins del Palau de Pedralbes</name>
-    <cmt>Jardins del Palau de Pedralbes</cmt>
-  </wpt>
-  <wpt lat="41.379446" lon="2.094228">
-    <ele>110</ele>
-    <name>Punt d&apos;interès</name>
-    <cmt>Punt d&apos;interès</cmt>
-  </wpt>
-  <wpt lat="41.367196" lon="2.046489">
-    <ele>14</ele>
-    <name>Punt d&apos;interès</name>
-    <cmt>Punt d&apos;interès</cmt>
-  </wpt>
-  <wpt lat="41.378293" lon="2.030783">
-    <ele>19</ele>
-    <name>Punt d&apos;interès</name>
-    <cmt>Punt d&apos;interès</cmt>
-  </wpt>
-  <wpt lat="41.408211" lon="2.01279">
-    <ele>21</ele>
-    <name>Punt d&apos;interès</name>
-    <cmt>Punt d&apos;interès</cmt>
-  </wpt>
-  <wpt lat="41.438027" lon="2.001859">
-    <ele>48</ele>
-    <name>Punt d&apos;interès</name>
-    <cmt>Punt d&apos;interès</cmt>
-  </wpt>
-  <wpt lat="41.45528" lon="2.019387">
-    <ele>166</ele>
-    <name>Punt d&apos;interès</name>
-    <cmt>Punt d&apos;interès</cmt>
-  </wpt>
-  <wpt lat="41.465133" lon="2.033895">
-    <ele>93</ele>
-    <name>Punt d&apos;interès</name>
-    <cmt>Punt d&apos;interès</cmt>
-  </wpt>
-  <wpt lat="41.467527" lon="2.034376">
-    <ele>105</ele>
-    <name>Punt d&apos;interès</name>
-    <cmt>Punt d&apos;interès</cmt>
-  </wpt>
-  <wpt lat="41.468703" lon="2.036584">
-    <ele>108</ele>
-    <name>Punt d&apos;interès</name>
-    <cmt>Punt d&apos;interès</cmt>
-  </wpt>
-  <wpt lat="41.468472" lon="2.04642">
-    <ele>108</ele>
-    <name>Jardins de Miquel Martí i Pol</name>
-    <cmt>Jardins de Miquel Martí i Pol</cmt>
-  </wpt>
-  <wpt lat="41.469383" lon="2.076403">
-    <ele>131</ele>
-    <name>Punt d&apos;interès</name>
-    <cmt>Punt d&apos;interès</cmt>
-  </wpt>
-  <wpt lat="41.485133" lon="2.113648">
-    <ele>94</ele>
-    <name>Punt d&apos;interès</name>
-    <cmt>Punt d&apos;interès</cmt>
-  </wpt>
-  <wpt lat="41.482673" lon="2.128378">
-    <ele>75</ele>
-    <name>Punt d&apos;interès</name>
-    <cmt>Punt d&apos;interès</cmt>
-  </wpt>
-  <wpt lat="41.481249" lon="2.144369">
-    <ele>66</ele>
-    <name>Punt d&apos;interès</name>
-    <cmt>Punt d&apos;interès</cmt>
-  </wpt>
-  <wpt lat="41.482379" lon="2.152186">
-    <ele>56</ele>
-    <name>Fuente y zona de paso Riera</name>
-    <cmt>Fuente y zona de paso Riera</cmt>
-  </wpt>
-  <wpt lat="41.483519" lon="2.155297">
-    <ele>67</ele>
-    <name>Passera de Na Joana</name>
-    <cmt>Passera de Na Joana</cmt>
-  </wpt>
-  <wpt lat="41.483974" lon="2.160763">
-    <ele>55</ele>
-    <name>Punt d&apos;interès</name>
-    <cmt>Punt d&apos;interès</cmt>
-  </wpt>
-  <wpt lat="41.484424" lon="2.166246">
-    <ele>51</ele>
-    <name>Punt d&apos;interès</name>
-    <cmt>Punt d&apos;interès</cmt>
-  </wpt>
-  <wpt lat="41.483468" lon="2.176419">
-    <ele>47</ele>
-    <name>Punt d&apos;interès</name>
-    <cmt>Punt d&apos;interès</cmt>
-  </wpt>
-  <wpt lat="41.403961" lon="2.173886">
-    <ele>49</ele>
-    <name>Punt d&apos;interès</name>
-    <cmt>Punt d&apos;interès</cmt>
-  </wpt>
   <wpt lat="41.38698" lon="2.170053">
     <ele>20.23094326212625</ele>
     <name>🟢🚉Plaça de Catalunya 🧭N</name>
@@ -158,7 +45,7 @@ Seguim per Passeig de Gràcia ⬆️recte</desc>
     <name>3 ╬🚦➡️🚲</name>
     <cmt>╬ Carrer València. Creuar per🚦semàfor i ➡️dreta per 🚲carril bici</cmt>
     <desc>╬ Carrer València. Creuar per🚦semàfor i ➡️dreta per 🚲carril bici</desc>
-    <sym>Bike Trail</sym>
+    <sym>Bike Lane</sym>
   </wpt>
   <wpt lat="41.39834774492755" lon="2.17074212070159">
     <ele>43.222983595364866</ele>
@@ -179,7 +66,7 @@ Seguim per Passeig de Gràcia ⬆️recte</desc>
     <name>6 ╬🚶➡️⬅️↗️🌳📷🏛️</name>
     <cmt>╬ Carrer Mallorca. Baixem de la bici i a 🚶peu creuem el pas de vianants de Sicília a la ➡️dreta i seguidament el de Mallorca a ⬅️l&apos;esquerra i a ↗️dretes creuem la🌳plaça de la Sagrada Familia 📷🏛️</cmt>
     <desc>╬ Carrer Mallorca. Baixem de la bici i a 🚶peu creuem el pas de vianants de Sicília a la ➡️dreta i seguidament el de Mallorca a ⬅️l&apos;esquerra i a ↗️dretes creuem la🌳plaça de la Sagrada Familia 📷🏛️</desc>
-    <sym>Building</sym>
+    <sym>UNESCO</sym>
   </wpt>
   <wpt lat="41.402632" lon="2.173495">
     <ele>43.19025259256706</ele>
