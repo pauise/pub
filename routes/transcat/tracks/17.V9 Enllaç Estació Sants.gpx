@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx creator="https://gpx.studio" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/PowerExtension/v1 http://www.garmin.com/xmlschemas/PowerExtensionv1.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxpx="http://www.garmin.com/xmlschemas/PowerExtension/v1" xmlns:gpx_style="http://www.topografix.com/GPX/gpx_style/0/2">
+  <metadata>
+    <name>17.V9 Enllaç Estació Sants</name>
+    <desc>Etapa 17 Variant Barcelona PK 23,1 - Carrer Geribert - Jardins Ramon Aramón i Serra - Carrer del Rector Triadó - Plaça Països Catalans - Estació de Sants</desc>
+    <author>
+      <name>gpx.studio</name>
+      <link href="https://gpx.studio"/>
+    </author>
+  </metadata>
+  <wpt lat="41.374114" lon="2.147524">
+    <ele>32.136236819276824</ele>
+    <name>🟢Enllaç a Sants ╣↖️🧭N</name>
+    <cmt>╣Cruïlla amb Etapa 17 Variant Barcelona PK 23,1. Deixem carril bici i agafem Carrer Mir Girabert 🧭N.
+🧭NE a Plça Espanya i Catalunya per Etapa 17 Variant Barcelona 17.V0
+🧭SW a L&apos;Hospitalet, Bellvitge, Sant Boi, Sant Vicenç dels Horts, Sant Feliu, Molins i el Papiol per Etapa 17 Variant Barcelona en 23,1 kms</cmt>
+    <desc>╣Cruïlla amb Etapa 17 Variant Barcelona PK 23,1. Deixem carril bici i agafem Carrer Mir Girabert 🧭N.
+🧭NE a Plça Espanya i Catalunya per Etapa 17 Variant Barcelona 17.V0
+🧭SW a L&apos;Hospitalet, Bellvitge, Sant Boi, Sant Vicenç dels Horts, Sant Feliu, Molins i el Papiol per Etapa 17 Variant Barcelona en 23,1 kms</desc>
+    <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="41.374809" lon="2.147286">
+    <ele>34.81462045844507</ele>
+    <name>2 ╣⬅️🌳🚰🛝↗️</name>
+    <cmt>╣Pas estret a ⬅️l&apos;esquerra que ens condueix als 🌳Jardins de Ramon Aramon i Serra. 🚰Font i 🛝Parc Infantil. Si estigués tancat, agafar l&apos;anterior carrer
+Atravessem el parc a ↗️dretes </cmt>
+    <desc>╣Pas estret a ⬅️l&apos;esquerra que ens condueix als 🌳Jardins de Ramon Aramon i Serra. 🚰Font i 🛝Parc Infantil. Si estigués tancat, agafar l&apos;anterior carrer
+Atravessem el parc a ↗️dretes </desc>
+    <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="41.374642" lon="2.14634">
+    <ele>34.28685758356932</ele>
+    <name>3 ╬➡️🚶🧭N</name>
+    <cmt>╬ Carrer del Cap de Guaita a la ➡️dreta . És 🚶peatonal🧭N</cmt>
+    <desc>╬ Carrer del Cap de Guaita a la ➡️dreta . És 🚶peatonal🧭N</desc>
+    <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="41.375081" lon="2.146005">
+    <ele>40.289506524196696</ele>
+    <name>4 ╬🚦↖️</name>
+    <cmt>╬ Carrer de la Creu Coberta. Creuem pel🚦semàfor i agafem el Carrer del Rector Triadó que surt enfront nostre lleugerament a ↖️l&apos;esquerra</cmt>
+    <desc>╬ Carrer de la Creu Coberta. Creuem pel🚦semàfor i agafem el Carrer del Rector Triadó que surt enfront nostre lleugerament a ↖️l&apos;esquerra</desc>
+    <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="41.379042" lon="2.142048">
+    <ele>38.679252231783806</ele>
+    <name>5 ╦🚶⬅️➡️🧭NW</name>
+    <cmt>╦ Plaça Països Catalans. Pel 🚶pas de vianants a ⬅️l&apos;esquerra i seguidament ➡️a la dreta 🧭NW per accedir a l&apos;estació</cmt>
+    <desc>╦ Plaça Països Catalans. Pel 🚶pas de vianants a ⬅️l&apos;esquerra i seguidament ➡️a la dreta 🧭NW per accedir a l&apos;estació</desc>
+    <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="41.379511" lon="2.140995">
+    <ele>39.137569755532766</ele>
+    <name>🏁Final enllaç 🚉Sants</name>
+    <cmt>🚉Estació de Sants
+Metro: L3 L5
+Rodalies: R1 R2 R3 R4 R12 R13 R14 R15 R16 R17</cmt>
+    <desc>🚉Estació de Sants
+Metro: L3 L5
+Rodalies: R1 R2 R3 R4 R12 R13 R14 R15 R16 R17</desc>
+    <sym>Ground Transportation</sym>
+  </wpt>
+  <trk>
+    <name>17.V9 Enllaç Estació Sants</name>
+    <trkseg>
+      <trkpt lat="41.374104" lon="2.147527">
+        <ele>32.25</ele>
+      </trkpt>
+      <trkpt lat="41.374111" lon="2.147528">
+        <ele>32.25</ele>
+      </trkpt>
+      <trkpt lat="41.374294" lon="2.147473">
+        <ele>32.75</ele>
+      </trkpt>
+      <trkpt lat="41.374466" lon="2.147315">
+        <ele>34</ele>
+      </trkpt>
+      <trkpt lat="41.374583" lon="2.147332">
+        <ele>35</ele>
+      </trkpt>
+      <trkpt lat="41.374653" lon="2.147334">
+        <ele>35.75</ele>
+      </trkpt>
+      <trkpt lat="41.374654" lon="2.147309">
+        <ele>35.75</ele>
+      </trkpt>
+      <trkpt lat="41.374655" lon="2.147282">
+        <ele>35.75</ele>
+      </trkpt>
+      <trkpt lat="41.374828" lon="2.147284">
+        <ele>37.25</ele>
+      </trkpt>
+      <trkpt lat="41.374829" lon="2.147254">
+        <ele>37.25</ele>
+      </trkpt>
+      <trkpt lat="41.37483" lon="2.146934">
+        <ele>37</ele>
+      </trkpt>
+      <trkpt lat="41.374818" lon="2.146889">
+        <ele>36.75</ele>
+      </trkpt>
+      <trkpt lat="41.374777" lon="2.146811">
+        <ele>36.25</ele>
+      </trkpt>
+      <trkpt lat="41.374625" lon="2.146522">
+        <ele>34.5</ele>
+      </trkpt>
+      <trkpt lat="41.374653" lon="2.146219">
+        <ele>35.5</ele>
+      </trkpt>
+      <trkpt lat="41.37466" lon="2.146214">
+        <ele>35.5</ele>
+      </trkpt>
+      <trkpt lat="41.374692" lon="2.146194">
+        <ele>35.75</ele>
+      </trkpt>
+      <trkpt lat="41.374826" lon="2.146125">
+        <ele>37.25</ele>
+      </trkpt>
+      <trkpt lat="41.375082" lon="2.146">
+        <ele>39</ele>
+      </trkpt>
+      <trkpt lat="41.375118" lon="2.145983">
+        <ele>39</ele>
+      </trkpt>
+      <trkpt lat="41.37513" lon="2.145978">
+        <ele>39</ele>
+      </trkpt>
+      <trkpt lat="41.375132" lon="2.145848">
+        <ele>38.75</ele>
+      </trkpt>
+      <trkpt lat="41.375202" lon="2.145855">
+        <ele>38.75</ele>
+      </trkpt>
+      <trkpt lat="41.37525" lon="2.14586">
+        <ele>38.75</ele>
+      </trkpt>
+      <trkpt lat="41.375267" lon="2.145693">
+        <ele>38.5</ele>
+      </trkpt>
+      <trkpt lat="41.375285" lon="2.145678">
+        <ele>38.5</ele>
+      </trkpt>
+      <trkpt lat="41.375505" lon="2.145511">
+        <ele>39.25</ele>
+      </trkpt>
+      <trkpt lat="41.375505" lon="2.145511">
+        <ele>39.25</ele>
+      </trkpt>
+      <trkpt lat="41.376052" lon="2.145099">
+        <ele>41.5</ele>
+      </trkpt>
+      <trkpt lat="41.376117" lon="2.145046">
+        <ele>41.75</ele>
+      </trkpt>
+      <trkpt lat="41.376139" lon="2.145028">
+        <ele>41.75</ele>
+      </trkpt>
+      <trkpt lat="41.376159" lon="2.145011">
+        <ele>41.75</ele>
+      </trkpt>
+      <trkpt lat="41.376287" lon="2.144893">
+        <ele>42</ele>
+      </trkpt>
+      <trkpt lat="41.376455" lon="2.144732">
+        <ele>42</ele>
+      </trkpt>
+      <trkpt lat="41.376885" lon="2.144278">
+        <ele>41</ele>
+      </trkpt>
+      <trkpt lat="41.376969" lon="2.144203">
+        <ele>40.5</ele>
+      </trkpt>
+      <trkpt lat="41.377053" lon="2.144126">
+        <ele>40</ele>
+      </trkpt>
+      <trkpt lat="41.377226" lon="2.143926">
+        <ele>38.5</ele>
+      </trkpt>
+      <trkpt lat="41.377288" lon="2.143855">
+        <ele>38.25</ele>
+      </trkpt>
+      <trkpt lat="41.377874" lon="2.143263">
+        <ele>38.5</ele>
+      </trkpt>
+      <trkpt lat="41.377917" lon="2.14322">
+        <ele>38.5</ele>
+      </trkpt>
+      <trkpt lat="41.378631" lon="2.142474">
+        <ele>37.75</ele>
+      </trkpt>
+      <trkpt lat="41.378689" lon="2.142418">
+        <ele>37.75</ele>
+      </trkpt>
+      <trkpt lat="41.37894" lon="2.142155">
+        <ele>38.25</ele>
+      </trkpt>
+      <trkpt lat="41.37897" lon="2.142123">
+        <ele>38.25</ele>
+      </trkpt>
+      <trkpt lat="41.379059" lon="2.142032">
+        <ele>38.75</ele>
+      </trkpt>
+      <trkpt lat="41.379037" lon="2.141984">
+        <ele>38.75</ele>
+      </trkpt>
+      <trkpt lat="41.378982" lon="2.141886">
+        <ele>38.5</ele>
+      </trkpt>
+      <trkpt lat="41.379046" lon="2.141827">
+        <ele>39</ele>
+      </trkpt>
+      <trkpt lat="41.379114" lon="2.141753">
+        <ele>39.5</ele>
+      </trkpt>
+      <trkpt lat="41.379137" lon="2.141726">
+        <ele>39.5</ele>
+      </trkpt>
+      <trkpt lat="41.379226" lon="2.141629">
+        <ele>39.75</ele>
+      </trkpt>
+      <trkpt lat="41.379247" lon="2.141606">
+        <ele>39.75</ele>
+      </trkpt>
+      <trkpt lat="41.379258" lon="2.141594">
+        <ele>39.75</ele>
+      </trkpt>
+      <trkpt lat="41.379396" lon="2.141459">
+        <ele>39.75</ele>
+      </trkpt>
+      <trkpt lat="41.379396" lon="2.141459">
+        <ele>40.4988960171171</ele>
+      </trkpt>
+      <trkpt lat="41.37951471447667" lon="2.140971810908468">
+        <ele>39.30022137796176</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
