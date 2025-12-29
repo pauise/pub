@@ -28,9 +28,9 @@
   </wpt>
   <wpt lat="41.353798" lon="2.114518">
     <ele>22.4930416952132</ele>
-    <name>3 ➡️</name>
-    <cmt>Recuperem el carrer pel que anàvem creuant per la ➡️dreta</cmt>
-    <desc>Recuperem el carrer pel que anàvem creuant per la ➡️dreta</desc>
+    <name>3 ➡️🚶🅿️⬅️</name>
+    <cmt>Creuem per la ➡️dreta 2 🚶passos de vianants i arribem al 🅿️parking de l&apos;estació. El creuem per ⬅️l&apos;esquerra fins a l&apos;estació</cmt>
+    <desc>Creuem per la ➡️dreta 2 🚶passos de vianants i arribem al 🅿️parking de l&apos;estació. El creuem per ⬅️l&apos;esquerra fins a l&apos;estació</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="41.354869" lon="2.115232">
@@ -151,68 +151,59 @@
       <trkpt lat="41.353842" lon="2.11459">
         <ele>19.5</ele>
       </trkpt>
+      <trkpt lat="41.35386" lon="2.114652">
+        <ele>19.5</ele>
+      </trkpt>
       <trkpt lat="41.353865" lon="2.114667">
         <ele>19.5</ele>
       </trkpt>
-      <trkpt lat="41.353812" lon="2.114704">
-        <ele>19.5</ele>
-      </trkpt>
-      <trkpt lat="41.353798" lon="2.114734">
-        <ele>19.5</ele>
-      </trkpt>
-      <trkpt lat="41.353796" lon="2.114768">
-        <ele>19.5</ele>
-      </trkpt>
-      <trkpt lat="41.353799" lon="2.114786">
-        <ele>19.5</ele>
-      </trkpt>
-      <trkpt lat="41.353798" lon="2.114785">
-        <ele>19.5</ele>
-      </trkpt>
-      <trkpt lat="41.353801" lon="2.114797">
-        <ele>19.5</ele>
-      </trkpt>
-      <trkpt lat="41.353816" lon="2.114829">
-        <ele>19.5</ele>
-      </trkpt>
-      <trkpt lat="41.353847" lon="2.114847">
+      <trkpt lat="41.353918" lon="2.114644">
         <ele>19.75</ele>
+      </trkpt>
+      <trkpt lat="41.35397" lon="2.114726">
+        <ele>20</ele>
       </trkpt>
       <trkpt lat="41.353967" lon="2.114855">
         <ele>20.25</ele>
       </trkpt>
-      <trkpt lat="41.354167" lon="2.114878">
-        <ele>21.5</ele>
+      <trkpt lat="41.35396" lon="2.114854">
+        <ele>19.75</ele>
       </trkpt>
-      <trkpt lat="41.354267" lon="2.114885">
-        <ele>19</ele>
+      <trkpt lat="41.353962" lon="2.114854">
+        <ele>20.25</ele>
       </trkpt>
-      <trkpt lat="41.354268" lon="2.114886">
-        <ele>19</ele>
+      <trkpt lat="41.353967" lon="2.114855">
+        <ele>20.25</ele>
       </trkpt>
-      <trkpt lat="41.354496" lon="2.114904">
-        <ele>19</ele>
+      <trkpt lat="41.353962" lon="2.114941">
+        <ele>20.5</ele>
       </trkpt>
-      <trkpt lat="41.354556" lon="2.114909">
-        <ele>18.5</ele>
+      <trkpt lat="41.354047" lon="2.114953">
+        <ele>21</ele>
       </trkpt>
-      <trkpt lat="41.35481" lon="2.114934">
-        <ele>16.5</ele>
+      <trkpt lat="41.354045" lon="2.115023">
+        <ele>21</ele>
       </trkpt>
-      <trkpt lat="41.35483" lon="2.115022">
-        <ele>16.25</ele>
+      <trkpt lat="41.354041" lon="2.115102">
+        <ele>20.25</ele>
       </trkpt>
-      <trkpt lat="41.35485" lon="2.115101">
-        <ele>15.25</ele>
+      <trkpt lat="41.354039" lon="2.115174">
+        <ele>19.5</ele>
       </trkpt>
-      <trkpt lat="41.354846" lon="2.115182">
+      <trkpt lat="41.354659" lon="2.115245">
         <ele>14.75</ele>
       </trkpt>
-      <trkpt lat="41.354842" lon="2.11523">
-        <ele>14.5</ele>
+      <trkpt lat="41.354661" lon="2.115245">
+        <ele>14.75</ele>
       </trkpt>
-      <trkpt lat="41.354877" lon="2.115232">
-        <ele>13.25</ele>
+      <trkpt lat="41.354661" lon="2.115245">
+        <ele>13.99654484585228</ele>
+      </trkpt>
+      <trkpt lat="41.35481197957043" lon="2.1152371048837892">
+        <ele>12.691680443191204</ele>
+      </trkpt>
+      <trkpt lat="41.354874" lon="2.115231">
+        <ele>12.230808705033782</ele>
       </trkpt>
     </trkseg>
   </trk>
