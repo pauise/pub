@@ -24,7 +24,7 @@
     <name>2 ╠↗️</name>
     <cmt>╠ Desviar ↗️dreta per pista</cmt>
     <desc>╠ Desviar ↗️dreta per pista</desc>
-    <sym>Road</sym>
+    <sym>End of Road</sym>
   </wpt>
   <wpt lat="41.633479" lon="2.392675">
     <ele>174.2273730851208</ele>
@@ -40,7 +40,7 @@
     <name>4 ╠➡️</name>
     <cmt>╠ Desviar a la ➡️dreta per un corriol estret</cmt>
     <desc>╠ Desviar a la ➡️dreta per un corriol estret</desc>
-    <sym>Road</sym>
+    <sym>End of Road</sym>
   </wpt>
   <wpt lat="41.63374" lon="2.397707">
     <ele>175</ele>
@@ -75,6 +75,7 @@
     <name>9 🅿️⬆️</name>
     <cmt>🅿️Parking de l&apos;estació, seguim ⬆️recte</cmt>
     <desc>🅿️Parking de l&apos;estació, seguim ⬆️recte</desc>
+    <sym>Parking</sym>
   </wpt>
   <wpt lat="41.637786" lon="2.404995">
     <ele>182.79520214615673</ele>
@@ -130,7 +131,7 @@ Després de creuar primer ╠ seguim ⬆️recte i a la següent ╬ cruilla a l
 ⬆️a 21.B0 Alternativa per Canadà Parc</cmt>
     <desc>Passem un 🧱mur a la nostra dreta, 🏠Can Colomer i seguidament  ╣desviar a ⬅️l&apos;esquerra per pista sense asfaltar.
 ⬆️a 21.B0 Alternativa per Canadà Parc</desc>
-    <sym>Road</sym>
+    <sym>End of Road</sym>
   </wpt>
   <wpt lat="41.653796" lon="2.429175">
     <ele>206.75420635873533</ele>
@@ -151,7 +152,7 @@ Després de creuar primer ╠ seguim ⬆️recte i a la següent ╬ cruilla a l
     <name>19 ↗️🚲</name>
     <cmt>Pel marge ↗️dret ens incorporem al 🚲carril bici</cmt>
     <desc>Pel marge ↗️dret ens incorporem al 🚲carril bici</desc>
-    <sym>Bike Trail</sym>
+    <sym>Bike Lane</sym>
   </wpt>
   <wpt lat="41.657672" lon="2.432873">
     <ele>214.92567192804262</ele>
@@ -202,7 +203,7 @@ En 20m trobem una 🔄rotonda minúscula. Seguim ⬆️recte</desc>
     <name>26 ⛪╣⬆️</name>
     <cmt>⛪Sanata. ╣SPP ⬆️recte. Fi asfalt</cmt>
     <desc>⛪Sanata. ╣SPP ⬆️recte. Fi asfalt</desc>
-    <sym>Road</sym>
+    <sym>End of Road</sym>
   </wpt>
   <wpt lat="41.666013" lon="2.43581">
     <ele>245.5481006940832</ele>
@@ -256,7 +257,7 @@ En 20m trobem una 🔄rotonda minúscula. Seguim ⬆️recte</desc>
     <name>33 ↖️🚲</name>
     <cmt>Ens ↖️incorporem al 🚲carril bici</cmt>
     <desc>Ens ↖️incorporem al 🚲carril bici</desc>
-    <sym>Bike Trail</sym>
+    <sym>Bike Lane</sym>
   </wpt>
   <wpt lat="41.677219" lon="2.453675">
     <ele>195.19947936858577</ele>
@@ -276,7 +277,7 @@ En 25m⛽🛒🚾Gasolinera amb super i lavabos</cmt>
     <desc>🏘️Santa Maria de Palautordera
 Continuem ↗️per la dreta el 🚲carril bici
 En 25m⛽🛒🚾Gasolinera amb super i lavabos</desc>
-    <sym>Bike Trail</sym>
+    <sym>Bike Lane</sym>
   </wpt>
   <wpt lat="41.686747" lon="2.443852">
     <ele>204.7359570691211</ele>
@@ -292,7 +293,7 @@ En 25m⛽🛒🚾Gasolinera amb super i lavabos</desc>
     <name>37 🚲➡️≡➡️↖️</name>
     <cmt>Seguim el 🚲carril bici: ➡️dreta per creuar pel ≡ pas de zebra, ➡️dreta i a ↖️esquerres</cmt>
     <desc>Seguim el 🚲carril bici: ➡️dreta per creuar pel ≡ pas de zebra, ➡️dreta i a ↖️esquerres</desc>
-    <sym>Bike Trail</sym>
+    <sym>Bike Lane</sym>
   </wpt>
   <wpt lat="41.690051" lon="2.446433">
     <ele>203.3270864407078</ele>
@@ -334,14 +335,14 @@ En 25m⛽🛒🚾Gasolinera amb super i lavabos</desc>
     <name>43 ➡️≡⬅️🚲</name>
     <cmt>➡️Dreta. Creuar ≡ pas de zebra i ⬅️esquerra per 🚲carril bici</cmt>
     <desc>➡️Dreta. Creuar ≡ pas de zebra i ⬅️esquerra per 🚲carril bici</desc>
-    <sym>Bike Trail</sym>
+    <sym>Bike Lane</sym>
   </wpt>
   <wpt lat="41.693493" lon="2.454851">
     <ele>198.04671580074373</ele>
     <name>44 ⬅️≡➡️🚲</name>
     <cmt>⬅️Esquerra. Creuar ≡ pas de zebra i ➡️dreta per 🚲carril bici</cmt>
     <desc>⬅️Esquerra. Creuar ≡ pas de zebra i ➡️dreta per 🚲carril bici</desc>
-    <sym>Bike Trail</sym>
+    <sym>Bike Lane</sym>
   </wpt>
   <wpt lat="41.682834" lon="2.475324">
     <ele>159.59497972261244</ele>
@@ -350,7 +351,7 @@ En 25m⛽🛒🚾Gasolinera amb super i lavabos</desc>
 Punt de connexió 21.A0 Alternativa Font Fresca</cmt>
     <desc>Seguim ↖️ pel 🚲carril bici
 Punt de connexió 21.A0 Alternativa Font Fresca</desc>
-    <sym>Bike Trail</sym>
+    <sym>Bike Lane</sym>
   </wpt>
   <wpt lat="41.682686" lon="2.479797">
     <ele>154.81536561560952</ele>
@@ -359,7 +360,7 @@ Punt de connexió 21.A0 Alternativa Font Fresca</desc>
 🛝Jocs infantils i 🚰font </cmt>
     <desc>Seguim a ↗️dretes pel 🚲carril bici.
 🛝Jocs infantils i 🚰font </desc>
-    <sym>Bike Trail</sym>
+    <sym>Bike Lane</sym>
   </wpt>
   <wpt lat="0" lon="0">
     <ele>0</ele>
@@ -369,32 +370,32 @@ Punt de connexió 21.A0 Alternativa Font Fresca</desc>
     <name>47 ╬➡️🚲</name>
     <cmt>╬ Cruïlla. ➡️Dreta tot seguint el 🚲carril bici</cmt>
     <desc>╬ Cruïlla. ➡️Dreta tot seguint el 🚲carril bici</desc>
-    <sym>Bike Trail</sym>
+    <sym>Bike Lane</sym>
   </wpt>
   <wpt lat="41.68204" lon="2.483141">
     <ele>148.78689279769065</ele>
-    <name>49 🚳╬⬆️</name>
+    <name>48 🚳╬⬆️</name>
     <cmt>🚳Fi carril bici. ╬ Cruïlla. ⬆️Recte</cmt>
     <desc>🚳Fi carril bici. ╬ Cruïlla. ⬆️Recte</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="41.682253" lon="2.484486">
     <ele>149.91383290747203</ele>
-    <name>50 ╦⬆️🌳🚰🛝</name>
+    <name>49 ╦⬆️🌳🚰🛝</name>
     <cmt>Al ╦ cap del carrer, agafem un corriol ⬆️recte que es fica pel 🌳parc. 🚰Font i 🛝jocs infantils</cmt>
     <desc>Al ╦ cap del carrer, agafem un corriol ⬆️recte que es fica pel 🌳parc. 🚰Font i 🛝jocs infantils</desc>
-    <sym>Road</sym>
+    <sym>End of Road</sym>
   </wpt>
   <wpt lat="41.68257" lon="2.485299">
     <ele>150.25038591995894</ele>
-    <name>51 ≡⬆️🚶</name>
+    <name>50 ≡⬆️🚶</name>
     <cmt>Creuem el ≡ pas de zebra i just ⬆️efront segueix un corriol que ens duu a la 🚶vorera</cmt>
     <desc>Creuem el ≡ pas de zebra i just ⬆️efront segueix un corriol que ens duu a la 🚶vorera</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="41.683046" lon="2.485927">
     <ele>150.5523834236073</ele>
-    <name>52 ↗️╬⬆️</name>
+    <name>51 ↗️╬⬆️</name>
     <cmt>Ens incorporem al carrer per la ↗️dreta i a la ╬ cruïlla seguim tot ⬆️recte</cmt>
     <desc>Ens incorporem al carrer per la ↗️dreta i a la ╬ cruïlla seguim tot ⬆️recte</desc>
     <sym>Crossing</sym>
