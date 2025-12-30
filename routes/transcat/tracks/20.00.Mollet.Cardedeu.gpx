@@ -212,7 +212,7 @@ Opcionalment, si no anem amb nens petits, entrem al 🅿️parking, hi ha un cam
   <wpt lat="41.59588" lon="2.334791">
     <ele>130.82740564224767</ele>
     <name>28 Fi asfalt</name>
-    <sym>Road</sym>
+    <sym>End of Road</sym>
   </wpt>
   <wpt lat="41.600077" lon="2.338988">
     <ele>131.6556036266038</ele>
@@ -291,9 +291,9 @@ Opcionalment, si no anem amb nens petits, entrem al 🅿️parking, hi ha un cam
   </wpt>
   <wpt lat="41.625106" lon="2.368349">
     <ele>167.36870781937665</ele>
-    <name>🏁Final etapa 20 ╠</name>
+    <name>🏁Final etapa 20 ╠ Cardedeu</name>
     <cmt>╠ Cruïlla Passeig Mogent:
-↖️esquerra 🧭NW per asfalt a 🚉Estació Cardedeu
+↖️esquerra 🧭NW per asfalt a 🚉Estació Cardedeu 
 🧭E a Llinars, Palautordera i Sant Celoni per Etapa 21</cmt>
     <desc>╠ Cruïlla Passeig Mogent:
 ↖️esquerra 🧭NW per asfalt a 🚉Estació Cardedeu
