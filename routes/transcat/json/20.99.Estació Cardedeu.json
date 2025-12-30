@@ -1,0 +1,26 @@
+{
+    "title": "Enllaç etapa 20 i 21 amb Estació Cardedeu",
+    "full_track_url": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/tracks/20.99.Estaci%C3%B3%20Cardedeu.gpx",
+    "prf": [
+        {"km": 0, "alt": 168},
+        {"km": 0.06, "alt": 171},
+        {"km": 0.35, "alt": 178},
+        {"km": 0.55, "alt": 176},
+        {"km": 1.67, "alt": 195},
+        {"km": 1.9, "alt": 191}
+    ],
+    "wps": [
+        {"km": 0, "paviment": 1},
+        {"km": 0.1, "paviment": 3},
+        {"km": 0.15, "paviment": 2},
+        {"km": 0.29, "paviment": 2},
+        {"km": 0.35, "paviment": 2},
+        {"km": 0.46, "paviment": 2},
+        {"km": 0.67, "paviment": 1},
+        {"km": 1.14, "paviment": 1},
+        {"km": 1.18, "paviment": 1},
+        {"km": 1.35, "paviment": 1},
+        {"km": 1.48, "paviment": 1},
+        {"km": 1.9, "paviment": 1}
+      ]
+  }
