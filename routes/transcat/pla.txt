@@ -17,9 +17,27 @@ Un cop tinguem totes les etapes, variants, alternatives i enllaços en gpx i jso
   2.3 Revisar dades de perfil altimètric del json de cada track
 3. Revisar serveis: 
   3.1 De cada track cal afegir informació dels següents serveis de ruta:
-    - Tallers de bicicleta, Supermercats, Hospitals, CAPs i farmàcies, Càmpings i altres allotjaments, Parcs infantils, Zones d'ombra i fonts
+    - 🔧Tallers de bicicleta
+    - 🚾Lavabos
+    - 🛒Supermercats (especialment 24h tipic de ⛽gasolinera), ☕Bars, 🍽️Restaurants i 🥖Forns
+    - 🏥Hospitals, 🏥CAPs i ⚕️farmàcies
+    - 🏕️Càmpings, 🏨Hotels o hostals i 🛏️altres allotjaments
+    - 🌳Parcs amb ombra, 🛝Jocs infantils, 🥪Taules de picnic i 🚰Fonts d'aigua potable
   3.2 Cal afegir números de telèfon de taxistes de cada zona de pas
   3.3 De cadascuna de les estacions de tren, cal afegir la URL
+  3.4 Cal afegir:
+    - 🏘️Població, 🛂Policia local, 🚒Bombers, 🏬Centre comercial, ℹ️Oficina turisme
+    - 🔚Escapatòria
+    - 🗻Cim, 🔺Pujada 🔻Baixada , 🏖️Platja o cala
+  3.5 Cal revisar referències de navegació que no ofereixen cap servei però sí orientació:
+      🪦Cementiri
+      ⛪Esglésies. Si estan obertes poden actuar de refugi climàtic
+      🚏Parada d'autobús
+      🏠Masia o casa
+      🏚️Runes
+      🏰Castell o muralla
+      ⚡Torre de tensió
+      🧱Mur
 4. Revisar simbologia:
   Revisar que tots els símbols corresponguin i carreguin
 5. Regenerar totes les fitxes
