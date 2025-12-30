@@ -41,7 +41,7 @@
     <name>5 ╠➡️🚲</name>
     <cmt>╠ Cruïlla a la ➡️dreta. Agafem el 🚲carril bici</cmt>
     <desc>╠ Cruïlla a la ➡️dreta. Agafem el 🚲carril bici</desc>
-    <sym>Bike Trail</sym>
+    <sym>Bike Lane</sym>
   </wpt>
   <wpt lat="41.549587" lon="2.245367">
     <ele>72.86517738606494</ele>
@@ -52,9 +52,6 @@
 </desc>
     <link href="https://www.adif.es/w/79007-montmel%C3%B3"/>
     <sym>Ground Transportation</sym>
-  </wpt>
-  <wpt lat="0" lon="0">
-    <ele>0</ele>
   </wpt>
   <trk>
     <name>20.20 Enllaç Estació Montmeló</name>
