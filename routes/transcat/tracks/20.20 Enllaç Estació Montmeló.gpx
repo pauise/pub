@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx creator="https://gpx.studio" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/PowerExtension/v1 http://www.garmin.com/xmlschemas/PowerExtensionv1.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxpx="http://www.garmin.com/xmlschemas/PowerExtension/v1" xmlns:gpx_style="http://www.topografix.com/GPX/gpx_style/0/2">
+  <metadata>
+    <name>20.20 Enllaç Estació Montmeló</name>
+    <desc>Etapa 20 Mollet - Cardedeu PK 3,65 - Pont Mogent - Montmeló - Estació Montmeló</desc>
+    <author>
+      <name>gpx.studio</name>
+      <link href="https://gpx.studio"/>
+    </author>
+  </metadata>
+  <wpt lat="41.546202" lon="2.250656">
+    <ele>80.6304893261803</ele>
+    <name>🟢Etapa 20 PK 3,65 ╠↗️🔺🧭SE</name>
+    <cmt>Des de la ╠ cruïlla amb un petit corriol a mà ↗️dreta mirant cap a Cardedeu,🔺amunt🧭SE</cmt>
+    <desc>Des de la ╠ cruïlla amb un petit corriol a mà ↗️dreta mirant cap a Cardedeu,🔺amunt🧭SE</desc>
+    <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="41.545942" lon="2.251164">
+    <ele>85.57706324320749</ele>
+    <name>2 ╦⚠️🚗↘️🚶</name>
+    <cmt>╦ Ctra de la Roca. ⚠️Precaució 🚗trànsit. Pel voral a la ↘️dreta a 🚶peu</cmt>
+    <desc>╦ Ctra de la Roca. ⚠️Precaució 🚗trànsit. Pel voral a la ↘️dreta a 🚶peu</desc>
+    <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="41.546027" lon="2.250422">
+    <ele>85.07053957354375</ele>
+    <name>3 ╠ ➡️🚶︵ 🧭N</name>
+    <cmt>╠ Cruïlla que seguirem a la ➡️dreta i creuarem per 🚶pas de vianants i finalment creuem el ︵ pont 🧭N</cmt>
+    <desc>╠ Cruïlla que seguirem a la ➡️dreta i creuarem per 🚶pas de vianants i finalment creuem el ︵ pont 🧭N</desc>
+    <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="41.547325" lon="2.24963">
+    <ele>76.30078022838676</ele>
+    <name>4 🚶➡️⬅️</name>
+    <cmt>Seguim per la vorera🚶➡️dreta per creuar pas de vianants i ⬅️esquerra per la vorera</cmt>
+    <desc>Seguim per la vorera🚶➡️dreta per creuar pas de vianants i ⬅️esquerra per la vorera</desc>
+    <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="41.546824" lon="2.246766">
+    <ele>71.37750401361983</ele>
+    <name>5 ╠➡️🚲</name>
+    <cmt>╠ Cruïlla a la ➡️dreta. Agafem el 🚲carril bici</cmt>
+    <desc>╠ Cruïlla a la ➡️dreta. Agafem el 🚲carril bici</desc>
+    <sym>Bike Trail</sym>
+  </wpt>
+  <wpt lat="41.549587" lon="2.245367">
+    <ele>72.86517738606494</ele>
+    <name>🏁Final enllaç 🚉Montmeló</name>
+    <cmt>🚉Estació Montmeló R2
+</cmt>
+    <desc>🚉Estació Montmeló R2
+</desc>
+    <link href="https://www.adif.es/w/79007-montmel%C3%B3"/>
+    <sym>Ground Transportation</sym>
+  </wpt>
+  <wpt lat="0" lon="0">
+    <ele>0</ele>
+  </wpt>
+  <trk>
+    <name>20.20 Enllaç Estació Montmeló</name>
+    <trkseg>
+      <trkpt lat="41.546217" lon="2.250634">
+        <ele>80</ele>
+      </trkpt>
+      <trkpt lat="41.546217" lon="2.250637">
+        <ele>80.25</ele>
+      </trkpt>
+      <trkpt lat="41.546065" lon="2.250835">
+        <ele>83.25</ele>
+      </trkpt>
+      <trkpt lat="41.54604" lon="2.250883">
+        <ele>83.5</ele>
+      </trkpt>
+      <trkpt lat="41.546017" lon="2.250956">
+        <ele>83.75</ele>
+      </trkpt>
+      <trkpt lat="41.545917" lon="2.251211">
+        <ele>85.25</ele>
+      </trkpt>
+      <trkpt lat="41.545908" lon="2.251088">
+        <ele>85.75</ele>
+      </trkpt>
+      <trkpt lat="41.54592" lon="2.251033">
+        <ele>85.25</ele>
+      </trkpt>
+      <trkpt lat="41.54592" lon="2.251033">
+        <ele>85.5</ele>
+      </trkpt>
+      <trkpt lat="41.54592" lon="2.251033">
+        <ele>85.5</ele>
+      </trkpt>
+      <trkpt lat="41.545947" lon="2.250922">
+        <ele>85.25</ele>
+      </trkpt>
+      <trkpt lat="41.546033" lon="2.250439">
+        <ele>84.25</ele>
+      </trkpt>
+      <trkpt lat="41.546077" lon="2.250349">
+        <ele>83.25</ele>
+      </trkpt>
+      <trkpt lat="41.546207" lon="2.25024">
+        <ele>80.75</ele>
+      </trkpt>
+      <trkpt lat="41.546216" lon="2.250237">
+        <ele>80.5</ele>
+      </trkpt>
+      <trkpt lat="41.546207" lon="2.25024">
+        <ele>80.75</ele>
+      </trkpt>
+      <trkpt lat="41.546203" lon="2.250198">
+        <ele>80.75</ele>
+      </trkpt>
+      <trkpt lat="41.546194" lon="2.250137">
+        <ele>81</ele>
+      </trkpt>
+      <trkpt lat="41.546202" lon="2.250134">
+        <ele>80.75</ele>
+      </trkpt>
+      <trkpt lat="41.546214" lon="2.250132">
+        <ele>80.5</ele>
+      </trkpt>
+      <trkpt lat="41.546741" lon="2.250011">
+        <ele>76</ele>
+      </trkpt>
+      <trkpt lat="41.54707" lon="2.249937">
+        <ele>73.25</ele>
+      </trkpt>
+      <trkpt lat="41.547193" lon="2.249904">
+        <ele>74</ele>
+      </trkpt>
+      <trkpt lat="41.547224" lon="2.249899">
+        <ele>74.25</ele>
+      </trkpt>
+      <trkpt lat="41.547277" lon="2.249873">
+        <ele>74.5</ele>
+      </trkpt>
+      <trkpt lat="41.547305" lon="2.249818">
+        <ele>74.5</ele>
+      </trkpt>
+      <trkpt lat="41.547305" lon="2.249818">
+        <ele>74.5</ele>
+      </trkpt>
+      <trkpt lat="41.547307" lon="2.249815">
+        <ele>74.75</ele>
+      </trkpt>
+      <trkpt lat="41.547333" lon="2.249722">
+        <ele>74.75</ele>
+      </trkpt>
+      <trkpt lat="41.547326" lon="2.249615">
+        <ele>74.75</ele>
+      </trkpt>
+      <trkpt lat="41.547314" lon="2.24957">
+        <ele>74.5</ele>
+      </trkpt>
+      <trkpt lat="41.547314" lon="2.24957">
+        <ele>76.12141766273504</ele>
+      </trkpt>
+      <trkpt lat="41.547400920937605" lon="2.2495249877914603">
+        <ele>76.63498554911999</ele>
+      </trkpt>
+      <trkpt lat="41.547400920937605" lon="2.2495249877914603">
+        <ele>76.63498554911999</ele>
+      </trkpt>
+      <trkpt lat="41.5473169639221" lon="2.2493216600090022">
+        <ele>75.8740686066143</ele>
+      </trkpt>
+      <trkpt lat="41.5473169639221" lon="2.2493216600090022">
+        <ele>75.8740686066143</ele>
+      </trkpt>
+      <trkpt lat="41.54716741521818" lon="2.2489535666105667">
+        <ele>73.88552462987172</ele>
+      </trkpt>
+      <trkpt lat="41.54716741521818" lon="2.2489535666105667">
+        <ele>73.88552462987172</ele>
+      </trkpt>
+      <trkpt lat="41.547068936489126" lon="2.2486244606213575">
+        <ele>73.77781412783173</ele>
+      </trkpt>
+      <trkpt lat="41.547068936489126" lon="2.2486244606213575">
+        <ele>73.77781412783173</ele>
+      </trkpt>
+      <trkpt lat="41.54699022638599" lon="2.2482388389656194">
+        <ele>73.31999910120041</ele>
+      </trkpt>
+      <trkpt lat="41.54699022638599" lon="2.2482388389656194">
+        <ele>73.31999910120041</ele>
+      </trkpt>
+      <trkpt lat="41.546952252349826" lon="2.247917393171008">
+        <ele>72.43018412214438</ele>
+      </trkpt>
+      <trkpt lat="41.546952252349826" lon="2.247917393171008">
+        <ele>72.43018412214438</ele>
+      </trkpt>
+      <trkpt lat="41.54688501933136" lon="2.247323328826883">
+        <ele>71.61631563611195</ele>
+      </trkpt>
+      <trkpt lat="41.54687091842786" lon="2.2471987346291655">
+        <ele>71.58521786690721</ele>
+      </trkpt>
+      <trkpt lat="41.54687091842786" lon="2.2471987346291655">
+        <ele>71.58521786690721</ele>
+      </trkpt>
+      <trkpt lat="41.54682183212279" lon="2.246708104629505">
+        <ele>71.3808788304231</ele>
+      </trkpt>
+      <trkpt lat="41.54682183212279" lon="2.246708104629505">
+        <ele>71.3808788304231</ele>
+      </trkpt>
+      <trkpt lat="41.54693202652703" lon="2.2466414972522557">
+        <ele>70.93053070202089</ele>
+      </trkpt>
+      <trkpt lat="41.54703" lon="2.246552">
+        <ele>70.36060517414033</ele>
+      </trkpt>
+      <trkpt lat="41.54703" lon="2.246552">
+        <ele>69.5</ele>
+      </trkpt>
+      <trkpt lat="41.54703" lon="2.246552">
+        <ele>69.5</ele>
+      </trkpt>
+      <trkpt lat="41.548312" lon="2.245811">
+        <ele>70.75</ele>
+      </trkpt>
+      <trkpt lat="41.548372" lon="2.245775">
+        <ele>71</ele>
+      </trkpt>
+      <trkpt lat="41.548421" lon="2.245755">
+        <ele>71</ele>
+      </trkpt>
+      <trkpt lat="41.548436" lon="2.245703">
+        <ele>71.25</ele>
+      </trkpt>
+      <trkpt lat="41.548436" lon="2.245703">
+        <ele>71</ele>
+      </trkpt>
+      <trkpt lat="41.548463" lon="2.245614">
+        <ele>71.25</ele>
+      </trkpt>
+      <trkpt lat="41.549201" lon="2.245184">
+        <ele>73.25</ele>
+      </trkpt>
+      <trkpt lat="41.549201" lon="2.245184">
+        <ele>72.6420933688996</ele>
+      </trkpt>
+      <trkpt lat="41.549246477046694" lon="2.2451629241781745">
+        <ele>72.691203593184</ele>
+      </trkpt>
+      <trkpt lat="41.549368" lon="2.24506">
+        <ele>72.9439004189118</ele>
+      </trkpt>
+      <trkpt lat="41.549368" lon="2.24506">
+        <ele>74.75</ele>
+      </trkpt>
+      <trkpt lat="41.549462" lon="2.245001">
+        <ele>74.75</ele>
+      </trkpt>
+      <trkpt lat="41.549595" lon="2.245403">
+        <ele>77.25</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
