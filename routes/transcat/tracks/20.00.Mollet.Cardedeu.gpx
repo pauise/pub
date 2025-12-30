@@ -68,6 +68,13 @@ A la ↗️dreta 🔺amunt a🚉Estació Montmeló R2 en 0,93 kms</desc>
     <desc>╠ SPP per ↖️l&apos;esquerra</desc>
     <sym>Crossing</sym>
   </wpt>
+  <wpt lat="41.553861" lon="2.272993">
+    <ele>87.30185822472075</ele>
+    <name>9 ⬆️🌳🥪</name>
+    <cmt>⬆️Recte. 🌳🥪ombra i taules.</cmt>
+    <desc>⬆️Recte. 🌳🥪ombra i taules.</desc>
+    <sym>Park</sym>
+  </wpt>
   <wpt lat="41.554303" lon="2.278453">
     <ele>84.35408699372209</ele>
     <name>10 ⚠️🌊</name>
