@@ -40,14 +40,14 @@ Sortim de l&apos;estació a mà ➡️dreta 🧭NE i baixem per rampa</desc>
   </wpt>
   <wpt lat="41.531241" lon="2.221838">
     <ele>56.91464234492053</ele>
-    <name>4b ╣↙️🔻↗️🧭NE</name>
+    <name>5 ╣↙️🔻↗️🧭NE</name>
     <cmt>╣↙️Esquerra 🔻avall  i ↗️dreta per Passeig Fluvial Riu Besòs 🧭NE. Fi asfalt</cmt>
     <desc>╣↙️Esquerra 🔻avall  i ↗️dreta per Passeig Fluvial Riu Besòs 🧭NE. Fi asfalt</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="41.546234" lon="2.250491">
     <ele>78.89989314274987</ele>
-    <name>5 ╠⬆️🌳🥪. A ↗️🔺a🚉Montmeló</name>
+    <name>6 ╠⬆️🌳🥪. A ↗️🔺a🚉Montmeló</name>
     <cmt>╠ SPP⬆️recte per Passeig Riu Mogent 🌳🥪ombra i taules. 
 A la ↗️dreta 🔺amunt a🚉Estació Montmeló R2 en 0,93 kms</cmt>
     <desc>╠ SPP⬆️recte per Passeig Riu Mogent 🌳🥪ombra i taules. 
@@ -56,98 +56,98 @@ A la ↗️dreta 🔺amunt a🚉Estació Montmeló R2 en 0,93 kms</desc>
   </wpt>
   <wpt lat="41.546503" lon="2.26538">
     <ele>80.27698389370713</ele>
-    <name>6 🏘️Montornés ╬🚦⬆️</name>
+    <name>7 🏘️Montornés ╬🚦⬆️</name>
     <cmt>🏘️Montornés del Vallès. ╬ Avinguda de la Llibertat🚦creuem pel semàfor ⬆️recte</cmt>
     <desc>🏘️Montornés del Vallès. ╬ Avinguda de la Llibertat🚦creuem pel semàfor ⬆️recte</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="41.549537" lon="2.268139">
     <ele>81.30705173041292</ele>
-    <name>7 ╠↖️</name>
+    <name>8 ╠↖️</name>
     <cmt>╠ SPP per ↖️l&apos;esquerra</cmt>
     <desc>╠ SPP per ↖️l&apos;esquerra</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="41.554303" lon="2.278453">
     <ele>84.35408699372209</ele>
-    <name>8 ⚠️🌊</name>
+    <name>10 ⚠️🌊</name>
     <cmt>⚠️Precaució, creuem 🌊Riera de Vallromanes. Normalment seca</cmt>
     <desc>⚠️Precaució, creuem 🌊Riera de Vallromanes. Normalment seca</desc>
     <sym>Alert</sym>
   </wpt>
   <wpt lat="41.55524" lon="2.281498">
     <ele>85.46129897517217</ele>
-    <name>9 ╣↗️</name>
+    <name>11 ╣↗️</name>
     <cmt>╣SPP↗️dreta</cmt>
     <desc>╣SPP↗️dreta</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="41.555777" lon="2.283827">
     <ele>85.92864439554191</ele>
-    <name>10 ╣↖️🔻</name>
+    <name>12 ╣↖️🔻</name>
     <cmt>╣ Desviar ↖️esquerra🔻avall</cmt>
     <desc>╣ Desviar ↖️esquerra🔻avall</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="41.555961" lon="2.284626">
     <ele>85.49254874168048</ele>
-    <name>11 ╠ ↖️. ➡️a Vilanova del V.</name>
+    <name>13 ╠ ↖️. ➡️a Vilanova del V.</name>
     <cmt>╠ SPP ↖️esquerra. A la ➡️dreta a Vilanova del Vallès</cmt>
     <desc>╠ SPP ↖️esquerra. A la ➡️dreta a Vilanova del Vallès</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="41.557736" lon="2.291417">
     <ele>89</ele>
-    <name>12 ╣⬅️🔻︵</name>
+    <name>14 ╣⬅️🔻︵</name>
     <cmt>╣ Desviar ⬅️esquerra 🔻avall per creuar Mogent per ︵ pont</cmt>
     <desc>╣ Desviar ⬅️esquerra 🔻avall per creuar Mogent per ︵ pont</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="41.558382" lon="2.29175">
     <ele>91.48143345448214</ele>
-    <name>13 ╦↗️</name>
+    <name>15 ╦↗️</name>
     <cmt>Ens ╦ incorporem a la ↗️dreta</cmt>
     <desc>Ens ╦ incorporem a la ↗️dreta</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="41.562595" lon="2.304521">
     <ele>96.32957323885488</ele>
-    <name>14 ╣↗️</name>
+    <name>16 ╣↗️</name>
     <cmt>╣ Desviar lleugerament a la ↗️dreta</cmt>
     <desc>╣ Desviar lleugerament a la ↗️dreta</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="41.566151" lon="2.306557">
     <ele>98.67564996657897</ele>
-    <name>15 ╣↗️︵╠↗️</name>
+    <name>17 ╣↗️︵╠↗️</name>
     <cmt>╣ Desviar lleugerament a la ↗️dreta per creuar ︵ pont sobre Torrent de Valdoriolf i seguit ╠ desviar a la ↗️dreta</cmt>
     <desc>╣ Desviar lleugerament a la ↗️dreta per creuar ︵ pont sobre Torrent de Valdoriolf i seguit ╠ desviar a la ↗️dreta</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="41.581238" lon="2.313954">
     <ele>116.52689043581572</ele>
-    <name>16 ➡️╠⬆️</name>
+    <name>18 ➡️╠⬆️</name>
     <cmt>Gir a ➡️dreta i ╠ SPP ⬆️recte</cmt>
     <desc>Gir a ➡️dreta i ╠ SPP ⬆️recte</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="41.586756" lon="2.31761">
     <ele>121.9429546917517</ele>
-    <name>17 ╬➡️🔺</name>
+    <name>19 ╬➡️🔺</name>
     <cmt>Asfalt i ╬ cruïlla.➡️Dreta i 🔺amunt</cmt>
     <desc>Asfalt i ╬ cruïlla.➡️Dreta i 🔺amunt</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="41.588804" lon="2.318579">
     <ele>129.11941948658801</ele>
-    <name>18 ╠➡️</name>
+    <name>20 ╠➡️</name>
     <cmt>╠ Cruïlla ➡️Dreta primer carrer desprès de la curva</cmt>
     <desc>╠ Cruïlla ➡️Dreta primer carrer desprès de la curva</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="41.590534" lon="2.31885">
     <ele>134.01171186149176</ele>
-    <name>19 🚶↗️🔻</name>
+    <name>21 🚶↗️🔻</name>
     <cmt>Amb ⚠️precaució 🔻pendent baixada anem per la 🚶vorera sense creuar tot a↗️dretes. Forta pendent al final‼️
 Opcionalment, si no anem amb nens petits, entrem al 🅿️parking, hi ha un camí que connecta però🔻🔻molta pendent avall</cmt>
     <desc>Amb ⚠️precaució 🔻pendent baixada anem per la 🚶vorera sense creuar tot a↗️dretes. Forta pendent al final‼️
@@ -156,7 +156,7 @@ Opcionalment, si no anem amb nens petits, entrem al 🅿️parking, hi ha un cam
   </wpt>
   <wpt lat="41.590687" lon="2.319844">
     <ele>123.99625218179904</ele>
-    <name>20 ╣↖️</name>
+    <name>22 ╣↖️</name>
     <cmt>Punt de reconnexió drecera des del WP 19. 
 ╣ Agafem un corriol a ↖️l&apos;esquerra</cmt>
     <desc>Punt de reconnexió drecera des del WP 19. 
@@ -165,21 +165,21 @@ Opcionalment, si no anem amb nens petits, entrem al 🅿️parking, hi ha un cam
   </wpt>
   <wpt lat="41.589785" lon="2.320717">
     <ele>115.39862914654324</ele>
-    <name>21 ︵</name>
+    <name>23 ︵</name>
     <cmt>Creuem Riu Mogent per ︵ pont</cmt>
     <desc>Creuem Riu Mogent per ︵ pont</desc>
     <sym>Bridge</sym>
   </wpt>
   <wpt lat="41.589572" lon="2.321142">
     <ele>116.81167370033246</ele>
-    <name>22 ➡️↙️🔻🧭NE</name>
+    <name>24 ➡️↙️🔻🧭NE</name>
     <cmt>➡️Dreta i ↙️esquerra rampa 🔻avall 🧭NE paral·lels a Riu Mogent</cmt>
     <desc>➡️Dreta i ↙️esquerra rampa 🔻avall 🧭NE paral·lels a Riu Mogent</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="41.590035" lon="2.321695">
     <ele>118.42826149743094</ele>
-    <name>23 🌳🚰🛝🥪🛒</name>
+    <name>25 🌳🚰🛝🥪🛒</name>
     <cmt>🌳🚰🛝🥪Parc infantil amb ombres, font i bancs
 🛒Supermercat a 20m</cmt>
     <desc>🌳🚰🛝🥪Parc infantil amb ombres, font i bancs
@@ -188,94 +188,94 @@ Opcionalment, si no anem amb nens petits, entrem al 🅿️parking, hi ha un cam
   </wpt>
   <wpt lat="41.593293" lon="2.325887">
     <ele>121.79857705433486</ele>
-    <name>24 ╦⬅️︵ ╬➡️🧭E</name>
+    <name>26 ╦⬅️︵ ╬➡️🧭E</name>
     <cmt>╦ Cruïlla amb carrer asfaltat.⬅️ Esquerra per creuar ︵ pont sobre Mogent i a la ╬ cruïlla a la ➡️dreta</cmt>
     <desc>╦ Cruïlla amb carrer asfaltat.⬅️ Esquerra per creuar ︵ pont sobre Mogent i a la ╬ cruïlla a la ➡️dreta</desc>
     <sym>Bridge</sym>
   </wpt>
   <wpt lat="41.595491" lon="2.334666">
     <ele>129.65753605645588</ele>
-    <name>25 ⌒ ╦➡️</name>
+    <name>27 ⌒ ╦➡️</name>
     <cmt>Creuem C-60 per ⌒ pas subterrani i a la ╦ cruïlla a la ➡️dreta</cmt>
     <desc>Creuem C-60 per ⌒ pas subterrani i a la ╦ cruïlla a la ➡️dreta</desc>
     <sym>Tunnel</sym>
   </wpt>
   <wpt lat="41.59588" lon="2.334791">
     <ele>130.82740564224767</ele>
-    <name>26 Fi asfalt</name>
+    <name>28 Fi asfalt</name>
     <sym>Road</sym>
   </wpt>
   <wpt lat="41.600077" lon="2.338988">
     <ele>131.6556036266038</ele>
-    <name>27 ╬➡️︵ ╦⬅️</name>
+    <name>29 ╬➡️︵ ╦⬅️</name>
     <cmt>╬ Cruïlla. ➡️Dreta per creuar pel ︵ pont el Riu Mogent i a la ╦ cruïlla a l&apos;esquerra</cmt>
     <desc>╬ Cruïlla. ➡️Dreta per creuar pel ︵ pont el Riu Mogent i a la ╦ cruïlla a l&apos;esquerra</desc>
     <sym>Bridge</sym>
   </wpt>
   <wpt lat="41.600201" lon="2.341124">
     <ele>130.95102449691856</ele>
-    <name>28 ╣⬅️</name>
+    <name>30 ╣⬅️</name>
     <cmt>╣Desviar ⬅️esquerra</cmt>
     <desc>╣Desviar ⬅️esquerra</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="41.608325" lon="2.351835">
     <ele>151.33986644376108</ele>
-    <name>29 ╬⚠️🚗↖️🚶↗️</name>
+    <name>31 ╬⚠️🚗↖️🚶↗️</name>
     <cmt>╬ Cruïlla amb Ctra BV-5105. ⚠️Precaució 🚗trànsit. Creuem carretera i a ↖️l&apos;esquerra pel voral per agafar primera sortida de la petita rotonda</cmt>
     <desc>╬ Cruïlla amb Ctra BV-5105. ⚠️Precaució 🚗trànsit. Creuem carretera i a ↖️l&apos;esquerra pel voral per agafar primera sortida de la petita rotonda</desc>
     <sym>Alert</sym>
   </wpt>
   <wpt lat="41.608952" lon="2.351963">
     <ele>148.72177978183103</ele>
-    <name>30 🔄1a↗️</name>
+    <name>32 🔄1a↗️</name>
     <cmt>🔄Rotonda. Surt per la 1a a la ↗️dreta</cmt>
     <desc>🔄Rotonda. Surt per la 1a a la ↗️dreta</desc>
     <sym>Rotonda</sym>
   </wpt>
   <wpt lat="41.610462" lon="2.354518">
     <ele>147.35901699143275</ele>
-    <name>31 ╦⬅️</name>
+    <name>33 ╦⬅️</name>
     <cmt>╦ Cruïlla. ⬅️Esquerra</cmt>
     <desc>╦ Cruïlla. ⬅️Esquerra</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="41.613698" lon="2.35606">
     <ele>147.14546958487534</ele>
-    <name>32 Fi asfalt</name>
+    <name>34 Fi asfalt</name>
     <sym>End of Road</sym>
   </wpt>
   <wpt lat="41.619739" lon="2.369912">
     <ele>170.46666884206857</ele>
-    <name>33 ╦⚠️🚗↖️</name>
+    <name>35 ╦⚠️🚗↖️</name>
     <cmt>╦ BV-5103. ⚠️Precaució 🚗trànsit. Creuem i anem a ↖️l&apos;esquerra pel voral</cmt>
     <desc>╦ BV-5103. ⚠️Precaució 🚗trànsit. Creuem i anem a ↖️l&apos;esquerra pel voral</desc>
     <sym>Alert</sym>
   </wpt>
   <wpt lat="41.620975" lon="2.369588">
     <ele>157.5459268518742</ele>
-    <name>34 ︵</name>
+    <name>36 ︵</name>
     <cmt>Creuem el ︵ pont sobre Riu Mogent i AVE</cmt>
     <desc>Creuem el ︵ pont sobre Riu Mogent i AVE</desc>
     <sym>Bridge</sym>
   </wpt>
   <wpt lat="41.621373" lon="2.368735">
     <ele>163.37637165663728</ele>
-    <name>35 ╠➡️</name>
+    <name>37 ╠➡️</name>
     <cmt>╠ Desviar a la ➡️dreta</cmt>
     <desc>╠ Desviar a la ➡️dreta</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="41.623414" lon="2.367623">
     <ele>171.4852264421995</ele>
-    <name>36 ╦⚠️🚗➡️↖️</name>
+    <name>38 ╦⚠️🚗➡️↖️</name>
     <cmt>╦ Cruïlla. ⚠️Precaució 🚗trànsit. Per mà ➡️dreta i ens mantenim a ↖️l&apos;esquerra</cmt>
     <desc>╦ Cruïlla. ⚠️Precaució 🚗trànsit. Per mà ➡️dreta i ens mantenim a ↖️l&apos;esquerra</desc>
     <sym>Alert</sym>
   </wpt>
   <wpt lat="41.624656" lon="2.368419">
     <ele>166.17230525146454</ele>
-    <name>37 ︵</name>
+    <name>39 ︵</name>
     <cmt>Creuem ︵ pont sobre AP-7 i C-35</cmt>
     <desc>Creuem ︵ pont sobre AP-7 i C-35</desc>
     <sym>Bridge</sym>
