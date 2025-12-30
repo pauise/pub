@@ -1,0 +1,19 @@
+{
+    "title": "Enllaç 20 amb Estació Montmeló",
+    "full_track_url": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/tracks/20.20.Estaci%C3%B3%20Montmel%C3%B3.gpx",
+    "prf": [
+        {"km": 0, "alt": 80},
+        {"km": 0.07, "alt": 86},
+        {"km": 0.26, "alt": 73},
+        {"km": 0.75, "alt": 71},
+        {"km": 0.93, "alt": 77}
+    ],
+    "wps": [
+        {"km": 0, "paviment": 4},
+        {"km": 0.05, "paviment": 1},
+        {"km": 0.12, "paviment": 1},
+        {"km": 0.3, "paviment": 1},
+        {"km": 0.57, "paviment": 1},
+        {"km": 0.93, "paviment": 1}
+      ]
+  }
