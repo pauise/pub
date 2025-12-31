@@ -194,9 +194,11 @@ A la següent a ⬅️l&apos;esquerra i 20m trobem 🔧taller de bicicletes</des
   </wpt>
   <wpt lat="41.483859" lon="2.16632">
     <ele>50.81263248911192</ele>
-    <name>26 ╬⬅️︵ ➡️🚲🧭E</name>
-    <cmt>╬ Carrer de l&apos;Alzina. ⬅️Esquerra. Creuar riera pel ︵ pont de ferro</cmt>
-    <desc>╬ Carrer de l&apos;Alzina. ⬅️Esquerra. Creuar riera pel ︵ pont de ferro</desc>
+    <name>26 ╬⬅️︵. ➡️ a 🚉Montcada-Sta Maria</name>
+    <cmt>╬ Carrer de l&apos;Alzina. ⬅️Esquerra. Creuar riera pel ︵ pont de ferro.
+➡️ Inici Enllaç 18.85 a 🚉Estació Montcada-Santa Maria en 0,29 kms</cmt>
+    <desc>╬ Carrer de l&apos;Alzina. ⬅️Esquerra. Creuar riera pel ︵ pont de ferro.
+➡️ Inici Enllaç 18.85 a 🚉Estació Montcada-Santa Maria en 0,29 kms</desc>
     <sym>Bridge</sym>
   </wpt>
   <wpt lat="41.484423" lon="2.166238">
