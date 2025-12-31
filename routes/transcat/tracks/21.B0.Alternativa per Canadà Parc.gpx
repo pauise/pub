@@ -2,7 +2,7 @@
 <gpx creator="https://gpx.studio" version="1.1" schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/PowerExtension/v1 http://www.garmin.com/xmlschemas/PowerExtensionv1.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/PowerExtension/v1 http://www.garmin.com/xmlschemas/PowerExtensionv1.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxpx="http://www.garmin.com/xmlschemas/PowerExtension/v1" xmlns:gpx_style="http://www.topografix.com/GPX/gpx_style/0/2">
   <metadata>
     <name>21.B0 Alternativa per Canadà Parc</name>
-    <desc>Etapa 21 Cardedeu - Sant Celoni PK 5,76 Can Colomer - Urbanització Canadà Parc - Polígon el Molinot - Passeig Riu Tordera - Etapa 22 Sant Celoni - Hostalric PK XX,XX. Retalla Y kms però a canvi hi ha trams molt tècnics tant de pujada com de baixada amb risc de caiguda. No apte per nens.</desc>
+    <desc>Etapa 21 Cardedeu - Sant Celoni PK 5,76 Can Colomer - Urbanització Canadà Parc - Polígon el Molinot - Passeig Riu Tordera - Etapa 22 Sant Celoni - Hostalric PK XX,XX. Retalla Y kms però a canvi hi ha trams molt tècnics tant de pujada com de baixada amb risc de caiguda i un tram de 600 m per carretera força transitada amb camions. No apte per nens.</desc>
     <author>
       <name>gpx.studio</name>
       <link href="https://gpx.studio"/>
@@ -12,9 +12,9 @@
     <ele>202.52627231119783</ele>
     <name>🟢Alternativa per Canadà Parc ╣⬆️🧭NE</name>
     <cmt>
-╠ Cruïlla amb Etapa 21.00 PK 12,35. ➡️Dreta per creuar amb ⚠️precaució 🚗trànsit i agafar a ↖️l&apos;esquerra el carrer que fa 🔺pujada</cmt>
+╠ Cruïlla amb Etapa 21.00 PK 5,76. ➡️Dreta per creuar amb ⚠️precaució 🚗trànsit i agafar a ↖️l&apos;esquerra el carrer que fa 🔺pujada</cmt>
     <desc>
-╠ Cruïlla amb Etapa 21.00 PK 12,35. ➡️Dreta per creuar amb ⚠️precaució 🚗trànsit i agafar a ↖️l&apos;esquerra el carrer que fa 🔺pujada</desc>
+╠ Cruïlla amb Etapa 21.00 PK 5,76. ➡️Dreta per creuar amb ⚠️precaució 🚗trànsit i agafar a ↖️l&apos;esquerra el carrer que fa 🔺pujada</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="41.648752" lon="2.429595">
@@ -36,7 +36,7 @@
     <name>4 ╣↗️</name>
     <cmt>╣Desviem a ↗️dretes. Fi asfalt</cmt>
     <desc>╣Desviem a ↗️dretes. Fi asfalt</desc>
-    <sym>Road</sym>
+    <sym>End of Road</sym>
   </wpt>
   <wpt lat="41.648792" lon="2.436712">
     <ele>213.3873204147681</ele>
@@ -122,7 +122,7 @@ Agafem a ↖️esquerres i en la següent ╣desviació ens mantenim a la ↗️
     <name>16 ⬆️. Fi asfalt</name>
     <cmt>Seguim ⬆️recte. Fi asfalt</cmt>
     <desc>Seguim ⬆️recte. Fi asfalt</desc>
-    <sym>Road</sym>
+    <sym>End of Road</sym>
   </wpt>
   <wpt lat="41.653157" lon="2.460149">
     <ele>278.82414691262</ele>
@@ -220,21 +220,21 @@ Agafem a ↖️esquerres i en la següent ╣desviació ens mantenim a la ↗️
     <name>30 🔄1a↗️</name>
     <cmt>🔄Rotonda. Surt per la 1a a la ↗️dreta</cmt>
     <desc>🔄Rotonda. Surt per la 1a a la ↗️dreta</desc>
-    <sym>Crossing</sym>
+    <sym>Rotonda</sym>
   </wpt>
   <wpt lat="41.676084" lon="2.483061">
     <ele>149.67621731604515</ele>
     <name>31 🔄1a↗️╠↗️</name>
     <cmt>🔄Rotonda. Surt per la 1a a la ↗️dreta i tot seguit ╠ desviar a la ↗️dreta pel polígon</cmt>
     <desc>🔄Rotonda. Surt per la 1a a la ↗️dreta i tot seguit ╠ desviar a la ↗️dreta pel polígon</desc>
-    <sym>Crossing</sym>
+    <sym>Rotonda</sym>
   </wpt>
   <wpt lat="41.679919" lon="2.48936">
     <ele>148.32742506455193</ele>
     <name>32 ╣↗️</name>
     <cmt>╣Desviar lleugerament a la ↗️dreta. Fi asfalt</cmt>
     <desc>╣Desviar lleugerament a la ↗️dreta. Fi asfalt</desc>
-    <sym>Road</sym>
+    <sym>End of Road</sym>
   </wpt>
   <wpt lat="41.684714" lon="2.49644">
     <ele>141.29710818552002</ele>
