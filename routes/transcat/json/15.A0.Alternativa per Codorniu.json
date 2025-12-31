@@ -1,0 +1,24 @@
+{
+    "title": "Etapa 15 Alternativa per Codorniu",
+    "full_track_url": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/tracks/15.A0.Alternativa%20per%20Codorniu.gpx",
+    "prf": [
+        {"km": 0, "alt": 153},
+        {"km": 0.78, "alt": 177},
+        {"km": 1.95, "alt": 128},
+        {"km": 2.17, "alt": 137},
+        {"km": 2.33, "alt": 126},
+        {"km": 2.58, "alt": 124}
+    ],
+    "wps": [
+        {"km": 0, "paviment": 1},
+        {"km": 0.06, "paviment": 1},
+        {"km": 0.08, "paviment": 1},
+        {"km": 0.17, "paviment": 1},
+        {"km": 0.53, "paviment": 1},
+        {"km": 1.18, "paviment": 1},
+        {"km": 1.61, "paviment": 2},
+        {"km": 1.71, "paviment": 2},
+        {"km": 2.49, "paviment": 2},
+        {"km": 2.58, "paviment": 1}
+      ]
+  }
