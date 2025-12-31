@@ -48,7 +48,7 @@ Descartar pista a la dreta</desc>
     <name>5 🔄2a↗️</name>
     <cmt>🔄Rotonda. Surt per la 2a a la ↗️dreta</cmt>
     <desc>🔄Rotonda. Surt per la 2a a la ↗️dreta</desc>
-    <sym>Crossing</sym>
+    <sym>Rotonda</sym>
   </wpt>
   <wpt lat="41.433347" lon="1.795914">
     <ele>157.3976616263633</ele>
@@ -62,7 +62,7 @@ Descartar pista a la dreta</desc>
     <name>7 ╣↖️</name>
     <cmt>╣ Desviar per pista de terra a ↖️l&apos;esquerra. Deixem asfalt</cmt>
     <desc>╣ Desviar per pista de terra a ↖️l&apos;esquerra. Deixem asfalt</desc>
-    <sym>Road</sym>
+    <sym>End of Road</sym>
   </wpt>
   <wpt lat="41.437869" lon="1.796636">
     <ele>136.7346881422223</ele>
