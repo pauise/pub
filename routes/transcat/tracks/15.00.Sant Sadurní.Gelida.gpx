@@ -33,287 +33,305 @@
     <desc>╦ Ctra. de Martorell. ↗️Dreta</desc>
     <sym>Crossing</sym>
   </wpt>
+  <wpt lat="41.42532" lon="1.790486">
+    <ele>152.88054038565684</ele>
+    <name>4 ╠⬆️. ➡️Alternativa 15.A0 per Riu Anoia</name>
+    <cmt>╠ Cruïlla, seguim ⬆️recte.
+➡️Dreta🧭W a Inici Alternativa 15.A0</cmt>
+    <desc>╠ Cruïlla, seguim ⬆️recte.
+➡️Dreta🧭W a Inici Alternativa 15.A0</desc>
+    <sym>Crossing</sym>
+  </wpt>
   <wpt lat="41.425794" lon="1.790317">
     <ele>152.93199559841415</ele>
-    <name>4 🌳╬⬅️╬➡️🧭N</name>
+    <name>5 🌳╬⬅️╬➡️🧭N</name>
     <cmt>🌳Plaça del Pont Romà. ╬ Cruïlla. ⬅️Esquerra i seguit ╬ Cruïlla. ➡️Dreta 🧭N per Carrer de Mercè Cabestany</cmt>
     <desc>🌳Plaça del Pont Romà. ╬ Cruïlla. ⬅️Esquerra i seguit ╬ Cruïlla. ➡️Dreta 🧭N per Carrer de Mercè Cabestany</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="41.42643" lon="1.789528">
     <ele>154.2543980061547</ele>
-    <name>5 ╬s🧭N</name>
+    <name>6 ╬s🧭N</name>
     <cmt>Múltiples ╬ cruïlles. Segium🧭N passant Plaça Europa i sortint per Carrer Pedro Pons</cmt>
     <desc>Múltiples ╬ cruïlles. Segium🧭N passant Plaça Europa i sortint per Carrer Pedro Pons</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="41.42952" lon="1.790166">
     <ele>170.28731430348665</ele>
-    <name>6 ╦➡️╣↖️</name>
+    <name>7 ╦➡️╣↖️</name>
     <cmt>╦ Carrer Jaume Guix. ➡️Dreta i de seguida deixem el carrer ╣ per l&apos;esquerra↖️ pel 🚲carril bici</cmt>
     <desc>╦ Carrer Jaume Guix. ➡️Dreta i de seguida deixem el carrer ╣ per l&apos;esquerra↖️ pel 🚲carril bici</desc>
     <sym>Bike Lane</sym>
   </wpt>
   <wpt lat="41.431711" lon="1.785399">
     <ele>183.44340930713372</ele>
-    <name>7 🚳➡️🚶↖️↘️</name>
+    <name>8 🚳➡️🚶↖️↘️</name>
     <cmt>🚳Fi carril bici. ➡️Dreta pel 🚶pas de vianants i ↖️esquerra, prenem la rampa a la nostra ↘️dreta</cmt>
     <desc>🚳Fi carril bici. ➡️Dreta pel 🚶pas de vianants i ↖️esquerra, prenem la rampa a la nostra ↘️dreta</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="41.432306" lon="1.784439">
     <ele>182.3726549251472</ele>
-    <name>8 ↗️︵</name>
+    <name>9 ↗️︵</name>
     <cmt>↗️Dreta per la ︵ passera</cmt>
     <desc>↗️Dreta per la ︵ passera</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="41.432986" lon="1.783989">
     <ele>179.62104228655818</ele>
-    <name>9 ➡️🧭NE</name>
+    <name>10 ➡️🧭NE</name>
     <cmt>Agafem el carrer de mà ➡️dreta 🧭NE per Carrer Ginesta</cmt>
     <desc>Agafem el carrer de mà ➡️dreta 🧭NE per Carrer Ginesta</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="41.433519" lon="1.784422">
     <ele>178.58361385888455</ele>
-    <name>10 ╦⬆️🚶↗️╦⬅️</name>
+    <name>11 ╦⬆️🚶↗️╦⬅️</name>
     <cmt>╦ Carrer d&apos;Alacant. El creuem ⬆️recte pel 🚶pas de vianants, seguim a la ↗️dreta pel voral i arribem a un ╦ camí asfaltat que agafem a ⬅️l&apos;esquerra</cmt>
     <desc>╦ Carrer d&apos;Alacant. El creuem ⬆️recte pel 🚶pas de vianants, seguim a la ↗️dreta pel voral i arribem a un ╦ camí asfaltat que agafem a ⬅️l&apos;esquerra</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="41.434557" lon="1.78506">
     <ele>181.16106240013738</ele>
-    <name>11 Fi asfalt ⬆️</name>
+    <name>12 Fi asfalt ⬆️</name>
     <sym>End of Road</sym>
   </wpt>
   <wpt lat="41.438168" lon="1.782956">
     <ele>168.3659457579882</ele>
-    <name>12 ╬⚠️🚗🚶⬆️</name>
+    <name>13 ╬⚠️🚗🚶⬆️</name>
     <cmt>╬ Ctra. Sant Sadurní d&apos;Anoia a Masquefa. ⚠️Precacuió 🚗trànsit. Creuem a🚶peu i seguim pel corriol que surt just ⬆️davant nostre</cmt>
     <desc>╬ Ctra. Sant Sadurní d&apos;Anoia a Masquefa. ⚠️Precacuió 🚗trànsit. Creuem a🚶peu i seguim pel corriol que surt just ⬆️davant nostre</desc>
     <sym>Alert</sym>
   </wpt>
   <wpt lat="41.439891" lon="1.782905">
     <ele>159.41384037174348</ele>
-    <name>13 ╦⬅️</name>
+    <name>14 ╦⬅️</name>
     <cmt>Ens incorporem a una ╦ carretera per ⬅️l&apos;esquerra i la seguim</cmt>
     <desc>Ens incorporem a una ╦ carretera per ⬅️l&apos;esquerra i la seguim</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="41.442014" lon="1.784456">
     <ele>141.6744232886951</ele>
-    <name>14 ╦➡️╣⬅️</name>
+    <name>15 ╦➡️╣⬅️</name>
     <cmt>╦ Cruïlla. ➡️Dreta i de seguida ╣desviar a ⬅️l&apos;esquerra per Carrer de la Granja</cmt>
     <desc>╦ Cruïlla. ➡️Dreta i de seguida ╣desviar a ⬅️l&apos;esquerra per Carrer de la Granja</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="41.442327" lon="1.786307">
     <ele>141.20031676781954</ele>
-    <name>15 ╣↙️</name>
+    <name>16 ╣↙️</name>
     <cmt>╣ Desviar a ↙️l&apos;esquerra</cmt>
     <desc>╣ Desviar a ↙️l&apos;esquerra</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="41.442614" lon="1.785825">
     <ele>140.89864605665218</ele>
-    <name>16 ╠↘️</name>
+    <name>17 ╠↘️</name>
     <cmt>╠ Desviar per gir tancat a la ↘️dreta per pista sense asfaltar</cmt>
     <desc>╠ Desviar per gir tancat a la ↘️dreta per pista sense asfaltar</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="41.442975" lon="1.787249">
     <ele>136.2855994649948</ele>
-    <name>17 ╣⬅️︵</name>
+    <name>18 ╣⬅️︵</name>
     <cmt>╣ Desviar a ⬅️l&apos;esquerra per ︵ passera del Riu Anoia</cmt>
     <desc>╣ Desviar a ⬅️l&apos;esquerra per ︵ passera del Riu Anoia</desc>
     <sym>Bridge</sym>
   </wpt>
   <wpt lat="41.444805" lon="1.787406">
     <ele>132.82686232315177</ele>
-    <name>18 ╦➡️🧭E</name>
+    <name>19 ╦➡️🧭E</name>
     <cmt>Ens ╦ incorporem a la carretera BV-2247 per la ➡️dreta 🧭E durant 600m</cmt>
     <desc>Ens ╦ incorporem a la carretera BV-2247 per la ➡️dreta 🧭E durant 600m</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="41.444835" lon="1.79458">
     <ele>127.60329323254595</ele>
-    <name>19 ╠↗️</name>
+    <name>20 ╠↗️</name>
     <cmt>╠ Desviar a la ↗️dreta per Camí de Can Catasús</cmt>
     <desc>╠ Desviar a la ↗️dreta per Camí de Can Catasús</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="41.44418" lon="1.794944">
     <ele>126.10000000000036</ele>
-    <name>20 ╣↖️</name>
+    <name>21 ╣↖️</name>
     <cmt>╣ Desviar a ↖️l&apos;esquerra</cmt>
     <desc>╣ Desviar a ↖️l&apos;esquerra</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="41.443407" lon="1.796768">
     <ele>131.0143693559815</ele>
-    <name>21 ╦➡️70m🍽️</name>
+    <name>22 ╦➡️70m🍽️</name>
     <cmt>Arribats a un ╦ carrer el seguim a la ➡️dreta. En 70m 🍽️restaurant</cmt>
     <desc>Arribats a un ╦ carrer el seguim a la ➡️dreta. En 70m 🍽️restaurant</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="41.442181" lon="1.797052">
     <ele>129.6180582649082</ele>
-    <name>22 ╬↗️🧭S</name>
+    <name>23 ╬↗️🧭S</name>
     <cmt>╬ Cruïlla. Seguim per la pista sense asfaltar a mà ↗️dreta 🧭S</cmt>
     <desc>╬ Cruïlla. Seguim per la pista sense asfaltar a mà ↗️dreta 🧭S</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="41.439839" lon="1.797753">
     <ele>121.9389243879361</ele>
-    <name>23 ╠↖️50m╠↖️</name>
-    <cmt>╠ Seguim per ↖️l&apos;esquerra i en 50m també ╠ seguim per ↖️l&apos;esquerra</cmt>
-    <desc>╠ Seguim per ↖️l&apos;esquerra i en 50m també ╠ seguim per ↖️l&apos;esquerra</desc>
+    <name>24 ╠↖️</name>
+    <cmt>╠ Seguim per ↖️l&apos;esquerra</cmt>
+    <desc>╠ Seguim per ↖️l&apos;esquerra</desc>
+    <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="41.439583" lon="1.798232">
+    <ele>121.24411227125776</ele>
+    <name>25 ╠↖️. ➡️ a Sant Sadurní per 15.A0 per Riu Anoia</name>
+    <cmt>╠Seguim per ↖️l'esquerra. 
+➡️🧭SE Connexió amb Final Alternativa 15.A0 per Riu Anoia</cmt>
+    <desc>╠Seguim per ↖️l'esquerra. 
+➡️🧭SE Connexió amb Final Alternativa 15.A0 per Riu Anoia</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="41.439543" lon="1.800389">
     <ele>135.4190949446125</ele>
-    <name>24 ╣↙️🔺</name>
+    <name>26 ╣↙️🔺</name>
     <cmt>╣ Desviar per gir tancat a ↙️l&apos;esquerra 🔺amunt</cmt>
     <desc>╣ Desviar per gir tancat a ↙️l&apos;esquerra 🔺amunt</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="41.44113" lon="1.801582">
     <ele>162.8108668041221</ele>
-    <name>25 ╦➡️</name>
+    <name>27 ╦➡️</name>
     <cmt>Ens incorporem a una ╦ pista a la ➡️dreta</cmt>
     <desc>Ens incorporem a una ╦ pista a la ➡️dreta</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="41.438888" lon="1.804961">
     <ele>183.3417418496226</ele>
-    <name>26 ╦⬅️🧭N</name>
+    <name>28 ╦⬅️🧭N</name>
     <cmt>Aribem a una ╦ pista. ⬅️Esquerra 🧭N</cmt>
     <desc>Aribem a una ╦ pista. ⬅️Esquerra 🧭N</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="41.44078" lon="1.806591">
     <ele>183.40124927600922</ele>
-    <name>27 ╠↖️╣↗️</name>
+    <name>29 ╠↖️╣↗️</name>
     <cmt>╠ Seguim per ↖️l&apos;esquerra i tot seguit ╣ seguim per la dreta↗️</cmt>
     <desc>╠ Seguim per ↖️l&apos;esquerra i tot seguit ╣ seguim per la dreta↗️</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="41.443661" lon="1.808229">
     <ele>187.0392092200177</ele>
-    <name>28 ╦➡️</name>
+    <name>30 ╦➡️</name>
     <cmt>╦ Carretera BV-2247. ➡️Dreta</cmt>
     <desc>╦ Carretera BV-2247. ➡️Dreta</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="41.443569" lon="1.809258">
     <ele>184.51379362830906</ele>
-    <name>29 ╣⬅️</name>
+    <name>31 ╣⬅️</name>
     <cmt>╣Desviar a ⬅️l&apos;esquerra per Camí de Sant Vicenç d&apos;Hortons asfaltat. Indicació de Vins el Cep</cmt>
     <desc>╣Desviar a ⬅️l&apos;esquerra per Camí de Sant Vicenç d&apos;Hortons asfaltat. Indicació de Vins el Cep</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="41.44693" lon="1.810298">
     <ele>202.66584249949835</ele>
-    <name>30 ╠➡️</name>
+    <name>32 ╠➡️</name>
     <cmt>╠ Desviar per camí asfaltat a la ➡️dreta</cmt>
     <desc>╠ Desviar per camí asfaltat a la ➡️dreta</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="41.445562" lon="1.812817">
     <ele>197.92044613519772</ele>
-    <name>31 ╣⬅️</name>
+    <name>33 ╣⬅️</name>
     <cmt>╣Desviar a ⬅️l&apos;esquerra per pista</cmt>
     <desc>╣Desviar a ⬅️l&apos;esquerra per pista</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="41.447838" lon="1.814891">
     <ele>169.49860007201235</ele>
-    <name>32 ╣↗️</name>
+    <name>34 ╣↗️</name>
     <cmt>╣ Seguim pista principal a la ↗️dreta</cmt>
     <desc>╣ Seguim pista principal a la ↗️dreta</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="41.446245" lon="1.823843">
     <ele>149.34933973541553</ele>
-    <name>33 ╠↖️╠↖️</name>
+    <name>35 ╠↖️╠↖️</name>
     <cmt>╠ SPP a ↖️ esquerres 2 cops seguits</cmt>
     <desc>╠ SPP a ↖️ esquerres 2 cops seguits</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="41.453363" lon="1.826181">
     <ele>187.0432730300986</ele>
-    <name>34 ╠↖️</name>
+    <name>36 ╠↖️</name>
     <cmt>╠ SPP per ↖️l&apos;esquerra</cmt>
     <desc>╠ SPP per ↖️l&apos;esquerra</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="41.456544" lon="1.828275">
     <ele>208.89461775230825</ele>
-    <name>35 ╣↗️</name>
+    <name>37 ╣↗️</name>
     <cmt>╣ SPP per la ↗️dreta</cmt>
     <desc>╣ SPP per la ↗️dreta</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="41.457005" lon="1.829349">
     <ele>209.0741087146107</ele>
-    <name>36 ╬⬆️GR-5</name>
+    <name>38 ╬⬆️GR-5</name>
     <cmt>╬ Ctra. de Sant Llorenç d&apos;Hortons. Creuem i seguim per la pista que segueix ⬆️recte per la GR-5</cmt>
     <desc>╬ Ctra. de Sant Llorenç d&apos;Hortons. Creuem i seguim per la pista que segueix ⬆️recte per la GR-5</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="41.456673" lon="1.837197">
     <ele>187.0618605728733</ele>
-    <name>37 ╣↗️ GR-5</name>
+    <name>39 ╣↗️ GR-5</name>
     <cmt>╣ SPP per la ↗️dreta per GR-5</cmt>
     <desc>╣ SPP per la ↗️dreta per GR-5</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="41.455011" lon="1.841176">
     <ele>179.49340759983184</ele>
-    <name>38 ╠↖️ GR-5</name>
+    <name>40 ╠↖️ GR-5</name>
     <cmt>╠ SPP per ↖️l&apos;esquerra per GR-5</cmt>
     <desc>╠ SPP per ↖️l&apos;esquerra per GR-5</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="41.454892" lon="1.842727">
     <ele>177.78378812012383</ele>
-    <name>39 ╣↗️ GR-5</name>
+    <name>41 ╣↗️ GR-5</name>
     <cmt>╣SPP per la ↗️dreta per GR-5</cmt>
     <desc>╣SPP per la ↗️dreta per GR-5</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="41.454511" lon="1.847057">
     <ele>148.62144132126195</ele>
-    <name>40 ︵ ╦➡️🧭SW GR-5</name>
+    <name>42 ︵ ╦➡️🧭SW GR-5</name>
     <cmt>Creuem vies pel ︵ pont i seguit ╦ prenem a la ➡️dreta 🧭SW per GR-5</cmt>
     <desc>Creuem vies pel ︵ pont i seguit ╦ prenem a la ➡️dreta 🧭SW per GR-5</desc>
     <sym>Bridge</sym>
   </wpt>
   <wpt lat="41.4527" lon="1.855635">
     <ele>136.688891378532</ele>
-    <name>41 ╣⬅️GR-5</name>
+    <name>43 ╣⬅️GR-5</name>
     <cmt>╣ Desviar a ⬅️l&apos;esquerra per GR-5</cmt>
     <desc>╣ Desviar a ⬅️l&apos;esquerra per GR-5</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="41.452362" lon="1.865314">
     <ele>79.44268392031121</ele>
-    <name>42 ╦↘️GR-5</name>
+    <name>44 ╦↘️GR-5</name>
     <cmt>╦ Cruïlla.↘️Dreta tancat per GR-5</cmt>
     <desc>╦ Cruïlla.↘️Dreta tancat per GR-5</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="41.450847" lon="1.867043">
     <ele>76.80375620713528</ele>
-    <name>43 ╦➡️︵</name>
+    <name>45 ╦➡️︵</name>
     <cmt>╦ Cruïlla.➡️Dreta pel ︵ pont sobre Riu Anoia</cmt>
     <desc>╦ Cruïlla.➡️Dreta pel ︵ pont sobre Riu Anoia</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="41.45006" lon="1.867172">
     <ele>81.56017941847738</ele>
-    <name>43 ╦⬅️</name>
+    <name>46 ╦⬅️</name>
     <cmt>╦ Cruïlla. ⬅️Esquerra</cmt>
     <desc>╦ Cruïlla. ⬅️Esquerra</desc>
     <sym>Crossing</sym>
