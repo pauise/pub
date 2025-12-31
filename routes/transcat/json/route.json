@@ -182,6 +182,12 @@
       "km": 15.3
     },
     {
+      "id": "15.A0",
+      "nom": "Alternativa per Codorniu",
+      "data": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/json/15.A0.Alternativa%20per%20Codorniu.json",
+      "km": 2.58
+    },
+    {
       "id": "15.99",
       "nom": "Estació Gelida",
       "data": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/json/07.99.Estaci%C3%B3%20Gelida.json",
