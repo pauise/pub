@@ -7,9 +7,6 @@
       <name>gpx.studio</name>
       <link href="https://gpx.studio"/>
     </author>
-    <link href="https://www.wikiloc.com/bicycle-touring-trails/vilafranca-del-penedes-martorell-229557365">
-      <text>Vilafranca del Penedès - Martorell on Wikiloc</text>
-    </link>
     <time>2025-08-31T10:59:16.593Z</time>
   </metadata>
   <wpt lat="41.42532" lon="1.790486">
@@ -23,49 +20,9 @@
 🧭W a Vilafranca per Etapa 15</desc>
     <sym>Crossing</sym>
   </wpt>
-  <wpt lat="41.428656" lon="1.792786">
-    <ele>168.64708081777263</ele>
-    <name>6 🔄2a↗️</name>
-    <cmt>🔄Rotonda. Surt per la 2a a la ↗️dreta</cmt>
-    <desc>🔄Rotonda. Surt per la 2a a la ↗️dreta</desc>
-    <sym>Crossing</sym>
-  </wpt>
-  <wpt lat="41.433347" lon="1.795914">
-    <ele>157.3976616263633</ele>
-    <name>7 🏠Codorniu ↗️↗️</name>
-    <cmt>🏠Caves Codorniu. Seguim mantenint-nos a↗️dretes 2 cops</cmt>
-    <desc>🏠Caves Codorniu. Seguim mantenint-nos a↗️dretes 2 cops</desc>
-    <sym>Crossing</sym>
-  </wpt>
-  <wpt lat="41.43701" lon="1.796887">
-    <ele>140.5709485835328</ele>
-    <name>8 ╣↖️</name>
-    <cmt>╣ Desviar per pista de terra a ↖️l&apos;esquerra. Deixem asfalt</cmt>
-    <desc>╣ Desviar per pista de terra a ↖️l&apos;esquerra. Deixem asfalt</desc>
-    <sym>Road</sym>
-  </wpt>
-  <wpt lat="41.437869" lon="1.796636">
-    <ele>136.7346881422223</ele>
-    <name>9 ╣↗️╠↖️</name>
-    <cmt>Descartem ╣ desviació seguint per la ↗️dreta i tot seguit ╠ per ↖️l&apos;esquerra</cmt>
-    <desc>Descartem ╣ desviació seguint per la ↗️dreta i tot seguit ╠ per ↖️l&apos;esquerra</desc>
-    <sym>Crossing</sym>
-  </wpt>
-  <wpt lat="41.439223" lon="1.798877">
-    <ele>124.51171498929827</ele>
-    <name>10 ⚠️🌊🚶╠↘️</name>
-    <cmt>⚠️Precaució: 🌊Riu Anoia. Millor canviar calçat i travessar a 🚶peu. Tot seguit ╠ desviar per gir molt tancat a la ↘️dreta.
-Valoreu el risc si va crescut</cmt>
-    <desc>⚠️Precaució: 🌊Riu Anoia. Millor canviar calçat i travessar a 🚶peu. Tot seguit ╠ desviar per gir molt tancat a la ↘️dreta.
-Valoreu el risc si va crescut</desc>
-    <sym>Alert</sym>
-  </wpt>
-  <wpt lat="0" lon="0">
-    <ele>0</ele>
-  </wpt>
   <wpt lat="41.425543" lon="1.791051">
     <ele>150.79556906606473</ele>
-    <name>3 🅿️🚶↗️🔺</name>
+    <name>2 🅿️🚶↗️🔺</name>
     <cmt>Al final del parking seguim per la 🚶vorera ↗️dreta 🔺amunt per salvar un tram d&apos;escales i connectar amb l&apos;Avinguda Catalunya que tenim davant.
 Descartar pista a la dreta</cmt>
     <desc>Al final del parking seguim per la 🚶vorera ↗️dreta 🔺amunt per salvar un tram d&apos;escales i connectar amb l&apos;Avinguda Catalunya que tenim davant.
@@ -74,17 +31,54 @@ Descartar pista a la dreta</desc>
   </wpt>
   <wpt lat="41.425576" lon="1.791204">
     <ele>151.15687260456403</ele>
-    <name>4 ╬↗️🧭NE</name>
+    <name>3 ╬↗️🧭NE</name>
     <cmt>Ens incorporem al ╬ Carrer Dr Darder lleugerament a ↗️dreta 🧭NE</cmt>
     <desc>Ens incorporem al ╬ Carrer Dr Darder lleugerament a ↗️dreta 🧭NE</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="41.425824" lon="1.792169">
     <ele>158.10731881288922</ele>
-    <name>5 🔄3a ╬⬆️🔺</name>
+    <name>4 🔄3a ╬⬆️🔺</name>
     <cmt>Petita 🔄rotonda. Surt a la 3a cap a la ╬ cruïlla amb carretera per creuar ⬆️recte i agafar el carrer que comença davant nostre 🔺amunt</cmt>
     <desc>Petita 🔄rotonda. Surt a la 3a cap a la ╬ cruïlla amb carretera per creuar ⬆️recte i agafar el carrer que comença davant nostre 🔺amunt</desc>
     <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="41.428656" lon="1.792786">
+    <ele>168.64708081777263</ele>
+    <name>5 🔄2a↗️</name>
+    <cmt>🔄Rotonda. Surt per la 2a a la ↗️dreta</cmt>
+    <desc>🔄Rotonda. Surt per la 2a a la ↗️dreta</desc>
+    <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="41.433347" lon="1.795914">
+    <ele>157.3976616263633</ele>
+    <name>6 🏠Codorniu ↗️↗️</name>
+    <cmt>🏠Caves Codorniu. Seguim mantenint-nos a↗️dretes 2 cops</cmt>
+    <desc>🏠Caves Codorniu. Seguim mantenint-nos a↗️dretes 2 cops</desc>
+    <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="41.43701" lon="1.796887">
+    <ele>140.5709485835328</ele>
+    <name>7 ╣↖️</name>
+    <cmt>╣ Desviar per pista de terra a ↖️l&apos;esquerra. Deixem asfalt</cmt>
+    <desc>╣ Desviar per pista de terra a ↖️l&apos;esquerra. Deixem asfalt</desc>
+    <sym>Road</sym>
+  </wpt>
+  <wpt lat="41.437869" lon="1.796636">
+    <ele>136.7346881422223</ele>
+    <name>8 ╣↗️╠↖️</name>
+    <cmt>Descartem ╣ desviació seguint per la ↗️dreta i tot seguit ╠ per ↖️l&apos;esquerra</cmt>
+    <desc>Descartem ╣ desviació seguint per la ↗️dreta i tot seguit ╠ per ↖️l&apos;esquerra</desc>
+    <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="41.439223" lon="1.798877">
+    <ele>124.51171498929827</ele>
+    <name>9 ⚠️🌊🚶╠↘️</name>
+    <cmt>⚠️Precaució: 🌊Riu Anoia. Millor canviar calçat i travessar a 🚶peu. Tot seguit ╠ desviar per gir molt tancat a la ↘️dreta.
+Valoreu el risc si va crescut</cmt>
+    <desc>⚠️Precaució: 🌊Riu Anoia. Millor canviar calçat i travessar a 🚶peu. Tot seguit ╠ desviar per gir molt tancat a la ↘️dreta.
+Valoreu el risc si va crescut</desc>
+    <sym>Alert</sym>
   </wpt>
   <wpt lat="41.439583" lon="1.798232">
     <ele>121.24411227125776</ele>
@@ -99,24 +93,8 @@ Descartar pista a la dreta</desc>
   </wpt>
   <trk>
     <name>15.A0 Alternativa per Codorniu</name>
-    <cmt>Ruta de Vilafranca del Penedès a Martorell passant per: 
-- Pont De Cal Tifarro (9.0 km) 
-- Can Bou (11.8 km) 
-- Sant Sadurni (17.2 km) 
-- Roure Codorniu (18.6 km) 
-- Castell de Vilarnau (20.8 km) 
-- Font del Claro (27.8 km) 
-- Font Planella (29.0 km) 
-- Església de Santa Maria (36.7 km)</cmt>
-    <desc>Ruta de Vilafranca del Penedès a Martorell passant per: 
-- Pont De Cal Tifarro (9.0 km) 
-- Can Bou (11.8 km) 
-- Sant Sadurni (17.2 km) 
-- Roure Codorniu (18.6 km) 
-- Castell de Vilarnau (20.8 km) 
-- Font del Claro (27.8 km) 
-- Font Planella (29.0 km) 
-- Església de Santa Maria (36.7 km)</desc>
+    <cmt>Etapa 15 PK 0,51 - Can Codorniu - Riu Anoia - Etapa 15 PK 5,28. Retalla 2,19 kms però implica creuar el Riu Anoia sense pont. Si va crescut pot ser perillòs tant per nens com per adults.</cmt>
+    <desc>Etapa 15 PK 0,51 - Can Codorniu - Riu Anoia - Etapa 15 PK 5,28. Retalla 2,19 kms però implica creuar el Riu Anoia sense pont. Si va crescut pot ser perillòs tant per nens com per adults.</desc>
     <trkseg>
       <trkpt lat="41.42531515194321" lon="1.7904773527679652">
         <ele>152.94343845045742</ele>
