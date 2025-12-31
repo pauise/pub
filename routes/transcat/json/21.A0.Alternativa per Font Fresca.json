@@ -1,0 +1,26 @@
+{
+    "title": "Etapa 21 Alternativa per Font Fresca",
+    "full_track_url": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/tracks/21.A0.Alternativa%20per%20Font%20Fresca.gpx",
+    "prf": [
+        {"km": 0, "alt": 195},
+        {"km": 0.59, "alt": 217},
+        {"km": 1.35, "alt": 189},
+        {"km": 1.47, "alt": 170},
+        {"km": 1.69, "alt": 161},
+        {"km": 2.1, "alt": 166},
+        {"km": 2.56, "alt": 160}
+    ],
+    "wps": [
+        {"km": 0, "paviment": 1},
+        {"km": 0.23, "paviment": 1},
+        {"km": 0.56, "paviment": 2},
+        {"km": 0.87, "paviment": 2},
+        {"km": 1.17, "paviment": 3},
+        {"km": 1.44, "paviment": 4},
+        {"km": 1.69, "paviment": 4},
+        {"km": 1.83, "paviment": 2},
+        {"km": 2.43, "paviment": 2},
+        {"km": 2.51, "paviment": 2},
+        {"km": 2.56, "paviment": 1}
+      ]
+  }
