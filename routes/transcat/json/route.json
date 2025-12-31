@@ -338,6 +338,20 @@
       "km": 19.46
     },
     {
+      "id": "21.A0",
+      "nom": "Alternativa per Font Freda",
+      "data": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/json/21.A0.Alternativa%20per%20Font%20Fresca.json",
+      "km": 2.56
+    },
+    {
+      "id": "21.B0",
+      "nom": "Alternativa per Canadà Parc",
+      "data": "",
+      "km": 10.11
+    },
+
+    https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/json/21.A0.Alternativa%20per%20Font%20Fresca.json
+    {
       "id": "22.00",
       "nom": "Sant Celoni - Hostalric",
       "data": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/json/22.00.Sant%20Celoni.Hostalric.json",
