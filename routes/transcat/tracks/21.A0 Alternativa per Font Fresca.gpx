@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx creator="https://gpx.studio" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/PowerExtension/v1 http://www.garmin.com/xmlschemas/PowerExtensionv1.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxpx="http://www.garmin.com/xmlschemas/PowerExtension/v1" xmlns:gpx_style="http://www.topografix.com/GPX/gpx_style/0/2">
+  <metadata>
+    <name>21.A0 Alternativa per Font Fresca</name>
+    <desc>Etapa 21.00 PK 12,35 - Urbanització - Font Fresca - Riu Tordera - Etapa 21.00 PK 17,66. Són 2,75 kms menys però per mal camí i haver de creuar la Tordera que pot ser perillòs si va crescuda ja que no hi ha pont. No apte per nens</desc>
+    <author>
+      <name>gpx.studio</name>
+      <link href="https://gpx.studio"/>
+    </author>
+  </metadata>
+  <wpt lat="41.677226" lon="2.45368">
+    <ele>195.31669184062682</ele>
+    <name>🟢Alternativa per Font Fresca ╠➡️⚠️🚗↖️🔺</name>
+    <cmt>╠ Cruïlla amb Etapa 21.00 PK 12,35. ➡️Dreta per creuar amb ⚠️precaució 🚗trànsit i agafar a ↖️l&apos;esquerra el carrer que fa 🔺pujada</cmt>
+    <desc>╠ Cruïlla amb Etapa 21.00 PK 12,35. ➡️Dreta per creuar amb ⚠️precaució 🚗trànsit i agafar a ↖️l&apos;esquerra el carrer que fa 🔺pujada</desc>
+    <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="41.678843" lon="2.453106">
+    <ele>211.1548510504894</ele>
+    <name>2 🔄3a↗️🧭NE</name>
+    <cmt>Petita 🔄rotonda. Surt per la 3a a la ↗️dreta 🧭NE</cmt>
+    <desc>Petita 🔄rotonda. Surt per la 3a a la ↗️dreta 🧭NE</desc>
+    <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="41.68122" lon="2.455178">
+    <ele>218.06494629659176</ele>
+    <name>3 ╬↖️</name>
+    <cmt>╬ Cruïlla. Agafar lleugerament a ↖️l&apos;esquerra. Fi asfalt</cmt>
+    <desc>╬ Cruïlla. Agafar lleugerament a ↖️l&apos;esquerra. Fi asfalt</desc>
+    <sym>Road</sym>
+  </wpt>
+  <wpt lat="41.68161" lon="2.458478">
+    <ele>200.50147089205825</ele>
+    <name>4 ╣↗️</name>
+    <cmt>╣ Seguim lleugerament a ↗️dretes</cmt>
+    <desc>╣ Seguim lleugerament a ↗️dretes</desc>
+    <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="41.681228" lon="2.461993">
+    <ele>189.03019735743408</ele>
+    <name>5 ╣↗️⚠️🔻</name>
+    <cmt>╣ Seguim lleugerament a ↗️dretes
+⚠️Precaució: Inici de tram tècnic en 🔻baixada</cmt>
+    <desc>╣ Seguim lleugerament a ↗️dretes
+⚠️Precaució: Inici de tram tècnic en 🔻baixada</desc>
+    <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="41.68107" lon="2.464854">
+    <ele>168.47831206638386</ele>
+    <name>6 Font Fresca🚫‼️🌳🥪⚠️</name>
+    <cmt>Font Fresca 🚫‼️NO potable
+🌳Zona d&apos;ombra amb una 🥪taula de picnic
+⚠️Precaució: A partir d&apos;aquest punt el camí es torna molt més tècnic</cmt>
+    <desc>Font Fresca 🚫‼️NO potable
+🌳Zona d&apos;ombra amb una 🥪taula de picnic
+⚠️Precaució: A partir d&apos;aquest punt el camí es torna molt més tècnic</desc>
+    <sym>Picnic Area</sym>
+  </wpt>
+  <wpt lat="41.67995" lon="2.467365">
+    <ele>157.6442867199748</ele>
+    <name>7 ⚠️‼️🌊🚶⬆️🔺</name>
+    <cmt>⚠️‼️Màxima precaució. 🌊Riu Tordera. Creuar a 🚶peu només si ho veiem clar. No apte per nens
+Un cop creuat, agafem el camí que surt ⬆️enfront 🔺amunt</cmt>
+    <desc>⚠️‼️Màxima precaució. 🌊Riu Tordera. Creuar a 🚶peu només si ho veiem clar. No apte per nens
+Un cop creuat, agafem el camí que surt ⬆️enfront 🔺amunt</desc>
+    <sym>Alert</sym>
+  </wpt>
+  <wpt lat="41.680336" lon="2.468671">
+    <ele>156.7050587304877</ele>
+    <name>8 🏠╠➡️</name>
+    <cmt>🏠Molí de Pedrenya. ╠ Desviar a la ➡️dreta
+El camí millora a pista</cmt>
+    <desc>🏠Molí de Pedrenya. ╠ Desviar a la ➡️dreta
+El camí millora a pista</desc>
+    <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="41.682543" lon="2.474734">
+    <ele>163.63204893912015</ele>
+    <name>9 ╦➡️↙️🔻🌳</name>
+    <cmt>╦ Desviar a la ➡️dreta i seguidament gir molt tancat a ↙️l&apos;esquerra 🔻avall pels 🌳arbres</cmt>
+    <desc>╦ Desviar a la ➡️dreta i seguidament gir molt tancat a ↙️l&apos;esquerra 🔻avall pels 🌳arbres</desc>
+    <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="41.682767" lon="2.474816">
+    <ele>162.91196165074547</ele>
+    <name>10 ➡️︵↗️╣↖️🔺</name>
+    <cmt>Gir ➡️dreta per creuar per ︵ pont. 
+Seguir a ↗️dretes i ╣ desviar a ↖️l&apos;esquerra 🔺amunt</cmt>
+    <desc>Gir ➡️dreta per creuar per ︵ pont. 
+Seguir a ↗️dretes i ╣ desviar a ↖️l&apos;esquerra 🔺amunt</desc>
+    <sym>Bridge</sym>
+  </wpt>
+  <wpt lat="0" lon="0">
+    <ele>0</ele>
+  </wpt>
+  <wpt lat="41.682823" lon="2.475323">
+    <ele>159.71626665429287</ele>
+    <name>🏁Final alt. 21.A0 per Font Fresca ╦ 🏘️Sant Celoni</name>
+    <cmt>╦ Cruïlla 🏘️Sant Celoni. Connectem amb Etapa 21.00 PK 17,66:
+🧭E a 🚉Estació Sant Celoni R2 R11
+🧭NW a Palautordera i Cardedeu per Etapa 21</cmt>
+    <desc>╦ Cruïlla 🏘️Sant Celoni. Connectem amb Etapa 21.00 PK 17,66:
+🧭E a 🚉Estació Sant Celoni R2 R11
+🧭NW a Palautordera i Cardedeu per Etapa 21</desc>
+    <sym>Crossing</sym>
+  </wpt>
+  <trk>
+    <name>21.A0 Alternativa per Font Fresca</name>
+    <trkseg>
+      <trkpt lat="41.67722486018317" lon="2.4536747086818593">
+        <ele>195.26109210590423</ele>
+      </trkpt>
+      <trkpt lat="41.67725455320013" lon="2.453905140873786">
+        <ele>197.22516515106082</ele>
+      </trkpt>
+      <trkpt lat="41.677485" lon="2.453765">
+        <ele>198.25</ele>
+      </trkpt>
+      <trkpt lat="41.677518" lon="2.453745">
+        <ele>198.5</ele>
+      </trkpt>
+      <trkpt lat="41.677711" lon="2.453607">
+        <ele>200</ele>
+      </trkpt>
+      <trkpt lat="41.677867" lon="2.453531">
+        <ele>201.5</ele>
+      </trkpt>
+      <trkpt lat="41.677889" lon="2.453521">
+        <ele>201.75</ele>
+      </trkpt>
+      <trkpt lat="41.678145" lon="2.453224">
+        <ele>203.75</ele>
+      </trkpt>
+      <trkpt lat="41.678325" lon="2.453017">
+        <ele>205.25</ele>
+      </trkpt>
+      <trkpt lat="41.678484" lon="2.452925">
+        <ele>206</ele>
+      </trkpt>
+      <trkpt lat="41.678667" lon="2.452938">
+        <ele>207.25</ele>
+      </trkpt>
+      <trkpt lat="41.678795" lon="2.453052">
+        <ele>208</ele>
+      </trkpt>
+      <trkpt lat="41.678858" lon="2.453128">
+        <ele>208.5</ele>
+      </trkpt>
+      <trkpt lat="41.678843" lon="2.45316">
+        <ele>208.5</ele>
+      </trkpt>
+      <trkpt lat="41.678827" lon="2.453198">
+        <ele>208.5</ele>
+      </trkpt>
+      <trkpt lat="41.678846" lon="2.453272">
+        <ele>208.75</ele>
+      </trkpt>
+      <trkpt lat="41.678873" lon="2.453347">
+        <ele>208.75</ele>
+      </trkpt>
+      <trkpt lat="41.678907" lon="2.453378">
+        <ele>209</ele>
+      </trkpt>
+      <trkpt lat="41.678955" lon="2.45335">
+        <ele>209.25</ele>
+      </trkpt>
+      <trkpt lat="41.679005" lon="2.453268">
+        <ele>209.25</ele>
+      </trkpt>
+      <trkpt lat="41.679198" lon="2.453483">
+        <ele>209.5</ele>
+      </trkpt>
+      <trkpt lat="41.679599" lon="2.453927">
+        <ele>210.75</ele>
+      </trkpt>
+      <trkpt lat="41.67988" lon="2.454232">
+        <ele>211.5</ele>
+      </trkpt>
+      <trkpt lat="41.680184" lon="2.454458">
+        <ele>212.25</ele>
+      </trkpt>
+      <trkpt lat="41.68123" lon="2.455187">
+        <ele>217.25</ele>
+      </trkpt>
+      <trkpt lat="41.681332" lon="2.455268">
+        <ele>217.5</ele>
+      </trkpt>
+      <trkpt lat="41.681485" lon="2.455365">
+        <ele>217.25</ele>
+      </trkpt>
+      <trkpt lat="41.681554" lon="2.455418">
+        <ele>217.25</ele>
+      </trkpt>
+      <trkpt lat="41.681743" lon="2.455569">
+        <ele>214.75</ele>
+      </trkpt>
+      <trkpt lat="41.681768" lon="2.455648">
+        <ele>213.75</ele>
+      </trkpt>
+      <trkpt lat="41.681776" lon="2.455672">
+        <ele>213.75</ele>
+      </trkpt>
+      <trkpt lat="41.681751" lon="2.45589">
+        <ele>213.75</ele>
+      </trkpt>
+      <trkpt lat="41.681737" lon="2.45628">
+        <ele>212</ele>
+      </trkpt>
+      <trkpt lat="41.681677" lon="2.456776">
+        <ele>210.5</ele>
+      </trkpt>
+      <trkpt lat="41.681579" lon="2.457209">
+        <ele>209.25</ele>
+      </trkpt>
+      <trkpt lat="41.681587" lon="2.457393">
+        <ele>207.5</ele>
+      </trkpt>
+      <trkpt lat="41.681606" lon="2.4578">
+        <ele>203.5</ele>
+      </trkpt>
+      <trkpt lat="41.68161" lon="2.458451">
+        <ele>199</ele>
+      </trkpt>
+      <trkpt lat="41.681596" lon="2.45868">
+        <ele>198.75</ele>
+      </trkpt>
+      <trkpt lat="41.681578" lon="2.458886">
+        <ele>198.25</ele>
+      </trkpt>
+      <trkpt lat="41.681527" lon="2.459489">
+        <ele>197</ele>
+      </trkpt>
+      <trkpt lat="41.681467" lon="2.460114">
+        <ele>193.75</ele>
+      </trkpt>
+      <trkpt lat="41.681411" lon="2.46101">
+        <ele>191.75</ele>
+      </trkpt>
+      <trkpt lat="41.68139" lon="2.46116">
+        <ele>192</ele>
+      </trkpt>
+      <trkpt lat="41.681375" lon="2.461263">
+        <ele>192.25</ele>
+      </trkpt>
+      <trkpt lat="41.681375" lon="2.461263">
+        <ele>192.25</ele>
+      </trkpt>
+      <trkpt lat="41.681347" lon="2.461469">
+        <ele>192.75</ele>
+      </trkpt>
+      <trkpt lat="41.681233" lon="2.461982">
+        <ele>194</ele>
+      </trkpt>
+      <trkpt lat="41.681214" lon="2.462068">
+        <ele>194</ele>
+      </trkpt>
+      <trkpt lat="41.681171" lon="2.462578">
+        <ele>191.25</ele>
+      </trkpt>
+      <trkpt lat="41.681195" lon="2.462914">
+        <ele>188</ele>
+      </trkpt>
+      <trkpt lat="41.681094" lon="2.463101">
+        <ele>189.5</ele>
+      </trkpt>
+      <trkpt lat="41.680723" lon="2.463973">
+        <ele>188.75</ele>
+      </trkpt>
+      <trkpt lat="41.680723" lon="2.464134">
+        <ele>186.5</ele>
+      </trkpt>
+      <trkpt lat="41.680829" lon="2.464496">
+        <ele>178.5</ele>
+      </trkpt>
+      <trkpt lat="41.681084" lon="2.464863">
+        <ele>171.5</ele>
+      </trkpt>
+      <trkpt lat="41.68096" lon="2.465187">
+        <ele>169.5</ele>
+      </trkpt>
+      <trkpt lat="41.680733" lon="2.465464">
+        <ele>171.5</ele>
+      </trkpt>
+      <trkpt lat="41.680577" lon="2.465824">
+        <ele>173.25</ele>
+      </trkpt>
+      <trkpt lat="41.680478" lon="2.466097">
+        <ele>173.25</ele>
+      </trkpt>
+      <trkpt lat="41.680295" lon="2.466875">
+        <ele>165.5</ele>
+      </trkpt>
+      <trkpt lat="41.680138" lon="2.467268">
+        <ele>161.25</ele>
+      </trkpt>
+      <trkpt lat="41.679943" lon="2.467367">
+        <ele>160.5</ele>
+      </trkpt>
+      <trkpt lat="41.679966" lon="2.467584">
+        <ele>157.25</ele>
+      </trkpt>
+      <trkpt lat="41.679952" lon="2.46789">
+        <ele>156.75</ele>
+      </trkpt>
+      <trkpt lat="41.679914" lon="2.46825">
+        <ele>156.5</ele>
+      </trkpt>
+      <trkpt lat="41.680028" lon="2.468558">
+        <ele>155.5</ele>
+      </trkpt>
+      <trkpt lat="41.680378" lon="2.468698">
+        <ele>158.75</ele>
+      </trkpt>
+      <trkpt lat="41.680382" lon="2.468964">
+        <ele>159</ele>
+      </trkpt>
+      <trkpt lat="41.680476" lon="2.469787">
+        <ele>161</ele>
+      </trkpt>
+      <trkpt lat="41.680616" lon="2.470302">
+        <ele>162.75</ele>
+      </trkpt>
+      <trkpt lat="41.680671" lon="2.470581">
+        <ele>163.5</ele>
+      </trkpt>
+      <trkpt lat="41.680767" lon="2.471228">
+        <ele>164.5</ele>
+      </trkpt>
+      <trkpt lat="41.680856" lon="2.471819">
+        <ele>165.75</ele>
+      </trkpt>
+      <trkpt lat="41.681" lon="2.472016">
+        <ele>165.5</ele>
+      </trkpt>
+      <trkpt lat="41.681188" lon="2.472111">
+        <ele>165.25</ele>
+      </trkpt>
+      <trkpt lat="41.681524" lon="2.47222">
+        <ele>164.5</ele>
+      </trkpt>
+      <trkpt lat="41.681693" lon="2.472331">
+        <ele>164</ele>
+      </trkpt>
+      <trkpt lat="41.68174" lon="2.472426">
+        <ele>164</ele>
+      </trkpt>
+      <trkpt lat="41.681899" lon="2.472936">
+        <ele>163</ele>
+      </trkpt>
+      <trkpt lat="41.681963" lon="2.473262">
+        <ele>162.5</ele>
+      </trkpt>
+      <trkpt lat="41.682113" lon="2.473711">
+        <ele>162.5</ele>
+      </trkpt>
+      <trkpt lat="41.682244" lon="2.474059">
+        <ele>162.75</ele>
+      </trkpt>
+      <trkpt lat="41.682354" lon="2.474347">
+        <ele>163.25</ele>
+      </trkpt>
+      <trkpt lat="41.682562" lon="2.47476">
+        <ele>162.75</ele>
+      </trkpt>
+      <trkpt lat="41.682398" lon="2.474965">
+        <ele>162.75</ele>
+      </trkpt>
+      <trkpt lat="41.682402" lon="2.475061">
+        <ele>162.5</ele>
+      </trkpt>
+      <trkpt lat="41.682444" lon="2.475086">
+        <ele>162.75</ele>
+      </trkpt>
+      <trkpt lat="41.682684" lon="2.474941">
+        <ele>161.75</ele>
+      </trkpt>
+      <trkpt lat="41.682784" lon="2.474798">
+        <ele>161.5</ele>
+      </trkpt>
+      <trkpt lat="41.682833" lon="2.474902">
+        <ele>160.75</ele>
+      </trkpt>
+      <trkpt lat="41.682818" lon="2.475041">
+        <ele>160.5</ele>
+      </trkpt>
+      <trkpt lat="41.68276" lon="2.475177">
+        <ele>160.75</ele>
+      </trkpt>
+      <trkpt lat="41.68275" lon="2.475202">
+        <ele>161</ele>
+      </trkpt>
+      <trkpt lat="41.682827" lon="2.47533">
+        <ele>160.25</ele>
+      </trkpt>
+      <trkpt lat="41.68283" lon="2.475335">
+        <ele>159.75</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
