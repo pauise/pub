@@ -1,0 +1,12 @@
+{
+    "title": "Enllaç 18 amb Estació Montcada-Santa Maria",
+    "full_track_url": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/tracks/18.80.Estaci%C3%B3%20Montcada-Santa%20Maria.gpx",
+    "prf": [
+        {"km": 0, "alt": 51},
+        {"km": 0.29, "alt": 50}
+    ],
+    "wps": [
+        {"km": 0, "paviment": 1},
+        {"km": 0.29, "paviment": 1}
+      ]
+  }
