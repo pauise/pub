@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx creator="https://gpx.studio" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/PowerExtension/v1 http://www.garmin.com/xmlschemas/PowerExtensionv1.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxpx="http://www.garmin.com/xmlschemas/PowerExtension/v1" xmlns:gpx_style="http://www.topografix.com/GPX/gpx_style/0/2">
+  <metadata>
+    <name>18.80 Enllaç Estació Montcada-Santa Maria</name>
+    <desc>Etapa 18 PK 10,67 - Estació Montcada-Santa Maria</desc>
+    <author>
+      <name>gpx.studio</name>
+      <link href="https://gpx.studio"/>
+    </author>
+  </metadata>
+  <wpt lat="41.483866" lon="2.16641">
+    <ele>50.55746818856382</ele>
+    <name>🟢Etapa 18 PK 10,12 ╬➡️🚲🧭S</name>
+    <cmt>╬ Carrer de l&apos;Alzina. ➡️Dreta per 🚲carril bici🧭S</cmt>
+    <desc>╬ Carrer de l&apos;Alzina. ➡️Dreta per 🚲carril bici🧭S</desc>
+    <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="41.481329" lon="2.16714">
+    <ele>49.80000000000109</ele>
+    <name>🏁 Final enllaç 🚉Montcada-Santa Maria</name>
+    <cmt>🚉Estació Montcada-Santa Maria R4 R12</cmt>
+    <desc>🚉Estació Montcada-Santa Maria R4 R12</desc>
+    <link href="https://www.adif.es/w/78707-montcada-sta.maria"/>
+    <sym>Ground Transportation</sym>
+  </wpt>
+  <trk>
+    <name>18.80 Enllaç Estació Montcada-Santa Maria</name>
+    <trkseg>
+      <trkpt lat="41.48387025287016" lon="2.1664098004806647">
+        <ele>50.547897581326474</ele>
+      </trkpt>
+      <trkpt lat="41.483430671008925" lon="2.1665361667810465">
+        <ele>52.12751624762063</ele>
+      </trkpt>
+      <trkpt lat="41.482991089147696" lon="2.1666625330814284">
+        <ele>52.445742446235826</ele>
+      </trkpt>
+      <trkpt lat="41.48255150728646" lon="2.1667888993818103">
+        <ele>49.75238443393668</ele>
+      </trkpt>
+      <trkpt lat="41.48211192542523" lon="2.166915265682192">
+        <ele>49.80066957390046</ele>
+      </trkpt>
+      <trkpt lat="41.48167234356399" lon="2.167041631982574">
+        <ele>50.462986588967695</ele>
+      </trkpt>
+      <trkpt lat="41.481325078310874" lon="2.1671414600900505">
+        <ele>49.80000000000109</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
