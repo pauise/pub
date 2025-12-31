@@ -20,14 +20,14 @@
     <name>2 🔄3a↗️🧭NE</name>
     <cmt>Petita 🔄rotonda. Surt per la 3a a la ↗️dreta 🧭NE</cmt>
     <desc>Petita 🔄rotonda. Surt per la 3a a la ↗️dreta 🧭NE</desc>
-    <sym>Crossing</sym>
+    <sym>Rotonda</sym>
   </wpt>
   <wpt lat="41.68122" lon="2.455178">
     <ele>218.06494629659176</ele>
     <name>3 ╬↖️</name>
     <cmt>╬ Cruïlla. Agafar lleugerament a ↖️l&apos;esquerra. Fi asfalt</cmt>
     <desc>╬ Cruïlla. Agafar lleugerament a ↖️l&apos;esquerra. Fi asfalt</desc>
-    <sym>Road</sym>
+    <sym>End of Road</sym>
   </wpt>
   <wpt lat="41.68161" lon="2.458478">
     <ele>200.50147089205825</ele>
@@ -89,9 +89,6 @@ Seguir a ↗️dretes i ╣ desviar a ↖️l&apos;esquerra 🔺amunt</cmt>
     <desc>Gir ➡️dreta per creuar per ︵ pont. 
 Seguir a ↗️dretes i ╣ desviar a ↖️l&apos;esquerra 🔺amunt</desc>
     <sym>Bridge</sym>
-  </wpt>
-  <wpt lat="0" lon="0">
-    <ele>0</ele>
   </wpt>
   <wpt lat="41.682823" lon="2.475323">
     <ele>159.71626665429287</ele>
