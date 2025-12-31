@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <gpx creator="https://gpx.studio" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/PowerExtension/v1 http://www.garmin.com/xmlschemas/PowerExtensionv1.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxpx="http://www.garmin.com/xmlschemas/PowerExtension/v1" xmlns:gpx_style="http://www.topografix.com/GPX/gpx_style/0/2">
   <metadata>
-    <name>18.A1 Alternativa Cerdanyola</name>
+    <name>18.A0 Alternativa Cerdanyola</name>
     <desc>Etapa 18 PK 6,82 Plaça d&apos;Europa - Av Guiera - Av Canaletes - Etapa 18 PK 9,29 Parc de la Riera tot per carril bici per evitar fang de la Riera de Sant Cugat</desc>
     <author>
       <name>gpx.studio</name>
@@ -67,7 +67,7 @@ a ↘️🧭SW a Sant Cugat per etapa 18 pel Parc de la Riera</desc>
     <sym>Crossing</sym>
   </wpt>
   <trk>
-    <name>18.A1 Alternativa Cerdanyola</name>
+    <name>18.A0 Alternativa Cerdanyola</name>
     <trkseg>
       <trkpt lat="41.484941" lon="2.128171">
         <ele>85.75</ele>
