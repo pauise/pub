@@ -73,7 +73,7 @@
         {"km": 18.68, "paviment": 1},
         {"km": 18.78, "paviment": 4},
         {"km": 18.86, "paviment": 1},
-        {"km": 18.95., "paviment": 1},
+        {"km": 18.95, "paviment": 1},
         {"km": 19.46, "paviment": 1}
       ]
   }
