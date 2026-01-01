@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx creator="https://gpx.studio" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/PowerExtension/v1 http://www.garmin.com/xmlschemas/PowerExtensionv1.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxpx="http://www.garmin.com/xmlschemas/PowerExtension/v1" xmlns:gpx_style="http://www.topografix.com/GPX/gpx_style/0/2">
+  <metadata>
+    <name>22.55 Enllaç Estació Riells-Viabrea-Breda</name>
+    <desc>Etapa 22 PK 8,75 - Estació Riells-Viabrea-Breda R2 R11</desc>
+    <author>
+      <name>gpx.studio</name>
+      <link href="https://gpx.studio"/>
+    </author>
+  </metadata>
+  <wpt lat="41.721108" lon="2.572004">
+    <ele>92.10208285297308</ele>
+    <name>🟢Enllaç a 🚉Breda</name>
+    <cmt>Etapa 22 PK 8,75 ╣⬅️🧭NW</cmt>
+    <desc>Etapa 22 PK 8,75 ╣⬅️🧭NW</desc>
+    <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="41.725024" lon="2.57068">
+    <ele>88.03768789550712</ele>
+    <name>2 ╬⚠️🚗⬆️</name>
+    <cmt>Creuem ╬ C-35 amb ⚠️precaució 🚗trànsit i seguim ⬆️recte</cmt>
+    <desc>Creuem ╬ C-35 amb ⚠️precaució 🚗trànsit i seguim ⬆️recte</desc>
+    <sym>Alert</sym>
+  </wpt>
+  <wpt lat="41.725731" lon="2.570468">
+    <ele>87.63902466751257</ele>
+    <name>3 ╠➡️</name>
+    <cmt>╠ Desviar a la ➡️dreta</cmt>
+    <desc>╠ Desviar a la ➡️dreta</desc>
+    <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="41.7261922651135" lon="2.5713370951125967">
+    <ele>86.44833492257222</ele>
+    <name>4 ╦⚠️🚗⬅️🚶</name>
+    <cmt>Trobem ╦ GIV-5523. Amb ⚠️precaució 🚗trànsit anem a ⬅️l&apos;esquerra pel voral esquerra a 🚶peu</cmt>
+    <desc>Trobem ╦ GIV-5523. Amb ⚠️precaució 🚗trànsit anem a ⬅️l&apos;esquerra pel voral esquerra a 🚶peu</desc>
+    <sym>Alert</sym>
+  </wpt>
+  <wpt lat="41.726801" lon="2.571062">
+    <ele>85.4136630539795</ele>
+    <name>5 ╣⬅️</name>
+    <cmt>╣ Desviar per la carretera d&apos;accès a l&apos;estació a ⬅️l&apos;esquerra</cmt>
+    <desc>╣ Desviar per la carretera d&apos;accès a l&apos;estació a ⬅️l&apos;esquerra</desc>
+    <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="41.726261" lon="2.569229">
+    <ele>85.89901867494969</ele>
+    <name>🏁Final enllaç 🚉Breda</name>
+    <cmt>🚉Estació Riells-Viabrea-Breda R2 R11</cmt>
+    <desc>🚉Estació Riells-Viabrea-Breda R2 R11</desc>
+    <sym>Ground Transportation</sym>
+  </wpt>
+  <trk>
+    <name>22.55 Enllaç Estació Riells-Viabrea-Breda</name>
+    <trkseg>
+      <trkpt lat="41.721102" lon="2.572007">
+        <ele>89.5</ele>
+      </trkpt>
+      <trkpt lat="41.722554" lon="2.571064">
+        <ele>85.25</ele>
+      </trkpt>
+      <trkpt lat="41.722631" lon="2.570992">
+        <ele>84.5</ele>
+      </trkpt>
+      <trkpt lat="41.722781" lon="2.57079">
+        <ele>83</ele>
+      </trkpt>
+      <trkpt lat="41.723092" lon="2.57041">
+        <ele>80.5</ele>
+      </trkpt>
+      <trkpt lat="41.723528" lon="2.569946">
+        <ele>80.5</ele>
+      </trkpt>
+      <trkpt lat="41.723616" lon="2.569866">
+        <ele>81</ele>
+      </trkpt>
+      <trkpt lat="41.723801" lon="2.5698">
+        <ele>81.5</ele>
+      </trkpt>
+      <trkpt lat="41.724246" lon="2.56978">
+        <ele>82.75</ele>
+      </trkpt>
+      <trkpt lat="41.724618" lon="2.569862">
+        <ele>84.75</ele>
+      </trkpt>
+      <trkpt lat="41.724848" lon="2.57031">
+        <ele>86.25</ele>
+      </trkpt>
+      <trkpt lat="41.725" lon="2.570707">
+        <ele>87.75</ele>
+      </trkpt>
+      <trkpt lat="41.725146" lon="2.570708">
+        <ele>87.75</ele>
+      </trkpt>
+      <trkpt lat="41.725748" lon="2.570459">
+        <ele>87.75</ele>
+      </trkpt>
+      <trkpt lat="41.726006" lon="2.5709">
+        <ele>87.25</ele>
+      </trkpt>
+      <trkpt lat="41.726237" lon="2.571424">
+        <ele>86.5</ele>
+      </trkpt>
+      <trkpt lat="41.726266" lon="2.57139">
+        <ele>86.25</ele>
+      </trkpt>
+      <trkpt lat="41.726323" lon="2.571321">
+        <ele>86</ele>
+      </trkpt>
+      <trkpt lat="41.726341" lon="2.5713">
+        <ele>86</ele>
+      </trkpt>
+      <trkpt lat="41.726419" lon="2.571247">
+        <ele>85.75</ele>
+      </trkpt>
+      <trkpt lat="41.726661" lon="2.571128">
+        <ele>85</ele>
+      </trkpt>
+      <trkpt lat="41.726795" lon="2.571062">
+        <ele>85</ele>
+      </trkpt>
+      <trkpt lat="41.72681" lon="2.571054">
+        <ele>85</ele>
+      </trkpt>
+      <trkpt lat="41.726815" lon="2.570975">
+        <ele>84.75</ele>
+      </trkpt>
+      <trkpt lat="41.7268" lon="2.570881">
+        <ele>84.75</ele>
+      </trkpt>
+      <trkpt lat="41.726691" lon="2.570747">
+        <ele>84.75</ele>
+      </trkpt>
+      <trkpt lat="41.726576" lon="2.570478">
+        <ele>84.75</ele>
+      </trkpt>
+      <trkpt lat="41.726284" lon="2.569316">
+        <ele>85.75</ele>
+      </trkpt>
+      <trkpt lat="41.726255" lon="2.56921">
+        <ele>86.75</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
