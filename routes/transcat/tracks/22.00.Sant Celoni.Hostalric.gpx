@@ -2,7 +2,7 @@
 <gpx creator="https://gpx.studio" version="1.1" schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/PowerExtension/v1 http://www.garmin.com/xmlschemas/PowerExtensionv1.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/PowerExtension/v1 http://www.garmin.com/xmlschemas/PowerExtensionv1.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxpx="http://www.garmin.com/xmlschemas/PowerExtension/v1" xmlns:gpx_style="http://www.topografix.com/GPX/gpx_style/0/2">
   <metadata>
     <name>22.00 Sant Celoni - Hostalric</name>
-    <desc>Sant Celoni - Gualba - Breda - Hostalric</desc>
+    <desc>Sant Celoni - Passeig Fluvial La Tordera - La Batllòria - Breda - Les Llobateres - Polígon Industrial Pla de Gaserans - Hostalric - Estació Hostalric</desc>
     <author>
       <name>gpx.studio</name>
       <link href="https://gpx.studio"/>
@@ -73,18 +73,18 @@ Agafem el passeig a ⬅️l&apos;esquerra 🧭N. Fi asfalt
 🧭S a Cardedeu per Alternativa 21.B0</desc>
     <sym>Crossing</sym>
   </wpt>
+  <wpt lat="41.710133" lon="2.533824">
+    <ele>100.41163882729711</ele>
+    <name>9 ╬↗️╣↗️</name>
+    <cmt>╬ Cruïlla. ↗️Lleugerament esquerra i seguit ╣ SPP per la ↗️dreta paral·lels a l&apos;AP-7</cmt>
+    <desc>╬ Cruïlla. ↗️Lleugerament esquerra i seguit ╣ SPP per la ↗️dreta paral·lels a l&apos;AP-7</desc>
+    <sym>Crossing</sym>
+  </wpt>
   <wpt lat="41.713237" lon="2.542956">
     <ele>95.79109858393349</ele>
     <name>10 ╬⬆️</name>
     <cmt>╬ SPP ⬆️recte</cmt>
     <desc>╬ SPP ⬆️recte</desc>
-    <sym>Crossing</sym>
-  </wpt>
-  <wpt lat="41.710133" lon="2.533824">
-    <ele>100.41163882729711</ele>
-    <name>9 ╬⬆️╣↗️</name>
-    <cmt>╬ Cruïlla. ⬆️Recte i seguit ╣ SPP per la ↗️dreta paral·lels a l&apos;AP-7</cmt>
-    <desc>╬ Cruïlla. ⬆️Recte i seguit ╣ SPP per la ↗️dreta paral·lels a l&apos;AP-7</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="41.715414" lon="2.558067">
@@ -203,7 +203,7 @@ Són 340 m de camí o corriol en mal estat que majoritàriament caldrà fer a �
     <name>26 🔄180º↘️︵🚶</name>
     <cmt>🔄Rotonda. Girem 180º i sortir en gir tancat a la ↘️dreta per creuar les vies per la ︵ passarel·la 🚶peatonal</cmt>
     <desc>🔄Rotonda. Girem 180º i sortir en gir tancat a la ↘️dreta per creuar les vies per la ︵ passarel·la 🚶peatonal</desc>
-    <sym>Crossing</sym>
+    <sym>Bridge</sym>
   </wpt>
   <wpt lat="41.747704" lon="2.631462">
     <ele>78.70673779831509</ele>
