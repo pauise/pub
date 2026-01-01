@@ -1,0 +1,16 @@
+{
+    "title": "Enllaç 22 amb Estació Riells-Viabrea-Breda",
+    "full_track_url": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/tracks/22.55.Estaci%C3%B3%20Breda.gpx",
+    "prf": [
+        {"km": 0, "alt": 90},
+        {"km": 0.95, "alt": 87}
+    ],
+    "wps": [
+        {"km": 0, "paviment": 2},
+        {"km": 0.53, "paviment": 1},
+        {"km": 0.62, "paviment": 1},
+        {"km": 0.7, "paviment": 1},
+        {"km": 0.78, "paviment": 1},
+        {"km": 0.95, "paviment": 1}
+      ]
+  }
