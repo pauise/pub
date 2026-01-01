@@ -362,6 +362,12 @@
       "km": 15.92
     },
     {
+      "id": "22.55",
+      "nom": "Estació Breda",
+      "data": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/json/22.55.Estaci%C3%B3%20Breda.json",
+      "km": 0.95
+    },
+    {
       "id": "23.00",
       "nom": "Hostalric - Sils",
       "data": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/json/23.00.Hostalric.Sils.json",
