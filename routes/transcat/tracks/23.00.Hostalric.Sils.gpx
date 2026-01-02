@@ -21,7 +21,7 @@
     <name>2 ╠↖️</name>
     <cmt>╠ Desviar seguint  a ↖️esquerres per la pista de terra. Camí de Massanes</cmt>
     <desc>╠ Desviar seguint  a ↖️esquerres per la pista de terra. Camí de Massanes</desc>
-    <sym>Road</sym>
+    <sym>End of Road</sym>
   </wpt>
   <wpt lat="41.748189" lon="2.633967">
     <ele>70.71806335994111</ele>
@@ -84,7 +84,7 @@
     <name>11 ╠↖️. Fi asfalt</name>
     <cmt>╠ SPP ↖️esquerra</cmt>
     <desc>╠ SPP ↖️esquerra</desc>
-    <sym>Road</sym>
+    <sym>End of Road</sym>
   </wpt>
   <wpt lat="41.77052" lon="2.650845">
     <ele>76.34536325773274</ele>
@@ -107,9 +107,17 @@
     <desc>⬆️Recte creuem ︵ Riera de Santa Coloma</desc>
     <sym>Bridge</sym>
   </wpt>
+  <wpt lat="41.774773" lon="2.672567">
+    <ele>64.53980729626562</ele>
+    <name>15 ╠↖️︵ ╣↗️</name>
+    <cmt>╠ Seguim carretera principal a ↖️esquerres
+Creuem el ︵ pont i seguidament ens ╣ mantenim a la ↗️dreta</cmt>
+    <desc>╠ Seguim carretera principal a ↖️esquerres
+Creuem el ︵ pont i seguidament ens ╣ mantenim a la ↗️dreta</desc>
+    <sym>Crossing</sym>
   <wpt lat="41.774935" lon="2.674623">
     <ele>77.34229556229045</ele>
-    <name>16 ╣⬅️🔺. ⬆️🔻a🚉Maçanet-Massanes</name>
+    <name>16 ╣⬅️🔺. ⬆️🔻a🚉Maçanet</name>
     <cmt>╣ Desviar a ⬅️l&apos;esquerra 🔺amunt per pista. 
 ⬆️recte 🔻avall a 🚉Estació Maçanet-Massanes R1 RG1 R2 R11 en 290m per Enllaç 23.40</cmt>
     <desc>╣ Desviar a ⬅️l&apos;esquerra 🔺amunt per pista. 
@@ -144,14 +152,6 @@
     <desc>Trobem un ╦ carrer en molt mal estat que seguirem a ↗️dretes 🧭NE</desc>
     <sym>Crossing</sym>
   </wpt>
-  <wpt lat="41.774773" lon="2.672567">
-    <ele>64.53980729626562</ele>
-    <name>15 ╠↖️︵ ╣↗️</name>
-    <cmt>╠ Seguim carretera principal a ↖️esquerres
-Creuem el ︵ pont i seguidament ens ╣ mantenim a la ↗️dreta</cmt>
-    <desc>╠ Seguim carretera principal a ↖️esquerres
-Creuem el ︵ pont i seguidament ens ╣ mantenim a la ↗️dreta</desc>
-    <sym>Crossing</sym>
   </wpt>
   <wpt lat="41.779422" lon="2.688759">
     <ele>143.0588074487836</ele>
@@ -179,7 +179,7 @@ Creuem el ︵ pont i seguidament ens ╣ mantenim a la ↗️dreta</desc>
     <name>24 ╠⬆️</name>
     <cmt>╠ Desviacions. Seguim ⬆️recte per camí</cmt>
     <desc>╠ Desviacions. Seguim ⬆️recte per camí</desc>
-    <sym>Road</sym>
+    <sym>End of Road</sym>
   </wpt>
   <wpt lat="41.783993" lon="2.701871">
     <ele>108.6572765992496</ele>
@@ -193,7 +193,7 @@ Creuem el ︵ pont i seguidament ens ╣ mantenim a la ↗️dreta</desc>
     <name>26 🔄1a↗️</name>
     <cmt>🔄Rotonda. Surt per la 1ª a la ↗️dreta</cmt>
     <desc>🔄Rotonda. Surt per la 1ª a la ↗️dreta</desc>
-    <sym>Crossing</sym>
+    <sym>Rotonda</sym>
   </wpt>
   <wpt lat="41.781609" lon="2.704925">
     <ele>112.1801943315206</ele>
@@ -221,7 +221,7 @@ Creuem el ︵ pont i seguidament ens ╣ mantenim a la ↗️dreta</desc>
     <name>30 ╠➡️🚫🚗</name>
     <cmt>╠ Desviar a la ➡️dreta i agafar el Camí de les Monges sense asfaltar i que té unes pedres col·locades per 🚫 barrar el pas als 🚗cotxes</cmt>
     <desc>╠ Desviar a la ➡️dreta i agafar el Camí de les Monges sense asfaltar i que té unes pedres col·locades per 🚫 barrar el pas als 🚗cotxes</desc>
-    <sym>Road</sym>
+    <sym>End of Road</sym>
   </wpt>
   <wpt lat="41.779676" lon="2.717557">
     <ele>105.80389299385605</ele>
@@ -248,7 +248,7 @@ A la nostra ➡️dreta en 100m 🏰Torre de Marata</desc>
   </wpt>
   <wpt lat="41.795222" lon="2.713406">
     <ele>71.97119478537132</ele>
-    <name>34 ︵╠➡️🧭E</name>
+    <name>34 ︵ ╠➡️🧭E</name>
     <cmt>Creuar ︵ pont sobre la Sèquia de Sils i immediatament ╠ desviar ➡️dreta 🧭E</cmt>
     <desc>Creuar ︵ pont sobre la Sèquia de Sils i immediatament ╠ desviar ➡️dreta 🧭E</desc>
     <sym>Crossing</sym>
@@ -270,6 +270,8 @@ A la nostra ➡️dreta en 100m 🏰Torre de Marata</desc>
   <wpt lat="41.805678" lon="2.743662">
     <ele>73.21265108034896</ele>
     <name>37 ╠↖️</name>
+    <cmt>╠ Seguim pel mateix carrer a ↖️esquerres</cmt>
+    <desc>╠ Seguim pel mateix carrer a ↖️esquerres</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="41.806022" lon="2.743357">
@@ -289,17 +291,15 @@ A la nostra ➡️dreta en 100m 🏰Torre de Marata</desc>
   <wpt lat="41.807083" lon="2.74392">
     <ele>75.98796099303293</ele>
     <name>40 ↗️🪜</name>
-    <cmt>↗️Dreta per les 🪜escales. Per la dreta hi ha una rampa que permet pujar la bicicleta més fàcilment</cmt>
-    <desc>↗️Dreta per les 🪜escales. Per la dreta hi ha una rampa que permet pujar la bicicleta més fàcilment</desc>
+    <cmt>↗️Dreta per les 🪜escales d'accès a l'estació. Per la dreta hi ha una rampa que permet pujar la bicicleta més fàcilment</cmt>
+    <desc>↗️Dreta per les 🪜escales d'accès a l'estació. Per la dreta hi ha una rampa que permet pujar la bicicleta més fàcilment</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="41.807555" lon="2.745015">
     <ele>77.5343778561802</ele>
-    <name>41 🏁Final etapa 23 🚉Sils</name>
-    <cmt>🚉Estació de Sils R2 R11
-</cmt>
-    <desc>🚉Estació de Sils R2 R11
-</desc>
+    <name>🏁Final etapa 23 🚉Sils</name>
+    <cmt>🚉Estació de Sils R2 R11</cmt>
+    <desc>🚉Estació de Sils R2 R11</desc>
     <sym>Ground Transportation</sym>
   </wpt>
   <trk>
