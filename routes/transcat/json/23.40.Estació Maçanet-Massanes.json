@@ -1,0 +1,12 @@
+{
+    "title": "Enllaç 23 amb Estació Maçanet-Massanes",
+    "full_track_url": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/tracks/23.40.Estaci%C3%B3%20Ma%C3%A7anet-Massanes.gpx",
+    "prf": [
+        {"km": 0, "alt": 75},
+        {"km": 0.29, "alt": 69}
+    ],
+    "wps": [
+        {"km": 0, "paviment": 1},
+        {"km": 0.29, "paviment": 1}
+      ]
+  }
