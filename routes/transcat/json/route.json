@@ -371,7 +371,13 @@
       "id": "23.00",
       "nom": "Hostalric - Sils",
       "data": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/json/23.00.Hostalric.Sils.json",
-      "km": 1
+      "km": 18.16
+    },
+    {
+      "id": "23.40",
+      "nom": "Estació Maçanet",
+      "data": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/json/23.40.Estaci%C3%B3%20Ma%C3%A7anet-Massanes.json",
+      "km": 0.29
     },
     {
       "id": "24.00",
