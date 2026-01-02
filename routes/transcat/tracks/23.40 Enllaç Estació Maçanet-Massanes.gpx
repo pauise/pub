@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx creator="https://gpx.studio" version="1.1" schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/PowerExtension/v1 http://www.garmin.com/xmlschemas/PowerExtensionv1.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/PowerExtension/v1 http://www.garmin.com/xmlschemas/PowerExtensionv1.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxpx="http://www.garmin.com/xmlschemas/PowerExtension/v1" xmlns:gpx_style="http://www.topografix.com/GPX/gpx_style/0/2">
+  <metadata>
+    <name>23.40 Enllaç Estació Maçanet-Massanes</name>
+    <desc>Etapa 23 PK 7,48 - Estació Maçanet-Massanes</desc>
+    <author>
+      <name>gpx.studio</name>
+      <link href="https://gpx.studio"/>
+    </author>
+  </metadata>
+  <wpt lat="41.774914" lon="2.674613">
+    <ele>77.2447987445635</ele>
+    <name>🟢Etapa 23 PK 7,48 ╣⬆️🧭S</name>
+    <cmt>╣ Cruïlla amb Etapa 23 PK 7,48, seguir ⬆️recte 🧭S.
+🧭E a Sils per Etapa 23
+🧭N a Massanes i Hostalric per Etapa 23</cmt>
+    <desc>╣ Cruïlla amb Etapa 23 PK 7,48, seguir ⬆️recte 🧭S.
+🧭E a Sils per Etapa 23
+🧭N a Massanes i Hostalric per Etapa 23</desc>
+    <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="41.77247" lon="2.674055">
+    <ele>69.25497621590253</ele>
+    <name>🏁Final enllaç 🚉Maçanet-Massanes</name>
+    <cmt>🚉Estació Maçanet-Massanes R1 RG1 R2 R11</cmt>
+    <desc>🚉Estació Maçanet-Massanes R1 RG1 R2 R11</desc>
+    <link href="https://www.adif.es/ca/w/79200-ma%C3%A7anet-massanes"/>
+    <sym>Ground Transportation</sym>
+  </wpt>
+  <trk>
+    <name>23.40 Enllaç Estació Maçanet-Massanes</name>
+    <trkseg>
+      <trkpt lat="41.774918" lon="2.674615">
+        <ele>74.75</ele>
+      </trkpt>
+      <trkpt lat="41.774882" lon="2.674597">
+        <ele>74.75</ele>
+      </trkpt>
+      <trkpt lat="41.774212" lon="2.674054">
+        <ele>70</ele>
+      </trkpt>
+      <trkpt lat="41.774103" lon="2.674029">
+        <ele>70.25</ele>
+      </trkpt>
+      <trkpt lat="41.773916" lon="2.673997">
+        <ele>70.75</ele>
+      </trkpt>
+      <trkpt lat="41.773296" lon="2.673946">
+        <ele>71.75</ele>
+      </trkpt>
+      <trkpt lat="41.77298" lon="2.673948">
+        <ele>70.25</ele>
+      </trkpt>
+      <trkpt lat="41.772456" lon="2.67406">
+        <ele>68.75</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
