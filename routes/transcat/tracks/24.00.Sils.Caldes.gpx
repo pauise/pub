@@ -11,10 +11,10 @@
   <wpt lat="41.807707" lon="2.744869">
     <ele>77.50417393776588</ele>
     <name>🟢🚉Sils 🅿️☕🚾🛂🚰↗️╬⬆️⚕️╠🚶➡️🧭E</name>
-    <cmt>🚉Estació de Sils R2 R11
+    <cmt>🚉Estació de Sils RG1 R11
 Sortint de l&apos;estació a la nostra esquerra tenim el 🅿️parking, ☕bar amb 🚾lavabos, 🛂policia local i una 🚰font.
 Tal com sortim de l&apos;estació a dretes↗️ i a la 1º ╬ cruïlla, ⬆️recte, passem ⚕️farmàcia i a la ╠ carretera Eix Olot-Lloret de Mar C-63 anem per la 🚶vorera ➡️dreta 🧭E</cmt>
-    <desc>🚉Estació de Sils R2 R11
+    <desc>🚉Estació de Sils RG1 R11
 Sortint de l&apos;estació a la nostra esquerra tenim el 🅿️parking, ☕bar amb 🚾lavabos, 🛂policia local i una 🚰font.
 Tal com sortim de l&apos;estació a dretes↗️ i a la 1º ╬ cruïlla, ⬆️recte, passem ⚕️farmàcia i a la ╠ carretera Eix Olot-Lloret de Mar C-63 anem per la 🚶vorera ➡️dreta 🧭E</desc>
     <link href="https://www.adif.es/ca/-/79202-sils"/>
@@ -46,7 +46,7 @@ Tal com sortim de l&apos;estació a dretes↗️ i a la 1º ╬ cruïlla, ⬆️
     <name>5 ╣⬆️</name>
     <cmt>Mentre el ╣carrer es desvia a l&apos;esquerra, nosaltres seguim ⬆️recte per pista de terra</cmt>
     <desc>Mentre el ╣carrer es desvia a l&apos;esquerra, nosaltres seguim ⬆️recte per pista de terra</desc>
-    <sym>Road</sym>
+    <sym>End of Road</sym>
   </wpt>
   <wpt lat="41.811089" lon="2.751984">
     <ele>77.31675063669798</ele>
@@ -195,7 +195,7 @@ A la nostra dreta poder podem veure el 📷Pantà de Can Matllo/Llac del Cigne</
     <name>26 ⬆️🧭N</name>
     <cmt>Fi asfalt, seguim ⬆️recte per camí 🧭N</cmt>
     <desc>Fi asfalt, seguim ⬆️recte per camí 🧭N</desc>
-    <sym>Road</sym>
+    <sym>End of Road</sym>
   </wpt>
   <wpt lat="41.840362" lon="2.792693">
     <ele>93.58344804961318</ele>
