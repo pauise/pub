@@ -296,9 +296,16 @@ A la ➡️ tenim com 🔚escaptòria el 🏕️Càmping Mas Sant Josep en uns 5
 🔚Escapatòria a 🏕️Càmping Valldaro a ⬅️l&apos;esquerra</desc>
     <sym>Exit</sym>
   </wpt>
+  <wpt lat="41.810886" lon="3.053394">
+    <ele>5.877455033521931</ele>
+    <name>37 ╣↗️⌒ ╣↗️</name>
+    <cmt>╣Desviar ↗️dreta pel ⌒ pas subterrani i  ╣seguir a ↗️dretes per seguir paral·lels a el Riu Ridaura</cmt>
+    <desc>╣Desviar ↗️dreta pel ⌒ pas subterrani i  ╣seguir a ↗️dretes per seguir paral·lels a el Riu Ridaura</desc>
+    <sym>Tunnel</sym>
+  </wpt>
   <wpt lat="41.809985" lon="3.05663">
     <ele>3.6594171111788403</ele>
-    <name>37 ╣⬆️</name>
+    <name>38 ╣⬆️</name>
     <cmt>╣Desviem ⬆️recte per camí GR-92 tram curt</cmt>
     <desc>╣Desviem ⬆️recte per camí GR-92 tram curt</desc>
     <sym>Crossing</sym>
