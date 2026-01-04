@@ -386,6 +386,12 @@
       "km": 9.15
     },
     {
+      "id": "24.99",
+      "nom": "Estació Caldes de Malavella",
+      "data": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/json/24.99.Estaci%C3%B3%20Caldes.json",
+      "km": 0.11
+    },
+    {
       "id": "25.00",
       "nom": "Caldes de Malavella - Platja d'Aro",
       "data": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/json/25.00.Caldes.Platja%20d'Aro.json",
