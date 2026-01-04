@@ -152,6 +152,83 @@ Creuem el ︵ pont i seguidament ens ╣ mantenim a la ↗️dreta</desc>
     <desc>Trobem un ╦ carrer en molt mal estat que seguirem a ↗️dretes 🧭NE</desc>
     <sym>Crossing</sym>
   </wpt>
+  <wpt lat="41.779422" lon="2.688759">
+    <ele>143.0588074487836</ele>
+    <name>21 🏘️Inici asfalt</name>
+    <cmt>🏘️Primeres cases urbanització Maçanet Residencial Parc</cmt>
+    <desc>🏘️Primeres cases urbanització Maçanet Residencial Parc</desc>
+    <sym>Road</sym>
+  </wpt>
+  <wpt lat="41.780135" lon="2.691078">
+    <ele>165.1953973176346</ele>
+    <name>22 ↖️</name>
+    <cmt>Mantenir a ↖️esquerres</cmt>
+    <desc>Mantenir a ↖️esquerres</desc>
+    <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="41.782849" lon="2.694942">
+    <ele>156.04824463879692</ele>
+    <name>23 ╣⬅️</name>
+    <cmt>╣ Desviar ⬅️esquerra</cmt>
+    <desc>╣ Desviar ⬅️esquerra</desc>
+    <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="41.784299" lon="2.695738">
+    <ele>143.10100886986896</ele>
+    <name>24 ╠⬆️</name>
+    <cmt>╠ Desviacions. Seguim ⬆️recte per camí</cmt>
+    <desc>╠ Desviacions. Seguim ⬆️recte per camí</desc>
+    <sym>End of Road</sym>
+  </wpt>
+  <wpt lat="41.783993" lon="2.701871">
+    <ele>108.6572765992496</ele>
+    <name>25 ╠↖️</name>
+    <cmt>╠ Seguim pel camí a ↖️l&apos;esquerra</cmt>
+    <desc>╠ Seguim pel camí a ↖️l&apos;esquerra</desc>
+    <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="41.782305" lon="2.704747">
+    <ele>115.6783909127541</ele>
+    <name>26 🔄1a↗️</name>
+    <cmt>🔄Rotonda. Surt per la 1ª a la ↗️dreta</cmt>
+    <desc>🔄Rotonda. Surt per la 1ª a la ↗️dreta</desc>
+    <sym>Rotonda</sym>
+  </wpt>
+  <wpt lat="41.781609" lon="2.704925">
+    <ele>112.1801943315206</ele>
+    <name>27 ╣⬅️</name>
+    <cmt>╣ Desviar a ⬅️l&apos;esquerra</cmt>
+    <desc>╣ Desviar a ⬅️l&apos;esquerra</desc>
+    <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="41.780409" lon="2.711255">
+    <ele>119.14485994009362</ele>
+    <name>28 ╬↖️</name>
+    <cmt>╬ Cruïlla. A ↖️l&apos;esquerra</cmt>
+    <desc>╬ Cruïlla. A ↖️l&apos;esquerra</desc>
+    <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="41.779434" lon="2.712072">
+    <ele>126.15467537003454</ele>
+    <name>29 ╦⬅️🔺</name>
+    <cmt>Al ╦ cal del carrer ⬅️esquerra 🔺amunt</cmt>
+    <desc>Al ╦ cal del carrer ⬅️esquerra 🔺amunt</desc>
+    <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="41.779444" lon="2.712933">
+    <ele>132.50451505496605</ele>
+    <name>30 ╠➡️🚫🚗</name>
+    <cmt>╠ Desviar a la ➡️dreta i agafar el Camí de les Monges sense asfaltar i que té unes pedres col·locades per 🚫 barrar el pas als 🚗cotxes</cmt>
+    <desc>╠ Desviar a la ➡️dreta i agafar el Camí de les Monges sense asfaltar i que té unes pedres col·locades per 🚫 barrar el pas als 🚗cotxes</desc>
+    <sym>End of Road</sym>
+  </wpt>
+  <wpt lat="41.779676" lon="2.717557">
+    <ele>105.80389299385605</ele>
+    <name>31 ╣⬅️🧭N 📷</name>
+    <cmt>╣Desviar ⬅️esquerra 🧭N. 📷Bona panoràmica de Torre de Marata</cmt>
+    <desc>╣Desviar ⬅️esquerra 🧭N. 📷Bona panoràmica de Torre de Marata</desc>
+    <sym>Crossing</sym>
+  </wpt>
   <wpt lat="41.783322" lon="2.717523">
     <ele>114.55615790044514</ele>
     <name>32 ╬⬆️. A ➡️100m 🏰Torre de Marata</name>
