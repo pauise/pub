@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxpx="http://www.garmin.com/xmlschemas/PowerExtension/v1" xmlns:gpx_style="http://www.topografix.com/GPX/gpx_style/0/2" creator="https://gpx.studio" version="1.1" schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/PowerExtension/v1 http://www.garmin.com/xmlschemas/PowerExtensionv1.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/PowerExtension/v1 http://www.garmin.com/xmlschemas/PowerExtensionv1.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd">
+  <metadata>
+    <name>24.99 Estació Caldes</name>
+    <desc>Final Etapa 24 o Inici Etapa 25 - Estació de Caldes de Malavella</desc>
+    <author>
+      <name>gpx.studio</name>
+      <link href="https://gpx.studio"/>
+    </author>
+  </metadata>
+  <wpt lat="41.840934" lon="2.800658">
+    <ele>94.90000000000146</ele>
+    <name>🟢🚉Caldes de Malavella</name>
+    <link href="https://www.adif.es/ca/-/79203-caldes-malavella"/>
+    <sym>Ground Transportation</sym>
+  </wpt>
+  <wpt lat="41.840185" lon="2.801506">
+    <ele>91.15440248813582</ele>
+    <name>2 ╣⬅️</name>
+    <cmt>╣Desviar a ⬅️esquerra</cmt>
+    <desc>╣Desviar a ⬅️esquerra</desc>
+    <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="41.840689" lon="2.803031">
+    <ele>91.62414980070355</ele>
+    <name>3🔄1ª↗️</name>
+    <cmt>🔄Rotonda. Surt per la 1ª a la ↗️dreta</cmt>
+    <desc>🔄Rotonda. Surt per la 1ª a la ↗️dreta</desc>
+    <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="41.840094" lon="2.806101">
+    <ele>96.81525627118637</ele>
+    <name>4🔄⬆️⛔🚗</name>
+    <cmt>🔄Rotonda. Seguim ⬆️recte per ⛔sentit prohibit, si ve algún 🚗cotxe, hi ha vorera</cmt>
+    <desc>🔄Rotonda. Seguim ⬆️recte per ⛔sentit prohibit, si ve algún 🚗cotxe, hi ha vorera</desc>
+    <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="41.839384" lon="2.809317">
+    <ele>99.18847369556384</ele>
+    <name>5↗️≡≡↗️🧭S</name>
+    <cmt>↗️Dreta abans de la rotonda i creuar els 2 ≡ passos de zebra i agafem el ↗️carrer pel vell mig del casc antic 🧭S</cmt>
+    <desc>↗️Dreta abans de la rotonda i creuar els 2 ≡ passos de zebra i agafem el ↗️carrer pel vell mig del casc antic 🧭S</desc>
+    <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="41.837123" lon="2.809715">
+    <ele>98.24850096679597</ele>
+    <name>6↖️🌳⬅️🧭E</name>
+    <cmt>↖️Seguim per l'esquerra per la🌳Plaça de la Creu
+⬅️Esquerra🧭direcció E</cmt>
+    <desc>↖️Seguim per l'esquerra per la🌳Plaça de la Creu
+⬅️Esquerra🧭direcció E</desc>
+    <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="41.836875" lon="2.811773">
+    <ele>109.81790165333096</ele>
+    <name>7🌳🥪🚲</name>
+    <cmt>🌳Parc per a la gent gran amb 🥪taules de picnic a la nostra esquerra.
+Inici 🚲carril bici cap a cementiri i urbanització Aigües Bones</cmt>
+    <desc>🌳Parc per a la gent gran amb 🥪taules de picnic a la nostra esquerra.
+Inici 🚲carril bici cap a cementiri i urbanització Aigües Bones</desc>
+    <sym>Bike Trail</sym>
+  </wpt>
+  <wpt lat="41.83474" lon="2.819361">
+    <ele>134.56387375309163</ele>
+    <name>8 ╠↗️🧭SE</name>
+    <cmt>╠ Seguim pel carrer d'Osona a mà ↗️dreta 🧭direcció SE</cmt>
+    <desc>╠ Seguim pel carrer d'Osona a mà ↗️dreta 🧭direcció SE</desc>
+    <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="41.833637" lon="2.821044">
+    <ele>125.42745970297075</ele>
+    <name>9 ╣↖️</name>
+    <cmt>╣Seguim per ↖️l'esquerra</cmt>
+    <desc>╣Seguim per ↖️l'esquerra</desc>
+    <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="41.826025" lon="2.825454">
+    <ele>150.4939360935242</ele>
+    <name>12 ⬆️</name>
+    <cmt>Continuem ⬆️recte per pista de terra</cmt>
+    <desc>Continuem ⬆️recte per pista de terra</desc>
+    <sym>Road</sym>
+  </wpt>
+  <wpt lat="41.829408" lon="2.821597">
+    <ele>143.8111604798789</ele>
+    <name>11 ╣⬅️</name>
+    <cmt>╣Desviar a ⬅️l'esquerra</cmt>
+    <desc>╣Desviar a ⬅️l'esquerra</desc>
+    <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="41.815171" lon="2.829734">
+    <ele>164.70680869687385</ele>
+    <name>12b ╣⬅️</name>
+    <cmt>╣Desviar ⬅️esquerra</cmt>
+    <desc>╣Desviar ⬅️esquerra</desc>
+    <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="41.816661" lon="2.842778">
+    <ele>160.5921640550954</ele>
+    <name>13 ╣⬅️╠↖️</name>
+    <cmt>╣Desviar 90º ⬅️esquerra en uns metres ╠ SPP a ↖️ esquerra descartant una pista secundària a la nostra dreta</cmt>
+    <desc>╣Desviar 90º ⬅️esquerra en uns metres ╠ SPP a ↖️ esquerra descartant una pista secundària a la nostra dreta</desc>
+    <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="41.827424" lon="2.846731">
+    <ele>132.49485094168006</ele>
+    <name>14 ╠↗️╦➡️</name>
+    <cmt>╠ Desviar pel camí de la ↗️dreta per retallar ruta
+En uns 30m ╦ desemboquem a una pista més important i la seguim a la ➡️dreta</cmt>
+    <desc>╠ Desviar pel camí de la ↗️dreta per retallar ruta
+En uns 30m ╦ desemboquem a una pista més important i la seguim a la ➡️dreta</desc>
+    <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="41.826653" lon="2.850195">
+    <ele>129.31024669511712</ele>
+    <name>15 ╦⬅️</name>
+    <cmt>╦ Cruïlla. ⬅️Esquerra</cmt>
+    <desc>╦ Cruïlla. ⬅️Esquerra</desc>
+    <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="41.832387" lon="2.856492">
+    <ele>129.72272022585688</ele>
+    <name>16 ╠➡️</name>
+    <cmt>╠ Desviar ➡️Dreta quan som molt pròxims a la carretera GI-674 que a la dreta també ens duria a Llagostera</cmt>
+    <desc>╠ Desviar ➡️Dreta quan som molt pròxims a la carretera GI-674 que a la dreta també ens duria a Llagostera</desc>
+    <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="41.822381" lon="2.858837">
+    <ele>142.16968192090363</ele>
+    <name>17 ╣⬆️. ⬅️ a 🛏️Can Gascons</name>
+    <cmt>╣ Cruïlla ⬆️ Seguim recte
+Si aneu amb nens, a ⬅️l'esquerra teniu 🛏️allotjament en un punt ideal per dividir aquesta etapa per la meïtat ja que els 20 kms que us quedarien serien la majoria de carrilet amb 5 de pujada suau i 15 de baixada suau i pla.</cmt>
+    <desc>╣ Cruïlla ⬆️ Seguim recte
+Si aneu amb nens, a ⬅️l'esquerra teniu 🛏️allotjament en un punt ideal per dividir aquesta etapa per la meïtat ja que els 20 kms que us quedarien serien la majoria de carrilet amb 5 de pujada suau i 15 de baixada suau i pla.</desc>
+    <sym>Exit</sym>
+  </wpt>
+  <wpt lat="41.822945" lon="2.868682">
+    <ele>157.10457146115397</ele>
+    <name>18 ╠⬆️🏘️╣s↗️</name>
+    <cmt>╠ SPP ⬆️recte. Inici asfalt 🏘️Urbanització La Mata
+Diverses ╣ desviacions, mantenir ↗️a la dreta</cmt>
+    <desc>╠ SPP ⬆️recte. Inici asfalt 🏘️Urbanització La Mata
+Diverses ╣ desviacions, mantenir ↗️a la dreta</desc>
+    <sym>Road</sym>
+  </wpt>
+  <wpt lat="41.821933" lon="2.872705">
+    <ele>156.21207701326486</ele>
+    <name>19 ╣↖️</name>
+    <cmt>╣ Deixem asfalt i ens desviem ↖️ lleugerament a l'esquerra.
+Inici camí</cmt>
+    <desc>╣ Deixem asfalt i ens desviem ↖️ lleugerament a l'esquerra.
+Inici camí</desc>
+    <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="41.825148" lon="2.8846">
+    <ele>124.70589753415047</ele>
+    <name>20 ╠⬆️</name>
+    <cmt>╠ Ens incorporem a pista més important seguint ⬆️recte</cmt>
+    <desc>╠ Ens incorporem a pista més important seguint ⬆️recte</desc>
+    <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="41.826232" lon="2.887704">
+    <ele>121.63011992932356</ele>
+    <name>21 ╬🚲➡️🧭SE⚠️🚲🚶</name>
+    <cmt>╬ Cruïlla amb 🚲Ruta del Carrilet. La seguim a la ➡️dreta cap a Sant Feliu de Guíxols 🧭direcció SE
+⚠️Precaució, és una ruta molt transitada per 🚲ciclistes i 🚶peatons</cmt>
+    <desc>╬ Cruïlla amb 🚲Ruta del Carrilet. La seguim a la ➡️dreta cap a Sant Feliu de Guíxols 🧭direcció SE
+⚠️Precaució, és una ruta molt transitada per 🚲ciclistes i 🚶peatons</desc>
+    <sym>Bike Trail</sym>
+  </wpt>
+  <wpt lat="41.824932" lon="2.888722">
+    <ele>124.70068779224603</ele>
+    <name>22 ≡🌳🍽️🚾🚰🛝ℹ️Llagostera</name>
+    <cmt>≡ Creuem carretera per pas de zebra
+🌳Parc i 🍽️Restaurant El Carril amb 🚾lavabos i 🚰font gratuita per a ciclistes
+🛝Seguint pel carrilet tot seguit parc infantil amb 🚰font i ℹ️Oficina de Turisme a l'edifici de l'antiga estació</cmt>
+    <desc>≡ Creuem carretera per pas de zebra
+🌳Parc i 🍽️Restaurant El Carril amb 🚾lavabos i 🚰font gratuita per a ciclistes
+🛝Seguint pel carrilet tot seguit parc infantil amb 🚰font i ℹ️Oficina de Turisme a l'edifici de l'antiga estació</desc>
+    <sym>Restaurant</sym>
+  </wpt>
+  <wpt lat="41.820859" lon="2.899066">
+    <ele>138.03145410148437</ele>
+    <name>23↗️🚲</name>
+    <cmt>Seguim a ↗️dretes per la 🚲Ruta del Carrilet separat del trànsit</cmt>
+    <desc>Seguim a ↗️dretes per la 🚲Ruta del Carrilet separat del trànsit</desc>
+    <sym>Bike Trail</sym>
+  </wpt>
+  <wpt lat="41.82172" lon="2.906088">
+    <ele>147.74119267265257</ele>
+    <name>24 ➡️⌒</name>
+    <cmt>➡️Dreta per sota ⌒ de la carretera</cmt>
+    <desc>➡️Dreta per sota ⌒ de la carretera</desc>
+    <sym>Tunnel</sym>
+  </wpt>
+  <wpt lat="41.828117" lon="2.945345">
+    <ele>72.05903657381529</ele>
+    <name>25 🍽️🚾</name>
+    <cmt>🍽️Restaurant Ca La Maria amb 🚾lavabos</cmt>
+    <desc>🍽️Restaurant Ca La Maria amb 🚾lavabos</desc>
+    <sym>Restaurant</sym>
+  </wpt>
+  <wpt lat="41.82875" lon="2.959955">
+    <ele>62.11559090886295</ele>
+    <name>26 ╬⬆️🔚🏕️Càmping Ridaura</name>
+    <cmt>╬ Cruïlla . Seguim ⬆️recte 
+A la dreta accès a 🏕️Càmping Ridaura amb bungalows</cmt>
+    <desc>╬ Cruïlla . Seguim ⬆️recte 
+A la dreta accès a 🏕️Càmping Ridaura amb bungalows</desc>
+    <sym>Exit</sym>
+  </wpt>
+  <wpt lat="41.828276" lon="2.979713">
+    <ele>56.23526794551522</ele>
+    <name>27 🍽️🚾</name>
+    <cmt>🍽️Restaurant Font Picant amb 🚾lavabos</cmt>
+    <desc>🍽️Restaurant Font Picant amb 🚾lavabos</desc>
+    <sym>Restaurant</sym>
+  </wpt>
+  <wpt lat="41.812817" lon="3.009591">
+    <ele>34.2743646113209</ele>
+    <name>28 🍽️25m ╬⬆️🚲. ➡️ a 🔚🏕️en 500m </name>
+    <cmt>🍽️Grill Ruta Baviera
+En 25m ╬ Cruïlla, ⬆️Recte per 🚲carril bici
+A la ➡️ tenim com 🔚escaptòria el 🏕️Càmping Mas Sant Josep en uns 500m</cmt>
+    <desc>🍽️Grill Ruta Baviera
+En 25m ╬ Cruïlla, ⬆️Recte per 🚲carril bici
+A la ➡️ tenim com 🔚escaptòria el 🏕️Càmping Mas Sant Josep en uns 500m</desc>
+    <sym>Exit</sym>
+  </wpt>
+  <wpt lat="41.813735" lon="3.030919">
+    <ele>20.771415873595046</ele>
+    <name>29🔧🚾🌳📷Antiga Estació Castell d'Aro</name>
+    <cmt>🔧Centre BTT Baix Empordà
+🚾Lavabos i🌳Parc
+📷Edifici antiga estació Castell d'Aro i petita locomotora</cmt>
+    <desc>🔧Centre BTT Baix Empordà
+🚾Lavabos i🌳Parc
+📷Edifici antiga estació Castell d'Aro i petita locomotora</desc>
+    <sym>Camera</sym>
+  </wpt>
+  <wpt lat="41.809938" lon="3.037127">
+    <ele>16.684245903278608</ele>
+    <name>30 ╣⬅️🚲🔚🏕️Càmping Rimbau⬆️</name>
+    <cmt> ╣Desviar ⬅️Esquerra abandonant Ruta del Carrilet i agafant carril bici sense asfaltar però en molt bon estat
+🔚Escapatòria a 🏕️Càmping Rimbau⬆️</cmt>
+    <desc> ╣Desviar ⬅️Esquerra abandonant Ruta del Carrilet i agafant carril bici sense asfaltar però en molt bon estat
+🔚Escapatòria a 🏕️Càmping Rimbau⬆️</desc>
+    <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="41.812411" lon="3.042286">
+    <ele>9.819584607566485</ele>
+    <name>31 ╣↗️.🔚🏕️Càmping Valldaro⬅️</name>
+    <cmt>╣SPP ↗️a dretes
+🔚Escapatòria a 🏕️Càmping Valldaro a ⬅️l'esquerra</cmt>
+    <desc>╣SPP ↗️a dretes
+🔚Escapatòria a 🏕️Càmping Valldaro a ⬅️l'esquerra</desc>
+    <sym>Exit</sym>
+  </wpt>
+  <wpt lat="41.809985" lon="3.05663">
+    <ele>3.6594171111788403</ele>
+    <name>32 ╣⬆️</name>
+    <cmt>╣Desviem ⬆️recte per camí GR-92 tram curt</cmt>
+    <desc>╣Desviem ⬆️recte per camí GR-92 tram curt</desc>
+    <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="41.809121" lon="3.058473">
+    <ele>6.664311541384683</ele>
+    <name>🪜🏁Final Etapa 25: 🏘️Platja d'Aro</name>
+    <cmt>Pujem les 🪜escales i arribem al carrer principal que creua tot 🏘️Platja d'Aro.
+A Palafrugell per Etapa 26 ⬅️esquerra 🧭NE sense creuar la carretera seguim per l'acera a mà esquerra cap al centre de Platja d'Aro
+A 🏨Hotel Platja d'Aro ➡️dreta 🧭SW en 100m</cmt>
+    <desc>Pujem les 🪜escales i arribem al carrer principal que creua tot 🏘️Platja d'Aro.
+A Palafrugell per Etapa 26 ⬅️esquerra 🧭NE sense creuar la carretera seguim per l'acera a mà esquerra cap al centre de Platja d'Aro
+A 🏨Hotel Platja d'Aro ➡️dreta 🧭SW en 100m</desc>
+    <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="41.835058" lon="2.819098">
+    <ele>133.985423670876</ele>
+    <name>7b 🏘️🚳╣↖️</name>
+    <cmt>🏘️Urbanització Aigües Bones
+🚳Fi carril bici ╣desviar a ↖️l'esquerra per un camí que ens retalla la curva de la carretera</cmt>
+    <desc>🏘️Urbanització Aigües Bones
+🚳Fi carril bici ╣desviar a ↖️l'esquerra per un camí que ens retalla la curva de la carretera</desc>
+    <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="41.833538" lon="2.822411">
+    <ele>132.58560297302984</ele>
+    <name>10 ╠↗️╠↗️🧭S</name>
+    <cmt>Ens ╠ incorporem a ↗️dreta 2 cops seguits 🧭S</cmt>
+    <desc>Ens ╠ incorporem a ↗️dreta 2 cops seguits 🧭S</desc>
+    <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="41.821194" lon="2.859635">
+    <ele>147.90000000000146</ele>
+    <name>17b ╬↙️</name>
+    <cmt>╬ Cruïlla. Gir tancat ↙️esquerra</cmt>
+    <desc>╬ Cruïlla. Gir tancat ↙️esquerra</desc>
+    <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="41.813896" lon="3.002327">
+    <ele>35.720378465625025</ele>
+    <name>27b 🚰</name>
+    <cmt>🚰Font. Antiga estació de Santa Cristina d'Aro</cmt>
+    <desc>🚰Font. Antiga estació de Santa Cristina d'Aro</desc>
+    <sym>Water Source</sym>
+  </wpt>
+  <trk>
+    <name>24.99 Estació Caldes</name>
+    <extensions>
+      <gpx_style:line>
+        <gpx_style:color>dbbe06</gpx_style:color>
+      </gpx_style:line>
+    </extensions>
+    <trkseg>
+    <trkpt lat="41.840175" lon="2.80153">
+        <ele>91.5</ele>
+      </trkpt>
+      <trkpt lat="41.840180527053974" lon="2.8015226891175398">
+        <ele>91.5309359043848</ele>
+      </trkpt>
+      <trkpt lat="41.840711" lon="2.800821">
+        <ele>94.5</ele>
+      </trkpt>
+      <trkpt lat="41.840802" lon="2.800808">
+        <ele>94.75</ele>
+      </trkpt>
+      <trkpt lat="41.840864" lon="2.800745">
+        <ele>94.75</ele>
+      </trkpt>
+      <trkpt lat="41.840904" lon="2.800692">
+        <ele>94.5</ele>
+      </trkpt>
+      <trkpt lat="41.840941" lon="2.80065">
+        <ele>94.25</ele>
+      </trkpt>
+      </trkseg>
+  </trk>
+</gpx>
