@@ -8,38 +8,43 @@
       <link href="https://gpx.studio"/>
     </author>
   </metadata>
-  <wpt lat="41.840934" lon="2.800658">
-    <ele>94.90000000000146</ele>
-    <name>🟢🚉Caldes de Malavella</name>
-    <link href="https://www.adif.es/ca/-/79203-caldes-malavella"/>
-    <sym>Ground Transportation</sym>
-  </wpt>
   <wpt lat="41.840185" lon="2.801506">
     <ele>91.15440248813582</ele>
-    <name>2 ╣⬅️</name>
-    <cmt>╣Desviar a ⬅️esquerra</cmt>
-    <desc>╣Desviar a ⬅️esquerra</desc>
+    <name>🟢Caldes de Malavella ╣⬅️🧭NE</name>
+    <cmt>╣ Si venim de l&apos;estació, desviar a ⬅️esquerra 🧭NE:
+🧭NW a 🚉Estació Caldes de Malavella RG1 R11
+🧭S a Sils per Etapa 24</cmt>
+    <desc>╣ Si venim de l&apos;estació, desviar a ⬅️esquerra 🧭NE:
+🧭NW a 🚉Estació Caldes de Malavella RG1 R11
+🧭S a Sils per Etapa 24</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="41.840689" lon="2.803031">
     <ele>91.62414980070355</ele>
-    <name>3 🔄1ª↗️</name>
+    <name>2🔄1ª↗️</name>
     <cmt>🔄Rotonda. Surt per la 1ª a la ↗️dreta</cmt>
     <desc>🔄Rotonda. Surt per la 1ª a la ↗️dreta</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="41.840094" lon="2.806101">
     <ele>96.81525627118637</ele>
-    <name>4 🔄⬆️⛔🚗</name>
+    <name>3🔄⬆️⛔🚗</name>
     <cmt>🔄Rotonda. Seguim ⬆️recte per ⛔sentit prohibit, si ve algún 🚗cotxe, hi ha vorera</cmt>
     <desc>🔄Rotonda. Seguim ⬆️recte per ⛔sentit prohibit, si ve algún 🚗cotxe, hi ha vorera</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="41.839384" lon="2.809317">
     <ele>99.18847369556384</ele>
-    <name>5 ↗️≡≡↗️🧭S</name>
+    <name>4↗️≡≡↗️🧭S</name>
     <cmt>↗️Dreta abans de la rotonda i creuar els 2 ≡ passos de zebra i agafem el ↗️carrer pel vell mig del casc antic 🧭S</cmt>
     <desc>↗️Dreta abans de la rotonda i creuar els 2 ≡ passos de zebra i agafem el ↗️carrer pel vell mig del casc antic 🧭S</desc>
+    <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="41.838979" lon="2.809588">
+    <ele>100.05059986419528</ele>
+    <name>5 ☕↖️</name>
+    <cmt>Plaça amb ☕Diverses terrasses. Agafem a ↖️l&apos;esquerra</cmt>
+    <desc>Plaça amb ☕Diverses terrasses. Agafem a ↖️l&apos;esquerra</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="41.837123" lon="2.809715">
@@ -312,24 +317,6 @@ A 🏨Hotel Platja d&apos;Aro ➡️dreta 🧭SW en 100m</desc>
       </gpx_style:line>
     </extensions>
     <trkseg>
-      <trkpt lat="41.840941" lon="2.80065">
-        <ele>94.25</ele>
-      </trkpt>
-      <trkpt lat="41.840904" lon="2.800692">
-        <ele>94.5</ele>
-      </trkpt>
-      <trkpt lat="41.840864" lon="2.800745">
-        <ele>94.75</ele>
-      </trkpt>
-      <trkpt lat="41.840802" lon="2.800808">
-        <ele>94.75</ele>
-      </trkpt>
-      <trkpt lat="41.840711" lon="2.800821">
-        <ele>94.5</ele>
-      </trkpt>
-      <trkpt lat="41.840180527053974" lon="2.8015226891175398">
-        <ele>91.5309359043848</ele>
-      </trkpt>
       <trkpt lat="41.840175" lon="2.80153">
         <ele>91.5</ele>
       </trkpt>
