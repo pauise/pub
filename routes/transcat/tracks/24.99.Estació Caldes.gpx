@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxpx="http://www.garmin.com/xmlschemas/PowerExtension/v1" xmlns:gpx_style="http://www.topografix.com/GPX/gpx_style/0/2" creator="https://gpx.studio" version="1.1" schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/PowerExtension/v1 http://www.garmin.com/xmlschemas/PowerExtensionv1.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/PowerExtension/v1 http://www.garmin.com/xmlschemas/PowerExtensionv1.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd">
+  <metadata>
+    <name>24.99 Estació Caldes</name>
+    <desc>Final Etapa 24 o Inici Etapa 25 - Estació de Caldes de Malavella</desc>
+    <author>
+      <name>gpx.studio</name>
+      <link href="https://gpx.studio"/>
+    </author>
+  </metadata>
+  <wpt lat="41.840185" lon="2.801506">
+    <ele>91.15440248813582</ele>
+    <name>🟢Enllaç a 🚉Caldes ╠⬆️🧭NW</name>
+    <cmt>╠ Seguir pel carrer ⬆️recte 🧭NW</cmt>
+    <desc>╠ Seguir pel carrer ⬆️recte 🧭NW</desc>
+    <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="41.840934" lon="2.800658">
+    <ele>94.90000000000146</ele>
+    <name>🏁🚉Caldes de Malavella</name>
+    <link href="https://www.adif.es/ca/-/79203-caldes-malavella"/>
+    <sym>Ground Transportation</sym>
+  </wpt>
+  <trk>
+    <name>24.99 Estació Caldes</name>
+    <extensions>
+      <gpx_style:line>
+        <gpx_style:color>dbbe06</gpx_style:color>
+      </gpx_style:line>
+    </extensions>
+    <trkseg>
+    <trkpt lat="41.840175" lon="2.80153">
+        <ele>91.5</ele>
+      </trkpt>
+      <trkpt lat="41.840180527053974" lon="2.8015226891175398">
+        <ele>91.5309359043848</ele>
+      </trkpt>
+      <trkpt lat="41.840711" lon="2.800821">
+        <ele>94.5</ele>
+      </trkpt>
+      <trkpt lat="41.840802" lon="2.800808">
+        <ele>94.75</ele>
+      </trkpt>
+      <trkpt lat="41.840864" lon="2.800745">
+        <ele>94.75</ele>
+      </trkpt>
+      <trkpt lat="41.840904" lon="2.800692">
+        <ele>94.5</ele>
+      </trkpt>
+      <trkpt lat="41.840941" lon="2.80065">
+        <ele>94.25</ele>
+      </trkpt>
+      </trkseg>
+  </trk>
+</gpx>
