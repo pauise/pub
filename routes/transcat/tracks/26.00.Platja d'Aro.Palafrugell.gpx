@@ -42,7 +42,14 @@ En endavant aniran venint més restaurants, parcs, supermercats i tot tipus de c
     <name>4 🚶↖️≡➡️🚲🧭NE</name>
     <cmt>Creuem a la 🚶vorera de ↖️l&apos;esquerra pel ≡ pas de zebra, seguim a la ➡️dreta i agafem el 🚲carril bici 🧭direcció NE</cmt>
     <desc>Creuem a la 🚶vorera de ↖️l&apos;esquerra pel ≡ pas de zebra, seguim a la ➡️dreta i agafem el 🚲carril bici 🧭direcció NE</desc>
-    <sym>Bike Trail</sym>
+    <sym>Bike Lane</sym>
+  </wpt>
+  <wpt lat="41.827328" lon="3.082212">
+    <ele>34.69549735461528</ele>
+    <name>5 🚲≡</name>
+    <cmt>El 🚲carril bici creua ≡ pas de zebra</cmt>
+    <desc>El 🚲carril bici creua ≡ pas de zebra</desc>
+    <sym>Bike Lane</sym>
   </wpt>
   <wpt lat="41.836402" lon="3.086207">
     <ele>25.912160390651728</ele>
@@ -52,6 +59,29 @@ En endavant aniran venint més restaurants, parcs, supermercats i tot tipus de c
     <desc>Arribem a 🏘️Sant Antoni de Calonge
 🚳╠ Deixem Via Verda de Platja d&apos;Aro a Sant Antoni de Calonge i tombem a la ➡️dreta pel lateral</desc>
     <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="41.837023" lon="3.087055">
+    <ele>36.165557655784916</ele>
+    <name>7 ╠⬆️.🔚🏕️➡️ </name>
+    <cmt>╠ Seguir ⬆️recte.
+🔚Escapatòria 🏕️Càmping Treumal a la nostra➡️dreta. </cmt>
+    <desc>╠ Seguir ⬆️recte.
+🔚Escapatòria 🏕️Càmping Treumal a la nostra➡️dreta. </desc>
+    <sym>Exit</sym>
+  </wpt>
+  <wpt lat="41.837827" lon="3.089067">
+    <ele>41.52471163583718</ele>
+    <name>8 ╠↖️</name>
+    <cmt>╠ Seguir a ↖️l&apos;esquerra</cmt>
+    <desc>╠ Seguir a ↖️l&apos;esquerra</desc>
+    <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="41.838515" lon="3.093522">
+    <ele>4.839966421608563</ele>
+    <name>10 ╦🚲⬅️</name>
+    <cmt>╦ Passeig Marítim. Agafem el 🚲carril bici a ⬅️l&apos;esquerra</cmt>
+    <desc>╦ Passeig Marítim. Agafem el 🚲carril bici a ⬅️l&apos;esquerra</desc>
+    <sym>Bike Lane</sym>
   </wpt>
   <wpt lat="41.838423" lon="3.089805">
     <ele>32.95499936165406</ele>
@@ -98,12 +128,40 @@ Seguir ⬆️recte 🧭N🔻avall per uns 🪜esglaons, creuar C-253 per ⌒ tú
     <desc>╣ SPP ⬆️recte paral·lels a la carretera</desc>
     <sym>Crossing</sym>
   </wpt>
+  <wpt lat="41.852266" lon="3.11558">
+    <ele>3.38294126163351</ele>
+    <name>15 ╦⬅️</name>
+    <cmt>╦ Cruïlla. ⬅️Esquerra</cmt>
+    <desc>╦ Cruïlla. ⬅️Esquerra</desc>
+    <sym>Crossing</sym>
+  </wpt>
   <wpt lat="41.852378" lon="3.115255">
     <ele>3.729718044401051</ele>
     <name>16 ╬⬆️╠➡️⛔🚲</name>
     <cmt>Creuem ╬ l&apos;Avinguda de la Verge de Núria ⬆️recte i immediatament ╠ desviar ➡️dreta per un petit camí asfaltat que indica ⛔sentit prohibit però de fet és un 🚲carril bici tal com veurem més endavant</cmt>
     <desc>Creuem ╬ l&apos;Avinguda de la Verge de Núria ⬆️recte i immediatament ╠ desviar ➡️dreta per un petit camí asfaltat que indica ⛔sentit prohibit però de fet és un 🚲carril bici tal com veurem més endavant</desc>
     <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="41.853517" lon="3.117324">
+    <ele>4.844931907804094</ele>
+    <name>17 ╣↖️</name>
+    <cmt>╣Desviar a ↖️esquerra per caminet</cmt>
+    <desc>╣Desviar a ↖️esquerra per caminet</desc>
+    <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="41.854515" lon="3.118422">
+    <ele>6.112556777196415</ele>
+    <name>18 ➡️≡⬅️🚲</name>
+    <cmt>➡️Dreta per ≡ pas de zebra i ⬅️esquerra pel 🚲carril bici</cmt>
+    <desc>➡️Dreta per ≡ pas de zebra i ⬅️esquerra pel 🚲carril bici</desc>
+    <sym>Bike Trail</sym>
+  </wpt>
+  <wpt lat="41.859314" lon="3.124833">
+    <ele>5.315301311726198</ele>
+    <name>19 ⬆️🚲</name>
+    <cmt>Fi asfalt. Seguim ⬆️recte pel 🚲carril bici / via verda</cmt>
+    <desc>Fi asfalt. Seguim ⬆️recte pel 🚲carril bici / via verda</desc>
+    <sym>Road</sym>
   </wpt>
   <wpt lat="41.861895" lon="3.129396">
     <ele>8.832266342393698</ele>
@@ -114,14 +172,14 @@ Inici Asfalt
     <desc>╦ Desmboquem a un 🚲carril bici, el seguim a la ➡️dreta. 
 Inici Asfalt
 🛒Aldi i Mercadona deixant el carril bici a la rotonda ⬆️recte i en 100m</desc>
-    <sym>Bike Trail</sym>
+    <sym>Bike Lane</sym>
   </wpt>
   <wpt lat="41.862156" lon="3.130285">
     <ele>11.661641124124294</ele>
     <name>21 🚲↖️︵🚲🧭E</name>
     <cmt>Seguim el 🚲carril bici a ↖️esquerres per passar per sota el ︵ de la carretera i seguir 🚲carril bici 🧭E</cmt>
     <desc>Seguim el 🚲carril bici a ↖️esquerres per passar per sota el ︵ de la carretera i seguir 🚲carril bici 🧭E</desc>
-    <sym>Bike Trail</sym>
+    <sym>Bike Lane</sym>
   </wpt>
   <wpt lat="41.862492" lon="3.133781">
     <ele>13.603993364704008</ele>
@@ -137,7 +195,7 @@ Per evitar cotxes de cara, creuar momentàniament fins tenir visibilitat per tor
     <name>23 ≡🚲🧭NE</name>
     <cmt>Creuem ≡ pas de zebra i seguim 🚲carril bici en la mateixa direcció però per l&apos;altra vorera</cmt>
     <desc>Creuem ≡ pas de zebra i seguim 🚲carril bici en la mateixa direcció però per l&apos;altra vorera</desc>
-    <sym>Bike Trail</sym>
+    <sym>Bike Lane</sym>
   </wpt>
   <wpt lat="41.864648" lon="3.136882">
     <ele>17.348290816974572</ele>
@@ -146,7 +204,7 @@ Per evitar cotxes de cara, creuar momentàniament fins tenir visibilitat per tor
 Fi asfalt</cmt>
     <desc>Tombem ↗️lleugerament dreta per iniciar la 🚲Ruta del Tren Petit i seguit a ↖️esquerres
 Fi asfalt</desc>
-    <sym>Bike Trail</sym>
+    <sym>Bike Lane</sym>
   </wpt>
   <wpt lat="41.872407" lon="3.141441">
     <ele>16.23494083453055</ele>
@@ -185,14 +243,14 @@ Fi asfalt</desc>
     <name>29 🚲╠↖️</name>
     <cmt>╠ Seguir per la 🚲via verda a ↖️esquerres</cmt>
     <desc>╠ Seguir per la 🚲via verda a ↖️esquerres</desc>
-    <sym>Crossing</sym>
+    <sym>Bile Lane</sym>
   </wpt>
   <wpt lat="41.906052" lon="3.1607">
     <ele>33.29442133335536</ele>
     <name>30 ⬆️➡️🚲</name>
     <cmt>Prenem la 2ª a la dreta➡️ per la 🚲via verda</cmt>
     <desc>Prenem la 2ª a la dreta➡️ per la 🚲via verda</desc>
-    <sym>Crossing</sym>
+    <sym>Bike Lane</sym>
   </wpt>
   <wpt lat="41.908985" lon="3.155468">
     <ele>42.71331825777966</ele>
@@ -250,66 +308,6 @@ Per l&apos;altre camí a la ↗️dreta 🍽️restaurant La Casona en 25m</desc
 a Palafrugell ➡️dreta: Hotel, Restaurant i Informació Turística en 500m i tots els serveis</cmt>
     <desc>a Etapa 10 ↖️Seguim per l&apos;esquerra
 a Palafrugell ➡️dreta: Hotel, Restaurant i Informació Turística en 500m i tots els serveis</desc>
-  </wpt>
-  <wpt lat="41.827328" lon="3.082212">
-    <ele>34.69549735461528</ele>
-    <name>5 🚲≡</name>
-    <cmt>El 🚲carril bici creua ≡ pas de zebra</cmt>
-    <desc>El 🚲carril bici creua ≡ pas de zebra</desc>
-    <sym>Bike Trail</sym>
-  </wpt>
-  <wpt lat="41.837023" lon="3.087055">
-    <ele>36.165557655784916</ele>
-    <name>7 ╠⬆️.🔚🏕️➡️ </name>
-    <cmt>╠ Seguir ⬆️recte.
-🔚Escapatòria 🏕️Càmping Treumal a la nostra➡️dreta. </cmt>
-    <desc>╠ Seguir ⬆️recte.
-🔚Escapatòria 🏕️Càmping Treumal a la nostra➡️dreta. </desc>
-    <sym>Exit</sym>
-  </wpt>
-  <wpt lat="41.837827" lon="3.089067">
-    <ele>41.52471163583718</ele>
-    <name>8 ╠↖️</name>
-    <cmt>╠ Seguir a ↖️l&apos;esquerra
-</cmt>
-    <desc>╠ Seguir a ↖️l&apos;esquerra
-</desc>
-    <sym>Crossing</sym>
-  </wpt>
-  <wpt lat="41.838515" lon="3.093522">
-    <ele>4.839966421608563</ele>
-    <name>10 ╦🚲⬅️</name>
-    <cmt>╦ Passeig Marítim. Agafem el 🚲carril bici a ⬅️l&apos;esquerra</cmt>
-    <desc>╦ Passeig Marítim. Agafem el 🚲carril bici a ⬅️l&apos;esquerra</desc>
-    <sym>Bike Trail</sym>
-  </wpt>
-  <wpt lat="41.852266" lon="3.11558">
-    <ele>3.38294126163351</ele>
-    <name>15 ╦⬅️</name>
-    <cmt>╦ Cruïlla. ⬅️Esquerra</cmt>
-    <desc>╦ Cruïlla. ⬅️Esquerra</desc>
-    <sym>Crossing</sym>
-  </wpt>
-  <wpt lat="41.853517" lon="3.117324">
-    <ele>4.844931907804094</ele>
-    <name>17 ╣↖️</name>
-    <cmt>╣Desviar a ↖️esquerra per caminet</cmt>
-    <desc>╣Desviar a ↖️esquerra per caminet</desc>
-    <sym>Crossing</sym>
-  </wpt>
-  <wpt lat="41.854515" lon="3.118422">
-    <ele>6.112556777196415</ele>
-    <name>18 ➡️≡⬅️🚲</name>
-    <cmt>➡️Dreta per ≡ pas de zebra i ⬅️esquerra pel 🚲carril bici</cmt>
-    <desc>➡️Dreta per ≡ pas de zebra i ⬅️esquerra pel 🚲carril bici</desc>
-    <sym>Bike Trail</sym>
-  </wpt>
-  <wpt lat="41.859314" lon="3.124833">
-    <ele>5.315301311726198</ele>
-    <name>19 ⬆️🚲</name>
-    <cmt>Fi asfalt. Seguim ⬆️recte pel 🚲carril bici / via verda</cmt>
-    <desc>Fi asfalt. Seguim ⬆️recte pel 🚲carril bici / via verda</desc>
-    <sym>Road</sym>
   </wpt>
   <trk>
     <name>26.00 Platja d&apos;Aro - Palafrugell</name>
