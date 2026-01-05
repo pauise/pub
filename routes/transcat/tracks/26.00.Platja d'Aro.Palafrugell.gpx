@@ -154,7 +154,7 @@ Seguir ⬆️recte 🧭N🔻avall per uns 🪜esglaons, creuar C-253 per ⌒ tú
     <name>18 ➡️≡⬅️🚲</name>
     <cmt>➡️Dreta per ≡ pas de zebra i ⬅️esquerra pel 🚲carril bici</cmt>
     <desc>➡️Dreta per ≡ pas de zebra i ⬅️esquerra pel 🚲carril bici</desc>
-    <sym>Bike Trail</sym>
+    <sym>Bike Lane</sym>
   </wpt>
   <wpt lat="41.859314" lon="3.124833">
     <ele>5.315301311726198</ele>
@@ -243,7 +243,7 @@ Fi asfalt</desc>
     <name>29 🚲╠↖️</name>
     <cmt>╠ Seguir per la 🚲via verda a ↖️esquerres</cmt>
     <desc>╠ Seguir per la 🚲via verda a ↖️esquerres</desc>
-    <sym>Bile Lane</sym>
+    <sym>Bike Lane</sym>
   </wpt>
   <wpt lat="41.906052" lon="3.1607">
     <ele>33.29442133335536</ele>
