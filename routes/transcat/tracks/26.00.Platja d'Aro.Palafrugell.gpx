@@ -294,9 +294,14 @@ Ens incorporem a la 🔄rotonda amb ⚠️precaució 🚗trànsit
 Per l&apos;altre camí a la ↗️dreta 🍽️restaurant La Casona en 25m</desc>
     <sym>Crossing</sym>
   </wpt>
+  <wpt lat="41.913286" lon="3.15336">
+    <ele>61.714498790468234</ele>
+    <name>35 Fi asfalt</name>
+    <sym>End of Road</sym>
+  </wpt>
   <wpt lat="41.913733" lon="3.152076">
     <ele>62.21562213482505</ele>
-    <name>35 ╦↗️</name>
+    <name>36 ╦↗️</name>
     <cmt>╦ Ens incorporem a carrer asfaltat a la ↗️dreta</cmt>
     <desc>╦ Ens incorporem a carrer asfaltat a la ↗️dreta</desc>
     <sym>Crossing</sym>
