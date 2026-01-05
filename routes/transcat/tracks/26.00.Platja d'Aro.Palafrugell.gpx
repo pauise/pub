@@ -161,7 +161,7 @@ Seguir ⬆️recte 🧭N🔻avall per uns 🪜esglaons, creuar C-253 per ⌒ tú
     <name>19 ⬆️🚲</name>
     <cmt>Fi asfalt. Seguim ⬆️recte pel 🚲carril bici / via verda</cmt>
     <desc>Fi asfalt. Seguim ⬆️recte pel 🚲carril bici / via verda</desc>
-    <sym>Road</sym>
+    <sym>End of Road</sym>
   </wpt>
   <wpt lat="41.861895" lon="3.129396">
     <ele>8.832266342393698</ele>
@@ -296,7 +296,9 @@ Per l&apos;altre camí a la ↗️dreta 🍽️restaurant La Casona en 25m</desc
   </wpt>
   <wpt lat="41.913286" lon="3.15336">
     <ele>61.714498790468234</ele>
-    <name>35 Fi asfalt</name>
+    <name>35 🧭W❓🧭NW</name>
+    <cmt>Fi asfalt. Pocs metres 🧭W el camí es ❓perd, virar exactament 🧭NW. Caldrà baixar un petit terraplè</cmt>
+    <desc>Fi asfalt. Pocs metres 🧭W el camí es ❓perd, virar exactament 🧭NW. Caldrà baixar un petit terraplè</desc>
     <sym>End of Road</sym>
   </wpt>
   <wpt lat="41.913733" lon="3.152076">
