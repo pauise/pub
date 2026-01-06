@@ -162,6 +162,154 @@ Si aneu amb nens, a ⬅️l&apos;esquerra teniu 🛏️allotjament en un punt id
     <desc>╬ Cruïlla. Gir tancat ↙️esquerra</desc>
     <sym>Crossing</sym>
   </wpt>
+  <wpt lat="41.822945" lon="2.868682">
+    <ele>157.10457146115397</ele>
+    <name>21 ╠⬆️🏘️╣s↗️</name>
+    <cmt>╠ SPP ⬆️recte. Inici asfalt 🏘️Urbanització La Mata
+Diverses ╣ desviacions, mantenir ↗️a la dreta</cmt>
+    <desc>╠ SPP ⬆️recte. Inici asfalt 🏘️Urbanització La Mata
+Diverses ╣ desviacions, mantenir ↗️a la dreta</desc>
+    <sym>Road</sym>
+  </wpt>
+  <wpt lat="41.821933" lon="2.872705">
+    <ele>156.21207701326486</ele>
+    <name>22 ╣↖️</name>
+    <cmt>╣ Deixem asfalt i ens desviem ↖️ lleugerament a l&apos;esquerra.
+Inici camí</cmt>
+    <desc>╣ Deixem asfalt i ens desviem ↖️ lleugerament a l&apos;esquerra.
+Inici camí</desc>
+    <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="41.825148" lon="2.8846">
+    <ele>124.70589753415047</ele>
+    <name>23 ╠⬆️</name>
+    <cmt>╠ Ens incorporem a pista més important seguint ⬆️recte</cmt>
+    <desc>╠ Ens incorporem a pista més important seguint ⬆️recte</desc>
+    <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="41.826232" lon="2.887704">
+    <ele>121.63011992932356</ele>
+    <name>24 ╬🚲➡️🧭SE⚠️🚲🚶</name>
+    <cmt>╬ Cruïlla amb 🚲Ruta del Carrilet. La seguim a la ➡️dreta cap a Sant Feliu de Guíxols 🧭direcció SE
+⚠️Precaució, és una ruta molt transitada per 🚲ciclistes i 🚶peatons</cmt>
+    <desc>╬ Cruïlla amb 🚲Ruta del Carrilet. La seguim a la ➡️dreta cap a Sant Feliu de Guíxols 🧭direcció SE
+⚠️Precaució, és una ruta molt transitada per 🚲ciclistes i 🚶peatons</desc>
+    <sym>Bike Lane</sym>
+  </wpt>
+  <wpt lat="41.824932" lon="2.888722">
+    <ele>124.70068779224603</ele>
+    <name>25 ≡🌳🍽️🚾🚰🛝ℹ️Llagostera</name>
+    <cmt>≡ Creuem carretera per pas de zebra
+🌳Parc i 🍽️Restaurant El Carril amb 🚾lavabos i 🚰font gratuita per a ciclistes
+🛝Seguint pel carrilet tot seguit parc infantil amb 🚰font i ℹ️Oficina de Turisme a l&apos;edifici de l&apos;antiga estació</cmt>
+    <desc>≡ Creuem carretera per pas de zebra
+🌳Parc i 🍽️Restaurant El Carril amb 🚾lavabos i 🚰font gratuita per a ciclistes
+🛝Seguint pel carrilet tot seguit parc infantil amb 🚰font i ℹ️Oficina de Turisme a l&apos;edifici de l&apos;antiga estació</desc>
+    <sym>Restaurant</sym>
+  </wpt>
+  <wpt lat="41.820859" lon="2.899066">
+    <ele>138.03145410148437</ele>
+    <name>26 ↗️🚲</name>
+    <cmt>Seguim a ↗️dretes per la 🚲Ruta del Carrilet separat del trànsit</cmt>
+    <desc>Seguim a ↗️dretes per la 🚲Ruta del Carrilet separat del trànsit</desc>
+    <sym>Bike Lane</sym>
+  </wpt>
+  <wpt lat="41.82172" lon="2.906088">
+    <ele>147.74119267265257</ele>
+    <name>27 ➡️⌒</name>
+    <cmt>➡️Dreta per sota ⌒ de la carretera</cmt>
+    <desc>➡️Dreta per sota ⌒ de la carretera</desc>
+    <sym>Tunnel</sym>
+  </wpt>
+  <wpt lat="41.825587" lon="2.917402">
+    <ele>129.97660209178025</ele>
+    <name>28 Inici asfalt</name>
+    <sym>Road</sym>
+  </wpt>
+  <wpt lat="41.828117" lon="2.945345">
+    <ele>72.05903657381529</ele>
+    <name>29 🍽️🚾</name>
+    <cmt>🍽️Restaurant Ca La Maria amb 🚾lavabos</cmt>
+    <desc>🍽️Restaurant Ca La Maria amb 🚾lavabos</desc>
+    <sym>Restaurant</sym>
+  </wpt>
+  <wpt lat="41.82875" lon="2.959955">
+    <ele>62.11559090886295</ele>
+    <name>30 ╬⬆️🔚🏕️Càmping Ridaura</name>
+    <cmt>╬ Cruïlla . Seguim ⬆️recte 
+A la dreta accès a 🏕️Càmping Ridaura amb bungalows</cmt>
+    <desc>╬ Cruïlla . Seguim ⬆️recte 
+A la dreta accès a 🏕️Càmping Ridaura amb bungalows</desc>
+    <sym>Exit</sym>
+  </wpt>
+  <wpt lat="41.828276" lon="2.979713">
+    <ele>56.23526794551522</ele>
+    <name>31 🍽️🚾</name>
+    <cmt>🍽️Restaurant Font Picant amb 🚾lavabos</cmt>
+    <desc>🍽️Restaurant Font Picant amb 🚾lavabos</desc>
+    <sym>Restaurant</sym>
+  </wpt>
+  <wpt lat="41.813896" lon="3.002327">
+    <ele>35.720378465625025</ele>
+    <name>32 🚰🏠</name>
+    <cmt>🚰Font. 🏠Antiga estació de Santa Cristina d&apos;Aro</cmt>
+    <desc>🚰Font. 🏠Antiga estació de Santa Cristina d&apos;Aro</desc>
+    <sym>Water Source</sym>
+  </wpt>
+  <wpt lat="41.812817" lon="3.009591">
+    <ele>34.2743646113209</ele>
+    <name>33 🍽️25m ╬⬆️🚲. ➡️ a 🔚🏕️en 500m </name>
+    <cmt>🍽️Grill Ruta Baviera
+En 25m ╬ Cruïlla, ⬆️Recte per 🚲carril bici
+A la ➡️ tenim com 🔚escaptòria el 🏕️Càmping Mas Sant Josep en uns 500m</cmt>
+    <desc>🍽️Grill Ruta Baviera
+En 25m ╬ Cruïlla, ⬆️Recte per 🚲carril bici
+A la ➡️ tenim com 🔚escaptòria el 🏕️Càmping Mas Sant Josep en uns 500m</desc>
+    <sym>Exit</sym>
+  </wpt>
+  <wpt lat="41.813735" lon="3.030919">
+    <ele>20.771415873595046</ele>
+    <name>34 🔧🚾🌳📷Antiga Estació Castell d&apos;Aro</name>
+    <cmt>🔧Centre BTT Baix Empordà
+🚾Lavabos i🌳Parc
+📷Edifici antiga estació Castell d&apos;Aro i petita locomotora</cmt>
+    <desc>🔧Centre BTT Baix Empordà
+🚾Lavabos i🌳Parc
+📷Edifici antiga estació Castell d&apos;Aro i petita locomotora</desc>
+    <sym>Camera</sym>
+  </wpt>
+  <wpt lat="41.809938" lon="3.037127">
+    <ele>16.684245903278608</ele>
+    <name>35 ╣⬅️🚲🔚🏕️Càmping Rimbau⬆️</name>
+    <cmt> ╣Desviar ⬅️Esquerra abandonant Ruta del Carrilet i agafant carril bici sense asfaltar però en molt bon estat
+🔚Escapatòria a 🏕️Càmping Rimbau⬆️</cmt>
+    <desc> ╣Desviar ⬅️Esquerra abandonant Ruta del Carrilet i agafant carril bici sense asfaltar però en molt bon estat
+🔚Escapatòria a 🏕️Càmping Rimbau⬆️</desc>
+    <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="41.812411" lon="3.042286">
+    <ele>9.819584607566485</ele>
+    <name>36 ╣↗️.🔚🏕️Càmping Valldaro⬅️</name>
+    <cmt>╣SPP ↗️a dretes
+🔚Escapatòria a 🏕️Càmping Valldaro a ⬅️l&apos;esquerra</cmt>
+    <desc>╣SPP ↗️a dretes
+🔚Escapatòria a 🏕️Càmping Valldaro a ⬅️l&apos;esquerra</desc>
+    <sym>Exit</sym>
+  </wpt>
+  <wpt lat="41.810886" lon="3.053394">
+    <ele>5.877455033521931</ele>
+    <name>37 ╣↗️⌒ ╣↗️</name>
+    <cmt>╣Desviar ↗️dreta pel ⌒ pas subterrani i  ╣seguir a ↗️dretes per seguir 🚲carril bici per asfalt paral·lels a el Riu Ridaura</cmt>
+    <desc>╣Desviar ↗️dreta pel ⌒ pas subterrani i  ╣seguir a ↗️dretes per seguir 🚲carril bici per asfalt paral·lels a el Riu Ridaura</desc>
+    <sym>Tunnel</sym>
+  </wpt>
+  <wpt lat="41.809985" lon="3.05663">
+    <ele>3.6594171111788403</ele>
+    <name>38 ╣⬆️</name>
+    <cmt>╣Desviem ⬆️recte per camí GR-92 tram curt</cmt>
+    <desc>╣Desviem ⬆️recte per camí GR-92 tram curt</desc>
+    <sym>Crossing</sym>
+  </wpt>
   <wpt lat="41.809121" lon="3.058473">
     <ele>6.664311541384683</ele>
     <name>🪜🏁Final Etapa 25: 🏘️Platja d&apos;Aro</name>
