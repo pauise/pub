@@ -221,17 +221,17 @@ Inici camí</desc>
     <desc>➡️Dreta per sota ⌒ de la carretera</desc>
     <sym>Tunnel</sym>
   </wpt>
+  <wpt lat="41.825587" lon="2.917402">
+    <ele>129.97660209178025</ele>
+    <name>28 Inici asfalt</name>
+    <sym>Road</sym>
+  </wpt>
   <wpt lat="41.828117" lon="2.945345">
     <ele>72.05903657381529</ele>
-    <name>28 🍽️🚾</name>
+    <name>29 🍽️🚾</name>
     <cmt>🍽️Restaurant Ca La Maria amb 🚾lavabos</cmt>
     <desc>🍽️Restaurant Ca La Maria amb 🚾lavabos</desc>
     <sym>Restaurant</sym>
-  </wpt>
-  <wpt lat="41.825587" lon="2.917402">
-    <ele>129.97660209178025</ele>
-    <name>29 Inici asfalt</name>
-    <sym>Road</sym>
   </wpt>
   <wpt lat="41.82875" lon="2.959955">
     <ele>62.11559090886295</ele>
