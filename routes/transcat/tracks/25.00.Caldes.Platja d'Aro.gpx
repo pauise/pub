@@ -196,14 +196,9 @@ Inici camí</desc>
 ⚠️Precaució, és una ruta molt transitada per 🚲ciclistes i 🚶peatons</desc>
     <sym>Bike Lane</sym>
   </wpt>
-  <wpt lat="41.825587" lon="2.917402">
-    <ele>129.97660209178025</ele>
-    <name>25 Inici asfalt</name>
-    <sym>Road</sym>
-  </wpt>
   <wpt lat="41.824932" lon="2.888722">
     <ele>124.70068779224603</ele>
-    <name>26 ≡🌳🍽️🚾🚰🛝ℹ️Llagostera</name>
+    <name>25 ≡🌳🍽️🚾🚰🛝ℹ️Llagostera</name>
     <cmt>≡ Creuem carretera per pas de zebra
 🌳Parc i 🍽️Restaurant El Carril amb 🚾lavabos i 🚰font gratuita per a ciclistes
 🛝Seguint pel carrilet tot seguit parc infantil amb 🚰font i ℹ️Oficina de Turisme a l&apos;edifici de l&apos;antiga estació</cmt>
@@ -214,24 +209,29 @@ Inici camí</desc>
   </wpt>
   <wpt lat="41.820859" lon="2.899066">
     <ele>138.03145410148437</ele>
-    <name>27 ↗️🚲</name>
+    <name>26 ↗️🚲</name>
     <cmt>Seguim a ↗️dretes per la 🚲Ruta del Carrilet separat del trànsit</cmt>
     <desc>Seguim a ↗️dretes per la 🚲Ruta del Carrilet separat del trànsit</desc>
     <sym>Bike Lane</sym>
   </wpt>
   <wpt lat="41.82172" lon="2.906088">
     <ele>147.74119267265257</ele>
-    <name>28 ➡️⌒</name>
+    <name>27 ➡️⌒</name>
     <cmt>➡️Dreta per sota ⌒ de la carretera</cmt>
     <desc>➡️Dreta per sota ⌒ de la carretera</desc>
     <sym>Tunnel</sym>
   </wpt>
   <wpt lat="41.828117" lon="2.945345">
     <ele>72.05903657381529</ele>
-    <name>29 🍽️🚾</name>
+    <name>28 🍽️🚾</name>
     <cmt>🍽️Restaurant Ca La Maria amb 🚾lavabos</cmt>
     <desc>🍽️Restaurant Ca La Maria amb 🚾lavabos</desc>
     <sym>Restaurant</sym>
+  </wpt>
+  <wpt lat="41.825587" lon="2.917402">
+    <ele>129.97660209178025</ele>
+    <name>29 Inici asfalt</name>
+    <sym>Road</sym>
   </wpt>
   <wpt lat="41.82875" lon="2.959955">
     <ele>62.11559090886295</ele>
