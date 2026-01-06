@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx creator="https://gpx.studio" version="1.1" schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/PowerExtension/v1 http://www.garmin.com/xmlschemas/PowerExtensionv1.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/PowerExtension/v1 http://www.garmin.com/xmlschemas/PowerExtensionv1.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxpx="http://www.garmin.com/xmlschemas/PowerExtension/v1" xmlns:gpx_style="http://www.topografix.com/GPX/gpx_style/0/2">
+  <metadata>
+    <name>27.A0 Alternativa Retall Torrent</name>
+    <desc>Etapa 27.00 PK 5,04 - Etapa 27.00 PK 6,99. Aquesta alternativa evita entra al poble de Torrent i retalla 370m però a canvi implica rodar 150m per Carretera Torrent-Pals força transitada.</desc>
+    <author>
+      <name>gpx.studio</name>
+      <link href="https://gpx.studio"/>
+    </author>
+  </metadata>
+  <wpt lat="41.954585" lon="3.139387">
+    <ele>20.520776508003824</ele>
+    <name>2 ╬⬆️⚠️🚗🚧 🌊 / 🚶➡️🧭NE +150m ╬↙️</name>
+    <cmt>╬ Creuem GI-652 ⬆️recte amb ⚠️precaució 🚗trànsit  🚧Cal saltar la valla de la carretera i hi passa una 🌊riera pel mig del camí. El bassal pot ser força gran.
+Si no ho veiem clar, com alternativa podem anar pel 🚶voral de la carretera cap a la ➡️dreta 🧭direcció NE durant 150m i prendre la següent ╬ desviació a ↙️l&apos;esquerra</cmt>
+    <desc>╬ Creuem GI-652 ⬆️recte amb ⚠️precaució 🚗trànsit  🚧Cal saltar la valla de la carretera i hi passa una 🌊riera pel mig del camí. El bassal pot ser força gran.
+Si no ho veiem clar, com alternativa podem anar pel 🚶voral de la carretera cap a la ➡️dreta 🧭direcció NE durant 150m i prendre la següent ╬ desviació a ↙️l&apos;esquerra</desc>
+    <sym>Alert</sym>
+  </wpt>
+  <wpt lat="41.955789" lon="3.139382">
+    <ele>21.200802239729654</ele>
+    <name>3 ╣↖️</name>
+    <cmt>Si venim de la derecera, ╣ens incorporem a una pista asfaltada a ↖️l&apos;esquerra.
+Si venim per la carretera, SPP.</cmt>
+    <desc>Si venim de la derecera, ╣ens incorporem a una pista asfaltada a ↖️l&apos;esquerra.
+Si venim per la carretera, SPP.</desc>
+    <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="41.958246" lon="3.136441">
+    <ele>23.43217128864572</ele>
+    <name>13 🏁Final Alternativa 27.A0 ╦⬆️🧭N</name>
+    <cmt>╦ Cruïlla. Connexió amb Etapa 27.00 PK 6,99:
+⬆️Recte 🧭N a Torroella de Montgrí per Etapa 27.00
+⬅️Esquerra 🧭W a Torrent i Palafrugell per Etapa 27.00</cmt>
+    <desc>╦ Cruïlla. Connexió amb Etapa 27.00 PK 6,99:
+⬆️Recte 🧭N a Torroella de Montgrí per Etapa 27.00
+⬅️Esquerra 🧭W a Torrent i Palafrugell per Etapa 27.00</desc>
+    <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="41.948346" lon="3.136785">
+    <ele>39.74860048142202</ele>
+    <name>🟢Alternativa 27.A0 per evitar Torrent ╣⬆️🧭N</name>
+    <cmt>╣ Cruïlla. Seguir ⬆️recte 🧭N.
+Connexió amb Etapa 27.00 PK 5,04 
+🧭W a Torrent, altres i Torroella de Montgrí per Etapa 27.00
+🧭 S a Palafrugell per Etapa 27.00</cmt>
+    <desc>╣ Cruïlla. Seguir ⬆️recte 🧭N.
+Connexió amb Etapa 27.00 PK 5,04 
+🧭W a Torrent, altres i Torroella de Montgrí per Etapa 27.00
+🧭 S a Palafrugell per Etapa 27.00</desc>
+    <sym>Crossing</sym>
+  </wpt>
+  <trk>
+    <name>27.A0 Alternativa Retall Torrent</name>
+    <extensions>
+      <gpx_style:line>
+        <gpx_style:color>8fdb00</gpx_style:color>
+      </gpx_style:line>
+    </extensions>
+    <trkseg>
+      <trkpt lat="41.948335" lon="3.136786">
+        <ele>38.25</ele>
+      </trkpt>
+      <trkpt lat="41.948374" lon="3.136792">
+        <ele>38.25</ele>
+      </trkpt>
+      <trkpt lat="41.949146" lon="3.136911">
+        <ele>39.75</ele>
+      </trkpt>
+      <trkpt lat="41.949146" lon="3.136911">
+        <ele>39.75</ele>
+      </trkpt>
+      <trkpt lat="41.950423" lon="3.136782">
+        <ele>35.75</ele>
+      </trkpt>
+      <trkpt lat="41.951508" lon="3.13661">
+        <ele>29.5</ele>
+      </trkpt>
+      <trkpt lat="41.951955" lon="3.136825">
+        <ele>28</ele>
+      </trkpt>
+      <trkpt lat="41.952137" lon="3.136923">
+        <ele>25.5</ele>
+      </trkpt>
+      <trkpt lat="41.952139" lon="3.136923">
+        <ele>25.5</ele>
+      </trkpt>
+      <trkpt lat="41.952753" lon="3.137254">
+        <ele>25.5</ele>
+      </trkpt>
+      <trkpt lat="41.952864" lon="3.137517">
+        <ele>25.25</ele>
+      </trkpt>
+      <trkpt lat="41.952901" lon="3.137803">
+        <ele>25.25</ele>
+      </trkpt>
+      <trkpt lat="41.95279" lon="3.138421">
+        <ele>26.75</ele>
+      </trkpt>
+      <trkpt lat="41.95288" lon="3.139057">
+        <ele>27.75</ele>
+      </trkpt>
+      <trkpt lat="41.953136" lon="3.139271">
+        <ele>25.5</ele>
+      </trkpt>
+      <trkpt lat="41.953136" lon="3.139271">
+        <ele>25.5</ele>
+      </trkpt>
+      <trkpt lat="41.953806" lon="3.1394">
+        <ele>21.75</ele>
+      </trkpt>
+      <trkpt lat="41.9546" lon="3.139381">
+        <ele>20.75</ele>
+      </trkpt>
+      <trkpt lat="41.954642" lon="3.13938">
+        <ele>21</ele>
+      </trkpt>
+      <trkpt lat="41.95469028692895" lon="3.139485095080658">
+        <ele>20.763299364240478</ele>
+      </trkpt>
+      <trkpt lat="41.954689" lon="3.139484">
+        <ele>20.75</ele>
+      </trkpt>
+      <trkpt lat="41.954693" lon="3.139491">
+        <ele>20.75</ele>
+      </trkpt>
+      <trkpt lat="41.955334" lon="3.140859">
+        <ele>18.75</ele>
+      </trkpt>
+      <trkpt lat="41.955361" lon="3.14092">
+        <ele>19.25</ele>
+      </trkpt>
+      <trkpt lat="41.955389" lon="3.140979">
+        <ele>19.25</ele>
+      </trkpt>
+      <trkpt lat="41.955421" lon="3.140922">
+        <ele>19</ele>
+      </trkpt>
+      <trkpt lat="41.955467" lon="3.140823">
+        <ele>18.25</ele>
+      </trkpt>
+      <trkpt lat="41.955502" lon="3.1407">
+        <ele>18.25</ele>
+      </trkpt>
+      <trkpt lat="41.955528" lon="3.140577">
+        <ele>18</ele>
+      </trkpt>
+      <trkpt lat="41.95553" lon="3.140368">
+        <ele>18</ele>
+      </trkpt>
+      <trkpt lat="41.955496" lon="3.140074">
+        <ele>17.75</ele>
+      </trkpt>
+      <trkpt lat="41.955503" lon="3.14">
+        <ele>17.75</ele>
+      </trkpt>
+      <trkpt lat="41.955515" lon="3.13986">
+        <ele>18.5</ele>
+      </trkpt>
+      <trkpt lat="41.955571" lon="3.13968">
+        <ele>19.5</ele>
+      </trkpt>
+      <trkpt lat="41.955651" lon="3.139556">
+        <ele>20.25</ele>
+      </trkpt>
+      <trkpt lat="41.955783" lon="3.139436">
+        <ele>21</ele>
+      </trkpt>
+      <trkpt lat="41.955805" lon="3.139422">
+        <ele>21.25</ele>
+      </trkpt>
+      <trkpt lat="41.955805" lon="3.139422">
+        <ele>21.25</ele>
+      </trkpt>
+      <trkpt lat="41.955865" lon="3.139386">
+        <ele>21.25</ele>
+      </trkpt>
+      <trkpt lat="41.95595" lon="3.139361">
+        <ele>21</ele>
+      </trkpt>
+      <trkpt lat="41.956328" lon="3.139373">
+        <ele>19</ele>
+      </trkpt>
+      <trkpt lat="41.956505" lon="3.139346">
+        <ele>18.25</ele>
+      </trkpt>
+      <trkpt lat="41.956505" lon="3.139346">
+        <ele>18.25</ele>
+      </trkpt>
+      <trkpt lat="41.956616" lon="3.139298">
+        <ele>17.75</ele>
+      </trkpt>
+      <trkpt lat="41.956715" lon="3.139185">
+        <ele>17.75</ele>
+      </trkpt>
+      <trkpt lat="41.956814" lon="3.139039">
+        <ele>17.75</ele>
+      </trkpt>
+      <trkpt lat="41.956968" lon="3.13849">
+        <ele>17.75</ele>
+      </trkpt>
+      <trkpt lat="41.956984" lon="3.13802">
+        <ele>18.25</ele>
+      </trkpt>
+      <trkpt lat="41.957003" lon="3.137809">
+        <ele>18.5</ele>
+      </trkpt>
+      <trkpt lat="41.957054" lon="3.137552">
+        <ele>19.25</ele>
+      </trkpt>
+      <trkpt lat="41.957221" lon="3.137168">
+        <ele>21</ele>
+      </trkpt>
+      <trkpt lat="41.957221" lon="3.137168">
+        <ele>21</ele>
+      </trkpt>
+      <trkpt lat="41.957636" lon="3.136911">
+        <ele>22.5</ele>
+      </trkpt>
+      <trkpt lat="41.958049" lon="3.136601">
+        <ele>23.5</ele>
+      </trkpt>
+      <trkpt lat="41.958199" lon="3.136517">
+        <ele>23.75</ele>
+      </trkpt>
+      <trkpt lat="41.958245" lon="3.136439">
+        <ele>23.75</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
