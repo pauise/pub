@@ -1,6 +1,6 @@
 {
-    "title": "Etapa 24: Sils - Caldes de Malavella",
-    "full_track_url": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/tracks/24.00.Sils.Caldes.gpx",
+    "title": "Etapa 25: Caldes de Malavella - Platja d'Aro",
+    "full_track_url": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/tracks/25.00.Caldes.Platja%20d'Aro.gpx",
     "prf": [
         {"km": 0, "alt": 92},
         {"km": 1.08, "alt": 102},
@@ -38,6 +38,24 @@
         {"km": 8.32, "paviment": 2},
         {"km": 9.63, "paviment": 2},
         {"km": 9.79, "paviment": 2},
+        {"km": 10.66, "paviment": 1},
+        {"km": 11.03, "paviment": 3},
+        {"km": 12.18, "paviment": 2},
+        {"km": 12.48, "paviment": 2},
+        {"km": 12.67, "paviment": 2},
+        {"km": 13.7, "paviment": 2},
+        {"km": 14.32, "paviment": 2},
+        {"km": 15.38, "paviment": 1},
+        {"km": 18.24, "paviment": 1},
+        {"km": 19.47, "paviment": 1},
+        {"km": 21.33, "paviment": 1},
+        {"km": 23.89, "paviment": 1},
+        {"km": 24.5, "paviment": 1},
+        {"km": 26.33, "paviment": 1},
+        {"km": 27.09, "paviment": 2},
+        {"km": 27.61, "paviment": 2},
+        {"km": 28.57, "paviment": 1},
+        {"km": 28.87, "paviment": 1},
         {"km": 29.07, "paviment": 1}
       ]
   }
