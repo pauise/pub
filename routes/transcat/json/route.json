@@ -401,7 +401,13 @@
       "id": "26.00",
       "nom": "Platja d'Aro - Palafrugell",
       "data": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/json/26.00.Platja%20d'Aro.Palafrugell.json",
-      "km": 1
+      "km": 17.35
+    },
+    {
+      "id": "26.A0",
+      "nom": "Alternativa Sant Antoni de Calonge",
+      "data": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/json/26.A0.Alternativa%20St%20Antoni.json",
+      "km": 2.02
     },
     {
       "id": "27.00",
