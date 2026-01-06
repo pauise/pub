@@ -2,7 +2,7 @@
 <gpx creator="https://gpx.studio" version="1.1" schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/PowerExtension/v1 http://www.garmin.com/xmlschemas/PowerExtensionv1.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/PowerExtension/v1 http://www.garmin.com/xmlschemas/PowerExtensionv1.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxpx="http://www.garmin.com/xmlschemas/PowerExtension/v1" xmlns:gpx_style="http://www.topografix.com/GPX/gpx_style/0/2">
   <metadata>
     <name>27.00 Palafrugell - Torroella</name>
-    <desc>Palafrugell - Sant Feliu de Boada - Sant Julià de Boada - Fontclara - Fontanilles - Gualta - Torroella de Montgrí</desc>
+    <desc>Palafrugell - Sant Feliu de Boada - Sant Julià de Boada - Torrent - Fontclara - Fontanilles - Gualta - Torroella de Montgrí</desc>
     <author>
       <name>gpx.studio</name>
       <link href="https://gpx.studio"/>
@@ -10,11 +10,12 @@
   </metadata>
   <wpt lat="41.915135" lon="3.150855">
     <ele>66.99144140026007</ele>
-    <name>🟢Palafrugell➡️🏨ℹ️🛒☕🍽️⚕️🏥</name>
-    <cmt>Seguim per l&apos;esquerra
+    <name>🟢Palafrugell ╠↖️🧭NW. 🔚➡️🏨ℹ️🛒☕🍽️⚕️🏥</name>
+    <cmt>╠Seguim per ↖️l&apos;esquerra 🧭NW
 🔚Sortida Palafrugell a la ➡️dreta: Hotel, Restaurant i Informació Turística en 500m i tots els serveis</cmt>
-    <desc>Seguim per l&apos;esquerra
+    <desc>╠Seguim per ↖️l&apos;esquerra 🧭NW
 🔚Sortida Palafrugell a la ➡️dreta: Hotel, Restaurant i Informació Turística en 500m i tots els serveis</desc>
+    <sym>Crossing</sym>
   </wpt>
   <wpt lat="41.923729" lon="3.149831">
     <ele>54.51363965083331</ele>
@@ -23,7 +24,7 @@
 A la ➡️dreta 🏬centre comercial Costa Brava amb 🚾lavabos 🛒supermercat, ☕cafeteries i 🍽️restaurants.</cmt>
     <desc>Ens incorporem a ↖️l&apos;esquerra al 🚲carril bici i el seguim tot resseguint la 🔄rotonda a l&apos;inversa i sortint per la 1ª a ↖️l&apos;esquerra i seguir descartant camins.
 A la ➡️dreta 🏬centre comercial Costa Brava amb 🚾lavabos 🛒supermercat, ☕cafeteries i 🍽️restaurants.</desc>
-    <sym>Crossing</sym>
+    <sym>Bike Lane</sym>
   </wpt>
   <wpt lat="41.926912" lon="3.148298">
     <ele>46.666576766815766</ele>
@@ -70,19 +71,19 @@ Pista sense asfaltar</desc>
   </wpt>
   <wpt lat="41.936339" lon="3.137745">
     <ele>50.81926661713038</ele>
-    <name>7➡️</name>
+    <name>8 ╦➡️</name>
+    <cmt>╦ Desviar a la ➡️dreta</cmt>
+    <desc>╦ Desviar a la ➡️dreta</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="41.940899" lon="3.135235">
     <ele>56.16454119473154</ele>
-    <name>9 ╦↗️🧭N. 🔚⬆️🏘️🍽️🛏️🛝</name>
+    <name>9 ╦↗️🧭N ⚠️</name>
     <cmt>╬ Cruïlla amb pista enquitranada que seguirem a ↗️dretes 🧭direcció N anomenada Camí del Molló i després Camí de la Bruguera.
-🔚Escapatòria just ⬆️enfront al 🏘️poble de Torrent amb 🍽️Restaurant, 🛏️Allotjament i 🛝Activitats infantils. 
-Pirinexus va per allà però fa 500m de més.
+⚠️No seguim indicacions de Pirinexus.
 L&apos;enquitranat despareix en alguns trams</cmt>
     <desc>╬ Cruïlla amb pista enquitranada que seguirem a ↗️dretes 🧭direcció N anomenada Camí del Molló i després Camí de la Bruguera.
-🔚Escapatòria just ⬆️enfront al 🏘️poble de Torrent amb 🍽️Restaurant, 🛏️Allotjament i 🛝Activitats infantils. 
-Pirinexus va per allà però fa 500m de més.
+⚠️No seguim indicacions de Pirinexus.
 L&apos;enquitranat despareix en alguns trams</desc>
     <sym>Crossing</sym>
   </wpt>
@@ -100,6 +101,22 @@ L&apos;enquitranat despareix en alguns trams</desc>
     <name>11 🔄2ª↗️🧭N 🏘️Torrent 🍽️🛏️</name>
     <cmt>🔄Rotonda. Surt per la 2ª a la ↗️dreta 🧭N cap al 🏘️poble de Torrent amb 🍽️Restaurant i 🛏️Allotjament</cmt>
     <desc>🔄Rotonda. Surt per la 2ª a la ↗️dreta 🧭N cap al 🏘️poble de Torrent amb 🍽️Restaurant i 🛏️Allotjament</desc>
+    <sym>Rotonda</sym>
+  </wpt>
+  <wpt lat="41.951976" lon="3.128384">
+    <ele>38.14677225963573</ele>
+    <name>12 🅿️🌳🛝🚰╬➡️🧭E</name>
+    <cmt>🅿️Parking i 🌳Parc 🛝infantil amb 🚰font. ╬ Cruïlla. ➡️Dreta 🧭E per Carrer del Pla </cmt>
+    <desc>🅿️Parking i 🌳Parc 🛝infantil amb 🚰font. ╬ Cruïlla. ➡️Dreta 🧭E per Carrer del Pla </desc>
+    <sym>Water Source</sym>
+  </wpt>
+  <wpt lat="41.958246" lon="3.136441">
+    <ele>23.43217128864572</ele>
+    <name>13 ╦⬅️🧭N. ➡️27.A0</name>
+    <cmt>╦ Cruïlla. ⬅️Esquerra 🧭N.
+➡️Dreta connexió amb final Alternativa 27.A0</cmt>
+    <desc>╦ Cruïlla. ⬅️Esquerra 🧭N.
+➡️Dreta connexió amb final Alternativa 27.A0</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="41.961347" lon="3.134262">
@@ -109,7 +126,7 @@ L&apos;enquitranat despareix en alguns trams</desc>
 Inici pista</cmt>
     <desc>╣Desviar a ↖️l&apos;esquerra
 Inici pista</desc>
-    <sym>Road</sym>
+    <sym>End of Road</sym>
   </wpt>
   <wpt lat="41.97011" lon="3.126428">
     <ele>27.210755853148953</ele>
@@ -131,6 +148,13 @@ Inici asfalt</desc>
 ╠ Seguim ⬆️recte</desc>
     <sym>Water Source</sym>
   </wpt>
+  <wpt lat="41.978219" lon="3.123314">
+    <ele>10.262006017751478</ele>
+    <name>17 ╦↗️</name>
+    <cmt>╦ Ens incorporem a la ↗️dreta</cmt>
+    <desc>╦ Ens incorporem a la ↗️dreta</desc>
+    <sym>Crossing</sym>
+  </wpt>
   <wpt lat="41.983951" lon="3.121024">
     <ele>23.954795768764733</ele>
     <name>18 ≡🚶↖️🔄1ª ≡ 2ª↖️🧭N🏘️</name>
@@ -147,7 +171,7 @@ Resseguim la 🔄rotonda i creuem la 1ª sortida pels ≡ passos de zebra i sort
 Trobem senyalització per anar a Torroella de Montgrí en bicicleta</cmt>
     <desc>Seguim ⬆️ recte. Fi asfalt. 
 Trobem senyalització per anar a Torroella de Montgrí en bicicleta</desc>
-    <sym>End of road</sym>
+    <sym>End of Road</sym>
   </wpt>
   <wpt lat="41.993003" lon="3.120852">
     <ele>15.37628115356685</ele>
@@ -160,6 +184,13 @@ Prenem a la ↗️dreta. En 20m trobem un petit 🛝parc infantil</cmt>
 ╬ Cruïlla. 
 Si seguim ⬆️tot recte 🍽️Cal Pepó en 100m
 Prenem a la ↗️dreta. En 20m trobem un petit 🛝parc infantil</desc>
+    <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="41.993483" lon="3.122046">
+    <ele>11.632067907276113</ele>
+    <name>21 ╦↖️🧭NW</name>
+    <cmt>╦ Plaça de la Vil·la. ↖️Esquerra pel Carrer Major, després Carretera Fontanilles-Fontclara</cmt>
+    <desc>╦ Plaça de la Vil·la. ↖️Esquerra pel Carrer Major, després Carretera Fontanilles-Fontclara</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="42.008972" lon="3.109582">
@@ -190,6 +221,22 @@ Prenem a la ↗️dreta. En 20m trobem un petit 🛝parc infantil</desc>
     <name>25 ╦⬅️🔺</name>
     <cmt>Incorporar-se al ╦ Carrer Major per ⬅️l&apos;esquerra 🔺amunt</cmt>
     <desc>Incorporar-se al ╦ Carrer Major per ⬅️l&apos;esquerra 🔺amunt</desc>
+    <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="42.012334" lon="3.105229">
+    <ele>24.291991324444435</ele>
+    <name>26 ╦↗️</name>
+    <cmt>╦ Incorporar-se a la ↗️dreta a Camí de Gualta a Fontanilles</cmt>
+    <desc>╦ Incorporar-se a la ↗️dreta a Camí de Gualta a Fontanilles</desc>
+    <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="42.026312" lon="3.103811">
+    <ele>14.7894680539918</ele>
+    <name>27 🏘️Gualta 🛝. ╣⬆️</name>
+    <cmt>🏘️Gualta
+🛝 Parc infantil. ╣ Seguim ⬆️recte</cmt>
+    <desc>🏘️Gualta
+🛝 Parc infantil. ╣ Seguim ⬆️recte</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="42.027749" lon="3.103773">
@@ -270,43 +317,6 @@ Inici asfalt</desc>
     <desc>🏘️Torroella de Montgrí ╬ Cruïlla:
 ⬆️Recte a 🧿: Tots els serveis ℹ️🛒☕🍽️🏨⚕️
 ↙️Equerra tancat just davant el monument als presoners republicans a Camallera per a Etapa 28</desc>
-    <sym>Crossing</sym>
-  </wpt>
-  <wpt lat="41.951976" lon="3.128384">
-    <ele>38.14677225963573</ele>
-    <name>12 🅿️🌳🛝🚰╬➡️🧭E</name>
-    <cmt>🅿️Parking i 🌳Parc 🛝infantil amb 🚰font. ╬ Cruïlla. ➡️Dreta 🧭E per Carrer del Pla </cmt>
-    <desc>🅿️Parking i 🌳Parc 🛝infantil amb 🚰font. ╬ Cruïlla. ➡️Dreta 🧭E per Carrer del Pla </desc>
-    <sym>Water Source</sym>
-  </wpt>
-  <wpt lat="41.978219" lon="3.123314">
-    <ele>10.262006017751478</ele>
-    <name>17 ╦↗️</name>
-    <cmt>╦ Ens incorporem a la ↗️dreta</cmt>
-    <desc>╦ Ens incorporem a la ↗️dreta</desc>
-    <sym>Crossing</sym>
-  </wpt>
-  <wpt lat="41.993483" lon="3.122046">
-    <ele>11.632067907276113</ele>
-    <name>21 ╦↖️🧭NW</name>
-    <cmt>╦ Plaça de la Vil·la. ↖️Esquerra pel Carrer Major, després Carretera Fontanilles-Fontclara</cmt>
-    <desc>╦ Plaça de la Vil·la. ↖️Esquerra pel Carrer Major, després Carretera Fontanilles-Fontclara</desc>
-    <sym>Crossing</sym>
-  </wpt>
-  <wpt lat="42.012334" lon="3.105229">
-    <ele>24.291991324444435</ele>
-    <name>26 ╦↗️</name>
-    <cmt>╦ Incorporar-se a la ↗️dreta a Camí de Gualta a Fontanilles</cmt>
-    <desc>╦ Incorporar-se a la ↗️dreta a Camí de Gualta a Fontanilles</desc>
-    <sym>Crossing</sym>
-  </wpt>
-  <wpt lat="42.026312" lon="3.103811">
-    <ele>14.7894680539918</ele>
-    <name>27 🏘️Gualta 🛝. ╣⬆️</name>
-    <cmt>🏘️Gualta
-🛝 Parc infantil. ╣ Seguim ⬆️recte</cmt>
-    <desc>🏘️Gualta
-🛝 Parc infantil. ╣ Seguim ⬆️recte</desc>
     <sym>Crossing</sym>
   </wpt>
   <trk>
