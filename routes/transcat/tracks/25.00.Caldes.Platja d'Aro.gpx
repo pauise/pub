@@ -21,21 +21,21 @@
   </wpt>
   <wpt lat="41.840689" lon="2.803031">
     <ele>91.62414980070355</ele>
-    <name>2🔄1ª↗️</name>
+    <name>2 🔄1ª↗️</name>
     <cmt>🔄Rotonda. Surt per la 1ª a la ↗️dreta</cmt>
     <desc>🔄Rotonda. Surt per la 1ª a la ↗️dreta</desc>
-    <sym>Crossing</sym>
+    <sym>Rotonda</sym>
   </wpt>
   <wpt lat="41.840094" lon="2.806101">
     <ele>96.81525627118637</ele>
-    <name>3🔄⬆️⛔🚗</name>
+    <name>3 🔄⬆️⛔🚗</name>
     <cmt>🔄Rotonda. Seguim ⬆️recte per ⛔sentit prohibit, si ve algún 🚗cotxe, hi ha vorera</cmt>
     <desc>🔄Rotonda. Seguim ⬆️recte per ⛔sentit prohibit, si ve algún 🚗cotxe, hi ha vorera</desc>
-    <sym>Crossing</sym>
+    <sym>Rotonda</sym>
   </wpt>
   <wpt lat="41.839384" lon="2.809317">
     <ele>99.18847369556384</ele>
-    <name>4↗️≡≡↗️🧭S</name>
+    <name>4 ↗️≡≡↗️🧭S</name>
     <cmt>↗️Dreta abans de la rotonda i creuar els 2 ≡ passos de zebra i agafem el ↗️carrer pel vell mig del casc antic 🧭S</cmt>
     <desc>↗️Dreta abans de la rotonda i creuar els 2 ≡ passos de zebra i agafem el ↗️carrer pel vell mig del casc antic 🧭S</desc>
     <sym>Crossing</sym>
@@ -107,7 +107,7 @@ Inici 🚲carril bici cap a cementiri i urbanització Aigües Bones</desc>
     <name>13 ⬆️</name>
     <cmt>Continuem ⬆️recte per pista de terra</cmt>
     <desc>Continuem ⬆️recte per pista de terra</desc>
-    <sym>Road</sym>
+    <sym>End of Road</sym>
   </wpt>
   <wpt lat="41.815171" lon="2.829734">
     <ele>164.70680869687385</ele>
@@ -194,7 +194,7 @@ Inici camí</desc>
 ⚠️Precaució, és una ruta molt transitada per 🚲ciclistes i 🚶peatons</cmt>
     <desc>╬ Cruïlla amb 🚲Ruta del Carrilet. La seguim a la ➡️dreta cap a Sant Feliu de Guíxols 🧭direcció SE
 ⚠️Precaució, és una ruta molt transitada per 🚲ciclistes i 🚶peatons</desc>
-    <sym>Bike Trail</sym>
+    <sym>Bike Lane</sym>
   </wpt>
   <wpt lat="41.825587" lon="2.917402">
     <ele>129.97660209178025</ele>
@@ -217,7 +217,7 @@ Inici camí</desc>
     <name>27 ↗️🚲</name>
     <cmt>Seguim a ↗️dretes per la 🚲Ruta del Carrilet separat del trànsit</cmt>
     <desc>Seguim a ↗️dretes per la 🚲Ruta del Carrilet separat del trànsit</desc>
-    <sym>Bike Trail</sym>
+    <sym>Bike Lane</sym>
   </wpt>
   <wpt lat="41.82172" lon="2.906088">
     <ele>147.74119267265257</ele>
