@@ -1,0 +1,43 @@
+{
+    "title": "Etapa 28: Torroella de Montgrí - Camallera",
+    "full_track_url": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/tracks/28.00.Torroella.Camallera.gpx",
+    "prf": [
+        {"km": 0, "alt": 8},
+        {"km": 11.58, "alt": 19},
+        {"km": 12.34, "alt": 38},
+        {"km": 12.67, "alt": 20},
+        {"km": 15.2, "alt": 24},
+        {"km": 17.11, "alt": 34},
+        {"km": 18.53, "alt": 45},
+        {"km": 19.99, "alt": 90},
+        {"km": 20.56, "alt": 79},
+        {"km": 21.46, "alt": 79}
+    ],
+    "wps": [
+        {"km": 0, "paviment": 2},
+        {"km": 0.64, "paviment": 2},
+        {"km": 4.47, "paviment": 2},
+        {"km": 6.18, "paviment": 1},
+        {"km": 6.54, "paviment": 1},
+        {"km": 6.82, "paviment": 2},
+        {"km": 8.38, "paviment": 2},
+        {"km": 8.54, "paviment": 2},
+        {"km": 9.42, "paviment": 2},
+        {"km": 10.86, "paviment": 2},
+        {"km": 12, "paviment": 1},
+        {"km": 12.3, "paviment": 1},
+        {"km": 12.44, "paviment": 1},
+        {"km": 12.55, "paviment": 2},
+        {"km": 12.75, "paviment": 2},
+        {"km": 14.39, "paviment": 2},
+        {"km": 14.64, "paviment": 2},
+        {"km": 14.96, "paviment": 2},
+        {"km": 14.99, "paviment": 3},
+        {"km": 15.37, "paviment": 4},
+        {"km": 15.86, "paviment": 1},
+        {"km": 16.22, "paviment": 1},
+        {"km": 16.33, "paviment": 1},
+        {"km": 21.09, "paviment": 1},
+        {"km": 21.46, "paviment": 1}
+      ]
+  }
