@@ -416,6 +416,12 @@
       "km": 19.27
     },
     {
+      "id": "27.A0",
+      "nom": "Alternativa evitar Torrent",
+      "data": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/json/27.A0.Alternativa%20evitar%20Torrent.json",
+      "km": 1.58
+    },
+    {
       "id": "28.00",
       "nom": "Torroella de Montgrí - Camallera",
       "data": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/json/28.00.Torroella.Camallera.json",
