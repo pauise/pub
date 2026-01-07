@@ -201,12 +201,12 @@ En 200m sortim del poble ╠ seguint pel carrer principal a ↖️esquerres i ju
   </wpt>
   <wpt lat="42.120043" lon="2.964117">
     <ele>81.29382536402426</ele>
-    <name>24 🏘️Camallera. ╬⬅️︵🛤️🛝╠➡️</name>
-    <cmt>🏘️Camallera.
+    <name>24 🏘️Camallera 🛒☕🍽️🥖🛏️⚕️🏥. ╬⬅️︵🛤️🛝╠➡️</name>
+    <cmt>🏘️Camallera: 🛒Supermercat ☕Bar 🍽️Restaurant 🥖Forn 🛏️Allotjament ⚕️Farmàcia 🏥Consultori
 ╬ Cruïlla. ⬅️Esquerra pel ︵ pont sobre la 🛤️via del tren.
 🛝Parc infantil just després del pont
 ╠ Desviar a la ➡️dreta</cmt>
-    <desc>🏘️Camallera.
+    <desc>🏘️Camallera: 🛒Supermercat ☕Bar 🍽️Restaurant 🥖Forn 🛏️Allotjament ⚕️Farmàcia 🏥Consultori
 ╬ Cruïlla. ⬅️Esquerra pel ︵ pont sobre la 🛤️via del tren.
 🛝Parc infantil just després del pont
 ╠ Desviar a la ➡️dreta</desc>
@@ -214,9 +214,9 @@ En 200m sortim del poble ╠ seguint pel carrer principal a ↖️esquerres i ju
   </wpt>
   <wpt lat="42.122315" lon="2.965484">
     <ele>79.27355382810703</ele>
-    <name>🏁Final etapa 28 🚉Camallera</name>
-    <cmt>🚉Estació Camallera R11</cmt>
-    <desc>🚉Estació Camallera R11</desc>
+    <name>🏁Final etapa 28 🚉Camallera 🚰</name>
+    <cmt>🚉Estació Camallera R11. 🚰Font</cmt>
+    <desc>🚉Estació Camallera R11. 🚰Font</desc>
     <sym>Ground Transportation</sym>
   </wpt>
   <trk>
