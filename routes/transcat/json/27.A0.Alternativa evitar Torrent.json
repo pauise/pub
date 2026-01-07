@@ -1,0 +1,15 @@
+{
+    "title": "Etapa 27 Alternativa per evitar Torrent",
+    "full_track_url": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/tracks/27.A0.Alternativa%20evitar%20Torrent.gpx",
+    "prf": [
+        {"km": 0, "alt": 38},
+        {"km": 1.33, "alt": 18},
+        {"km": 1.58, "alt": 24}
+    ],
+    "wps": [
+        {"km": 0, "paviment": 1},
+        {"km": 0.86, "paviment": 1},
+        {"km": 1.16, "paviment": 1},
+        {"km": 1.58, "paviment": 1}
+      ]
+  }
