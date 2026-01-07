@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx creator="https://gpx.studio" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/PowerExtension/v1 http://www.garmin.com/xmlschemas/PowerExtensionv1.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxpx="http://www.garmin.com/xmlschemas/PowerExtension/v1" xmlns:gpx_style="http://www.topografix.com/GPX/gpx_style/0/2">
+  <metadata>
+    <name>29.55 Enllaç Estació Vilamalla</name>
+    <desc>Etapa 29.00 PK 13,62 - Vilamalla - Estació de Vilamalla</desc>
+    <author>
+      <name>gpx.studio</name>
+      <link href="https://gpx.studio"/>
+    </author>
+  </metadata>
+  <wpt lat="42.219061" lon="2.994152">
+    <ele>22.798043733091244</ele>
+    <name>🟢Enllaç a 🏘️🚉Vilamalla ╦⬅️🧭W</name>
+    <cmt>Enllaç a 🏘️Poble i 🚉Estació de Vilamalla 
+╦ Desviar ⬅️esquerra 🧭W</cmt>
+    <desc>Enllaç a 🏘️Poble i 🚉Estació de Vilamalla 
+╦ Desviar ⬅️esquerra 🧭W</desc>
+    <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="42.218534" lon="2.979791">
+    <ele>36.208759845342065</ele>
+    <name>2 ╦⬅️</name>
+    <cmt>╦ Incorporar-se a pista asfaltada a ⬅️l&apos;esquerra</cmt>
+    <desc>╦ Incorporar-se a pista asfaltada a ⬅️l&apos;esquerra</desc>
+    <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="42.216273" lon="2.972222">
+    <ele>44.519109707806706</ele>
+    <name>3 🏘️Vilamalla 🍽️╦⬅️</name>
+    <cmt>🏘️Vilamalla. 🍽️Bar tapes a la nostra dreta
+╦ Cruïlla. ⬅️Esquerra</cmt>
+    <desc>🏘️Vilamalla. 🍽️Bar tapes a la nostra dreta
+╦ Cruïlla. ⬅️Esquerra</desc>
+    <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="42.215496" lon="2.974083">
+    <ele>45.68693374018278</ele>
+    <name>4 ╣↖️</name>
+    <cmt>╣Desviar a ↖️l&apos;esquerra per Carrer de l&apos;Estació</cmt>
+    <desc>╣Desviar a ↖️l&apos;esquerra per Carrer de l&apos;Estació</desc>
+    <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="42.216366" lon="2.977696">
+    <ele>42.8118258918023</ele>
+    <name>🏁Final Enllaç 🚉Vilamalla</name>
+    <cmt>🚉Estació Vilamalla</cmt>
+    <desc>🚉Estació Vilamalla</desc>
+    <sym>Ground Transportation</sym>
+  </wpt>
+  <trk>
+    <name>29.55 Enllaç Estació Vilamalla</name>
+    <trkseg>
+      <trkpt lat="42.219055" lon="2.994158">
+        <ele>22</ele>
+      </trkpt>
+      <trkpt lat="42.21906" lon="2.99416">
+        <ele>22</ele>
+      </trkpt>
+      <trkpt lat="42.219092" lon="2.992999">
+        <ele>25</ele>
+      </trkpt>
+      <trkpt lat="42.218986" lon="2.992328">
+        <ele>26.5</ele>
+      </trkpt>
+      <trkpt lat="42.218944" lon="2.991999">
+        <ele>27</ele>
+      </trkpt>
+      <trkpt lat="42.21881" lon="2.991266">
+        <ele>27</ele>
+      </trkpt>
+      <trkpt lat="42.218675" lon="2.99028">
+        <ele>26.75</ele>
+      </trkpt>
+      <trkpt lat="42.218675" lon="2.990165">
+        <ele>26.75</ele>
+      </trkpt>
+      <trkpt lat="42.218654" lon="2.98995">
+        <ele>27</ele>
+      </trkpt>
+      <trkpt lat="42.218593" lon="2.989646">
+        <ele>27.5</ele>
+      </trkpt>
+      <trkpt lat="42.2185" lon="2.989098">
+        <ele>28.25</ele>
+      </trkpt>
+      <trkpt lat="42.218437" lon="2.988609">
+        <ele>28</ele>
+      </trkpt>
+      <trkpt lat="42.218397" lon="2.988381">
+        <ele>28</ele>
+      </trkpt>
+      <trkpt lat="42.218337" lon="2.988148">
+        <ele>28.25</ele>
+      </trkpt>
+      <trkpt lat="42.218351" lon="2.988">
+        <ele>28.75</ele>
+      </trkpt>
+      <trkpt lat="42.21842" lon="2.987757">
+        <ele>29.25</ele>
+      </trkpt>
+      <trkpt lat="42.21846" lon="2.987639">
+        <ele>29.5</ele>
+      </trkpt>
+      <trkpt lat="42.218516" lon="2.987469">
+        <ele>30</ele>
+      </trkpt>
+      <trkpt lat="42.218505" lon="2.987302">
+        <ele>30.25</ele>
+      </trkpt>
+      <trkpt lat="42.218091" lon="2.985645">
+        <ele>33.25</ele>
+      </trkpt>
+      <trkpt lat="42.218049" lon="2.985111">
+        <ele>33.5</ele>
+      </trkpt>
+      <trkpt lat="42.218002" lon="2.984147">
+        <ele>34</ele>
+      </trkpt>
+      <trkpt lat="42.218225" lon="2.983636">
+        <ele>34.5</ele>
+      </trkpt>
+      <trkpt lat="42.218209" lon="2.983301">
+        <ele>34.75</ele>
+      </trkpt>
+      <trkpt lat="42.21822" lon="2.982917">
+        <ele>35</ele>
+      </trkpt>
+      <trkpt lat="42.218282" lon="2.982567">
+        <ele>35.5</ele>
+      </trkpt>
+      <trkpt lat="42.218339" lon="2.982001">
+        <ele>36.5</ele>
+      </trkpt>
+      <trkpt lat="42.218401" lon="2.981226">
+        <ele>36.25</ele>
+      </trkpt>
+      <trkpt lat="42.218468" lon="2.980708">
+        <ele>36</ele>
+      </trkpt>
+      <trkpt lat="42.218494" lon="2.980394">
+        <ele>36</ele>
+      </trkpt>
+      <trkpt lat="42.218479" lon="2.980003">
+        <ele>36</ele>
+      </trkpt>
+      <trkpt lat="42.218489" lon="2.979898">
+        <ele>36.25</ele>
+      </trkpt>
+      <trkpt lat="42.21856" lon="2.979756">
+        <ele>36.25</ele>
+      </trkpt>
+      <trkpt lat="42.218467" lon="2.979521">
+        <ele>36.5</ele>
+      </trkpt>
+      <trkpt lat="42.218166" lon="2.978362">
+        <ele>38.25</ele>
+      </trkpt>
+      <trkpt lat="42.218027" lon="2.977819">
+        <ele>38.75</ele>
+      </trkpt>
+      <trkpt lat="42.217945" lon="2.977469">
+        <ele>38.75</ele>
+      </trkpt>
+      <trkpt lat="42.217859" lon="2.977162">
+        <ele>38.5</ele>
+      </trkpt>
+      <trkpt lat="42.217726" lon="2.976819">
+        <ele>38.5</ele>
+      </trkpt>
+      <trkpt lat="42.217466" lon="2.9763">
+        <ele>39.25</ele>
+      </trkpt>
+      <trkpt lat="42.216762" lon="2.97399">
+        <ele>41</ele>
+      </trkpt>
+      <trkpt lat="42.216506" lon="2.97328">
+        <ele>43.25</ele>
+      </trkpt>
+      <trkpt lat="42.216465" lon="2.973152">
+        <ele>43.5</ele>
+      </trkpt>
+      <trkpt lat="42.216403" lon="2.972919">
+        <ele>44</ele>
+      </trkpt>
+      <trkpt lat="42.216393" lon="2.972831">
+        <ele>44.25</ele>
+      </trkpt>
+      <trkpt lat="42.216354" lon="2.972407">
+        <ele>44.75</ele>
+      </trkpt>
+      <trkpt lat="42.216325" lon="2.972284">
+        <ele>44.5</ele>
+      </trkpt>
+      <trkpt lat="42.216263" lon="2.972189">
+        <ele>44.5</ele>
+      </trkpt>
+      <trkpt lat="42.216147" lon="2.972425">
+        <ele>44.75</ele>
+      </trkpt>
+      <trkpt lat="42.215992" lon="2.972802">
+        <ele>44.5</ele>
+      </trkpt>
+      <trkpt lat="42.215609" lon="2.973784">
+        <ele>45</ele>
+      </trkpt>
+      <trkpt lat="42.215499" lon="2.974067">
+        <ele>45.5</ele>
+      </trkpt>
+      <trkpt lat="42.215464" lon="2.974532">
+        <ele>45</ele>
+      </trkpt>
+      <trkpt lat="42.215461" lon="2.974653">
+        <ele>44.75</ele>
+      </trkpt>
+      <trkpt lat="42.215457" lon="2.974896">
+        <ele>44.25</ele>
+      </trkpt>
+      <trkpt lat="42.215467" lon="2.975342">
+        <ele>44</ele>
+      </trkpt>
+      <trkpt lat="42.21559" lon="2.97646">
+        <ele>43.75</ele>
+      </trkpt>
+      <trkpt lat="42.215764" lon="2.976805">
+        <ele>43.25</ele>
+      </trkpt>
+      <trkpt lat="42.215833" lon="2.976979">
+        <ele>43.25</ele>
+      </trkpt>
+      <trkpt lat="42.215877" lon="2.977134">
+        <ele>43.25</ele>
+      </trkpt>
+      <trkpt lat="42.215939" lon="2.977406">
+        <ele>43.5</ele>
+      </trkpt>
+      <trkpt lat="42.215999" lon="2.977752">
+        <ele>43.25</ele>
+      </trkpt>
+      <trkpt lat="42.216363" lon="2.977672">
+        <ele>42</ele>
+      </trkpt>
+      <trkpt lat="42.216367" lon="2.97771">
+        <ele>41.75</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
