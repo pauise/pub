@@ -434,6 +434,18 @@
       "km": 1
     },
     {
+      "id": "29.55",
+      "nom": "Enllaç Vilamalla",
+      "data": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/json/29.55.Estaci%C3%B3%20Vilamalla.json",
+      "km": 2.42
+    },
+    {
+      "id": "29.99",
+      "nom": "Enllaç Figueres",
+      "data": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/json/29.00.Camallera.Figueres.json",
+      "km": 1
+    },
+    {
       "id": "30.00",
       "nom": "Figueres - Capmany",
       "data": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/json/30.00.Figueres.Capmany.json",
