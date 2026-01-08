@@ -1,0 +1,20 @@
+{
+    "title": "Enllaç etapa 29 a Estació Figueres",
+    "full_track_url": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/tracks/29.99.Estaci%C3%B3%20Figueres.gpx",
+    "prf": [
+        {"km": 0, "alt": 15},
+        {"km": 1.79, "alt": 20},
+        {"km": 2.66, "alt": 31}
+    ],
+    "wps": [
+        {"km": 0, "paviment": 1},
+        {"km": 0.11, "paviment": 1},
+        {"km": 0.24, "paviment": 1},
+        {"km": 0.6, "paviment": 1},
+        {"km": 1.48, "paviment": 1},
+        {"km": 1.93, "paviment": 1},
+        {"km": 2.09, "paviment": 1},
+        {"km": 2.46, "paviment": 1},
+        {"km": 2.66, "paviment": 1}
+      ]
+  }
