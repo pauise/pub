@@ -442,8 +442,8 @@
     {
       "id": "29.99",
       "nom": "Enllaç Figueres",
-      "data": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/json/29.00.Camallera.Figueres.json",
-      "km": 1
+      "data": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/json/29.99.Estaci%C3%B3%20Figueres.json",
+      "km": 2.66
     },
     {
       "id": "30.00",
