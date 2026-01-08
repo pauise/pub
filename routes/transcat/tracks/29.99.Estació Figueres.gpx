@@ -59,9 +59,9 @@
   </wpt>
   <wpt lat="42.266421" lon="2.969126">
     <ele>28.418016722269368</ele>
-    <name>8 ╦➡️🛤️╬⬅️</name>
-    <cmt>╦ Avinguda de Vilallonga a la ➡️dreta per creuar 🛤️vies i a la ╬ cruïlla a ⬅️l&apos;esquerra paral·lels a les vies</cmt>
-    <desc>╦ Avinguda de Vilallonga a la ➡️dreta per creuar 🛤️vies i a la ╬ cruïlla a ⬅️l&apos;esquerra paral·lels a les vies</desc>
+    <name>8 ╦⚠️🚗➡️🛤️╬⬅️</name>
+    <cmt>╦ Avinguda de Vilallonga. Amb ⚠️precaució 🚗trànsit a la ➡️dreta per creuar 🛤️vies i a la ╬ cruïlla a ⬅️l&apos;esquerra paral·lels a les vies</cmt>
+    <desc>╦ Avinguda de Vilallonga. Amb ⚠️precaució 🚗trànsit a la ➡️dreta per creuar 🛤️vies i a la ╬ cruïlla a ⬅️l&apos;esquerra paral·lels a les vies</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="42.265109" lon="2.968639">
