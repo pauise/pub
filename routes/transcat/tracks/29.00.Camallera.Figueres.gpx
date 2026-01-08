@@ -178,7 +178,7 @@ Millora l&apos;estat de la pista</desc>
     <name>22 ╦↗️🏠</name>
     <cmt>╦ Incorporar-se a carrer més important a ↗️dretes i deixar a la dreta 🏠Mas Margall i fi asfalt</cmt>
     <desc>╦ Incorporar-se a carrer més important a ↗️dretes i deixar a la dreta 🏠Mas Margall i fi asfalt</desc>
-    <sym>Road</sym>
+    <sym>End of Road</sym>
   </wpt>
   <wpt lat="42.219058" lon="2.994165">
     <ele>22.77247114665905</ele>
@@ -203,14 +203,14 @@ Ens incorporem a ↖️l&apos;esquerra</desc>
     <name>25 ╦➡️</name>
     <cmt>╦ Incorporar-se a Carrer de Castelló a la ➡️dreta. </cmt>
     <desc>╦ Incorporar-se a Carrer de Castelló a la ➡️dreta. </desc>
-    <sym>Crossing</sym>
+    <sym>Road</sym>
   </wpt>
   <wpt lat="42.227378" lon="2.994641">
     <ele>20.684676983321157</ele>
     <name>26 🔄⬆️</name>
     <cmt>🔄Rotonda. Sortir ⬆️recte tal com s&apos;entra cap a la següent</cmt>
     <desc>🔄Rotonda. Sortir ⬆️recte tal com s&apos;entra cap a la següent</desc>
-    <sym>Crossing</sym>
+    <sym>Rotonda</sym>
   </wpt>
   <wpt lat="42.227688" lon="2.996722">
     <ele>18.41479779924408</ele>
@@ -219,28 +219,28 @@ Ens incorporem a ↖️l&apos;esquerra</desc>
 Creuar ︵ pont sobre 🛣️C-31 i a la 🔄rotonda sortir per la 1ª a la ↗️dreta</cmt>
     <desc>🔄Rotonda. Surt per la 2ª a la ↗️dreta.
 Creuar ︵ pont sobre 🛣️C-31 i a la 🔄rotonda sortir per la 1ª a la ↗️dreta</desc>
-    <sym>Crossing</sym>
+    <sym>Rotonda</sym>
   </wpt>
   <wpt lat="42.229114" lon="2.998698">
     <ele>19.350360534993087</ele>
     <name>28 🔄🧭N</name>
     <cmt>🔄Rotonda. Surt 🧭N; vindria a ser la 2ª però es podria entendre com la 3ª</cmt>
     <desc>🔄Rotonda. Surt 🧭N; vindria a ser la 2ª però es podria entendre com la 3ª</desc>
-    <sym>Crossing</sym>
+    <sym>Rotonda</sym>
   </wpt>
   <wpt lat="42.23175" lon="2.997377">
     <ele>20.22423550156022</ele>
     <name>29 🔄1ª↗️</name>
     <cmt>🔄Rotonda. Surt per la 1ª a la ↗️dreta</cmt>
     <desc>🔄Rotonda. Surt per la 1ª a la ↗️dreta</desc>
-    <sym>Crossing</sym>
+    <sym>Rotonda</sym>
   </wpt>
   <wpt lat="42.240774" lon="2.996741">
     <ele>21.573901105393233</ele>
     <name>30 🔄1ª↗️</name>
     <cmt>🔄Rotonda. Surt per la 1ª a la ↗️dreta</cmt>
     <desc>🔄Rotonda. Surt per la 1ª a la ↗️dreta</desc>
-    <sym>Crossing</sym>
+    <sym>Rotonda</sym>
   </wpt>
   <wpt lat="42.251061" lon="2.99768">
     <ele>29.40920999370659</ele>
@@ -260,7 +260,7 @@ Passarem davant un Viena i un McDonalds</cmt>
     <desc>🏘️Vilatenim: 🏬Decathlon, Leroy Merlin, 🛏️B&amp;B, 🍔menjar ràpid i 🛒Carrefour més lluny
 🔄Rotonda. Surt per la 2ª a la ↗️dreta
 Passarem davant un Viena i un McDonalds</desc>
-    <sym>Crossing</sym>
+    <sym>Rotonda</sym>
   </wpt>
   <wpt lat="42.267182" lon="2.99491">
     <ele>18.505268021964937</ele>
