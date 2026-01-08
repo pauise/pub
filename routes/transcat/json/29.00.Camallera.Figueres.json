@@ -1,0 +1,28 @@
+{
+    "title": "Etapa 29: Camallera - Figueres",
+    "full_track_url": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/tracks/29.00.Camallera.Figueres.gpx",
+    "prf": [
+        {"km": 0, "alt": 80},
+        {"km": 1.18, "alt": 79},
+        {"km": 4.12, "alt": 41},
+        {"km": 4.48, "alt": 49},
+        {"km": 4.9, "alt": 38},
+        {"km": 6.44, "alt": 43},
+        {"km": 7.39, "alt": 23},
+        {"km": 7.76, "alt": 29},
+        {"km": ., "alt": },
+        {"km": ., "alt": },
+        {"km": ., "alt": },
+        {"km": 0.35, "alt": 15}
+    ],
+    "wps": [
+        {"km": 0, "paviment": 1},
+        {"km": 0.05, "paviment": 1},
+        {"km": 0.12, "paviment": 1},
+        {"km": 0.15, "paviment": 1},
+        {"km": 0.23, "paviment": 1},
+        {"km": 0.26, "paviment": 1},
+        {"km": 0.31, "paviment": 1},
+        {"km": 0.35, "paviment": 1}
+      ]
+  }
