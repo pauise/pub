@@ -431,13 +431,19 @@
       "id": "29.00",
       "nom": "Camallera - Figueres",
       "data": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/json/29.00.Camallera.Figueres.json",
-      "km": 1
+      "km": 20.68
     },
     {
       "id": "29.A1",
       "nom": "Alternativa Tour Saus",
       "data": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/json/29.A1.Alternativa%20Tour%20Saus.json",
       "km": 0.35
+    },
+    {
+      "id": "29.A2",
+      "nom": "Alternativa GI-622",
+      "data": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/json/29.A2.Alternativa%20GI-622.json",
+      "km": 1.43
     },
     {
       "id": "29.65",
