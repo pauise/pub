@@ -2,7 +2,7 @@
 <gpx creator="https://gpx.studio" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/PowerExtension/v1 http://www.garmin.com/xmlschemas/PowerExtensionv1.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxpx="http://www.garmin.com/xmlschemas/PowerExtension/v1" xmlns:gpx_style="http://www.topografix.com/GPX/gpx_style/0/2">
   <metadata>
     <name>30.A3 Alternativa Castell Perelada</name>
-    <desc>Etapa 30.00 PK 6,01 - Castell de Perelada - Casino - Torre de la Muralla - Etapa 30.00 PK 6,01 </desc>
+    <desc>Etapa 30.00 PK 6,01 - Castell de Perelada - Casino - Carrer de Sant Joan - Torre de la Muralla - Etapa 30.00 PK 6,01 </desc>
     <author>
       <name>gpx.studio</name>
       <link href="https://gpx.studio"/>
@@ -31,7 +31,7 @@ Des de l&apos;accés al 🏘️poble medieval i 🅿️parking de Perelada tenim
 ╬ Diversos caminets, prenem lleugerament a ↗️dretes🧭W</cmt>
     <desc>🏰Castell de Perelada. 📷Interés turístic. 
 ╬ Diversos caminets, prenem lleugerament a ↗️dretes🧭W</desc>
-    <sym>Scenic Area</sym>
+    <sym>Camera</sym>
   </wpt>
   <wpt lat="42.307008" lon="3.012093">
     <ele>36.02289867778317</ele>
@@ -50,7 +50,7 @@ Des de l&apos;accés al 🏘️poble medieval i 🅿️parking de Perelada tenim
   <wpt lat="42.307349" lon="3.010174">
     <ele>34.872390115634964</ele>
     <name>6 🏰Torre de la Muralla📷</name>
-    <sym>Scenic Area</sym>
+    <sym>Camera</sym>
   </wpt>
   <wpt lat="42.306359" lon="3.009137">
     <ele>20.104184805229707</ele>
