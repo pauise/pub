@@ -464,6 +464,24 @@
       "km": 1
     },
     {
+      "id": "30.A3",
+      "nom": "Alternativa Castell Perelada",
+      "data": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/json/30.A3.Castell%20Perelada.json",
+      "km": 0.77
+    },
+    {
+      "id": "30.B3",
+      "nom": "Alternativa Perelada Tour curt",
+      "data": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/json/30.00.Figueres.Capmany.json",
+      "km": 0.58
+    },
+    {
+      "id": "30.C3",
+      "nom": "Alternativa Perelada Tour llarg",
+      "data": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/json/30.00.Figueres.Capmany.json",
+      "km": 1.09
+    },
+    {
       "id": "31.00",
       "nom": "Capmany - La Jonquera",
       "data": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/json/31.00.Capmany.Jonquera.json",
