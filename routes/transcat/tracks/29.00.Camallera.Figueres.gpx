@@ -103,12 +103,12 @@ Millora l&apos;estat de la pista</desc>
   </wpt>
   <wpt lat="42.156494" lon="2.98828">
     <ele>38.18046561516887</ele>
-    <name>13 🏘️Sant Mori ☕🛏️ . ╦↖️🧭N</name>
+    <name>13 🏘️Sant Mori ☕🛏️ . ╦↖️🧭N.⚠️🚗 1,8kms</name>
     <cmt>Arribem al 🏘️poble de Sant Mori on hi podem trobar ☕bar i diversos 🛏️allotjaments
-╦ Incorporar-se a ↖️l&apos;esquerra 🧭N</cmt>
+╦ Incorporar-se a ↖️l&apos;esquerra 🧭N. Tram de 1,8 kms de carretera on cal tenir ⚠️precaució amb el 🚗trànsit.</cmt>
     <desc>Arribem al 🏘️poble de Sant Mori on hi podem trobar ☕bar i diversos 🛏️allotjaments
-╦ Incorporar-se a ↖️l&apos;esquerra 🧭N</desc>
-    <sym>Crossing</sym>
+╦ Incorporar-se a ↖️l&apos;esquerra 🧭N. Tram de 1,8 kms de carretera on cal tenir ⚠️precaució amb el 🚗trànsit.</desc>
+    <sym>Alert</sym>
   </wpt>
   <wpt lat="42.16589" lon="2.991761">
     <ele>27.36602771277596</ele>
