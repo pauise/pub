@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx creator="https://gpx.studio" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/PowerExtension/v1 http://www.garmin.com/xmlschemas/PowerExtensionv1.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxpx="http://www.garmin.com/xmlschemas/PowerExtension/v1" xmlns:gpx_style="http://www.topografix.com/GPX/gpx_style/0/2">
+  <metadata>
+    <name>29.A2 Alternativa GI-622</name>
+    <desc>Etapa 29.00 PK 4,89 - Etapa 29.00 PK 6.73</desc>
+    <author>
+      <name>gpx.studio</name>
+      <link href="https://gpx.studio"/>
+    </author>
+  </metadata>
+  <wpt lat="42.156706" lon="2.988344">
+    <ele>41.12352668438117</ele>
+    <name>🟢🏘️Sant Mori ╣↖️🧭NNW</name>
+    <cmt>🏘️Sant Mori , Etapa 29.00 PK 4,89.
+╣ Abandonar la GI-622 a de Sant Mori a Sant Miquel de Fluvià per desviació a ↖️l&apos;esquerra 🧭NNW</cmt>
+    <desc>🏘️Sant Mori , Etapa 29.00 PK 4,89.
+╣ Abandonar la GI-622 a de Sant Mori a Sant Miquel de Fluvià per desviació a ↖️l&apos;esquerra 🧭NNW</desc>
+    <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="42.157908" lon="2.987449">
+    <ele>32.46964152888439</ele>
+    <name>2 ⌒🛤️</name>
+    <cmt>Passem ⌒ sota la 🛤️via</cmt>
+    <desc>Passem ⌒ sota la 🛤️via</desc>
+    <sym>Tunnel</sym>
+  </wpt>
+  <wpt lat="42.160733" lon="2.986719">
+    <ele>28.217486529099617</ele>
+    <name>3 ╠➡️</name>
+    <cmt>╠ Desviar a la ➡️dreta</cmt>
+    <desc>╠ Desviar a la ➡️dreta</desc>
+    <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="42.164093" lon="2.988606">
+    <ele>23.681964361420082</ele>
+    <name>4 ╦➡️</name>
+    <cmt>╦ Incorporar-se a pista a la ➡️dreta</cmt>
+    <desc>╦ Incorporar-se a pista a la ➡️dreta</desc>
+    <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="42.165884" lon="2.990761">
+    <ele>29.790125973149767</ele>
+    <name>5 ⌒🛤️</name>
+    <cmt>Passem ⌒ sota la 🛤️via</cmt>
+    <desc>Passem ⌒ sota la 🛤️via</desc>
+  </wpt>
+  <wpt lat="42.16497" lon="2.991911">
+    <ele>35.517448105153136</ele>
+    <name>🏁Final Alternativa GI-622 ╦</name>
+    <cmt> ╦ Cruïlla amb GI-622 i connexió amb Etapa 29.00 PK 5,89
+⬅️🧭N a Sant Miquel de Fluvià per GI-622 i Figueres per Etapa 29.00
+➡️🧭S a Sant Mori per GI-622 i Etapa 29.00</cmt>
+    <desc> ╦ Cruïlla amb GI-622 i connexió amb Etapa 29.00 PK 5,89
+⬅️🧭N a Sant Miquel de Fluvià per GI-622 i Figueres per Etapa 29.00
+➡️🧭S a Sant Mori per GI-622 i Etapa 29.00</desc>
+    <sym>Crossing</sym>
+  </wpt>
+  <trk>
+    <name>29.A2 Alternativa GI-622</name>
+    <trkseg>
+      <trkpt lat="42.156702" lon="2.98834">
+        <ele>38.5</ele>
+      </trkpt>
+      <trkpt lat="42.157032" lon="2.988227">
+        <ele>36.25</ele>
+      </trkpt>
+      <trkpt lat="42.157254" lon="2.98818">
+        <ele>34.75</ele>
+      </trkpt>
+      <trkpt lat="42.157514" lon="2.988014">
+        <ele>33.25</ele>
+      </trkpt>
+      <trkpt lat="42.157617" lon="2.987915">
+        <ele>33</ele>
+      </trkpt>
+      <trkpt lat="42.157826" lon="2.987813">
+        <ele>33</ele>
+      </trkpt>
+      <trkpt lat="42.157891" lon="2.987736">
+        <ele>32.75</ele>
+      </trkpt>
+      <trkpt lat="42.157901" lon="2.987508">
+        <ele>32</ele>
+      </trkpt>
+      <trkpt lat="42.157903" lon="2.987484">
+        <ele>32</ele>
+      </trkpt>
+      <trkpt lat="42.15795" lon="2.987215">
+        <ele>33</ele>
+      </trkpt>
+      <trkpt lat="42.157989" lon="2.987142">
+        <ele>33</ele>
+      </trkpt>
+      <trkpt lat="42.158083" lon="2.987138">
+        <ele>32.75</ele>
+      </trkpt>
+      <trkpt lat="42.158339" lon="2.987309">
+        <ele>31.75</ele>
+      </trkpt>
+      <trkpt lat="42.15842" lon="2.987334">
+        <ele>31.75</ele>
+      </trkpt>
+      <trkpt lat="42.158514" lon="2.987232">
+        <ele>31.75</ele>
+      </trkpt>
+      <trkpt lat="42.158971" lon="2.987061">
+        <ele>31</ele>
+      </trkpt>
+      <trkpt lat="42.15942" lon="2.987048">
+        <ele>30.75</ele>
+      </trkpt>
+      <trkpt lat="42.159787" lon="2.987091">
+        <ele>30.5</ele>
+      </trkpt>
+      <trkpt lat="42.160022" lon="2.987065">
+        <ele>30.25</ele>
+      </trkpt>
+      <trkpt lat="42.160398" lon="2.986916">
+        <ele>29.25</ele>
+      </trkpt>
+      <trkpt lat="42.160729" lon="2.986722">
+        <ele>28.25</ele>
+      </trkpt>
+      <trkpt lat="42.160736" lon="2.986719">
+        <ele>28.25</ele>
+      </trkpt>
+      <trkpt lat="42.161268" lon="2.987865">
+        <ele>27.5</ele>
+      </trkpt>
+      <trkpt lat="42.162011" lon="2.988466">
+        <ele>28.5</ele>
+      </trkpt>
+      <trkpt lat="42.162445" lon="2.988725">
+        <ele>30.75</ele>
+      </trkpt>
+      <trkpt lat="42.163004" lon="2.988833">
+        <ele>28.75</ele>
+      </trkpt>
+      <trkpt lat="42.163354" lon="2.98885">
+        <ele>26.5</ele>
+      </trkpt>
+      <trkpt lat="42.16393" lon="2.98865">
+        <ele>25</ele>
+      </trkpt>
+      <trkpt lat="42.164074" lon="2.988622">
+        <ele>25</ele>
+      </trkpt>
+      <trkpt lat="42.164074" lon="2.988622">
+        <ele>25</ele>
+      </trkpt>
+      <trkpt lat="42.164104" lon="2.988617">
+        <ele>25</ele>
+      </trkpt>
+      <trkpt lat="42.164111" lon="2.989141">
+        <ele>27</ele>
+      </trkpt>
+      <trkpt lat="42.164306" lon="2.989349">
+        <ele>28</ele>
+      </trkpt>
+      <trkpt lat="42.164598" lon="2.989592">
+        <ele>28.25</ele>
+      </trkpt>
+      <trkpt lat="42.165285" lon="2.990321">
+        <ele>28</ele>
+      </trkpt>
+      <trkpt lat="42.165512" lon="2.990467">
+        <ele>27.75</ele>
+      </trkpt>
+      <trkpt lat="42.165732" lon="2.990475">
+        <ele>27.5</ele>
+      </trkpt>
+      <trkpt lat="42.165839" lon="2.990487">
+        <ele>27.25</ele>
+      </trkpt>
+      <trkpt lat="42.165888" lon="2.99055">
+        <ele>27.5</ele>
+      </trkpt>
+      <trkpt lat="42.165889" lon="2.990757">
+        <ele>28.25</ele>
+      </trkpt>
+      <trkpt lat="42.165889" lon="2.990755">
+        <ele>28.25</ele>
+      </trkpt>
+      <trkpt lat="42.16589" lon="2.990765">
+        <ele>28.5</ele>
+      </trkpt>
+      <trkpt lat="42.165887" lon="2.991088">
+        <ele>28.5</ele>
+      </trkpt>
+      <trkpt lat="42.165873" lon="2.991274">
+        <ele>28.25</ele>
+      </trkpt>
+      <trkpt lat="42.165701" lon="2.991468">
+        <ele>28.75</ele>
+      </trkpt>
+      <trkpt lat="42.165481" lon="2.991641">
+        <ele>29.5</ele>
+      </trkpt>
+      <trkpt lat="42.165275" lon="2.991712">
+        <ele>30.75</ele>
+      </trkpt>
+      <trkpt lat="42.164977" lon="2.991742">
+        <ele>32.5</ele>
+      </trkpt>
+      <trkpt lat="42.164933" lon="2.991818">
+        <ele>33.5</ele>
+      </trkpt>
+      <trkpt lat="42.164976" lon="2.991939">
+        <ele>33.75</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
