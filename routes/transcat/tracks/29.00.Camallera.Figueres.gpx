@@ -103,18 +103,24 @@ Millora l&apos;estat de la pista</desc>
   </wpt>
   <wpt lat="42.156494" lon="2.98828">
     <ele>38.18046561516887</ele>
-    <name>13 🏘️Sant Mori ☕🛏️ . ╦↖️🧭N.⚠️🚗 1,8kms</name>
+    <name>13 🏘️Sant Mori ☕🛏️ . ╦↖️╣⬆️🧭N⚠️🚗 1,8kms. ⬅️29.A2</name>
     <cmt>Arribem al 🏘️poble de Sant Mori on hi podem trobar ☕bar i diversos 🛏️allotjaments
-╦ Incorporar-se a ↖️l&apos;esquerra 🧭N. Tram de 1,8 kms de carretera on cal tenir ⚠️precaució amb el 🚗trànsit.</cmt>
+╦ Incorporar-se a ↖️l&apos;esquerra i seguidament ╣ continuar ⬆️recte 🧭N.
+A la sortida del poble ⚠️precaució amb el 🚗trànsit: Comença tram de 1,8 kms de carretera sense voral.
+A la cruïlla de Sant Mori a ⬅️l'esquerra sense asfaltar inici Alternativa 29.A2 de 1,43 kms per escurçar 1 km de carretera. Després la carretera és imprescindible per creuar el Riu Fluvià.</cmt>
     <desc>Arribem al 🏘️poble de Sant Mori on hi podem trobar ☕bar i diversos 🛏️allotjaments
-╦ Incorporar-se a ↖️l&apos;esquerra 🧭N. Tram de 1,8 kms de carretera on cal tenir ⚠️precaució amb el 🚗trànsit.</desc>
+╦ Incorporar-se a ↖️l&apos;esquerra i seguidament ╣ continuar ⬆️recte 🧭N.
+A la sortida del poble ⚠️precaució amb el 🚗trànsit: Comença tram de 1,8 kms de carretera sense voral.
+A la cruïlla de Sant Mori a ⬅️l'esquerra sense asfaltar inici Alternativa 29.A2 de 1,43 kms per escurçar 1 km de carretera. Després la carretera és imprescindible per creuar el Riu Fluvià.</desc>
     <sym>Alert</sym>
   </wpt>
-  <wpt lat="42.16589" lon="2.991761">
+  <wpt lat="42.164913" lon="2.991939">
     <ele>27.36602771277596</ele>
-    <name>14 ⬆️ ︵ ╠⬆️. ➡️a🛏️</name>
-    <cmt>⬆️Atravessem el ︵ pont sobre el Riu Fluvià i a la següent ╠ desviació ⬆️recte. A la ➡️dreta a 🛏️Mas la Barca</cmt>
-    <desc>⬆️Atravessem el ︵ pont sobre el Riu Fluvià i a la següent ╠ desviació ⬆️recte. A la ➡️dreta a 🛏️Mas la Barca</desc>
+    <name>14 ╬⬆️ ︵ ╠⬆️. ➡️a🛏️</name>
+    <cmt>╬ Seguim ⬆️recte pel ︵ pont sobre el Riu Fluvià. A ⬅️l'esquerra connexió amb Alternativa 29.xx a Sant Mori en XX,XX kms
+Creuat el ︵ pont a la següent ╠ desviació ⬆️recte. A la ➡️dreta a 🛏️Mas la Barca</cmt>
+    <desc>╬ Seguim ⬆️recte pel ︵ pont sobre el Riu Fluvià. A ⬅️l'esquerra connexió amb Alternativa 29.xx a Sant Mori en XX,XX kms
+Creuat el ︵ pont a la següent ╠ desviació ⬆️recte. A la ➡️dreta a 🛏️Mas la Barca</desc>
     <sym>Bridge</sym>
   </wpt>
   <wpt lat="42.172152" lon="2.989686">
