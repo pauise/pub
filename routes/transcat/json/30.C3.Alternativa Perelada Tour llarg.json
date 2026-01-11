@@ -1,0 +1,33 @@
+{
+    "title": "Etapa 30 Alternativa Perelada Tour llarg",
+    "full_track_url": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/tracks/30.C3.Alternativa%20Perelada%20Tour%20llarg.gpx",
+    "prf": [
+        {"km": 0, "alt": 22},
+        {"km": 0.32, "alt": 40},
+        {"km": 0.69, "alt": 22},
+        {"km": 0.92, "alt": 39},
+        {"km": 0.97, "alt": 30},
+        {"km": 1.09, "alt": 22}
+    ],
+    "wps": [
+        {"km": 0, "paviment": 1},
+        {"km": 0.03, "paviment": 1},
+        {"km": 0.15, "paviment": 1},
+        {"km": 0.19, "paviment": 1},
+        {"km": 0.25, "paviment": 1},
+        {"km": 0.3, "paviment": 1},
+        {"km": 0.35, "paviment": 1},
+        {"km": 0.42, "paviment": 1},
+        {"km": 0.47, "paviment": 1},
+        {"km": 0.52, "paviment": 1},
+        {"km": 0.57, "paviment": 1},
+        {"km": 0.69, "paviment": 1},
+        {"km": 0.73, "paviment": 1},
+        {"km": 0.81, "paviment": 1},
+        {"km": 0.84, "paviment": 1},
+        {"km": 0.91, "paviment": 1},
+        {"km": 0.97, "paviment": 1},
+        {"km": 1.05, "paviment": 1},
+        {"km": 1.09, "paviment": 1}
+      ]
+  }
