@@ -12,15 +12,6 @@
     </link>
     <time>2022-03-02T10:10:31.752Z</time>
   </metadata>
-  <wpt lat="42.219061" lon="2.994152">
-    <ele>22.798043733091244</ele>
-    <name>🟢Enllaç a 🏘️🚉Vilamalla ╦⬅️🧭W</name>
-    <cmt>Enllaç a 🏘️Poble i 🚉Estació de Vilamalla 
-╦ Desviar ⬅️esquerra 🧭W</cmt>
-    <desc>Enllaç a 🏘️Poble i 🚉Estació de Vilamalla 
-╦ Desviar ⬅️esquerra 🧭W</desc>
-    <sym>Crossing</sym>
-  </wpt>
   <wpt lat="42.270874" lon="2.994883">
     <ele>15.032041109912216</ele>
     <name>🟢Vilatenim ╦↗️⛪🧭NE</name>
@@ -83,7 +74,7 @@ A la ╬ cruïlla ⬆️recte per creuar La Muga pel ︵ gual amb ⚠️precauci
     <name>8 ╠➡️🧭E</name>
     <cmt>╠ Desviar ➡️dreta per camí 🧭E</cmt>
     <desc>╠ Desviar ➡️dreta per camí 🧭E</desc>
-    <sym>Road</sym>
+    <sym>End of Road</sym>
   </wpt>
   <wpt lat="42.300027" lon="3.014301">
     <ele>17.411767605418063</ele>
@@ -115,41 +106,41 @@ A la nostra ➡️dreta disposem de 3 rutes 📷d&apos;interés turístic: 30.A3
 A la nostra ➡️dreta disposem de 3 rutes 📷d&apos;interés turístic: 30.A3 Castell, 30.B3 Tour curt i 30.C3 Tour llarg</desc>
     <sym>Crossing</sym>
   </wpt>
-  <wpt lat="42.31032857495282" lon="3.00795508409513">
-    <ele>24.341380741893182</ele>
-    <name>14 🚰╬⬅️🔻⬆️a 30.D3 per evitar 🌊Orlina🚗</name>
-    <cmt>🚰Font a l&apos;esquerra. ╬ Cruïlla ⬅️esquerra 🔻avall
-⬆️a 30.D3 per evitar 🌊Orlina si ve massa ple. Ruta de 1,56 kms per carretera que reconnecta en el PK 8,71; de fet és 550m més curta però pot haver-hi 🚗trànsit.</cmt>
-    <desc>🚰Font a l&apos;esquerra. ╬ Cruïlla ⬅️esquerra 🔻avall
-⬆️a 30.D3 per evitar 🌊Orlina si ve massa ple. Ruta de 1,56 kms per carretera que reconnecta en el PK 8,71; de fet és 550m més curta però pot haver-hi 🚗trànsit.</desc>
-    <sym>Crossing</sym>
-  </wpt>
   <wpt lat="42.307337" lon="3.006958">
     <ele>21.892390101915677</ele>
-    <name>12 ╠⬆️. ➡️ a 30.B3 i 30.C3</name>
+    <name>13 ╠⬆️. ➡️ a 30.B3 i 30.C3</name>
     <cmt>╠ Seguim ⬆️recte pel mateix carrer. Connexió amb final 30.B3 i 30.C3.</cmt>
     <desc>╠ Seguim ⬆️recte pel mateix carrer. Connexió amb final 30.B3 i 30.C3.</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="42.308564" lon="3.00678">
     <ele>26.265766737703665</ele>
-    <name>13 🅿️╣↗️📷🏰</name>
+    <name>14 🅿️╣↗️📷🏰</name>
     <cmt>🅿️Aparcament a la nostra esquerra.  ╣Seguir pel carrer principal a ↗️dretes. 
 📷Interés turístic 🏰Muralles de Perelada a la nostra dreta.</cmt>
     <desc>🅿️Aparcament a la nostra esquerra.  ╣Seguir pel carrer principal a ↗️dretes. 
 📷Interés turístic 🏰Muralles de Perelada a la nostra dreta.</desc>
     <sym>Scenic Area</sym>
   </wpt>
+  <wpt lat="42.31032857495282" lon="3.00795508409513">
+    <ele>24.341380741893182</ele>
+    <name>15 🚰╬⬅️🔻⬆️a 30.D3 per evitar 🌊Orlina🚗</name>
+    <cmt>🚰Font a l&apos;esquerra. ╬ Cruïlla ⬅️esquerra 🔻avall
+⬆️a 30.D3 per evitar 🌊Orlina si ve massa ple. Ruta de 1,56 kms per carretera que reconnecta en el PK 8,71; de fet és 550m més curta però pot haver-hi 🚗trànsit.</cmt>
+    <desc>🚰Font a l&apos;esquerra. ╬ Cruïlla ⬅️esquerra 🔻avall
+⬆️a 30.D3 per evitar 🌊Orlina si ve massa ple. Ruta de 1,56 kms per carretera que reconnecta en el PK 8,71; de fet és 550m més curta però pot haver-hi 🚗trànsit.</desc>
+    <sym>Crossing</sym>
+  </wpt>
   <wpt lat="42.310468" lon="3.007261">
     <ele>19.953087307290854</ele>
-    <name>15 ⚠️🌊</name>
+    <name>16 ⚠️🌊</name>
     <cmt>⚠️Precaució 🌊riuades, creuem la riera Orlina</cmt>
     <desc>⚠️Precaució 🌊riuades, creuem la riera Orlina</desc>
     <sym>Alert</sym>
   </wpt>
   <wpt lat="42.317347" lon="2.993757">
     <ele>20.939518052712476</ele>
-    <name>16 ╦➡️🛏️🐄</name>
+    <name>17 ╦➡️🛏️🐄</name>
     <cmt>╦ Ens incorporem a pista asfaltada a la ➡️dreta
 En uns metres passarem davant d&apos;un parell 🛏️d&apos;allotjaments i una granja de 🐄vaques a la nostra esquerra per si voleu demanar per fer foto amb els petits.
 Si us fiqueu a la granja, i en podeu sortir 🧭N, connectareu amb el PK 9,04 d&apos;aquesta etapa.</cmt>
@@ -160,7 +151,7 @@ Si us fiqueu a la granja, i en podeu sortir 🧭N, connectareu amb el PK 9,04 d&
   </wpt>
   <wpt lat="42.320802" lon="2.998892">
     <ele>21.46919262048413</ele>
-    <name>17 ╬⬅️. ➡️final 30.D3</name>
+    <name>18 ╬⬅️. ➡️final 30.D3</name>
     <cmt>╬ Ens incorporem a Carretera de Vilarnadal a ⬅️l&apos;esquerra.
 A la ➡️dreta connexió amb final Alternativa 30.D3 que evita Orlina</cmt>
     <desc>╬ Ens incorporem a Carretera de Vilarnadal a ⬅️l&apos;esquerra.
@@ -169,7 +160,7 @@ A la ➡️dreta connexió amb final Alternativa 30.D3 que evita Orlina</desc>
   </wpt>
   <wpt lat="42.321686" lon="2.995197">
     <ele>26.23756985930251</ele>
-    <name>18 ╬⬆️. 📷⛪ i Connexió 🐄</name>
+    <name>19 ╬⬆️. 📷⛪ i Connexió 🐄</name>
     <cmt>╬ Seguir ⬆️recte per Carretera de Vilarnadal. 
 A la dreta 📷Vista de ⛪l&apos;ermita de Sant Nazarí de les Olives.
 A l&apos;esquerra punt de connexió si veniu de visitar la granja de 🐄vaques</cmt>
@@ -180,49 +171,49 @@ A l&apos;esquerra punt de connexió si veniu de visitar la granja de 🐄vaques<
   </wpt>
   <wpt lat="42.327224" lon="2.975984">
     <ele>29.948369927612337</ele>
-    <name>19 ╦➡️⚠️🚗╣⬅️</name>
+    <name>20 ╦➡️⚠️🚗╣⬅️</name>
     <cmt>╦ Incorporar-se a GIV-6024 a la ➡️dreta amb ⚠️precaució 🚗trànsit per de seguida ╣ desviar a ⬅️l&apos;esquerra per seguir per Carretera de Vilarnadal</cmt>
     <desc>╦ Incorporar-se a GIV-6024 a la ➡️dreta amb ⚠️precaució 🚗trànsit per de seguida ╣ desviar a ⬅️l&apos;esquerra per seguir per Carretera de Vilarnadal</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="42.327835" lon="2.973878">
     <ele>32.99300808779715</ele>
-    <name>20 ╬↖️</name>
+    <name>21 ╬↖️</name>
     <cmt>╬ Desviar ↖️esquerra per Camí de Cabanes sense asfaltar</cmt>
     <desc>╬ Desviar ↖️esquerra per Camí de Cabanes sense asfaltar</desc>
-    <sym>Road</sym>
+    <sym>End of Road</sym>
   </wpt>
   <wpt lat="42.337425" lon="2.955764">
     <ele>35.772712646794915</ele>
-    <name>21 ╬↗️🧭N</name>
+    <name>22 ╬↗️🧭N</name>
     <cmt>╬ Cruïlla a ↗️dretes 🧭N</cmt>
     <desc>╬ Cruïlla a ↗️dretes 🧭N</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="42.338882" lon="2.95439">
     <ele>37.516927416815214</ele>
-    <name>22 ╦↖️</name>
+    <name>23 ╦↖️</name>
     <cmt>╦ Incorporar-se de nou a Carretera de Vilarnadal a ↖️l&apos;esquerra</cmt>
     <desc>╦ Incorporar-se de nou a Carretera de Vilarnadal a ↖️l&apos;esquerra</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="42.340128" lon="2.95342">
     <ele>43.32395891174698</ele>
-    <name>23 ╬🛑⚠️🚗⬆️╠↗️🏘️Vilarnadal 🏰🏥</name>
+    <name>24 ╬🛑⚠️🚗⬆️╠↗️🏘️Vilarnadal 🏰🏥</name>
     <cmt>╬ Cruïlla GIV-6026 amb 🛑Stop. Amb ⚠️precaució 🚗trànsit creuar ⬆️recte i seguit ╠ desviar ↗️45º dreta per accedir al 🏘️poble de Vilarnadal que disposa de 🏰castell i 🏥dispensari indicats.</cmt>
     <desc>╬ Cruïlla GIV-6026 amb 🛑Stop. Amb ⚠️precaució 🚗trànsit creuar ⬆️recte i seguit ╠ desviar ↗️45º dreta per accedir al 🏘️poble de Vilarnadal que disposa de 🏰castell i 🏥dispensari indicats.</desc>
     <sym>Alert</sym>
   </wpt>
   <wpt lat="42.34099" lon="2.953281">
     <ele>46.827565738652595</ele>
-    <name>24 </name>
-    <cmt>Cruïlla recte</cmt>
-    <desc>Cruïlla recte</desc>
+    <name>25 ╬⬆️</name>
+    <cmt>╬ Cruïlla ⬆️recte</cmt>
+    <desc>╬ Cruïlla ⬆️recte</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="42.341364" lon="2.95323">
     <ele>46.43633706672162</ele>
-    <name>25 🌳⛪🚰🛝╣⬅️🧱↖️🧭SW</name>
+    <name>26 🌳⛪🚰🛝╣⬅️🧱↖️🧭SW</name>
     <cmt>🌳⛪Plaça de l&apos;Església.
 🚰Font a mà dreta i 🛝joc infantil a mà esquerra. 
 ╣ Agafem ⬅️esquerra pel 🧱mur de l&apos;església i prenem el carrer que surt ↖️45º esquerra 🧭SW</cmt>
@@ -233,7 +224,7 @@ A l&apos;esquerra punt de connexió si veniu de visitar la granja de 🐄vaques<
   </wpt>
   <wpt lat="42.341125" lon="2.952641">
     <ele>41.73450451502905</ele>
-    <name>26 ╦➡️︵</name>
+    <name>27 ╦➡️︵</name>
     <cmt>╦ Incorporar-se a carretera a la ➡️dreta.
 Seguidament creuem el ︵ pont sobre la Riera de Vilarnadal</cmt>
     <desc>╦ Incorporar-se a carretera a la ➡️dreta.
@@ -242,48 +233,46 @@ Seguidament creuem el ︵ pont sobre la Riera de Vilarnadal</desc>
   </wpt>
   <wpt lat="42.341092" lon="2.951858">
     <ele>39.67509565777209</ele>
-    <name>27 ☕╠⬆️🚏╠➡️</name>
+    <name>28 ☕╠⬆️🚏╠➡️</name>
     <cmt>☕Bar a mà esquerra, ╠ seguim ⬆️recte, passem 🚏parada d&apos;autobús a mà dreta i just després ╠ abandonem asfalt per agafar carrer a la ➡️dreta.</cmt>
     <desc>☕Bar a mà esquerra, ╠ seguim ⬆️recte, passem 🚏parada d&apos;autobús a mà dreta i just després ╠ abandonem asfalt per agafar carrer a la ➡️dreta.</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="42.342323" lon="2.949835">
     <ele>45.08576681481308</ele>
-    <name>28 ╣↗️╠↖️</name>
+    <name>29 ╣↗️╠↖️</name>
     <cmt>╣Seguim per carrer a ↗️dretes i seguidament ╠ abandonem asfalt a esquerres↖️ per pista en molt bon estat</cmt>
     <desc>╣Seguim per carrer a ↗️dretes i seguidament ╠ abandonem asfalt a esquerres↖️ per pista en molt bon estat</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="42.345597" lon="2.9478">
     <ele>59.96208999115102</ele>
-    <name>29 ╬↖️╠↖️</name>
+    <name>30 ╬↖️╠↖️</name>
     <cmt>╬ Cruïlla, seguim a ↖️esquerres i a la següent ╠ desviació també seguim a ↖️esquerres per camí</cmt>
     <desc>╬ Cruïlla, seguim a ↖️esquerres i a la següent ╠ desviació també seguim a ↖️esquerres per camí</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="42.352264" lon="2.939808">
     <ele>58.24715815335602</ele>
-    <name>30 Inici asfalt ︵ ⚠️🌊</name>
+    <name>31 Inici asfalt ︵ ⚠️🌊</name>
     <cmt>Inici asfalt i en pocs metres creuem per ︵ gual amb ⚠️precaució la 🌊Riera de Torrelles</cmt>
     <desc>Inici asfalt i en pocs metres creuem per ︵ gual amb ⚠️precaució la 🌊Riera de Torrelles</desc>
     <sym>Alert</sym>
   </wpt>
   <wpt lat="42.372081" lon="2.922465">
     <ele>101.99271242385173</ele>
-    <name>31 🏘️Capmany🌊🛏️🍽️.  ╦↗️≡⬅️🚶≡↗️🧿</name>
-    <cmt>🏘️Capmany amb 🌊piscina municipal descoberta, 🛏️allotjament i 🍽️bars i restaurants
-╦ Cruïlla GI-602. Per la nostra ↗️dreta creuem carretera pel ≡ pas de zebra i a ⬅️l&apos;esquerra per la 🚶vorera fins el següent ≡ pas de zebra ↗️ens incorporem al carrer peatonal cap al 🧿centre del poble</cmt>
-    <desc>🏘️Capmany amb 🌊piscina municipal descoberta, 🛏️allotjament i 🍽️bars i restaurants
-╦ Cruïlla GI-602. Per la nostra ↗️dreta creuem carretera pel ≡ pas de zebra i a ⬅️l&apos;esquerra per la 🚶vorera fins el següent ≡ pas de zebra ↗️ens incorporem al carrer peatonal cap al 🧿centre del poble</desc>
+    <name>32 ╦↗️≡⬅️🚶≡↗️🧿</name>
+    <cmt>╦ Cruïlla GI-602. Per la nostra ↗️dreta creuem carretera pel ≡ pas de zebra i a ⬅️l&apos;esquerra per la 🚶vorera fins el següent ≡ pas de zebra ↗️ens incorporem al carrer peatonal cap al 🧿centre del poble</cmt>
+    <desc>╦ Cruïlla GI-602. Per la nostra ↗️dreta creuem carretera pel ≡ pas de zebra i a ⬅️l&apos;esquerra per la 🚶vorera fins el següent ≡ pas de zebra ↗️ens incorporem al carrer peatonal cap al 🧿centre del poble</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="42.373121" lon="2.921118">
     <ele>109.16713140137276</ele>
-    <name>🏁Final Etapa 30 🏘️Capmany ╬</name>
-    <cmt>🏘️Capmany 
+    <name>🏁Final Etapa 30 🏘️Capmany 🌊🛏️🍽️ ╬</name>
+    <cmt>🏘️Capmany amb 🌊piscina municipal descoberta, 🛏️allotjament i 🍽️bars i restaurants
 ╬ Plaça Major
 🧭N a La Jonquera per Etapa 31</cmt>
-    <desc>🏘️Capmany 
+    <desc>🏘️Capmany amb 🌊piscina municipal descoberta, 🛏️allotjament i 🍽️bars i restaurants
 ╬ Plaça Major
 🧭N a La Jonquera per Etapa 31</desc>
     <sym>Crossing</sym>
