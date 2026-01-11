@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx creator="https://gpx.studio" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/PowerExtension/v1 http://www.garmin.com/xmlschemas/PowerExtensionv1.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxpx="http://www.garmin.com/xmlschemas/PowerExtension/v1" xmlns:gpx_style="http://www.topografix.com/GPX/gpx_style/0/2">
+  <metadata>
+    <name>30.D3 Alternativa Orlina</name>
+    <desc>Etapa 30.00 PK 6,60 - Carrer del Pont - Carretera a Mollet de Perelada - Carretera de Vilarnadal - Etapa 30.00 PK 8,71
+Ruta alternativa per evitar creuar pel gual la riera Orlina</desc>
+    <author>
+      <name>gpx.studio</name>
+      <link href="https://gpx.studio"/>
+    </author>
+  </metadata>
+  <wpt lat="42.310332581516974" lon="3.007962212864612">
+    <ele>24.385172742723995</ele>
+    <name>🟢Alternativa 30.D3 🚰╬⬆️🧭N per evitar 🌊Orlina🚗</name>
+    <cmt>🚰Font a l&apos;esquerra. ╬ Cruïlla ⬆️recte 🧭N per Carrer de Sant Sebastià per evitar 🌊riera Orlina si ve massa ple. 
+Ruta de 1,56 kms per carretera que desconnecta en el PK 6,6 i reconnecta en el PK 8,71; de fet és 550m més curta però pot haver-hi 🚗trànsit.</cmt>
+    <desc>🚰Font a l&apos;esquerra. ╬ Cruïlla ⬆️recte 🧭N per Carrer de Sant Sebastià per evitar 🌊riera Orlina si ve massa ple. 
+Ruta de 1,56 kms per carretera que desconnecta en el PK 6,6 i reconnecta en el PK 8,71; de fet és 550m més curta però pot haver-hi 🚗trànsit.</desc>
+    <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="42.311917" lon="3.008857">
+    <ele>23.195227944502584</ele>
+    <name>2 ╦↖️🧭N</name>
+    <cmt>╦ Incorporar-se a Carretera de Mollet de Perelada a ↖️l&apos;esquerra 🧭N</cmt>
+    <desc>╦ Incorporar-se a Carretera de Mollet de Perelada a ↖️l&apos;esquerra 🧭N</desc>
+    <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="42.315348" lon="3.007436">
+    <ele>21.002738142907063</ele>
+    <name>3 ╣↖️</name>
+    <cmt>╣ Desviar a ↖️l&apos;esquerra per Carretera de Vilarnadal</cmt>
+    <desc>╣ Desviar a ↖️l&apos;esquerra per Carretera de Vilarnadal</desc>
+    <sym>Crossing</sym>
+  </wpt>
+  <trk>
+    <name>30.D3 Alternativa Orlina</name>
+    <trkseg>
+      <trkpt lat="42.31033" lon="3.007959">
+        <ele>25.5</ele>
+      </trkpt>
+      <trkpt lat="42.310366" lon="3.008012">
+        <ele>25.75</ele>
+      </trkpt>
+      <trkpt lat="42.31044" lon="3.00804">
+        <ele>25.75</ele>
+      </trkpt>
+      <trkpt lat="42.310585" lon="3.008019">
+        <ele>25.25</ele>
+      </trkpt>
+      <trkpt lat="42.310726" lon="3.007982">
+        <ele>24.25</ele>
+      </trkpt>
+      <trkpt lat="42.310903" lon="3.00795">
+        <ele>23.5</ele>
+      </trkpt>
+      <trkpt lat="42.311032" lon="3.007992">
+        <ele>23.5</ele>
+      </trkpt>
+      <trkpt lat="42.31115" lon="3.008061">
+        <ele>23.75</ele>
+      </trkpt>
+      <trkpt lat="42.311303" lon="3.008205">
+        <ele>24.25</ele>
+      </trkpt>
+      <trkpt lat="42.311776" lon="3.008724">
+        <ele>24.25</ele>
+      </trkpt>
+      <trkpt lat="42.311862" lon="3.008806">
+        <ele>23.75</ele>
+      </trkpt>
+      <trkpt lat="42.311863" lon="3.008807">
+        <ele>23.75</ele>
+      </trkpt>
+      <trkpt lat="42.311942" lon="3.008881">
+        <ele>23.75</ele>
+      </trkpt>
+      <trkpt lat="42.312187" lon="3.008919">
+        <ele>22.25</ele>
+      </trkpt>
+      <trkpt lat="42.312511" lon="3.008988">
+        <ele>20.75</ele>
+      </trkpt>
+      <trkpt lat="42.31267" lon="3.009008">
+        <ele>20.5</ele>
+      </trkpt>
+      <trkpt lat="42.312772" lon="3.009009">
+        <ele>20.5</ele>
+      </trkpt>
+      <trkpt lat="42.312864" lon="3.008999">
+        <ele>20.25</ele>
+      </trkpt>
+      <trkpt lat="42.312921" lon="3.008984">
+        <ele>20.25</ele>
+      </trkpt>
+      <trkpt lat="42.313042" lon="3.008932">
+        <ele>20.25</ele>
+      </trkpt>
+      <trkpt lat="42.313344" lon="3.008757">
+        <ele>19.75</ele>
+      </trkpt>
+      <trkpt lat="42.313834" lon="3.008439">
+        <ele>20.25</ele>
+      </trkpt>
+      <trkpt lat="42.315255" lon="3.007473">
+        <ele>21</ele>
+      </trkpt>
+      <trkpt lat="42.315421" lon="3.007416">
+        <ele>20.75</ele>
+      </trkpt>
+      <trkpt lat="42.315452" lon="3.007363">
+        <ele>20.5</ele>
+      </trkpt>
+      <trkpt lat="42.315452" lon="3.007363">
+        <ele>20.5</ele>
+      </trkpt>
+      <trkpt lat="42.315635" lon="3.007061">
+        <ele>20.5</ele>
+      </trkpt>
+      <trkpt lat="42.315844" lon="3.006659">
+        <ele>19.75</ele>
+      </trkpt>
+      <trkpt lat="42.316366" lon="3.005298">
+        <ele>20.75</ele>
+      </trkpt>
+      <trkpt lat="42.316843" lon="3.00388">
+        <ele>21.75</ele>
+      </trkpt>
+      <trkpt lat="42.317704" lon="3.002423">
+        <ele>19.5</ele>
+      </trkpt>
+      <trkpt lat="42.317874" lon="3.002255">
+        <ele>20</ele>
+      </trkpt>
+      <trkpt lat="42.319167" lon="3.001257">
+        <ele>20.25</ele>
+      </trkpt>
+      <trkpt lat="42.31971" lon="3.000602">
+        <ele>20.5</ele>
+      </trkpt>
+      <trkpt lat="42.320033" lon="3.00012">
+        <ele>20.75</ele>
+      </trkpt>
+      <trkpt lat="42.320319" lon="2.999677">
+        <ele>20.75</ele>
+      </trkpt>
+      <trkpt lat="42.320634" lon="2.999318">
+        <ele>20.75</ele>
+      </trkpt>
+      <trkpt lat="42.320837" lon="2.998973">
+        <ele>21</ele>
+      </trkpt>
+      <trkpt lat="42.320833" lon="2.998968">
+        <ele>22.75</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
