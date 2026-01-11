@@ -32,6 +32,15 @@ Ruta de 1,56 kms per carretera que desconnecta en el PK 6,6 i reconnecta en el P
     <desc>╣ Desviar a ↖️l&apos;esquerra per Carretera de Vilarnadal</desc>
     <sym>Crossing</sym>
   </wpt>
+  <wpt lat="42.320832" lon="2.998977">
+    <ele>21.51197747157502</ele>
+    <name>🏁Fi Alternativa Orlina ╬⬆️</name>
+    <cmt>╬ Cruïlla. ⬆️Recte. 
+⬅️ a Perelada i Vilatenim (Figueres) per Etapa 30.00 </cmt>
+    <desc>╬ Cruïlla. ⬆️Recte. 
+⬅️ a Perelada i Vilatenim (Figueres) per Etapa 30.00 </desc>
+    <sym>Crossing</sym>
+  </wpt>
   <trk>
     <name>30.D3 Alternativa Orlina</name>
     <trkseg>
@@ -146,11 +155,8 @@ Ruta de 1,56 kms per carretera que desconnecta en el PK 6,6 i reconnecta en el P
       <trkpt lat="42.320634" lon="2.999318">
         <ele>20.75</ele>
       </trkpt>
-      <trkpt lat="42.320837" lon="2.998973">
+      <trkpt lat="42.320836" lon="2.998974">
         <ele>21</ele>
-      </trkpt>
-      <trkpt lat="42.320833" lon="2.998968">
-        <ele>22.75</ele>
       </trkpt>
     </trkseg>
   </trk>
