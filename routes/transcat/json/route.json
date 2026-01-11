@@ -482,6 +482,12 @@
       "km": 1.09
     },
     {
+      "id": "30.D3",
+      "nom": "Alternativa Orlina",
+      "data": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/json/30.D3.Alternativa%20Orlina.json",
+      "km": 1.58
+    },
+    {
       "id": "31.00",
       "nom": "Capmany - La Jonquera",
       "data": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/json/31.00.Capmany.Jonquera.json",
