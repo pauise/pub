@@ -472,13 +472,13 @@
     {
       "id": "30.B3",
       "nom": "Alternativa Perelada Tour curt",
-      "data": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/json/30.00.Figueres.Capmany.json",
+      "data": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/json/30.B3.Alternativa%20Perelada%20Tour%20curt.json",
       "km": 0.58
     },
     {
       "id": "30.C3",
       "nom": "Alternativa Perelada Tour llarg",
-      "data": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/json/30.00.Figueres.Capmany.json",
+      "data": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/json/30.C3.Alternativa%20Perelada%20Tour%20llarg.json",
       "km": 1.09
     },
     {
