@@ -1,0 +1,24 @@
+{
+    "title": "Etapa 30 Alternativa Perelada Tour curt",
+    "full_track_url": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/tracks/30.B3.Alternativa%20Perelada%20Tour%20curt.gpx",
+    "prf": [
+        {"km": 0, "alt": 22},
+        {"km": 0.26, "alt": 38},
+        {"km": 0.58, "alt": 22}
+    ],
+    "wps": [
+        {"km": 0, "paviment": 1},
+        {"km": 0.03, "paviment": 1},
+        {"km": 0.07, "paviment": 1},
+        {"km": 0.14, "paviment": 1},
+        {"km": 0.17, "paviment": 1},
+        {"km": 0.23, "paviment": 1},
+        {"km": 0.27, "paviment": 1},
+        {"km": 0.33, "paviment": 1},
+        {"km": 0.39, "paviment": 1},
+        {"km": 0.44, "paviment": 1},
+        {"km": 0.49, "paviment": 1},
+        {"km": 0.54, "paviment": 1},
+        {"km": 0.58, "paviment": 1}
+      ]
+  }
