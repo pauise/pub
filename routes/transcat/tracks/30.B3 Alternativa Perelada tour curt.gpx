@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx creator="https://gpx.studio" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/PowerExtension/v1 http://www.garmin.com/xmlschemas/PowerExtensionv1.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxpx="http://www.garmin.com/xmlschemas/PowerExtension/v1" xmlns:gpx_style="http://www.topografix.com/GPX/gpx_style/0/2">
+  <metadata>
+    <name>30.B3 Alternativa Perelada tour curt</name>
+    <desc>Etapa 30.00 PK 6,06 - Portal del Pont - Carrer del Forn - Carrer de l&apos;Oli - Claustre de Sant Doménech - Església de Sant Martí de Perelada - Casa natal de Ramon Mutaner - Casa de la Vila - Plaça de Sant Doménech - Carrer dels Tints - Etapa 30.00 PK 6,23</desc>
+    <author>
+      <name>gpx.studio</name>
+      <link href="https://gpx.studio"/>
+    </author>
+  </metadata>
+  <wpt lat="42.306437" lon="3.008637">
+    <ele>19.60032224415413</ele>
+    <name>🟢Alternativa 🏘️🧿Perelada Tour curt 🔄➡️🚰⌒</name>
+    <cmt>Des de la 🔄rotonda que connecta amb Etapa 30.00 PK 6,06, tombem ➡️dreta pel carrer que entra al casc. 🚰Font a mà esquerra i creuem per ⌒ sota el Portal del Pont</cmt>
+    <desc>Des de la 🔄rotonda que connecta amb Etapa 30.00 PK 6,06, tombem ➡️dreta pel carrer que entra al casc. 🚰Font a mà esquerra i creuem per ⌒ sota el Portal del Pont</desc>
+    <sym>Tunnel</sym>
+  </wpt>
+  <wpt lat="42.30671" lon="3.008751">
+    <ele>21.431241868046854</ele>
+    <name>2 ╬⬆️🔺</name>
+    <cmt>╬ Plaça del Pont. Seguim ⬆️recte 🔺amunt pel Carrer del Forn</cmt>
+    <desc>╬ Plaça del Pont. Seguim ⬆️recte 🔺amunt pel Carrer del Forn</desc>
+  </wpt>
+  <wpt lat="42.307031" lon="3.008791">
+    <ele>26.402167182696026</ele>
+    <name>3 ╣🔺⬅️➡️</name>
+    <cmt>╣ Desviar a ⬅️l&apos;esquerra per l&apos;empedrat i estretíssim Carrer de l&apos;Oli 🔺amunt que seguidament tomba a la ➡️dreta</cmt>
+    <desc>╣ Desviar a ⬅️l&apos;esquerra per l&apos;empedrat i estretíssim Carrer de l&apos;Oli 🔺amunt que seguidament tomba a la ➡️dreta</desc>
+    <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="42.307499" lon="3.008597">
+    <ele>32.79630933827799</ele>
+    <name>4 ╠↖️🔺</name>
+    <cmt>╠ Seguim pel carrer a ↖️esquerres 🔺amunt</cmt>
+    <desc>╠ Seguim pel carrer a ↖️esquerres 🔺amunt</desc>
+    <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="42.307767" lon="3.008486">
+    <ele>36.300065774171266</ele>
+    <name>5 ╦↖️</name>
+    <cmt>╦ Carrer de la Sabateria. ↖️45º esquerra per Carrer de la Merceria</cmt>
+    <desc>╦ Carrer de la Sabateria. ↖️45º esquerra per Carrer de la Merceria</desc>
+    <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="42.308072" lon="3.008169">
+    <ele>39.508516795817705</ele>
+    <name>6 🌳⛪⬆️🧭N</name>
+    <cmt>🌳Plaça de ⛪l&apos;Església de Sant Martí de Perelada. Sortir de la plaça pel carrer que surt 🧭N</cmt>
+    <desc>🌳Plaça de ⛪l&apos;Església de Sant Martí de Perelada. Sortir de la plaça pel carrer que surt 🧭N</desc>
+    <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="42.308393" lon="3.008024">
+    <ele>40.48386485045875</ele>
+    <name>7 🌳🛝🚰╬⬅️</name>
+    <cmt>🌳Plaça de Ramon Muntaner amb 🛝parc infantil i 🚰font. A la ╬ cruïlla a ⬅️l&apos;esquerra</cmt>
+    <desc>🌳Plaça de Ramon Muntaner amb 🛝parc infantil i 🚰font. A la ╬ cruïlla a ⬅️l&apos;esquerra</desc>
+    <sym>Water Source</sym>
+  </wpt>
+  <wpt lat="42.308427" lon="3.00752">
+    <ele>38.35505787571991</ele>
+    <name>8 ╠↖️╣⬅️</name>
+    <cmt>╠ Seguir a ↖️esquerres i seguidament ╣desviar a ⬅️l&apos;esquerra</cmt>
+    <desc>╠ Seguir a ↖️esquerres i seguidament ╣desviar a ⬅️l&apos;esquerra</desc>
+    <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="42.308084" lon="3.007392">
+    <ele>35.3096696743751</ele>
+    <name>9 ╦⬅️╬🧱↗️⌒📷🏠</name>
+    <cmt>╦ Desemboquem a un petit carrer que comunica a la dreta la Plaça de la Creu amb a l&apos;esquerra la Plaça de l&apos;Ajuntament. Agafem a ⬅️l&apos;esquerra i a la ╬ Plaça de l&apos;Ajuntament resseguim el 🧱mur a la nostra ↗️dreta per passar ⌒ sota uns porxos. Des d&apos;aquest punt tenim una 📷bona vista de la 🏠Casa Natal de Ramon Muntaner radera nostre</cmt>
+    <desc>╦ Desemboquem a un petit carrer que comunica a la dreta la Plaça de la Creu amb a l&apos;esquerra la Plaça de l&apos;Ajuntament. Agafem a ⬅️l&apos;esquerra i a la ╬ Plaça de l&apos;Ajuntament resseguim el 🧱mur a la nostra ↗️dreta per passar ⌒ sota uns porxos. Des d&apos;aquest punt tenim una 📷bona vista de la 🏠Casa Natal de Ramon Muntaner radera nostre</desc>
+    <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="42.307795" lon="3.007726">
+    <ele>34.37379111182018</ele>
+    <name>10 ╠ ~⬆️🔻🧭S</name>
+    <cmt>╠ Cruïlla amb Carrer del Bordell. Seguim ~ més o menys ⬆️recte cap al fons de la plaça per agafar el carrer de 🔻baixada que surt 🧭S</cmt>
+    <desc>╠ Cruïlla amb Carrer del Bordell. Seguim ~ més o menys ⬆️recte cap al fons de la plaça per agafar el carrer de 🔻baixada que surt 🧭S</desc>
+    <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="42.307465" lon="3.007798">
+    <ele>30.94712328999404</ele>
+    <name>11 🌳╦🏠🅿️⛪📷↘️</name>
+    <cmt>🌳Parc minúscul a mà dreta, desemboquem a la ╦ cruïlla amb el Carrer de Burriana. 
+Davant 🏠Casa Avinyò, a l&apos;esquerra 🅿️parking, ⛪Claustre de Sant Doménech i 📷lloc pintoresc.
+Agafem a la ↘️dreta tancat</cmt>
+    <desc>🌳Parc minúscul a mà dreta, desemboquem a la ╦ cruïlla amb el Carrer de Burriana. 
+Davant 🏠Casa Avinyò, a l&apos;esquerra 🅿️parking, ⛪Claustre de Sant Doménech i 📷lloc pintoresc.
+Agafem a la ↘️dreta tancat</desc>
+    <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="42.307469" lon="3.007502">
+    <ele>28.367712178734532</ele>
+    <name>12 ╣↖️</name>
+    <cmt>╣Seguir per ↖️l&apos;esquerra per Carrer dels Tints</cmt>
+    <desc>╣Seguir per ↖️l&apos;esquerra per Carrer dels Tints</desc>
+    <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="42.307348" lon="3.006984">
+    <ele>22.19567391017983</ele>
+    <name>🏁Final Alternativa Perelada Tour curt ╦</name>
+    <cmt>╦ Cruïlla amb Etapa 30.00 PK 6,23
+➡️🧭NW a Capmany per Etapa 30.00
+⬅️ 🧭SE a Vilatenim (Figueres) per Etapa 30.00</cmt>
+    <desc>╦ Cruïlla amb Etapa 30.00 PK 6,23
+➡️🧭NW a Capmany per Etapa 30.00
+⬅️ 🧭SE a Vilatenim (Figueres) per Etapa 30.00</desc>
+    <sym>Crossing</sym>
+  </wpt>
+  <trk>
+    <name>30.B3 Alternativa Perelada tour curt</name>
+    <trkseg>
+      <trkpt lat="42.306433" lon="3.008635">
+        <ele>21.5</ele>
+      </trkpt>
+      <trkpt lat="42.306507" lon="3.008677">
+        <ele>22</ele>
+      </trkpt>
+      <trkpt lat="42.306579" lon="3.008706">
+        <ele>22.25</ele>
+      </trkpt>
+      <trkpt lat="42.306707" lon="3.008762">
+        <ele>23.5</ele>
+      </trkpt>
+      <trkpt lat="42.306709" lon="3.008749">
+        <ele>23.5</ele>
+      </trkpt>
+      <trkpt lat="42.306709" lon="3.008749">
+        <ele>21.41715563568266</ele>
+      </trkpt>
+      <trkpt lat="42.307032619785616" lon="3.008791132252071">
+        <ele>26.41972168088048</ele>
+      </trkpt>
+      <trkpt lat="42.307074" lon="3.008487">
+        <ele>28</ele>
+      </trkpt>
+      <trkpt lat="42.30731" lon="3.008573">
+        <ele>31.25</ele>
+      </trkpt>
+      <trkpt lat="42.307414" lon="3.008585">
+        <ele>32.5</ele>
+      </trkpt>
+      <trkpt lat="42.307513" lon="3.008597">
+        <ele>33.75</ele>
+      </trkpt>
+      <trkpt lat="42.30774" lon="3.008501">
+        <ele>35</ele>
+      </trkpt>
+      <trkpt lat="42.307771" lon="3.008491">
+        <ele>35.25</ele>
+      </trkpt>
+      <trkpt lat="42.307798" lon="3.008484">
+        <ele>35.5</ele>
+      </trkpt>
+      <trkpt lat="42.307813" lon="3.008479">
+        <ele>35.5</ele>
+      </trkpt>
+      <trkpt lat="42.307811" lon="3.008389">
+        <ele>35.75</ele>
+      </trkpt>
+      <trkpt lat="42.307806" lon="3.00835">
+        <ele>35.75</ele>
+      </trkpt>
+      <trkpt lat="42.307978" lon="3.008162">
+        <ele>35.75</ele>
+      </trkpt>
+      <trkpt lat="42.308047" lon="3.008107">
+        <ele>36</ele>
+      </trkpt>
+      <trkpt lat="42.30808" lon="3.008179">
+        <ele>36.75</ele>
+      </trkpt>
+      <trkpt lat="42.308141" lon="3.008142">
+        <ele>36.75</ele>
+      </trkpt>
+      <trkpt lat="42.308327" lon="3.008031">
+        <ele>37.75</ele>
+      </trkpt>
+      <trkpt lat="42.308401" lon="3.00802">
+        <ele>37.25</ele>
+      </trkpt>
+      <trkpt lat="42.308429" lon="3.008009">
+        <ele>36.75</ele>
+      </trkpt>
+      <trkpt lat="42.308619" lon="3.00794">
+        <ele>34.75</ele>
+      </trkpt>
+      <trkpt lat="42.308535" lon="3.007764">
+        <ele>34.75</ele>
+      </trkpt>
+      <trkpt lat="42.30846" lon="3.00763">
+        <ele>35</ele>
+      </trkpt>
+      <trkpt lat="42.308431" lon="3.007535">
+        <ele>34.75</ele>
+      </trkpt>
+      <trkpt lat="42.308428" lon="3.007526">
+        <ele>34.75</ele>
+      </trkpt>
+      <trkpt lat="42.308397" lon="3.007424">
+        <ele>34</ele>
+      </trkpt>
+      <trkpt lat="42.308354" lon="3.007433">
+        <ele>34.75</ele>
+      </trkpt>
+      <trkpt lat="42.308301" lon="3.007291">
+        <ele>32.5</ele>
+      </trkpt>
+      <trkpt lat="42.308293" lon="3.007294">
+        <ele>32.25</ele>
+      </trkpt>
+      <trkpt lat="42.308093" lon="3.007386">
+        <ele>32</ele>
+      </trkpt>
+      <trkpt lat="42.308077" lon="3.007393">
+        <ele>32</ele>
+      </trkpt>
+      <trkpt lat="42.308067" lon="3.007398">
+        <ele>32</ele>
+      </trkpt>
+      <trkpt lat="42.30807" lon="3.007417">
+        <ele>32.25</ele>
+      </trkpt>
+      <trkpt lat="42.308042" lon="3.007429">
+        <ele>32.25</ele>
+      </trkpt>
+      <trkpt lat="42.308063" lon="3.007507">
+        <ele>33.25</ele>
+      </trkpt>
+      <trkpt lat="42.308035" lon="3.007525">
+        <ele>33.25</ele>
+      </trkpt>
+      <trkpt lat="42.30801" lon="3.007541">
+        <ele>33</ele>
+      </trkpt>
+      <trkpt lat="42.308028" lon="3.007596">
+        <ele>33.5</ele>
+      </trkpt>
+      <trkpt lat="42.307997" lon="3.007616">
+        <ele>33.25</ele>
+      </trkpt>
+      <trkpt lat="42.307927" lon="3.00766">
+        <ele>32.75</ele>
+      </trkpt>
+      <trkpt lat="42.307853" lon="3.0077">
+        <ele>32.5</ele>
+      </trkpt>
+      <trkpt lat="42.307819" lon="3.007714">
+        <ele>32</ele>
+      </trkpt>
+      <trkpt lat="42.307819" lon="3.007714">
+        <ele>32</ele>
+      </trkpt>
+      <trkpt lat="42.307798" lon="3.007723">
+        <ele>32</ele>
+      </trkpt>
+      <trkpt lat="42.307782" lon="3.007729">
+        <ele>32</ele>
+      </trkpt>
+      <trkpt lat="42.307779" lon="3.007712">
+        <ele>31.75</ele>
+      </trkpt>
+      <trkpt lat="42.307769" lon="3.007717">
+        <ele>31.75</ele>
+      </trkpt>
+      <trkpt lat="42.307756" lon="3.007722">
+        <ele>31.75</ele>
+      </trkpt>
+      <trkpt lat="42.307773" lon="3.007786">
+        <ele>32.25</ele>
+      </trkpt>
+      <trkpt lat="42.307745" lon="3.007792">
+        <ele>32</ele>
+      </trkpt>
+      <trkpt lat="42.30769" lon="3.007801">
+        <ele>31.5</ele>
+      </trkpt>
+      <trkpt lat="42.307651" lon="3.007805">
+        <ele>31.25</ele>
+      </trkpt>
+      <trkpt lat="42.307628" lon="3.007808">
+        <ele>31.25</ele>
+      </trkpt>
+      <trkpt lat="42.307623" lon="3.007783">
+        <ele>31</ele>
+      </trkpt>
+      <trkpt lat="42.307601" lon="3.007787">
+        <ele>30.75</ele>
+      </trkpt>
+      <trkpt lat="42.307492" lon="3.007785">
+        <ele>29.75</ele>
+      </trkpt>
+      <trkpt lat="42.307488" lon="3.007803">
+        <ele>30</ele>
+      </trkpt>
+      <trkpt lat="42.307411" lon="3.007793">
+        <ele>29</ele>
+      </trkpt>
+      <trkpt lat="42.30735" lon="3.007794">
+        <ele>28</ele>
+      </trkpt>
+      <trkpt lat="42.307293" lon="3.007796">
+        <ele>28</ele>
+      </trkpt>
+      <trkpt lat="42.307344" lon="3.007718">
+        <ele>28</ele>
+      </trkpt>
+      <trkpt lat="42.307427" lon="3.007629">
+        <ele>28.25</ele>
+      </trkpt>
+      <trkpt lat="42.307447" lon="3.007583">
+        <ele>28</ele>
+      </trkpt>
+      <trkpt lat="42.307462" lon="3.007518">
+        <ele>27.75</ele>
+      </trkpt>
+      <trkpt lat="42.307469" lon="3.007467">
+        <ele>27.25</ele>
+      </trkpt>
+      <trkpt lat="42.307469" lon="3.007467">
+        <ele>27.25</ele>
+      </trkpt>
+      <trkpt lat="42.307465" lon="3.00743">
+        <ele>27</ele>
+      </trkpt>
+      <trkpt lat="42.307414" lon="3.007242">
+        <ele>25</ele>
+      </trkpt>
+      <trkpt lat="42.307343" lon="3.006974">
+        <ele>22.25</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
