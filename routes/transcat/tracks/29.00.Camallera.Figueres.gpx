@@ -259,7 +259,7 @@ Creuar ︵ pont sobre 🛣️C-31 i a la 🔄rotonda sortir per la 1ª a la ↗�
   </wpt>
   <wpt lat="42.265415" lon="2.99526">
     <ele>17.307362286188336</ele>
-    <name>32 🏘️Vilatenim 🏬🛏️🍔🛒🔄2ª↗️</name>
+    <name>32 🏘️Vilatenim 🏬🛏️🍔🛒. 🔄2ª↗️</name>
     <cmt>🏘️Vilatenim: 🏬Decathlon, Leroy Merlin, 🛏️B&amp;B, 🍔menjar ràpid i 🛒Carrefour més lluny
 🔄Rotonda. Surt per la 2ª a la ↗️dreta
 Passarem davant un Viena i un McDonalds</cmt>
@@ -270,9 +270,11 @@ Passarem davant un Viena i un McDonalds</desc>
   </wpt>
   <wpt lat="42.267182" lon="2.99491">
     <ele>18.505268021964937</ele>
-    <name>33 ╦➡️</name>
-    <cmt>╦ Desemboquem al lateral de la C-260. ➡️Dreta. Si hi hagués trànsit, podem pujar a la vorera.</cmt>
-    <desc>╦ Desemboquem al lateral de la C-260. ➡️Dreta. Si hi hagués trànsit, podem pujar a la vorera.</desc>
+    <name>33 ╦➡️. ⬅️a🔧400m</name>
+    <cmt>╦ Desemboquem al lateral de la C-260. ➡️Dreta. Si hi hagués trànsit, podem pujar a la vorera.
+A ⬅️l'esquerra 🔧tenda i taller de bicicletes a 400m.</cmt>
+    <desc>╦ Desemboquem al lateral de la C-260. ➡️Dreta. Si hi hagués trànsit, podem pujar a la vorera.
+A ⬅️l'esquerra 🔧tenda i taller de bicicletes a 400m.</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="42.267293" lon="2.996657">
