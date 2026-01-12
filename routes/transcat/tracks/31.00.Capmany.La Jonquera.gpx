@@ -110,7 +110,7 @@
     <name>14 🏥🛂⬆️</name>
     <cmt>Passem per davant de 🏥Creu Roja i 🛂Mossos. Seguim ⬆️recte</cmt>
     <desc>Passem per davant de 🏥Creu Roja i 🛂Mossos. Seguim ⬆️recte</desc>
-    <sym>Pharmacy</sym>
+    <sym>Hospital</sym>
   </wpt>
   <wpt lat="42.41434" lon="2.874643">
     <ele>110.31593120619766</ele>
@@ -133,7 +133,7 @@ A la ↗️dreta camí d'accès al🌳Parc Municipal Prat d'en Lloveres amb 🥪
     <name>17 ╦↗️🅿️</name>
     <cmt>╦ Cruïlla amb Carrer Vell. Prenem ↗️45º dreta pel 🅿️parking</cmt>
     <desc>╦ Cruïlla amb Carrer Vell. Prenem ↗️45º dreta pel 🅿️parking</desc>
-    <sym>Parking Area</sym>
+    <sym>Parking</sym>
   </wpt>
   <wpt lat="42.416027" lon="2.872788">
     <ele>109.27393074434353</ele>
