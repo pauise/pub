@@ -2,7 +2,7 @@
 <gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxpx="http://www.garmin.com/xmlschemas/PowerExtension/v1" xmlns:gpx_style="http://www.topografix.com/GPX/gpx_style/0/2" creator="Wikiloc - https://www.wikiloc.com" version="1.1" schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/PowerExtension/v1 http://www.garmin.com/xmlschemas/PowerExtensionv1.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/PowerExtension/v1 http://www.garmin.com/xmlschemas/PowerExtensionv1.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd">
   <metadata>
     <name>31.00 Capmany - La Jonquera</name>
-    <desc>Capmany - Estany Gros - La Jonquera per Pirinexus</desc>
+    <desc>Capmany - Ruta Megalítica dels Estanys de La Jonquera - La Jonquera per Pirinexus</desc>
     <author>
       <name>gpx.studio</name>
       <link href="https://gpx.studio"/>
@@ -38,12 +38,12 @@
   <wpt lat="42.39531" lon="2.909828">
     <ele>175.78202173260354</ele>
     <name>4 📷Estany Petit</name>
-    <sym>Scenic Area</sym>
+    <sym>Camera</sym>
   </wpt>
   <wpt lat="42.396276" lon="2.907118">
     <ele>173.64317666830152</ele>
     <name>5 📷Estany Gros</name>
-    <sym>Scenic Area</sym>
+    <sym>Camera</sym>
   </wpt>
   <wpt lat="42.402954" lon="2.900214">
     <ele>180.354496859061</ele>
@@ -156,13 +156,6 @@ A la ↗️dreta camí d'accès al🌳Parc Municipal Prat d'en Lloveres amb 🥪
     <desc>A la ➡️dreta ⌒ per sota l'edifici arribem a la Plaça de l'Ajuntament, on hi ha 🏠l'ajuntament, 🛂policia local i  🍽️restaurant.</desc>
     <sym>Crossing</sym>
   </wpt>
-  <wpt lat="42.417556" lon="2.873175">
-    <ele>116.05588561763037</ele>
-    <name>22 ╣⬅️︵ ╦➡️🧭N</name>
-    <cmt>╣ Desviar a ⬅️l'esquerra per Carrer del Rec per creuar el Riu Llobregat d'Empordà pel ︵ pont i ╦ incorporar-nos a la ➡️dreta 🧭N</cmt>
-    <desc>╣ Desviar a ⬅️l'esquerra per Carrer del Rec per creuar el Riu Llobregat d'Empordà pel ︵ pont i ╦ incorporar-nos a la ➡️dreta 🧭N</desc>
-    <sym>Bridge</sym>
-  </wpt>
   <wpt lat="42.416766" lon="2.873357">
     <ele>113.5074055789981</ele>
     <name>21 ╬⬅️🧭N. ⬆️⌒ a 31.A9</name>
@@ -171,6 +164,13 @@ A la ↗️dreta camí d'accès al🌳Parc Municipal Prat d'en Lloveres amb 🥪
     <desc>╬ Ens incorporem al Carrer Major a ⬅️l'esquerra 🧭N.
 ⬆️recte pel ⌒ túnel a 31.A9 Alternativa Jonquera Tour</desc>
     <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="42.417556" lon="2.873175">
+    <ele>116.05588561763037</ele>
+    <name>22 ╣⬅️︵ ╦➡️🧭N</name>
+    <cmt>╣ Desviar a ⬅️l'esquerra per Carrer del Rec per creuar el Riu Llobregat d'Empordà pel ︵ pont i ╦ incorporar-nos a la ➡️dreta 🧭N</cmt>
+    <desc>╣ Desviar a ⬅️l'esquerra per Carrer del Rec per creuar el Riu Llobregat d'Empordà pel ︵ pont i ╦ incorporar-nos a la ➡️dreta 🧭N</desc>
+    <sym>Bridge</sym>
   </wpt>
   <wpt lat="42.418187" lon="2.872512">
     <ele>110.52702145766219</ele>
