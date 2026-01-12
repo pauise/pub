@@ -1,0 +1,42 @@
+{
+    "title": "Etapa 31: Capmany - La Jonquera",
+    "full_track_url": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/tracks/31.00.Capmany.La%20Jonquera.gpx",
+    "prf": [
+        {"km": 0, "alt": 110},
+        {"km": 0.5, "alt": 118},
+        {"km": 0.95, "alt": 137},
+        {"km": 2.88, "alt": 176},
+        {"km": 4.29, "alt": 184},
+        {"km": 4.98, "alt": 223},
+        {"km": 6.69, "alt": 143},
+        {"km": 6.78, "alt": 128},
+        {"km": 7.16, "alt": 111},
+        {"km": 8.64, "alt": 119}
+    ],
+    "wps": [
+        {"km": 0, "paviment": 1},
+        {"km": 0.13, "paviment": 1},
+        {"km": 0.26, "paviment": 1},
+        {"km": 2.89, "paviment": 1},
+        {"km": 3.18, "paviment": 1},
+        {"km": 4.22, "paviment": 1},
+        {"km": 5, "paviment": 1},
+        {"km": 5.81, "paviment": 1},
+        {"km": 6.06, "paviment": 2},
+        {"km": 6.18, "paviment": 2},
+        {"km": 6.8, "paviment": 1},
+        {"km": 6.99, "paviment": 1},
+        {"km": 7.32, "paviment": 1},
+        {"km": 7.52, "paviment": 1},
+        {"km": 7.76, "paviment": 1},
+        {"km": 7.93, "paviment": 1},
+        {"km": 8.05, "paviment": 1},
+        {"km": 8.11, "paviment": 1},
+        {"km": 8.15, "paviment": 1},
+        {"km": 8.2, "paviment": 1},
+        {"km": 8.23, "paviment": 1},
+        {"km": 8.32, "paviment": 1},
+        {"km": 8.45, "paviment": 1},
+        {"km": 8.64, "paviment": 1}
+      ]
+  }
