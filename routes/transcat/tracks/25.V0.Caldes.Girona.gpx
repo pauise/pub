@@ -24,14 +24,14 @@
     <name>2 🔄1ª↗️</name>
     <cmt>🔄Rotonda. Surt per la 1ª a la ↗️dreta</cmt>
     <desc>🔄Rotonda. Surt per la 1ª a la ↗️dreta</desc>
-    <sym>Crossing</sym>
+    <sym>Rotonda</sym>
   </wpt>
   <wpt lat="41.840088" lon="2.806098">
     <ele>96.79824502393711</ele>
     <name>3 🔄2a↗️🧭NE</name>
     <cmt>🔄Rotonda. Surt per la 2a a la ↗️dreta 🧭NE</cmt>
     <desc>🔄Rotonda. Surt per la 2a a la ↗️dreta 🧭NE</desc>
-    <sym>Crossing</sym>
+    <sym>Rotonda</sym>
   </wpt>
   <wpt lat="41.840542" lon="2.809735">
     <ele>99.88854518463086</ele>
@@ -52,7 +52,7 @@
     <name>6 ╠➡️</name>
     <cmt>╠ Desviar ➡️dreta per camí</cmt>
     <desc>╠ Desviar ➡️dreta per camí</desc>
-    <sym>Crossing</sym>
+    <sym>End of Road</sym>
   </wpt>
   <wpt lat="41.844659" lon="2.813835">
     <ele>123.90000000000146</ele>
@@ -96,7 +96,7 @@
     <name>12 ╣↗️</name>
     <cmt>╣Seguim a ↗️dretes pel mateix carrer que esdevé pista en bon estat</cmt>
     <desc>╣Seguim a ↗️dretes pel mateix carrer que esdevé pista en bon estat</desc>
-    <sym>Road</sym>
+    <sym>End of Road</sym>
   </wpt>
   <wpt lat="41.865021" lon="2.808444">
     <ele>113.20527412612066</ele>
@@ -119,7 +119,7 @@ Seguim ⬆️ recte. Inici asfalt</desc>
     <name>15 ︵🌊╬➡️🧭NE 🚲</name>
     <cmt>Creuar ︵ pont sobre 🌊Riu Onyar i just creuat a la ╬ cruïlla a la ➡️dreta 🧭NE per 🚲Via Verda</cmt>
     <desc>Creuar ︵ pont sobre 🌊Riu Onyar i just creuat a la ╬ cruïlla a la ➡️dreta 🧭NE per 🚲Via Verda</desc>
-    <sym>Bike Trail</sym>
+    <sym>Bike Lane</sym>
   </wpt>
   <wpt lat="41.894032" lon="2.809481">
     <ele>100.28851975472749</ele>
@@ -130,7 +130,7 @@ Inici asfalt</cmt>
     <desc>🏘️Riudellots
 ╦ Incorporar-se a Carrer Major en gir molt tancat a la ↘️dreta 🧭E
 Inici asfalt</desc>
-    <sym>Bike Trail</sym>
+    <sym>Bike Lane</sym>
   </wpt>
   <wpt lat="41.896069" lon="2.811394">
     <ele>102.17313979813002</ele>
@@ -147,14 +147,14 @@ Inici asfalt</desc>
     <name>18 ↗️🚲</name>
     <cmt>Seguim al marge ↗️dret pel 🚲carril bici</cmt>
     <desc>Seguim al marge ↗️dret pel 🚲carril bici</desc>
-    <sym>Bike Trail</sym>
+    <sym>Bike Lane</sym>
   </wpt>
   <wpt lat="41.897678" lon="2.811254">
     <ele>104.05481459391322</ele>
     <name>19 ⚠️🚗⬅️≡➡️🚲</name>
     <cmt>⚠️Precaució 🚗trànsit, ⬅️esquerra per creuar pel ≡ pas de zebra i seguim a la ➡️dreta pel 🚲carril bici</cmt>
     <desc>⚠️Precaució 🚗trànsit, ⬅️esquerra per creuar pel ≡ pas de zebra i seguim a la ➡️dreta pel 🚲carril bici</desc>
-    <sym>Bike Trail</sym>
+    <sym>Bike Lane</sym>
   </wpt>
   <wpt lat="41.89696" lon="2.83035">
     <ele>111.07144284230361</ele>
@@ -170,32 +170,32 @@ Inici asfalt</desc>
     <name>20 ⬆️🚲Fi asfalt</name>
     <cmt>⬆️Continuem 🚲carril bici. Fi asfalt</cmt>
     <desc>⬆️Continuem 🚲carril bici. Fi asfalt</desc>
-    <sym>Road</sym>
+    <sym>End of Road</sym>
   </wpt>
   <wpt lat="41.903387" lon="2.832998">
     <ele>117.6611657310283</ele>
-    <name>22 ↗️🚲</name>
+    <name>21 ↗️🚲</name>
     <cmt>↗️Seguir a dretes pel 🚲carril bici</cmt>
     <desc>↗️Seguir a dretes pel 🚲carril bici</desc>
-    <sym>Bike Trail</sym>
+    <sym>Bike Lane</sym>
   </wpt>
   <wpt lat="41.90893" lon="2.842689">
     <ele>130.73811195743423</ele>
-    <name>23 🚳↗️╣⬅️🧭N</name>
+    <name>22 🚳↗️╣⬅️🧭N</name>
     <cmt>🚳Abandonem carril bici i ens ↗️incorporem a la calçada i en pocs metres ╣desviar ⬅️esquerra 🧭N</cmt>
     <desc>🚳Abandonem carril bici i ens ↗️incorporem a la calçada i en pocs metres ╣desviar ⬅️esquerra 🧭N</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="41.91564" lon="2.849758">
     <ele>115.3623486546347</ele>
-    <name>24 ╬⬅️🚲Carrilet 🧭N</name>
+    <name>23 ╬⬅️🚲Carrilet 🧭N</name>
     <cmt>╬ Cruïlla ⬅️esquerra per 🚲Ruta del Carrilet 🧭N cap a Quart i Girona</cmt>
     <desc>╬ Cruïlla ⬅️esquerra per 🚲Ruta del Carrilet 🧭N cap a Quart i Girona</desc>
-    <sym>Bike Trail</sym>
+    <sym>Bike Lane</sym>
   </wpt>
   <wpt lat="41.920355" lon="2.849605">
     <ele>121.89137493339454</ele>
-    <name>25 🏠Antiga Estació Llambilles 🚰🚾🪑🌳</name>
+    <name>24 🏠Antiga Estació Llambilles 🚰🚾🪑🌳</name>
     <cmt>🏠Antiga Estació Llambilles 
 🚰Font, 🚾lavabos i radera uns 🪑bancs amb 🌳ombra</cmt>
     <desc>🏠Antiga Estació Llambilles 
@@ -204,37 +204,37 @@ Inici asfalt</desc>
   </wpt>
   <wpt lat="41.935217" lon="2.840765">
     <ele>102.49274358052806</ele>
-    <name>26 🏘️Quart ╦➡️🚲</name>
+    <name>25 🏘️Quart ╦➡️🚲</name>
     <cmt>🏘️Quart 
 ╦ Seguir a la ➡️dreta per 🚲carril bici</cmt>
     <desc>🏘️Quart 
 ╦ Seguir a la ➡️dreta per 🚲carril bici</desc>
-    <sym>Bike Trail</sym>
+    <sym>Bike Lane</sym>
   </wpt>
   <wpt lat="41.943244" lon="2.836164">
     <ele>95</ele>
-    <name>27 🚰</name>
+    <name>26 🚰</name>
     <cmt>🚰Font</cmt>
     <desc>🚰Font</desc>
     <sym>Water Source</sym>
   </wpt>
   <wpt lat="41.956614" lon="2.838134">
     <ele>80.9403342570653</ele>
-    <name>28 ╠↘️🚲</name>
+    <name>27 ╠↘️🚲</name>
     <cmt>╠ Seguir gir tancat ↘️dreta per 🚲carril bici</cmt>
     <desc>╠ Seguir gir tancat ↘️dreta per 🚲carril bici</desc>
     <sym>Bike Trail</sym>
   </wpt>
   <wpt lat="41.96454" lon="2.839236">
     <ele>79.5067041632842</ele>
-    <name>29 🏘️La Creueta 🚰</name>
+    <name>28 🏘️La Creueta 🚰</name>
     <cmt>🏘️La Creueta 🚰Font a la nostra esquerra</cmt>
     <desc>🏘️La Creueta 🚰Font a la nostra esquerra</desc>
     <sym>Water Source</sym>
   </wpt>
   <wpt lat="41.974492" lon="2.824873">
     <ele>74.9853759588687</ele>
-    <name>31 🏘️Girona ⛽🍽️🛒☕⚕️.🚲⚠️🚶≡🚦🚗</name>
+    <name>29 🏘️Girona ⛽🍽️🛒☕⚕️.🚲⚠️🚶≡🚦🚗</name>
     <cmt>Arribem a 🏘️Girona. Seguint la ruta passarem per una ⛽benzinera 🍽️restaurants 🛒supers ☕bars i una⚕️farmàcia
 Atravessarem gran part de la ciutat sempre per 🚲carril bici però tot i així convé anar amb ⚠️precaució amb els vianants en els ≡ passos de zebra i de no saltar-se cap 🚦semàfor ja que hi ha molta gent i molt de 🚗trànsit</cmt>
     <desc>Arribem a 🏘️Girona. Seguint la ruta passarem per una ⛽benzinera 🍽️restaurants 🛒supers ☕bars i una⚕️farmàcia
@@ -243,7 +243,7 @@ Atravessarem gran part de la ciutat sempre per 🚲carril bici però tot i així
   </wpt>
   <wpt lat="41.976786" lon="2.816303">
     <ele>76.90003362614749</ele>
-    <name>32 🚳↗️🚶↖️≡⌒🛤️➡️🧱🛝</name>
+    <name>30 🚳↗️🚶↖️≡⌒🛤️➡️🧱🛝</name>
     <cmt>🚳Abandonem carril bici a la ↗️dreta per pujar a la 🚶vorera i a ↖️esquerres per creuar el ≡ pas de zebra i seguint per la vorera creuar per ⌒ sota les 🛤️vies i immediatament a la ➡️dreta per passar entre el 🧱mur de l&apos;estació i un 🛝parc infantil</cmt>
     <desc>🚳Abandonem carril bici a la ↗️dreta per pujar a la 🚶vorera i a ↖️esquerres per creuar el ≡ pas de zebra i seguint per la vorera creuar per ⌒ sota les 🛤️vies i immediatament a la ➡️dreta per passar entre el 🧱mur de l&apos;estació i un 🛝parc infantil</desc>
     <sym>Crossing</sym>
