@@ -398,6 +398,12 @@
       "km": 29.07
     },
     {
+      "id": "25.V0",
+      "nom": "Caldes de Malavella - Girona",
+      "data": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/json/25.V0.Caldes.Girona.json",
+      "km": 23.03
+    },
+    {
       "id": "26.00",
       "nom": "Platja d'Aro - Palafrugell",
       "data": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/json/26.00.Platja%20d'Aro.Palafrugell.json",
