@@ -18,6 +18,13 @@ Sortim per una de les 🚪portes Est i per la 🚶vorera anem a ⬅️l&apos;esq
     <link href="https://www.adif.es/w/79300-girona"/>
     <sym>Ground Transportation</sym>
   </wpt>
+  <wpt lat="41.980866" lon="2.817294">
+    <ele>82.11447230732105</ele>
+    <name>2 ⌒🛤️🚲</name>
+    <cmt>A partir d&apos;aquí anirem ⌒ sota les 🛤️vies pel 🚲carril bici</cmt>
+    <desc>A partir d&apos;aquí anirem ⌒ sota les 🛤️vies pel 🚲carril bici</desc>
+    <sym>Tunnel</sym>
+  </wpt>
   <wpt lat="41.981714" lon="2.817567">
     <ele>81.22252646046772</ele>
     <name>3 ╬🚦≡⬆️⌒🛤️🚲. ➡️a🧿🚲</name>
@@ -30,13 +37,6 @@ A ⬅️esquerra a 🏘️Salt i Olot per 🚲carril bici</cmt>
 A ➡️dreta al 🧿centre per 🚲carril bici
 A ⬅️esquerra a 🏘️Salt i Olot per 🚲carril bici</desc>
     <sym>Crossing</sym>
-  </wpt>
-  <wpt lat="41.980866" lon="2.817294">
-    <ele>82.11447230732105</ele>
-    <name>2 ⌒🛤️🚲</name>
-    <cmt>A partir d&apos;aquí anirem ⌒ sota les 🛤️vies pel 🚲carril bici</cmt>
-    <desc>A partir d&apos;aquí anirem ⌒ sota les 🛤️vies pel 🚲carril bici</desc>
-    <sym>Tunnel</sym>
   </wpt>
   <wpt lat="41.987779" lon="2.822602">
     <ele>69.77281023913628</ele>
@@ -59,7 +59,7 @@ A ⬅️esquerra a 🏘️Salt i Olot per 🚲carril bici</desc>
     <name>6 ≡⬆️🚶</name>
     <cmt>Creuar ≡ pas de zebra i ⬆️recte pel passeig 🚶peatonal sense asfaltar</cmt>
     <desc>Creuar ≡ pas de zebra i ⬆️recte pel passeig 🚶peatonal sense asfaltar</desc>
-    <sym>Road</sym>
+    <sym>End of Road</sym>
   </wpt>
   <wpt lat="41.990666" lon="2.823733">
     <ele>66.7764947103341</ele>
@@ -73,14 +73,14 @@ A ⬅️esquerra a 🏘️Salt i Olot per 🚲carril bici</desc>
     <name>8 ⬆️🚲</name>
     <cmt>Seguim ⬆️recte per l&apos;estretíssim 🚲carril bici per un carrer molt poc transitat que s&apos;utilitza d&apos;aparcament. Inici asfalt</cmt>
     <desc>Seguim ⬆️recte per l&apos;estretíssim 🚲carril bici per un carrer molt poc transitat que s&apos;utilitza d&apos;aparcament. Inici asfalt</desc>
-    <sym>Bike Trail</sym>
+    <sym>Bike Lane</sym>
   </wpt>
   <wpt lat="42.002706" lon="2.824488">
     <ele>72.23697020108835</ele>
     <name>9 ⬆️🚲🚶↖️≡🚲</name>
     <cmt>Seguir ⬆️recte pel 🚲carril bici que puja a la 🚶vorera, a ↖️esquerres creuar ≡ pas de zebra i seguir pel 🚲carril bici ara sí molt ben senyalitzat i separat</cmt>
     <desc>Seguir ⬆️recte pel 🚲carril bici que puja a la 🚶vorera, a ↖️esquerres creuar ≡ pas de zebra i seguir pel 🚲carril bici ara sí molt ben senyalitzat i separat</desc>
-    <sym>Bike Trail</sym>
+    <sym>Bike Lane</sym>
   </wpt>
   <wpt lat="42.003442" lon="2.824504">
     <ele>72.24369018601811</ele>
@@ -94,7 +94,7 @@ A ⬅️esquerra a 🏘️Salt i Olot per 🚲carril bici</desc>
     <name>11 ≡⬆️🚲⚠️🚗</name>
     <cmt>Creuar ≡ pas de zebra ⬆️recte i seguir pel 🚲carril bici pel voral del carrer amb ⚠️precaució 🚗trànsit</cmt>
     <desc>Creuar ≡ pas de zebra ⬆️recte i seguir pel 🚲carril bici pel voral del carrer amb ⚠️precaució 🚗trànsit</desc>
-    <sym>Bike Trail</sym>
+    <sym>Bike Lane</sym>
   </wpt>
   <wpt lat="42.007128" lon="2.824748">
     <ele>70.33004572442853</ele>
@@ -124,7 +124,7 @@ A ⬅️esquerra a 🏘️Salt i Olot per 🚲carril bici</desc>
 Seguir ⬆️recte fins al ╦ cap del carrer i llavors ⬅️esquerra per la 🚶vorera</cmt>
     <desc>🏥CAP i 🚰Font a mà esquerra
 Seguir ⬆️recte fins al ╦ cap del carrer i llavors ⬅️esquerra per la 🚶vorera</desc>
-    <sym>Bank</sym>
+    <sym>Hospital</sym>
   </wpt>
   <wpt lat="42.01367" lon="2.826178">
     <ele>62.96000261362744</ele>
@@ -161,14 +161,14 @@ Seguir ⬆️recte fins al ╦ cap del carrer i llavors ⬅️esquerra per la �
     <name>20 ↗️🚲</name>
     <cmt>A ↗️dretes el 🚲carril bici continua com un camí sense asfaltar a l&apos;altra banda de la vorera</cmt>
     <desc>A ↗️dretes el 🚲carril bici continua com un camí sense asfaltar a l&apos;altra banda de la vorera</desc>
-    <sym>Bike Trail</sym>
+    <sym>Bike Lane</sym>
   </wpt>
   <wpt lat="42.030514" lon="2.836871">
     <ele>58.583253047057504</ele>
     <name>21 ↗️🔻🚲</name>
     <cmt>Lleugerament a ↗️dretes i 🔻avall seguir pel 🚲carril bici indicació a Figueres</cmt>
     <desc>Lleugerament a ↗️dretes i 🔻avall seguir pel 🚲carril bici indicació a Figueres</desc>
-    <sym>Bike Trail</sym>
+    <sym>Bike Lane</sym>
   </wpt>
   <wpt lat="42.027053" lon="2.850287">
     <ele>65.56422023087713</ele>
@@ -177,14 +177,21 @@ Seguir ⬆️recte fins al ╦ cap del carrer i llavors ⬅️esquerra per la �
 ⬆️Seguim pel 🚲carril bici</cmt>
     <desc>🏠⛪Antic Priorat de Sant Vicenç de la Roca
 ⬆️Seguim pel 🚲carril bici</desc>
-    <sym>Alert</sym>
+    <sym>Church</sym>
+  </wpt>
+  <wpt lat="42.02322" lon="2.854766">
+    <ele>54.26354512055498</ele>
+    <name>23 ⬆️ Inici asfalt</name>
+    <cmt>Inici asfalt</cmt>
+    <desc>Inici asfalt</desc>
+    <sym>Road</sym>
   </wpt>
   <wpt lat="42.04097" lon="2.85808">
     <ele>51</ele>
     <name>24 ╣⬆️╠⬆️</name>
     <cmt>Descartem una primera ╣desviació a esquerra i seguim ⬆️recte i just seguit abandonem via actual i desviem ⬆️recte per pista</cmt>
     <desc>Descartem una primera ╣desviació a esquerra i seguim ⬆️recte i just seguit abandonem via actual i desviem ⬆️recte per pista</desc>
-    <sym>Road</sym>
+    <sym>End of Road</sym>
   </wpt>
   <wpt lat="42.04562" lon="2.868027">
     <ele>51.24495120085801</ele>
@@ -206,11 +213,6 @@ Seguir ⬆️recte fins al ╦ cap del carrer i llavors ⬅️esquerra per la �
     <cmt>╠ Prenem el camí de ↖️l&apos;esquerra, tram en males condicions</cmt>
     <desc>╠ Prenem el camí de ↖️l&apos;esquerra, tram en males condicions</desc>
     <sym>Crossing</sym>
-  </wpt>
-  <wpt lat="42.02322" lon="2.854766">
-    <ele>54.26354512055498</ele>
-    <name>23 Inici asfalt</name>
-    <sym>Road</sym>
   </wpt>
   <wpt lat="42.056562" lon="2.890868">
     <ele>49.101255904397284</ele>
@@ -283,7 +285,7 @@ A ⬅️l&apos;esquerra 📷vista d&apos;uns antics safareigs</desc>
 ⛪Santa Maria de Cervià i 🏥CAP a mà esquerra </cmt>
     <desc>╠ Desviar ➡️dreta. 
 ⛪Santa Maria de Cervià i 🏥CAP a mà esquerra </desc>
-    <sym>Alert</sym>
+    <sym>Hospital</sym>
   </wpt>
   <wpt lat="42.066396" lon="2.912341">
     <ele>39.18503825548172</ele>
@@ -297,7 +299,7 @@ A ⬅️l&apos;esquerra 📷vista d&apos;uns antics safareigs</desc>
     <name>38 ╠⬆️</name>
     <cmt>╠ Seguim ⬆️recte. Fi asfalt</cmt>
     <desc>╠ Seguim ⬆️recte. Fi asfalt</desc>
-    <sym>Road</sym>
+    <sym>End of Road</sym>
   </wpt>
   <wpt lat="42.063308" lon="2.948286">
     <ele>32.281469470602666</ele>
