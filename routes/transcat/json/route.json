@@ -434,6 +434,12 @@
       "km": 0.35
     },
     {
+      "id": "27.A9",
+      "nom": "Alternativa GI-622",
+      "data": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/json/27.A9.Alternativa%20GI-622.json",
+      "km": 1.43
+    },
+    {
       "id": "27.V0",
       "nom": "Palafrugell - Torroella de Montgrí",
       "data": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/json/27.V0.Palafrugell.Torroella.json",
@@ -446,22 +452,10 @@
       "km": 1.58
     },
     {
-      "id": "28.V0",
-      "nom": "Torroella de Montgrí - Colomers",
-      "data": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/json/28.V0.Torroella.Colomers.json",
-      "km": 2
-    },
-    {
       "id": "28.00",
       "nom": "Sant Miquel de Fluvià - Vilatenim (Figueres)",
       "data": "",
       "km": 2
-    },
-    {
-      "id": "28.Ay",
-      "nom": "Alternativa GI-622",
-      "data": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/json/28.Ay.Alternativa%20GI-622.json",
-      "km": 1.43
     },
     {
       "id": "28.nn",
@@ -474,6 +468,12 @@
       "nom": "Enllaç Figueres",
       "data": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/json/28.99.Estaci%C3%B3%20Figueres.json",
       "km": 2.66
+    },
+    {
+      "id": "28.V0",
+      "nom": "Torroella de Montgrí - Colomers",
+      "data": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/json/28.V0.Torroella.Colomers.json",
+      "km": 2
     },
     {
       "id": "29.00",
