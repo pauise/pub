@@ -425,7 +425,13 @@
       "id": "27.00",
       "nom": "Sant Jordi Desvalls - Sant Miquel de Fluvià",
       "data": "",
-      "km": 1
+      "km": 13.93
+    },
+    {
+      "id": "27.50",
+      "nom": "Estació Camallera",
+      "data": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/json/27.50.Estaci%C3%B3%20Camallera.json",
+      "km": 0.2
     },
     {
       "id": "27.V0",
