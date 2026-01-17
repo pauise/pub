@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <gpx creator="https://gpx.studio" version="1.1" schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/PowerExtension/v1 http://www.garmin.com/xmlschemas/PowerExtensionv1.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/PowerExtension/v1 http://www.garmin.com/xmlschemas/PowerExtensionv1.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxpx="http://www.garmin.com/xmlschemas/PowerExtension/v1" xmlns:gpx_style="http://www.topografix.com/GPX/gpx_style/0/2">
   <metadata>
-    <name>26.00 Platja d&apos;Aro - Palafrugell</name>
+    <name>26.V0 Variant Palafrugell: Platja d&apos;Aro - Palafrugell</name>
     <desc>Platja d&apos;Aro - Sant Antoni de Calonge per Via Verda - GR-92 - Palamós - Camí del Pla del Llop - Sant Joan de Palamós - Ruta del Tren Petit - Mont-Ras - Palafrugell</desc>
     <author>
       <name>gpx.studio</name>
@@ -96,11 +96,11 @@ En endavant aniran venint més restaurants, parcs, supermercats i tot tipus de c
   </wpt>
   <wpt lat="41.840744" lon="3.095571">
     <ele>4.362819508046162</ele>
-    <name>11 ⚠️╣🚶↗️🍽️🏨🏖️. 🚲↖️ a Alternativa 26.A0</name>
+    <name>11 ⚠️╣🚶↗️🍽️🏨🏖️. 🚲↖️ a Alternativa 26.VA</name>
     <cmt>⚠️Important. ╣ Desviació. Si seguim pel 🚶Passeig Marítim / GR-92 a ↗️dretes hem de tenir en compte que és peatonal i si veiem policia haurem de baixar de la bici i és 1 km. També trobarem 🍽️restaurants 🏨hotels i 🏖️platja. 
-Com alternativa, podem seguir pel 🚲carril bici a ↖️l&apos;esquerra per travessar el poble per carrers.</cmt>
+Com alternativa, podem seguir pel 🚲carril bici a ↖️l&apos;esquerra per travessar el poble per carrers per ruta Alternativa 26.VA.</cmt>
     <desc>⚠️Important. ╣ Desviació. Si seguim pel 🚶Passeig Marítim / GR-92 a ↗️dretes hem de tenir en compte que és peatonal i si veiem policia haurem de baixar de la bici i és 1 km. També trobarem 🍽️restaurants 🏨hotels i 🏖️platja. 
-Com alternativa, podem seguir pel 🚲carril bici a ↖️l&apos;esquerra per travessar el poble per carrers.</desc>
+Com alternativa, podem seguir pel 🚲carril bici a ↖️l&apos;esquerra per travessar el poble per carrers per ruta Alternativa 26.VA.</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="41.84855" lon="3.112746">
@@ -310,15 +310,15 @@ Per l&apos;altre camí a la ↗️dreta 🍽️restaurant La Casona en 25m</desc
   </wpt>
   <wpt lat="41.915135" lon="3.150855">
     <ele>66.99144140026007</ele>
-    <name>🏁Final Etapa 26 🏘️Palafrugell ╠.➡️a🧿🏨🍽️ℹ️🛒☕⚕️🏥</name>
-    <cmt>a Etapa 10 Seguim per l&apos;esquerra
-a Palafrugell ➡️dreta: Hotel, Restaurant i Informació Turística en 500m i tots els serveis</cmt>
-    <desc>⬆️recte 🧭NW a Torroella de Montgrí per Etapa 10
+    <name>🏁Final Etapa 26.V0 Variant per Palafrugell 🏘️Palafrugell ╠.➡️a🧿🏨🍽️ℹ️🛒☕⚕️🏥</name>
+    <cmt>⬆️recte 🧭NW a Torroella de Montgrí per Etapa 27.V0 Variant per Palafrugell
+➡️dreta 🧭E a 🏘️Palafrugell 🧿centre: 🏨Hotel, 🍽️Restaurant i ℹ️Informació Turística en 500m i tots els serveis</cmt>
+    <desc>⬆️recte 🧭NW a Torroella de Montgrí per Etapa 27.V0 Variant per Palafrugell
 ➡️dreta 🧭E a 🏘️Palafrugell 🧿centre: 🏨Hotel, 🍽️Restaurant i ℹ️Informació Turística en 500m i tots els serveis</desc>
     <sym>Crossing</sym>
   </wpt>
   <trk>
-    <name>26.00 Platja d&apos;Aro - Palafrugell</name>
+    <name>26.V0 Variant Palafrugell: Platja d&apos;Aro - Palafrugell</name>
     <extensions>
       <gpx_style:line>
         <gpx_style:color>00db54</gpx_style:color>
