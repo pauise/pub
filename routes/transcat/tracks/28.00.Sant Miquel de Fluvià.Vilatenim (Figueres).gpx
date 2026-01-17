@@ -1,162 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<gpx creator="https://gpx.studio" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/PowerExtension/v1 http://www.garmin.com/xmlschemas/PowerExtensionv1.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxpx="http://www.garmin.com/xmlschemas/PowerExtension/v1" xmlns:gpx_style="http://www.topografix.com/GPX/gpx_style/0/2">
+<gpx creator="https://gpx.studio" version="1.1" schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/PowerExtension/v1 http://www.garmin.com/xmlschemas/PowerExtensionv1.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/PowerExtension/v1 http://www.garmin.com/xmlschemas/PowerExtensionv1.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxpx="http://www.garmin.com/xmlschemas/PowerExtension/v1" xmlns:gpx_style="http://www.topografix.com/GPX/gpx_style/0/2">
   <metadata>
-    <name>29.00 Sant Miquel de Fluvià - Vilatenim (Figueres)</name>
-    <desc>Camallera - Saus - Sant Mori - Sant Miquel de Fluvià - Sant Tomàs de Fluvià - Siurana - El Far d&apos;Empordà - Vilatenim (Figueres)</desc>
+    <name>28.00 Sant Miquel de Fluvià - Vilatenim (Figueres)</name>
+    <desc>Sant Miquel de Fluvià - Sant Tomàs de Fluvià - Siurana - El Far d&apos;Empordà - Vilatenim (Figueres)</desc>
     <author>
       <name>gpx.studio</name>
       <link href="https://gpx.studio"/>
     </author>
   </metadata>
-  <wpt lat="42.122251" lon="2.965643">
-    <ele>78.87376789590414</ele>
-    <name>🟢🚉Camallera 🧭E ╦⬅️🧭NE</name>
-    <cmt>Sortim del tren per l&apos;andana 🧭E i baixem al ╦ carrer que va paral·lel a la via i l&apos;agafem a ⬅️l&apos;esquerra 🧭NE per Carretera Vella de Banyoles a l&apos;Escala</cmt>
-    <desc>Sortim del tren per l&apos;andana 🧭E i baixem al ╦ carrer que va paral·lel a la via i l&apos;agafem a ⬅️l&apos;esquerra 🧭NE per Carretera Vella de Banyoles a l&apos;Escala</desc>
-    <link href="https://www.adif.es/w/79305-camallera"/>
-    <sym>Ground Transportation</sym>
-  </wpt>
-  <wpt lat="42.128821" lon="2.975257">
-    <ele>79.10168279490964</ele>
-    <name>2 ╣🔺⬅️╬⚠️🚗⬆️╣⬅️</name>
-    <cmt>╣Desviar a ⬅️l&apos;esquerra 🔺amunt fins la ╬ cruïlla amb GI-623. Amb ⚠️precaució 🚗trànsit, creuar i agafar la via asfaltada que surt just ⬆️enfront
-Tot seguit ╣desviar a ⬅️l&apos;esquerra</cmt>
-    <desc>╣Desviar a ⬅️l&apos;esquerra 🔺amunt fins la ╬ cruïlla amb GI-623. Amb ⚠️precaució 🚗trànsit, creuar i agafar la via asfaltada que surt just ⬆️enfront
-Tot seguit ╣desviar a ⬅️l&apos;esquerra</desc>
-    <sym>Crossing</sym>
-  </wpt>
-  <wpt lat="42.132058" lon="2.976164">
-    <ele>71.45285845329187</ele>
-    <name>3 🏘️Saus ╦➡️</name>
-    <cmt>🏘️Saus
-╦ Cruïlla. ➡️Dreta</cmt>
-    <desc>🏘️Saus
-╦ Cruïlla. ➡️Dreta</desc>
-    <sym>Crossing</sym>
-  </wpt>
-  <wpt lat="42.132821" lon="2.976983">
-    <ele>70.82656487398862</ele>
-    <name>4 📷Carrer dels Artistes ⬆️➡️</name>
-    <cmt>📷Carrer dels Artistes 
-Seguim ⬆️recte per camí. En pocs metres farà un revolt a la ➡️dreta i es tornarà un estret carrer empredrat</cmt>
-    <desc>📷Carrer dels Artistes 
-Seguim ⬆️recte per camí. En pocs metres farà un revolt a la ➡️dreta i es tornarà un estret carrer empredrat</desc>
-    <sym>Camera</sym>
-  </wpt>
-  <wpt lat="42.133085" lon="2.977454">
-    <ele>72.73212468940446</ele>
-    <name>5 ╬↙️. ↘️a📷Tour Saus per 29.A1 de 350m</name>
-    <cmt>╬ Cruïlla. ↙️Esquerra tancat. ↘️Dreta tancat a📷Tour Saus per 29.A1 de 350m. Val la pena</cmt>
-    <desc>╬ Cruïlla. ↙️Esquerra tancat. ↘️Dreta tancat a📷Tour Saus per 29.A1 de 350m. Val la pena</desc>
-    <sym>Crossing</sym>
-  </wpt>
-  <wpt lat="42.133667" lon="2.977113">
-    <ele>68.85197828444734</ele>
-    <name>6 ╦↖️╬↗️🔺</name>
-    <cmt>Sortim del poble. ╦ Ens incorporem al Carrer Nou a ↖️l&apos;esquerra i de seguida ve una ╬ cruïlla amb un abeurador a l&apos;esquerra. Agafem la pista 45º↗️dreta 🔺amunt</cmt>
-    <desc>Sortim del poble. ╦ Ens incorporem al Carrer Nou a ↖️l&apos;esquerra i de seguida ve una ╬ cruïlla amb un abeurador a l&apos;esquerra. Agafem la pista 45º↗️dreta 🔺amunt</desc>
-    <sym>Crossing</sym>
-  </wpt>
-  <wpt lat="42.137879" lon="2.978619">
-    <ele>63.92498467038463</ele>
-    <name>7 ⬆️⌒🛤️</name>
-    <cmt>⬆️Recte per ⌒ sota la 🛤️via</cmt>
-    <desc>⬆️Recte per ⌒ sota la 🛤️via</desc>
-    <sym>Tunnel</sym>
-  </wpt>
-  <wpt lat="42.138994" lon="2.978334">
-    <ele>62.01061375997964</ele>
-    <name>8 ╦↗️</name>
-    <cmt>╦ Desviar ↗️dreta</cmt>
-    <desc>╦ Desviar ↗️dreta</desc>
-    <sym>Crossing</sym>
-  </wpt>
-  <wpt lat="42.140037" lon="2.979582">
-    <ele>61.557454886031806</ele>
-    <name>9 ⌒🛤️ ╣🏠📷⬅️</name>
-    <cmt>⌒ Túnel sota la 🛤️via i ╣desviar davant de 🏠Mas Turró 📷patrimoni arquitectònic a ⬅️l&apos;esquerra immediatament per seguir paral·lels a la via.
-Millora l&apos;estat de la pista</cmt>
-    <desc>⌒ Túnel sota la 🛤️via i ╣desviar davant de 🏠Mas Turró 📷patrimoni arquitectònic a ⬅️l&apos;esquerra immediatament per seguir paral·lels a la via.
-Millora l&apos;estat de la pista</desc>
-    <sym>Tunnel</sym>
-  </wpt>
-  <wpt lat="42.144936" lon="2.981508">
-    <ele>56.198534795539686</ele>
-    <name>10 ╠↖️⌒🛤️</name>
-    <cmt>╠ SPP ↖️esquerra per ⌒ túnel sota la 🛤️via</cmt>
-    <desc>╠ SPP ↖️esquerra per ⌒ túnel sota la 🛤️via</desc>
-    <sym>Tunnel</sym>
-  </wpt>
-  <wpt lat="42.152182" lon="2.982803">
-    <ele>40.95385338261337</ele>
-    <name>11 ╬↗️</name>
-    <cmt>╬ Cruïlla amb GI-622. Ens incorporem a carretera per la ↗️dreta</cmt>
-    <desc>╬ Cruïlla amb GI-622. Ens incorporem a carretera per la ↗️dreta</desc>
-    <sym>Crossing</sym>
-  </wpt>
-  <wpt lat="42.155386" lon="2.985281">
-    <ele>45.95649170274849</ele>
-    <name>12 🪦⬆️︵🛤️</name>
-    <cmt>🪦Cementiri. ⬆️Seguir per la carretera i passar ︵ pont sobre la 🛤️via</cmt>
-    <desc>🪦Cementiri. ⬆️Seguir per la carretera i passar ︵ pont sobre la 🛤️via</desc>
-    <sym>Bridge</sym>
-  </wpt>
-  <wpt lat="42.156494" lon="2.98828">
-    <ele>38.18046561516887</ele>
-    <name>13 🏘️Sant Mori ☕🛏️ . ╦↖️╣⬆️🧭N⚠️🚗 1,8kms. ⬅️29.A2</name>
-    <cmt>Arribem al 🏘️poble de Sant Mori on hi podem trobar ☕bar i diversos 🛏️allotjaments
-╦ Incorporar-se a ↖️l&apos;esquerra i seguidament ╣ continuar ⬆️recte 🧭N.
-A la sortida del poble ⚠️precaució amb el 🚗trànsit: Comença tram de 1,8 kms de carretera sense voral.
-A la cruïlla de Sant Mori a ⬅️l'esquerra sense asfaltar inici Alternativa 29.A2 de 1,43 kms per escurçar 1 km de carretera. Després la carretera és imprescindible per creuar el Riu Fluvià.</cmt>
-    <desc>Arribem al 🏘️poble de Sant Mori on hi podem trobar ☕bar i diversos 🛏️allotjaments
-╦ Incorporar-se a ↖️l&apos;esquerra i seguidament ╣ continuar ⬆️recte 🧭N.
-A la sortida del poble ⚠️precaució amb el 🚗trànsit: Comença tram de 1,8 kms de carretera sense voral.
-A la cruïlla de Sant Mori a ⬅️l'esquerra sense asfaltar inici Alternativa 29.A2 de 1,43 kms per escurçar 1 km de carretera. Després la carretera és imprescindible per creuar el Riu Fluvià.</desc>
-    <sym>Alert</sym>
-  </wpt>
-  <wpt lat="42.164913" lon="2.991939">
-    <ele>27.36602771277596</ele>
-    <name>14 ╬⬆️ ︵ ╠⬆️. ➡️a🛏️</name>
-    <cmt>╬ Seguim ⬆️recte pel ︵ pont sobre el Riu Fluvià. A ⬅️l'esquerra connexió amb Alternativa 29.xx a Sant Mori en XX,XX kms
-Creuat el ︵ pont a la següent ╠ desviació ⬆️recte. A la ➡️dreta a 🛏️Mas la Barca</cmt>
-    <desc>╬ Seguim ⬆️recte pel ︵ pont sobre el Riu Fluvià. A ⬅️l'esquerra connexió amb Alternativa 29.xx a Sant Mori en XX,XX kms
-Creuat el ︵ pont a la següent ╠ desviació ⬆️recte. A la ➡️dreta a 🛏️Mas la Barca</desc>
-    <sym>Bridge</sym>
-  </wpt>
-  <wpt lat="42.172152" lon="2.989686">
-    <ele>34.6982880466626</ele>
-    <name>15 🚉Sant Miquel de Fluvià</name>
-    <cmt>🚉Estació Sant Miquel de Fluvià RG1 R11</cmt>
-    <desc>🚉Estació Sant Miquel de Fluvià RG1 R11</desc>
+  <wpt lat="42.172152" lon="2.989695">
+    <ele>34.61440196679986</ele>
+    <name>🟢🚉Sant Miquel de Fluvià ╦⬅️🧭N</name>
+    <cmt>🚉Estació Sant Miquel de Fluvià RG1 R11. 
+Sortint de l&apos;estació ╦ incorporar-se a la carretera a ⬅️l&apos;esquerra 🧭N</cmt>
+    <desc>🚉Estació Sant Miquel de Fluvià RG1 R11. 
+Sortint de l&apos;estació ╦ incorporar-se a la carretera a ⬅️l&apos;esquerra 🧭N</desc>
     <link href="https://www.adif.es/w/79306-st.-miquel-fluvi%C3%A0"/>
     <sym>Ground Transportation</sym>
   </wpt>
   <wpt lat="42.173534" lon="2.99021">
     <ele>30.77754381839287</ele>
-    <name>16 🏘️Sant Miquel de Fluvià ╣⬆️🛒. ⬅️a🍽️⚕️</name>
+    <name>2 🏘️Sant Miquel de Fluvià ╣⬆️. ⬅️a🍽️⚕️</name>
     <cmt>🏘️Sant Miquel de Fluvià 
-╣Seguir ⬆️recte.🛒Carnisseria i embutits. ⬅️Esquerra a 🍽️Bar-restaurant i ⚕️farmàcia</cmt>
+╣Seguir ⬆️recte. ⬅️Dreta a 🍽️Bar-restaurant i ⚕️farmàcia</cmt>
     <desc>🏘️Sant Miquel de Fluvià 
-╣Seguir ⬆️recte.🛒Carnisseria i embutits. ⬅️Esquerra a 🍽️Bar-restaurant i ⚕️farmàcia</desc>
+╣Seguir ⬆️recte. ⬅️Dreta a 🍽️Bar-restaurant i ⚕️farmàcia</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="42.174017" lon="2.991227">
     <ele>29.067952497769394</ele>
-    <name>17 ╣⬆️. ⬅️a🛒</name>
+    <name>3 ╣⬆️. ⬅️a🛒</name>
     <cmt>╣Seguir ⬆️recte. ⬅️A l&apos;esquerra 🛒queviures</cmt>
     <desc>╣Seguir ⬆️recte. ⬅️A l&apos;esquerra 🛒queviures</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="42.175998" lon="2.996115">
     <ele>24.496713450644187</ele>
-    <name>18 ╣⬅️</name>
+    <name>4 ╣⬅️</name>
     <cmt>╣Deixem la carretera i desviem a ⬅️l&apos;esquerra per via asfaltada Camí de Sant Tomàs de Fluvià</cmt>
     <desc>╣Deixem la carretera i desviem a ⬅️l&apos;esquerra per via asfaltada Camí de Sant Tomàs de Fluvià</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="42.182088" lon="3.009496">
     <ele>37.28014628924509</ele>
-    <name>19 🏘️Sant Tomàs de Fluvià 🛏️ ╬↗️╦⬅️🧭N</name>
+    <name>5 🏘️Sant Tomàs de Fluvià 🛏️ ╬↗️╦⬅️🧭N</name>
     <cmt>🏘️Sant Tomàs de Fluvià: 🛏️Allotjament
 ╬ Cruïlla, seguim a ↗️dretes i al ╦ cap del carrer ⬅️esquerra 🧭N indicació de Siurana</cmt>
     <desc>🏘️Sant Tomàs de Fluvià: 🛏️Allotjament
@@ -165,7 +52,7 @@ Creuat el ︵ pont a la següent ╠ desviació ⬆️recte. A la ➡️dreta a 
   </wpt>
   <wpt lat="42.209113" lon="2.994586">
     <ele>33.11023802291664</ele>
-    <name>20 🏘️Siurana 🍽️🛏️. ╦➡️</name>
+    <name>6 🏘️Siurana 🍽️🛏️. ╦➡️</name>
     <cmt>🏘️Siurana: 🍽️Restaurant i 🛏️allotjament.
 ╦ Incorporar-se a GV-6219 a la ➡️dreta</cmt>
     <desc>🏘️Siurana: 🍽️Restaurant i 🛏️allotjament.
@@ -174,83 +61,83 @@ Creuat el ︵ pont a la següent ╠ desviació ⬆️recte. A la ➡️dreta a 
   </wpt>
   <wpt lat="42.209203" lon="2.995845">
     <ele>23.533394131763487</ele>
-    <name>21 ╣⬅️</name>
+    <name>7 ╣⬅️</name>
     <cmt>╣Desviar a ⬅️l&apos;esquerra</cmt>
     <desc>╣Desviar a ⬅️l&apos;esquerra</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="42.211118" lon="2.994971">
     <ele>22.93124367519678</ele>
-    <name>22 ╦↗️🏠</name>
+    <name>8 ╦↗️🏠</name>
     <cmt>╦ Incorporar-se a carrer més important a ↗️dretes i deixar a la dreta 🏠Mas Margall i fi asfalt</cmt>
     <desc>╦ Incorporar-se a carrer més important a ↗️dretes i deixar a la dreta 🏠Mas Margall i fi asfalt</desc>
-    <sym>End of Road</sym>
+    <sym>Road</sym>
   </wpt>
   <wpt lat="42.219058" lon="2.994165">
     <ele>22.77247114665905</ele>
-    <name>23 ╣↗️. ⬅️a🚉Vilamalla 28.65</name>
+    <name>9 ╣↗️. ⬅️a🚉Vilamalla 28.50</name>
     <cmt>╣SPP a ↗️dretes. 
-A ⬅️l&apos;esquerra aVilamalla per 28.65 Enllaç 🚉Vilamalla</cmt>
+A ⬅️l&apos;esquerra aVilamalla per 28.50 Enllaç 🚉Vilamalla</cmt>
     <desc>╣SPP a ↗️dretes. 
-A ⬅️l&apos;esquerra aVilamalla per 28.65 Enllaç 🚉Vilamalla</desc>
+A ⬅️l&apos;esquerra aVilamalla per 28.50 Enllaç 🚉Vilamalla</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="42.220068" lon="2.995795">
     <ele>25.69852486765319</ele>
-    <name>24 ╬↖️</name>
+    <name>10 ╬↖️</name>
     <cmt>╬ Cruïlla amb Camí del Mas de les Figueres. 
 Ens incorporem a ↖️l&apos;esquerra</cmt>
     <desc>╬ Cruïlla amb Camí del Mas de les Figueres. 
 Ens incorporem a ↖️l&apos;esquerra</desc>
     <sym>Crossing</sym>
   </wpt>
-  <wpt lat="42.22603548605832" lon="2.991613906910004">
-    <ele>26.755665787030956</ele>
-    <name>25 ╦➡️</name>
-    <cmt>╦ Incorporar-se a Carrer de Castelló a la ➡️dreta. </cmt>
-    <desc>╦ Incorporar-se a Carrer de Castelló a la ➡️dreta. </desc>
-    <sym>Road</sym>
+  <wpt lat="42.226035" lon="2.991614">
+    <ele>26.754353196640512</ele>
+    <name>11 ╦➡️</name>
+    <cmt>╦ Incorporar-se a Carrer de Castelló a la ➡️dreta.</cmt>
+    <desc>╦ Incorporar-se a Carrer de Castelló a la ➡️dreta.</desc>
+    <sym>Crossing</sym>
   </wpt>
   <wpt lat="42.227378" lon="2.994641">
     <ele>20.684676983321157</ele>
-    <name>26 🔄⬆️</name>
+    <name>12 🔄⬆️</name>
     <cmt>🔄Rotonda. Sortir ⬆️recte tal com s&apos;entra cap a la següent</cmt>
     <desc>🔄Rotonda. Sortir ⬆️recte tal com s&apos;entra cap a la següent</desc>
-    <sym>Rotonda</sym>
+    <sym>Crossing</sym>
   </wpt>
   <wpt lat="42.227688" lon="2.996722">
     <ele>18.41479779924408</ele>
-    <name>27 🔄2ª↗️︵🛣️🔄1ª↗️</name>
+    <name>13 🔄2ª↗️︵🛣️🔄1ª↗️</name>
     <cmt>🔄Rotonda. Surt per la 2ª a la ↗️dreta.
 Creuar ︵ pont sobre 🛣️C-31 i a la 🔄rotonda sortir per la 1ª a la ↗️dreta</cmt>
     <desc>🔄Rotonda. Surt per la 2ª a la ↗️dreta.
 Creuar ︵ pont sobre 🛣️C-31 i a la 🔄rotonda sortir per la 1ª a la ↗️dreta</desc>
-    <sym>Rotonda</sym>
+    <sym>Crossing</sym>
   </wpt>
   <wpt lat="42.229114" lon="2.998698">
     <ele>19.350360534993087</ele>
-    <name>28 🔄🧭N</name>
+    <name>14 🔄🧭N</name>
     <cmt>🔄Rotonda. Surt 🧭N; vindria a ser la 2ª però es podria entendre com la 3ª</cmt>
     <desc>🔄Rotonda. Surt 🧭N; vindria a ser la 2ª però es podria entendre com la 3ª</desc>
-    <sym>Rotonda</sym>
+    <sym>Crossing</sym>
   </wpt>
   <wpt lat="42.23175" lon="2.997377">
     <ele>20.22423550156022</ele>
-    <name>29 🔄1ª↗️</name>
+    <name>15 🔄1ª↗️</name>
     <cmt>🔄Rotonda. Surt per la 1ª a la ↗️dreta</cmt>
     <desc>🔄Rotonda. Surt per la 1ª a la ↗️dreta</desc>
-    <sym>Rotonda</sym>
+    <sym>Crossing</sym>
   </wpt>
   <wpt lat="42.240774" lon="2.996741">
     <ele>21.573901105393233</ele>
-    <name>30 🔄1ª↗️</name>
+    <name>16 🔄1ª↗️</name>
     <cmt>🔄Rotonda. Surt per la 1ª a la ↗️dreta</cmt>
     <desc>🔄Rotonda. Surt per la 1ª a la ↗️dreta</desc>
-    <sym>Rotonda</sym>
+    <sym>Crossing</sym>
   </wpt>
   <wpt lat="42.251061" lon="2.99768">
     <ele>29.40920999370659</ele>
-    <name>31 🏘️El Far d&apos;Empordà 🍽️ ╬↗️🧭N</name>
+    <name>17 🏘️El Far d&apos;Empordà 🍽️ ╬↗️🧭N</name>
     <cmt>🏘️El Far d&apos;Empordà: 🍽️Restaurant
 ╬ Cruïlla. Seguir per carretera principal que surt enfront nostre lleugerament a la ↗️dreta 🧭N</cmt>
     <desc>🏘️El Far d&apos;Empordà: 🍽️Restaurant
@@ -259,659 +146,66 @@ Creuar ︵ pont sobre 🛣️C-31 i a la 🔄rotonda sortir per la 1ª a la ↗�
   </wpt>
   <wpt lat="42.265415" lon="2.99526">
     <ele>17.307362286188336</ele>
-    <name>32 🏘️Vilatenim 🏬🛏️🍔🛒. 🔄2ª↗️</name>
+    <name>18 🏘️Vilatenim 🏬🛏️🍔🛒🔄2ª↗️</name>
     <cmt>🏘️Vilatenim: 🏬Decathlon, Leroy Merlin, 🛏️B&amp;B, 🍔menjar ràpid i 🛒Carrefour més lluny
 🔄Rotonda. Surt per la 2ª a la ↗️dreta
 Passarem davant un Viena i un McDonalds</cmt>
     <desc>🏘️Vilatenim: 🏬Decathlon, Leroy Merlin, 🛏️B&amp;B, 🍔menjar ràpid i 🛒Carrefour més lluny
 🔄Rotonda. Surt per la 2ª a la ↗️dreta
 Passarem davant un Viena i un McDonalds</desc>
-    <sym>Rotonda</sym>
+    <sym>Crossing</sym>
   </wpt>
   <wpt lat="42.267182" lon="2.99491">
     <ele>18.505268021964937</ele>
-    <name>33 ╦➡️. ⬅️a🔧400m</name>
-    <cmt>╦ Desemboquem al lateral de la C-260. ➡️Dreta. Si hi hagués trànsit, podem pujar a la vorera.
-A ⬅️l'esquerra 🔧tenda i taller de bicicletes a 400m.</cmt>
-    <desc>╦ Desemboquem al lateral de la C-260. ➡️Dreta. Si hi hagués trànsit, podem pujar a la vorera.
-A ⬅️l'esquerra 🔧tenda i taller de bicicletes a 400m.</desc>
+    <name>19 ╦➡️</name>
+    <cmt>╦ Desemboquem al lateral de la C-260. ➡️Dreta. Si hi hagués trànsit, podem pujar a la vorera.</cmt>
+    <desc>╦ Desemboquem al lateral de la C-260. ➡️Dreta. Si hi hagués trànsit, podem pujar a la vorera.</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="42.267293" lon="2.996657">
     <ele>17.290794972843074</ele>
-    <name>34 ↗️🔺︵🛣️</name>
+    <name>20 ↗️🔺︵🛣️</name>
     <cmt>↗️Dreta 🔺amunt per la ︵ passera sobre la 🛣️C-260</cmt>
     <desc>↗️Dreta 🔺amunt per la ︵ passera sobre la 🛣️C-260</desc>
     <sym>Bridge</sym>
   </wpt>
   <wpt lat="42.267844" lon="2.996052">
     <ele>20.85809164026322</ele>
-    <name>35 ╦⬅️🧭N</name>
+    <name>21 ╦⬅️🧭N</name>
     <cmt>╦ Carrer dels Baladres. Agafar-lo a ⬅️l&apos;esquerra 🧭N</cmt>
     <desc>╦ Carrer dels Baladres. Agafar-lo a ⬅️l&apos;esquerra 🧭N</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="42.268901" lon="2.99543">
     <ele>18.945937945950174</ele>
-    <name>36 ╬⬆️🍽️</name>
+    <name>22 ╬⬆️🍽️</name>
     <cmt>╬ Cruïlla. Seguir ⬆️recte. 🍽️Restaurant BBC (Bodes, Batejos i Comunions)</cmt>
     <desc>╬ Cruïlla. Seguir ⬆️recte. 🍽️Restaurant BBC (Bodes, Batejos i Comunions)</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="42.270178" lon="2.994824">
     <ele>17.455768032745677</ele>
-    <name>37 ╣↗️</name>
+    <name>23 ╣↗️</name>
     <cmt>╣Plaça de Vilatenim. Seguim a ↗️dretes</cmt>
     <desc>╣Plaça de Vilatenim. Seguim a ↗️dretes</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="42.270845" lon="2.994875">
     <ele>15.07770147258444</ele>
-    <name>🏁Final etapa 29 ╦</name>
+    <name>🏁Final Etapa 28.00 ╦</name>
     <cmt>╦ Cruïlla Carrer de l&apos;Església:
-↗️🧭NE a Perelada i Capmany per Etapa 30
+↗️🧭NE a Perelada i Capmany per Etapa 29.00
 ↙️🧭SW a Figueres per 28.99 Enllaç 🚉Figueres</cmt>
     <desc>╦ Cruïlla Carrer de l&apos;Església:
-↗️🧭NE a Perelada i Capmany per Etapa 30
+↗️🧭NE a Perelada i Capmany per Etapa 29.00
 ↙️🧭SW a Figueres per 28.99 Enllaç 🚉Figueres</desc>
     <sym>Crossing</sym>
   </wpt>
   <trk>
-    <name>29.00 Sant Miquel de Fluvià - Vilatenim (Figueres)</name>
+    <name>28.00 Sant Miquel de Fluvià - Vilatenim (Figueres)</name>
     <trkseg>
-      <trkpt lat="42.1222538283065" lon="2.9656391878223474">
-        <ele>78.88265328742628</ele>
-      </trkpt>
-      <trkpt lat="42.122195" lon="2.96578">
-        <ele>80.25</ele>
-      </trkpt>
-      <trkpt lat="42.122501" lon="2.966022">
-        <ele>80.25</ele>
-      </trkpt>
-      <trkpt lat="42.125637" lon="2.9685">
-        <ele>79</ele>
-      </trkpt>
-      <trkpt lat="42.126342" lon="2.969114">
-        <ele>80.25</ele>
-      </trkpt>
-      <trkpt lat="42.126589" lon="2.969368">
-        <ele>80.75</ele>
-      </trkpt>
-      <trkpt lat="42.126603" lon="2.969583">
-        <ele>80.75</ele>
-      </trkpt>
-      <trkpt lat="42.126402" lon="2.970038">
-        <ele>80.5</ele>
-      </trkpt>
-      <trkpt lat="42.126339" lon="2.970391">
-        <ele>80.25</ele>
-      </trkpt>
-      <trkpt lat="42.126406" lon="2.97068">
-        <ele>80</ele>
-      </trkpt>
-      <trkpt lat="42.127623" lon="2.972359">
-        <ele>79.25</ele>
-      </trkpt>
-      <trkpt lat="42.128067" lon="2.972964">
-        <ele>80.5</ele>
-      </trkpt>
-      <trkpt lat="42.128325" lon="2.973327">
-        <ele>80</ele>
-      </trkpt>
-      <trkpt lat="42.128487" lon="2.97362">
-        <ele>79.25</ele>
-      </trkpt>
-      <trkpt lat="42.128494" lon="2.973652">
-        <ele>79</ele>
-      </trkpt>
-      <trkpt lat="42.128618" lon="2.97415">
-        <ele>78.75</ele>
-      </trkpt>
-      <trkpt lat="42.128741" lon="2.97468">
-        <ele>79</ele>
-      </trkpt>
-      <trkpt lat="42.128815" lon="2.975053">
-        <ele>79</ele>
-      </trkpt>
-      <trkpt lat="42.128811" lon="2.975262">
-        <ele>78.75</ele>
-      </trkpt>
-      <trkpt lat="42.128825" lon="2.975261">
-        <ele>78.5</ele>
-      </trkpt>
-      <trkpt lat="42.128982" lon="2.975252">
-        <ele>78</ele>
-      </trkpt>
-      <trkpt lat="42.128982" lon="2.975252">
-        <ele>78.33939103968564</ele>
-      </trkpt>
-      <trkpt lat="42.129055" lon="2.975059">
-        <ele>77.75</ele>
-      </trkpt>
-      <trkpt lat="42.129054" lon="2.975058">
-        <ele>77.75</ele>
-      </trkpt>
-      <trkpt lat="42.129177" lon="2.975264">
-        <ele>77.25</ele>
-      </trkpt>
-      <trkpt lat="42.129181" lon="2.975271">
-        <ele>77.25</ele>
-      </trkpt>
-      <trkpt lat="42.129449" lon="2.975058">
-        <ele>76.75</ele>
-      </trkpt>
-      <trkpt lat="42.129484" lon="2.975042">
-        <ele>76.75</ele>
-      </trkpt>
-      <trkpt lat="42.129524" lon="2.975041">
-        <ele>76.5</ele>
-      </trkpt>
-      <trkpt lat="42.129567" lon="2.975056">
-        <ele>76.25</ele>
-      </trkpt>
-      <trkpt lat="42.129604" lon="2.975082">
-        <ele>76.25</ele>
-      </trkpt>
-      <trkpt lat="42.12988" lon="2.975368">
-        <ele>75.25</ele>
-      </trkpt>
-      <trkpt lat="42.130032" lon="2.975494">
-        <ele>74.75</ele>
-      </trkpt>
-      <trkpt lat="42.130256" lon="2.975716">
-        <ele>74.5</ele>
-      </trkpt>
-      <trkpt lat="42.130437" lon="2.97588">
-        <ele>74.25</ele>
-      </trkpt>
-      <trkpt lat="42.130533" lon="2.975945">
-        <ele>74</ele>
-      </trkpt>
-      <trkpt lat="42.130689" lon="2.976026">
-        <ele>73.75</ele>
-      </trkpt>
-      <trkpt lat="42.131254" lon="2.976211">
-        <ele>72.5</ele>
-      </trkpt>
-      <trkpt lat="42.131423" lon="2.976266">
-        <ele>72.25</ele>
-      </trkpt>
-      <trkpt lat="42.131515" lon="2.976287">
-        <ele>72</ele>
-      </trkpt>
-      <trkpt lat="42.131575" lon="2.976288">
-        <ele>72</ele>
-      </trkpt>
-      <trkpt lat="42.131826" lon="2.97624">
-        <ele>71.75</ele>
-      </trkpt>
-      <trkpt lat="42.132066" lon="2.976172">
-        <ele>71.75</ele>
-      </trkpt>
-      <trkpt lat="42.132079" lon="2.976209">
-        <ele>71.5</ele>
-      </trkpt>
-      <trkpt lat="42.132079" lon="2.976207">
-        <ele>71.5</ele>
-      </trkpt>
-      <trkpt lat="42.132201" lon="2.976537">
-        <ele>71</ele>
-      </trkpt>
-      <trkpt lat="42.132432" lon="2.976973">
-        <ele>72.5</ele>
-      </trkpt>
-      <trkpt lat="42.132533" lon="2.977054">
-        <ele>72.75</ele>
-      </trkpt>
-      <trkpt lat="42.132538" lon="2.977059">
-        <ele>72.75</ele>
-      </trkpt>
-      <trkpt lat="42.132817" lon="2.976985">
-        <ele>71.5</ele>
-      </trkpt>
-      <trkpt lat="42.132817" lon="2.976985">
-        <ele>71.5</ele>
-      </trkpt>
-      <trkpt lat="42.132817" lon="2.976985">
-        <ele>71.5</ele>
-      </trkpt>
-      <trkpt lat="42.132904" lon="2.976915">
-        <ele>71.25</ele>
-      </trkpt>
-      <trkpt lat="42.133028" lon="2.976895">
-        <ele>70.75</ele>
-      </trkpt>
-      <trkpt lat="42.13312" lon="2.976934">
-        <ele>70.75</ele>
-      </trkpt>
-      <trkpt lat="42.133095" lon="2.977121">
-        <ele>71.25</ele>
-      </trkpt>
-      <trkpt lat="42.133082" lon="2.977452">
-        <ele>72</ele>
-      </trkpt>
-      <trkpt lat="42.133082" lon="2.977452">
-        <ele>71.75</ele>
-      </trkpt>
-      <trkpt lat="42.133082" lon="2.977457">
-        <ele>72</ele>
-      </trkpt>
-      <trkpt lat="42.133119" lon="2.977442">
-        <ele>71.75</ele>
-      </trkpt>
-      <trkpt lat="42.133132" lon="2.977435">
-        <ele>70.75</ele>
-      </trkpt>
-      <trkpt lat="42.133341" lon="2.977333">
-        <ele>70.75</ele>
-      </trkpt>
-      <trkpt lat="42.133612" lon="2.977121">
-        <ele>69.75</ele>
-      </trkpt>
-      <trkpt lat="42.133665" lon="2.977099">
-        <ele>69.5</ele>
-      </trkpt>
-      <trkpt lat="42.133665" lon="2.977099">
-        <ele>69.5</ele>
-      </trkpt>
-      <trkpt lat="42.133665" lon="2.977099">
-        <ele>69.5</ele>
-      </trkpt>
-      <trkpt lat="42.133717" lon="2.977079">
-        <ele>69.5</ele>
-      </trkpt>
-      <trkpt lat="42.133865" lon="2.976786">
-        <ele>68.75</ele>
-      </trkpt>
-      <trkpt lat="42.133865" lon="2.976786">
-        <ele>68.75</ele>
-      </trkpt>
-      <trkpt lat="42.133873" lon="2.976772">
-        <ele>68.75</ele>
-      </trkpt>
-      <trkpt lat="42.134302" lon="2.976646">
-        <ele>68.75</ele>
-      </trkpt>
-      <trkpt lat="42.134514" lon="2.976754">
-        <ele>69.5</ele>
-      </trkpt>
-      <trkpt lat="42.134676" lon="2.976995">
-        <ele>69.25</ele>
-      </trkpt>
-      <trkpt lat="42.135028" lon="2.977084">
-        <ele>69.5</ele>
-      </trkpt>
-      <trkpt lat="42.135198" lon="2.977176">
-        <ele>69.75</ele>
-      </trkpt>
-      <trkpt lat="42.135542" lon="2.977343">
-        <ele>69.5</ele>
-      </trkpt>
-      <trkpt lat="42.13577" lon="2.977551">
-        <ele>67.75</ele>
-      </trkpt>
-      <trkpt lat="42.136065" lon="2.977796">
-        <ele>68.75</ele>
-      </trkpt>
-      <trkpt lat="42.136298" lon="2.977912">
-        <ele>68.75</ele>
-      </trkpt>
-      <trkpt lat="42.136649" lon="2.977951">
-        <ele>68.5</ele>
-      </trkpt>
-      <trkpt lat="42.136749" lon="2.978003">
-        <ele>68.25</ele>
-      </trkpt>
-      <trkpt lat="42.136939" lon="2.978163">
-        <ele>67</ele>
-      </trkpt>
-      <trkpt lat="42.137349" lon="2.978448">
-        <ele>66.5</ele>
-      </trkpt>
-      <trkpt lat="42.137667" lon="2.978619">
-        <ele>67.5</ele>
-      </trkpt>
-      <trkpt lat="42.13785" lon="2.978625">
-        <ele>67.25</ele>
-      </trkpt>
-      <trkpt lat="42.137848" lon="2.978625">
-        <ele>67.25</ele>
-      </trkpt>
-      <trkpt lat="42.137858" lon="2.978626">
-        <ele>67.25</ele>
-      </trkpt>
-      <trkpt lat="42.138044" lon="2.978558">
-        <ele>66.5</ele>
-      </trkpt>
-      <trkpt lat="42.138165" lon="2.978484">
-        <ele>65.75</ele>
-      </trkpt>
-      <trkpt lat="42.138981" lon="2.978337">
-        <ele>63.25</ele>
-      </trkpt>
-      <trkpt lat="42.138981" lon="2.978337">
-        <ele>63.25</ele>
-      </trkpt>
-      <trkpt lat="42.139002" lon="2.978334">
-        <ele>63.25</ele>
-      </trkpt>
-      <trkpt lat="42.13936" lon="2.978773">
-        <ele>63.25</ele>
-      </trkpt>
-      <trkpt lat="42.139599" lon="2.978882">
-        <ele>62</ele>
-      </trkpt>
-      <trkpt lat="42.139697" lon="2.978934">
-        <ele>61.25</ele>
-      </trkpt>
-      <trkpt lat="42.139813" lon="2.979101">
-        <ele>60.5</ele>
-      </trkpt>
-      <trkpt lat="42.139906" lon="2.979394">
-        <ele>61</ele>
-      </trkpt>
-      <trkpt lat="42.140046" lon="2.979548">
-        <ele>60.5</ele>
-      </trkpt>
-      <trkpt lat="42.140035" lon="2.979588">
-        <ele>60.75</ele>
-      </trkpt>
-      <trkpt lat="42.139988" lon="2.97976">
-        <ele>62</ele>
-      </trkpt>
-      <trkpt lat="42.139991" lon="2.979839">
-        <ele>62.25</ele>
-      </trkpt>
-      <trkpt lat="42.139994" lon="2.979913">
-        <ele>62.5</ele>
-      </trkpt>
-      <trkpt lat="42.14012" lon="2.979837">
-        <ele>61.5</ele>
-      </trkpt>
-      <trkpt lat="42.140235" lon="2.979859">
-        <ele>61</ele>
-      </trkpt>
-      <trkpt lat="42.140325" lon="2.979926">
-        <ele>60.75</ele>
-      </trkpt>
-      <trkpt lat="42.141147" lon="2.980358">
-        <ele>57</ele>
-      </trkpt>
-      <trkpt lat="42.143405" lon="2.981058">
-        <ele>53.75</ele>
-      </trkpt>
-      <trkpt lat="42.144186" lon="2.981315">
-        <ele>53.75</ele>
-      </trkpt>
-      <trkpt lat="42.144483" lon="2.981427">
-        <ele>54.25</ele>
-      </trkpt>
-      <trkpt lat="42.144749" lon="2.98151">
-        <ele>54.75</ele>
-      </trkpt>
-      <trkpt lat="42.144949" lon="2.981501">
-        <ele>54.75</ele>
-      </trkpt>
-      <trkpt lat="42.144987" lon="2.981473">
-        <ele>54.5</ele>
-      </trkpt>
-      <trkpt lat="42.145023" lon="2.981444">
-        <ele>54</ele>
-      </trkpt>
-      <trkpt lat="42.145123" lon="2.981366">
-        <ele>53.5</ele>
-      </trkpt>
-      <trkpt lat="42.145142" lon="2.98134">
-        <ele>53.5</ele>
-      </trkpt>
-      <trkpt lat="42.145233" lon="2.981297">
-        <ele>53</ele>
-      </trkpt>
-      <trkpt lat="42.145334" lon="2.981287">
-        <ele>53</ele>
-      </trkpt>
-      <trkpt lat="42.145682" lon="2.981408">
-        <ele>53.5</ele>
-      </trkpt>
-      <trkpt lat="42.14601" lon="2.981297">
-        <ele>52.5</ele>
-      </trkpt>
-      <trkpt lat="42.146357" lon="2.981297">
-        <ele>52.5</ele>
-      </trkpt>
-      <trkpt lat="42.146836" lon="2.981418">
-        <ele>52</ele>
-      </trkpt>
-      <trkpt lat="42.146992" lon="2.981474">
-        <ele>51.25</ele>
-      </trkpt>
-      <trkpt lat="42.147622" lon="2.9817">
-        <ele>49.25</ele>
-      </trkpt>
-      <trkpt lat="42.148141" lon="2.981846">
-        <ele>46.5</ele>
-      </trkpt>
-      <trkpt lat="42.148468" lon="2.982013">
-        <ele>47.25</ele>
-      </trkpt>
-      <trkpt lat="42.148967" lon="2.982128">
-        <ele>47.25</ele>
-      </trkpt>
-      <trkpt lat="42.149093" lon="2.982219">
-        <ele>47.75</ele>
-      </trkpt>
-      <trkpt lat="42.149491" lon="2.982506">
-        <ele>48.25</ele>
-      </trkpt>
-      <trkpt lat="42.149829" lon="2.982617">
-        <ele>46.5</ele>
-      </trkpt>
-      <trkpt lat="42.150549" lon="2.982673">
-        <ele>42</ele>
-      </trkpt>
-      <trkpt lat="42.150872" lon="2.982728">
-        <ele>40.75</ele>
-      </trkpt>
-      <trkpt lat="42.151355" lon="2.982929">
-        <ele>41.5</ele>
-      </trkpt>
-      <trkpt lat="42.152166" lon="2.982799">
-        <ele>40.75</ele>
-      </trkpt>
-      <trkpt lat="42.1522" lon="2.982794">
-        <ele>40.75</ele>
-      </trkpt>
-      <trkpt lat="42.152291" lon="2.982844">
-        <ele>40.75</ele>
-      </trkpt>
-      <trkpt lat="42.155015" lon="2.984719">
-        <ele>48.25</ele>
-      </trkpt>
-      <trkpt lat="42.155164" lon="2.98483">
-        <ele>49</ele>
-      </trkpt>
-      <trkpt lat="42.155263" lon="2.984921">
-        <ele>49.25</ele>
-      </trkpt>
-      <trkpt lat="42.155337" lon="2.985042">
-        <ele>49</ele>
-      </trkpt>
-      <trkpt lat="42.155373" lon="2.985161">
-        <ele>48.25</ele>
-      </trkpt>
-      <trkpt lat="42.155383" lon="2.98527">
-        <ele>47.5</ele>
-      </trkpt>
-      <trkpt lat="42.155372" lon="2.985408">
-        <ele>46.25</ele>
-      </trkpt>
-      <trkpt lat="42.155308" lon="2.985622">
-        <ele>44.5</ele>
-      </trkpt>
-      <trkpt lat="42.155295" lon="2.985664">
-        <ele>44.25</ele>
-      </trkpt>
-      <trkpt lat="42.155191" lon="2.986005">
-        <ele>42.25</ele>
-      </trkpt>
-      <trkpt lat="42.155058" lon="2.986453">
-        <ele>41.25</ele>
-      </trkpt>
-      <trkpt lat="42.15504" lon="2.986631">
-        <ele>40.75</ele>
-      </trkpt>
-      <trkpt lat="42.155053" lon="2.98673">
-        <ele>40.5</ele>
-      </trkpt>
-      <trkpt lat="42.155082" lon="2.986835">
-        <ele>40.25</ele>
-      </trkpt>
-      <trkpt lat="42.155132" lon="2.986936">
-        <ele>40</ele>
-      </trkpt>
-      <trkpt lat="42.155225" lon="2.987048">
-        <ele>39.5</ele>
-      </trkpt>
-      <trkpt lat="42.155911" lon="2.98771">
-        <ele>36</ele>
-      </trkpt>
-      <trkpt lat="42.15624" lon="2.987994">
-        <ele>36.5</ele>
-      </trkpt>
-      <trkpt lat="42.156411" lon="2.988158">
-        <ele>37.25</ele>
-      </trkpt>
-      <trkpt lat="42.156486" lon="2.988212">
-        <ele>37.75</ele>
-      </trkpt>
-      <trkpt lat="42.156496" lon="2.988239">
-        <ele>38</ele>
-      </trkpt>
-      <trkpt lat="42.156499" lon="2.988278">
-        <ele>38.25</ele>
-      </trkpt>
-      <trkpt lat="42.156492" lon="2.988332">
-        <ele>38.5</ele>
-      </trkpt>
-      <trkpt lat="42.156543" lon="2.988317">
-        <ele>38.5</ele>
-      </trkpt>
-      <trkpt lat="42.156614" lon="2.988329">
-        <ele>38.75</ele>
-      </trkpt>
-      <trkpt lat="42.156666" lon="2.988353">
-        <ele>39</ele>
-      </trkpt>
-      <trkpt lat="42.156746" lon="2.988381">
-        <ele>39</ele>
-      </trkpt>
-      <trkpt lat="42.157265" lon="2.988505">
-        <ele>36.5</ele>
-      </trkpt>
-      <trkpt lat="42.157785" lon="2.988573">
-        <ele>36.25</ele>
-      </trkpt>
-      <trkpt lat="42.158167" lon="2.988624">
-        <ele>38.25</ele>
-      </trkpt>
-      <trkpt lat="42.158821" lon="2.988745">
-        <ele>40.25</ele>
-      </trkpt>
-      <trkpt lat="42.159294" lon="2.988877">
-        <ele>40.75</ele>
-      </trkpt>
-      <trkpt lat="42.16073" lon="2.989496">
-        <ele>42</ele>
-      </trkpt>
-      <trkpt lat="42.161324" lon="2.98977">
-        <ele>48.75</ele>
-      </trkpt>
-      <trkpt lat="42.162365" lon="2.990267">
-        <ele>50.25</ele>
-      </trkpt>
-      <trkpt lat="42.163002" lon="2.990598">
-        <ele>46.75</ele>
-      </trkpt>
-      <trkpt lat="42.163041" lon="2.990617">
-        <ele>46.5</ele>
-      </trkpt>
-      <trkpt lat="42.163695" lon="2.990914">
-        <ele>42.5</ele>
-      </trkpt>
-      <trkpt lat="42.163835" lon="2.991064">
-        <ele>41.75</ele>
-      </trkpt>
-      <trkpt lat="42.163913" lon="2.991252">
-        <ele>42</ele>
-      </trkpt>
-      <trkpt lat="42.164132" lon="2.991837">
-        <ele>42.5</ele>
-      </trkpt>
-      <trkpt lat="42.164206" lon="2.991907">
-        <ele>42.25</ele>
-      </trkpt>
-      <trkpt lat="42.16432" lon="2.991965">
-        <ele>41.25</ele>
-      </trkpt>
-      <trkpt lat="42.164452" lon="2.991981">
-        <ele>40</ele>
-      </trkpt>
-      <trkpt lat="42.164553" lon="2.991979">
-        <ele>38.75</ele>
-      </trkpt>
-      <trkpt lat="42.164937" lon="2.991945">
-        <ele>34</ele>
-      </trkpt>
-      <trkpt lat="42.164937" lon="2.991945">
-        <ele>34</ele>
-      </trkpt>
-      <trkpt lat="42.164978" lon="2.991942">
-        <ele>33.75</ele>
-      </trkpt>
-      <trkpt lat="42.165668" lon="2.991792">
-        <ele>28.75</ele>
-      </trkpt>
-      <trkpt lat="42.166677" lon="2.991593">
-        <ele>26</ele>
-      </trkpt>
-      <trkpt lat="42.168617" lon="2.991207">
-        <ele>26.75</ele>
-      </trkpt>
-      <trkpt lat="42.169365" lon="2.991059">
-        <ele>37</ele>
-      </trkpt>
-      <trkpt lat="42.169858" lon="2.99096">
-        <ele>42.75</ele>
-      </trkpt>
-      <trkpt lat="42.170661" lon="2.9908">
-        <ele>41.75</ele>
-      </trkpt>
-      <trkpt lat="42.170852" lon="2.990718">
-        <ele>40.75</ele>
-      </trkpt>
-      <trkpt lat="42.171018" lon="2.99058">
-        <ele>38.75</ele>
-      </trkpt>
-      <trkpt lat="42.17135" lon="2.990212">
-        <ele>37.25</ele>
-      </trkpt>
-      <trkpt lat="42.171438" lon="2.990115">
-        <ele>37.25</ele>
-      </trkpt>
-      <trkpt lat="42.171603" lon="2.989975">
-        <ele>37.25</ele>
-      </trkpt>
-      <trkpt lat="42.171758" lon="2.989879">
-        <ele>37</ele>
-      </trkpt>
-      <trkpt lat="42.172013" lon="2.989763">
-        <ele>36</ele>
-      </trkpt>
-      <trkpt lat="42.172098" lon="2.989723">
-        <ele>35.5</ele>
-      </trkpt>
-      <trkpt lat="42.172098" lon="2.989723">
-        <ele>35.5</ele>
+      <trkpt lat="42.172151" lon="2.989699">
+        <ele>35.25</ele>
       </trkpt>
       <trkpt lat="42.17224" lon="2.989659">
         <ele>35.25</ele>
@@ -924,6 +218,9 @@ A ⬅️l'esquerra 🔧tenda i taller de bicicletes a 400m.</desc>
       </trkpt>
       <trkpt lat="42.172884" lon="2.989384">
         <ele>34</ele>
+      </trkpt>
+      <trkpt lat="42.173005" lon="2.989463">
+        <ele>33.5</ele>
       </trkpt>
       <trkpt lat="42.173005" lon="2.989463">
         <ele>33.5</ele>
