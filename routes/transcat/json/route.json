@@ -452,21 +452,21 @@
       "km": 2
     },
     {
-      "id": "28.A1",
+      "id": "28.Ax",
       "nom": "Alternativa Tour Saus",
-      "data": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/json/28.A1.Alternativa%20Tour%20Saus.json",
+      "data": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/json/28.Ax.Alternativa%20Tour%20Saus.json",
       "km": 0.35
     },
     {
-      "id": "28.A2",
+      "id": "28.Ay",
       "nom": "Alternativa GI-622",
-      "data": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/json/28.A2.Alternativa%20GI-622.json",
+      "data": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/json/28.Ay.Alternativa%20GI-622.json",
       "km": 1.43
     },
     {
-      "id": "28.65",
+      "id": "28.nn",
       "nom": "Enllaç Vilamalla",
-      "data": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/json/28.65.Estaci%C3%B3%20Vilamalla.json",
+      "data": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/json/28.nn.Estaci%C3%B3%20Vilamalla.json",
       "km": 2.42
     },
     {
