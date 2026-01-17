@@ -8,6 +8,13 @@
       <link href="https://gpx.studio"/>
     </author>
   </metadata>
+  <wpt lat="42.122422" lon="2.963048">
+    <ele>85.97565975995984</ele>
+    <name>🟢Enllaç a 🚉Camallera ╠➡️🧭E</name>
+    <cmt>╠ Cruïlla connexió Etapa 27 PK 7,05 ➡️🧭E per Carrer de Josep Ribot</cmt>
+    <desc>╠ Cruïlla connexió Etapa 27 PK 7,05 ➡️🧭E per Carrer de Josep Ribot</desc>
+    <sym>Crossing</sym>
+  </wpt>
   <wpt lat="42.122366" lon="2.96539">
     <ele>79.50529084852943</ele>
     <name>🏁🚉Camallera 🚰</name>
@@ -15,13 +22,6 @@
     <desc>🚉Estació Camallera RG1 R11 amb 🚰Font</desc>
     <link href="https://www.adif.es/w/79305-camallera"/>
     <sym>Ground Transportation</sym>
-  </wpt>
-  <wpt lat="42.122422" lon="2.963048">
-    <ele>85.97565975995984</ele>
-    <name>🟢Enllaç a 🚉Camallera ╠➡️🧭E</name>
-    <cmt>╠ Cruïlla connexió Etapa 27 PK 7,05 ➡️🧭E per Carrer de Josep Ribot</cmt>
-    <desc>╠ Cruïlla connexió Etapa 27 PK 7,05 ➡️🧭E per Carrer de Josep Ribot</desc>
-    <sym>Crossing</sym>
   </wpt>
   <trk>
     <name>27.50 Enllaç Estació Camallera</name>
