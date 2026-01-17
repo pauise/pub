@@ -1,26 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <gpx creator="Wikiloc - https://www.wikiloc.com" version="1.1" schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/PowerExtension/v1 http://www.garmin.com/xmlschemas/PowerExtensionv1.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/PowerExtension/v1 http://www.garmin.com/xmlschemas/PowerExtensionv1.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxpx="http://www.garmin.com/xmlschemas/PowerExtension/v1" xmlns:gpx_style="http://www.topografix.com/GPX/gpx_style/0/2">
   <metadata>
-    <name>30.00 Figueres - Capmany</name>
-    <desc>Vilatenim (Figueres) - Pirinexus - Peralada - Vilarnadal - Capmany</desc>
+    <name>29.00 Vilatenim (Figueres) - Capmany</name>
+    <desc>Vilatenim (Figueres) - Connexió amb Pirinexus - Peralada - Vilarnadal - Capmany</desc>
     <author>
       <name>gpx.studio</name>
       <link href="https://gpx.studio"/>
     </author>
-    <link href="https://www.wikiloc.com/bicycle-touring-trails/la-pirinexus-en-bicicleta-track-completo-96620064">
-      <text>La Pirinexus en bicicleta (Track completo) on Wikiloc</text>
-    </link>
     <time>2022-03-02T10:10:31.752Z</time>
   </metadata>
   <wpt lat="42.270874" lon="2.994883">
     <ele>15.032041109912216</ele>
-    <name>🟢Vilatenim ╦↗️⛪🧭NE</name>
+    <name>🟢Vilatenim (Figueres) ╦↗️⛪🧭NE</name>
     <cmt>╦ Cruïlla Carrer de l&apos;Església. ↗️Dreta cap a ⛪Església de Sant Joan de Vilatenim🧭NE.
-↙️🧭SW a Figueres per 29.99 Enllaç 🚉Figueres
-🧭S a Camallera per Etapa 29</cmt>
+↙️🧭SW a Figueres per 28.99 Enllaç 🚉Figueres
+🧭S a Camallera per Etapa 28</cmt>
     <desc>╦ Cruïlla Carrer de l&apos;Església. ↗️Dreta cap a ⛪Església de Sant Joan de Vilatenim🧭NE.
-↙️🧭SW a Figueres per 29.99 Enllaç 🚉Figueres
-🧭S a Camallera per Etapa 29</desc>
+↙️🧭SW a Figueres per 28.99 Enllaç 🚉Figueres
+🧭S a Camallera per Etapa 28</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="42.271847" lon="2.997475">
@@ -99,18 +96,18 @@ A la ╬ cruïlla ⬆️recte per creuar La Muga pel ︵ gual amb ⚠️precauci
   </wpt>
   <wpt lat="42.306318" lon="3.00916">
     <ele>20.140593201768255</ele>
-    <name>12 🏘️Perelada ╦⬅️🔄1ª↗️. ➡️a📷30.A3, 30.B3, 30.C3</name>
+    <name>12 🏘️Perelada ╦⬅️🔄1ª↗️. ➡️a📷29.A3, 29.B3, 29.C3</name>
     <cmt>🏘️Perelada. ╦ Incorporar-se a la ⬅️carretera i tot seguit a la 🔄rotonda sortir per la 1ª a la ↗️dreta per Carrer de Sant Sebastià.
-A la nostra ➡️dreta disposem de 3 rutes 📷d&apos;interés turístic: 30.A3 Castell, 30.B3 Tour curt i 30.C3 Tour llarg</cmt>
+A la nostra ➡️dreta disposem de 3 rutes 📷d&apos;interés turístic: 29.A3 Castell, 29.B3 Tour curt i 29.C3 Tour llarg</cmt>
     <desc>🏘️Perelada. ╦ Incorporar-se a la ⬅️carretera i tot seguit a la 🔄rotonda sortir per la 1ª a la ↗️dreta per Carrer de Sant Sebastià.
-A la nostra ➡️dreta disposem de 3 rutes 📷d&apos;interés turístic: 30.A3 Castell, 30.B3 Tour curt i 30.C3 Tour llarg</desc>
+A la nostra ➡️dreta disposem de 3 rutes 📷d&apos;interés turístic: 29.A3 Castell, 29.B3 Tour curt i 29.C3 Tour llarg</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="42.307337" lon="3.006958">
     <ele>21.892390101915677</ele>
-    <name>13 ╠⬆️. ➡️ a 30.B3 i 30.C3</name>
-    <cmt>╠ Seguim ⬆️recte pel mateix carrer. Connexió amb final 30.B3 i 30.C3.</cmt>
-    <desc>╠ Seguim ⬆️recte pel mateix carrer. Connexió amb final 30.B3 i 30.C3.</desc>
+    <name>13 ╠⬆️. ➡️ a 29.B3 i 29.C3</name>
+    <cmt>╠ Seguim ⬆️recte pel mateix carrer. Connexió amb final 29.B3 i 29.C3.</cmt>
+    <desc>╠ Seguim ⬆️recte pel mateix carrer. Connexió amb final 29.B3 i 29.C3.</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="42.308564" lon="3.00678">
@@ -124,7 +121,7 @@ A la nostra ➡️dreta disposem de 3 rutes 📷d&apos;interés turístic: 30.A3
   </wpt>
   <wpt lat="42.31032857495282" lon="3.00795508409513">
     <ele>24.341380741893182</ele>
-    <name>15 🚰╬⬅️🔻⬆️a 30.D3 per evitar 🌊Orlina🚗</name>
+    <name>15 🚰╬⬅️🔻⬆️a 29.D3 per evitar 🌊Orlina🚗</name>
     <cmt>🚰Font a l&apos;esquerra. ╬ Cruïlla ⬅️esquerra 🔻avall
 ⬆️a 30.D3 per evitar 🌊Orlina si ve massa ple. Ruta de 1,56 kms per carretera que reconnecta en el PK 8,71; de fet és 550m més curta però pot haver-hi 🚗trànsit.</cmt>
     <desc>🚰Font a l&apos;esquerra. ╬ Cruïlla ⬅️esquerra 🔻avall
@@ -151,11 +148,11 @@ Si us fiqueu a la granja, i en podeu sortir 🧭N, connectareu amb el PK 9,04 d&
   </wpt>
   <wpt lat="42.320802" lon="2.998892">
     <ele>21.46919262048413</ele>
-    <name>18 ╬⬅️. ➡️final 30.D3</name>
+    <name>18 ╬⬅️. ➡️final 29.D3</name>
     <cmt>╬ Ens incorporem a Carretera de Vilarnadal a ⬅️l&apos;esquerra.
-A la ➡️dreta connexió amb final Alternativa 30.D3 que evita Orlina</cmt>
+A la ➡️dreta connexió amb final Alternativa 29.D3 que evita Orlina</cmt>
     <desc>╬ Ens incorporem a Carretera de Vilarnadal a ⬅️l&apos;esquerra.
-A la ➡️dreta connexió amb final Alternativa 30.D3 que evita Orlina</desc>
+A la ➡️dreta connexió amb final Alternativa 29.D3 que evita Orlina</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="42.321686" lon="2.995197">
@@ -268,17 +265,17 @@ Seguidament creuem el ︵ pont sobre la Riera de Vilarnadal</desc>
   </wpt>
   <wpt lat="42.373121" lon="2.921118">
     <ele>109.16713140137276</ele>
-    <name>🏁Final Etapa 30 🏘️Capmany 🌊🛏️🍽️ ╬</name>
+    <name>🏁Final Etapa 29 🏘️Capmany 🌊🛏️🍽️ ╬</name>
     <cmt>🏘️Capmany amb 🌊piscina municipal descoberta, 🛏️allotjament i 🍽️bars i restaurants
 ╬ Plaça Major
 🧭N a La Jonquera per Etapa 31</cmt>
     <desc>🏘️Capmany amb 🌊piscina municipal descoberta, 🛏️allotjament i 🍽️bars i restaurants
 ╬ Plaça Major
-🧭N a La Jonquera per Etapa 31</desc>
+🧭N a La Jonquera per Etapa 30</desc>
     <sym>Crossing</sym>
   </wpt>
   <trk>
-    <name>30.00 Figueres - Capmany</name>
+    <name>29.00 Vilatenim (Figueres) - Capmany</name>
     <trkseg>
       <trkpt lat="42.27087" lon="2.994879">
         <ele>15</ele>
