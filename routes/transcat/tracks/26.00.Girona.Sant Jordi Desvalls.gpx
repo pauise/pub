@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <gpx creator="https://gpx.studio" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/PowerExtension/v1 http://www.garmin.com/xmlschemas/PowerExtensionv1.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxpx="http://www.garmin.com/xmlschemas/PowerExtension/v1" xmlns:gpx_style="http://www.topografix.com/GPX/gpx_style/0/2">
   <metadata>
-    <name>26.V0 Girona - Sant Jordi Desvalls</name>
+    <name>26.00 Girona - Sant Jordi Desvalls</name>
     <desc>Estació Girona - Sarrià de Ter - Medinyà - Cervià de Ter - Sant Jordi Desvalls per carrils bici i Ruta del Ter</desc>
     <author>
       <name>gpx.studio</name>
@@ -360,17 +360,17 @@ Seguirem a ↖️esquerres resseguint el 🧱mur i sortirem pel Carrer de la Tar
   </wpt>
   <wpt lat="42.072686" lon="2.958898">
     <ele>34.677141645220956</ele>
-    <name>🏁Final Etapa 26.V0 ╬</name>
+    <name>🏁Final Etapa 26.00 ╬</name>
     <cmt>╬ Cruïlla:
-🧭E a Camallera, Saus, Sant Mori i Sant Miquel de Fluvià per Etapa 27
-🧭S a 🚉Estació de Sant Jordi Desvalls RG1 R11 per 26.V9</cmt>
+🧭E a Camallera, Saus, Sant Mori i Sant Miquel de Fluvià per Etapa 27.00
+🧭S a 🚉Estació de Sant Jordi Desvalls RG1 R11 per 26.99</cmt>
     <desc>╬ Cruïlla:
-🧭E a Camallera, Saus, Sant Mori i Sant Miquel de Fluvià per Etapa 27
-🧭S a 🚉Estació de Sant Jordi Desvalls RG1 R11 per 26.V9</desc>
+🧭E a Camallera, Saus, Sant Mori i Sant Miquel de Fluvià per Etapa 27.00
+🧭S a 🚉Estació de Sant Jordi Desvalls RG1 R11 per 26.99</desc>
     <sym>Crossing</sym>
   </wpt>
   <trk>
-    <name>26.V0 Girona - Sant Jordi Desvalls</name>
+    <name>26.00 Girona - Sant Jordi Desvalls</name>
     <trkseg>
       <trkpt lat="41.97916" lon="2.816973">
         <ele>78.75</ele>
