@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <gpx creator="https://gpx.studio" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/PowerExtension/v1 http://www.garmin.com/xmlschemas/PowerExtensionv1.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxpx="http://www.garmin.com/xmlschemas/PowerExtension/v1" xmlns:gpx_style="http://www.topografix.com/GPX/gpx_style/0/2">
   <metadata>
-    <name>29.A1 Alternativa Tour Saus</name>
-    <desc>Volta turística per Saus. Inici i final en l&apos;Etapa 29.00 PK 1,79</desc>
+    <name>28.Ax Alternativa Tour Saus</name>
+    <desc>Volta turística per Saus. Inici i final en l&apos;Etapa 28.00 PK x,xx</desc>
     <author>
       <name>gpx.studio</name>
       <link href="https://gpx.studio"/>
@@ -11,8 +11,8 @@
   <wpt lat="42.133064" lon="2.977457">
     <ele>72.91024644232743</ele>
     <name>🟢Alternativa Tour Saus ╬➡️🧭S</name>
-    <cmt>Etapa 29.00 PK 1,79 ╬ cruïlla ➡️dreta 🧭S per Carrer de la Font</cmt>
-    <desc>Etapa 29.00 PK 1,79 ╬ cruïlla ➡️dreta 🧭S per Carrer de la Font</desc>
+    <cmt>Etapa 28.00 PK x,xx ╬ cruïlla ➡️dreta 🧭S per Carrer de la Font</cmt>
+    <desc>Etapa 28.00 PK x,xx ╬ cruïlla ➡️dreta 🧭S per Carrer de la Font</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="42.132747" lon="2.977696">
@@ -60,12 +60,12 @@
   <wpt lat="42.133128" lon="2.977449">
     <ele>72.42583735026473</ele>
     <name>🏁Final Alternativa Tour Saus ╬➡️🧭N</name>
-    <cmt>Tanquem el circuit i ╬ connectem amb Etapa 29.00 PK 1,79. Per continuar-la ➡️dreta 🧭N</cmt>
-    <desc>Tanquem el circuit i ╬ connectem amb Etapa 29.00 PK 1,79. Per continuar-la ➡️dreta 🧭N</desc>
+    <cmt>Tanquem el circuit i ╬ connectem amb Etapa 28.00 PK x,xx. Per continuar-la ➡️dreta 🧭N</cmt>
+    <desc>Tanquem el circuit i ╬ connectem amb Etapa 28.00 PK x,xx. Per continuar-la ➡️dreta 🧭N</desc>
     <sym>Crossing</sym>
   </wpt>
   <trk>
-    <name>29.A1 Alternativa Tour Saus</name>
+    <name>28.Ax Alternativa Tour Saus</name>
     <trkseg>
       <trkpt lat="42.133081" lon="2.977459">
         <ele>72</ele>
