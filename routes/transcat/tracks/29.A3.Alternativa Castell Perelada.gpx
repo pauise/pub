@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <gpx creator="https://gpx.studio" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/PowerExtension/v1 http://www.garmin.com/xmlschemas/PowerExtensionv1.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxpx="http://www.garmin.com/xmlschemas/PowerExtension/v1" xmlns:gpx_style="http://www.topografix.com/GPX/gpx_style/0/2">
   <metadata>
-    <name>30.A3 Alternativa Castell Perelada</name>
-    <desc>Etapa 30.00 PK 6,01 - Castell de Perelada - Casino - Carrer de Sant Joan - Torre de la Muralla - Etapa 30.00 PK 6,01 </desc>
+    <name>29.A3 Alternativa Castell Perelada</name>
+    <desc>Etapa 29.00 PK 6,01 - Castell de Perelada - Casino - Carrer de Sant Joan - Torre de la Muralla - Etapa 29.00 PK 6,01 </desc>
     <author>
       <name>gpx.studio</name>
       <link href="https://gpx.studio"/>
@@ -11,9 +11,9 @@
   <wpt lat="42.306324" lon="3.0092">
     <ele>20.43185966913798</ele>
     <name>🟢Alternativa 30.A3 🏘️🅿️Perelada ╬🌳🧭W</name>
-    <cmt>Connexió amb Etapa 30.00 PK 6,01. 
+    <cmt>Connexió amb Etapa 29.00 PK 6,01. 
 Des de l&apos;accés al 🏘️poble medieval i 🅿️parking de Perelada tenim una cruïlla vora la rotonda de la qual surt un camí asfaltat per una zona 🌳ajardinada 🧭W</cmt>
-    <desc>Connexió amb Etapa 30.00 PK 6,01. 
+    <desc>Connexió amb Etapa 29.00 PK 6,01. 
 Des de l&apos;accés al 🏘️poble medieval i 🅿️parking de Perelada tenim una cruïlla vora la rotonda de la qual surt un camí asfaltat per una zona 🌳ajardinada 🧭W</desc>
     <sym>Crossing</sym>
   </wpt>
@@ -57,12 +57,12 @@ A la següent ╠ desviació seguim ⬆️recte però a dretes tenim uns 🌳arb
   <wpt lat="42.306359" lon="3.009137">
     <ele>20.104184805229707</ele>
     <name>🏁Final Alternativa 🏰Perelada ╣</name>
-    <cmt>Tanquem el circuit i reconnectem amb Etapa 30.00 PK 6,01 ╣</cmt>
-    <desc>Tanquem el circuit i reconnectem amb Etapa 30.00 PK 6,01 ╣</desc>
+    <cmt>Tanquem el circuit i reconnectem amb Etapa 29.00 PK 6,01 ╣</cmt>
+    <desc>Tanquem el circuit i reconnectem amb Etapa 29.00 PK 6,01 ╣</desc>
     <sym>Crossing</sym>
   </wpt>
   <trk>
-    <name>30.A3 Alternativa Castell Perelada</name>
+    <name>29.A3 Alternativa Castell Perelada</name>
     <trkseg>
       <trkpt lat="42.306317" lon="3.009174">
         <ele>20.234608364198106</ele>
