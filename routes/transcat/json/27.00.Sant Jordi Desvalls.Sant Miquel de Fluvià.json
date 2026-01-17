@@ -1,0 +1,23 @@
+{
+    "title": "Etapa 27 Sant Jordi Desvalls - Sant Miquel de Fluvià",
+    "full_track_url": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/tracks/27.00.Sant%20Jordi%20Desvalls.Sant%20Miquel%20de%20Fluvi%C3%A0.gpx",
+    "prf": [
+        {"km": 0, "alt": 35},
+        {"km": 0, "alt": 87},
+        {"km": 0, "alt": 87},
+        {"km": 0, "alt": 87},
+        {"km": 0, "alt": 87},
+        {"km": 0, "alt": 87},
+        {"km": 0, "alt": 87},
+        {"km": 13.74, "alt": 35}
+    ],
+    "wps": [
+        {"km": 0, "paviment": 1},
+        {"km": 0, "paviment": 1},
+        {"km": 0, "paviment": 1},
+        {"km": 0, "paviment": 1},
+        {"km": 0, "paviment": 1},
+        {"km": 0, "paviment": 1},
+        {"km": 13.74, "paviment": 1}
+      ]
+  }
