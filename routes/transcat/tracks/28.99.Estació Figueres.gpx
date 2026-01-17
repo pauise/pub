@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <gpx creator="https://gpx.studio" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/PowerExtension/v1 http://www.garmin.com/xmlschemas/PowerExtensionv1.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxpx="http://www.garmin.com/xmlschemas/PowerExtension/v1" xmlns:gpx_style="http://www.topografix.com/GPX/gpx_style/0/2">
   <metadata>
-    <name>29.99 Enllaç Estació Figueres</name>
+    <name>28.99 Enllaç Estació Figueres</name>
     <desc>Vilatenim - Carrer Vilatenim - Figueres - Ronda del Carril - Estació Figueres</desc>
     <author>
       <name>gpx.studio</name>
@@ -75,7 +75,7 @@
     <sym>Ground Transportation</sym>
   </wpt>
   <trk>
-    <name>29.99 Enllaç Estació Figueres</name>
+    <name>28.99 Enllaç Estació Figueres</name>
     <trkseg>
       <trkpt lat="42.270848" lon="2.994826">
         <ele>14.75</ele>
