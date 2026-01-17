@@ -454,8 +454,8 @@
     {
       "id": "28.00",
       "nom": "Sant Miquel de Fluvià - Vilatenim (Figueres)",
-      "data": "",
-      "km": 2
+      "data": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/json/28.00.Sant%20Miquel%20de%20Fluvi%C3%A0.Vilatenim%20(Figueres).json",
+      "km": 13.96
     },
     {
       "id": "28.50",
@@ -477,8 +477,8 @@
     },
     {
       "id": "29.00",
-      "nom": "Figueres - Capmany",
-      "data": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/json/20.00.Figueres.Capmany.json",
+      "nom": "Vilatenim (Figueres) - Capmany",
+      "data": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/json/29.00.Vilatenim%20(Figueres).Capmany.json",
       "km": 18.53
     },
     {
