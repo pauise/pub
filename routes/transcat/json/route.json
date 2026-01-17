@@ -416,6 +416,12 @@
       "km": 2.02
     },
     {
+      "id": "26.V0",
+      "nom": "Girona - Sant Jordi Desvalls",
+      "data": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/json/26.V0.Girona.Sant%20Jordi%20Desvalls.json",
+      "km": 22.92
+    },
+    {
       "id": "27.00",
       "nom": "Palafrugell - Torroella de Montgrí",
       "data": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/json/27.00.Palafrugell.Torroella.json",
