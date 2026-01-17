@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <gpx creator="https://gpx.studio" version="1.1" schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/PowerExtension/v1 http://www.garmin.com/xmlschemas/PowerExtensionv1.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/PowerExtension/v1 http://www.garmin.com/xmlschemas/PowerExtensionv1.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxpx="http://www.garmin.com/xmlschemas/PowerExtension/v1" xmlns:gpx_style="http://www.topografix.com/GPX/gpx_style/0/2">
   <metadata>
-    <name>25.V0 Caldes - Girona</name>
+    <name>25.00 Caldes - Girona</name>
     <desc>Carles de Malavella - Riudellots - Quart - Girona - Estació de Girona</desc>
     <author>
       <name>gpx.studio</name>
@@ -29,8 +29,10 @@
   <wpt lat="41.840088" lon="2.806098">
     <ele>96.79824502393711</ele>
     <name>3 🔄2a↗️🧭NE</name>
-    <cmt>🔄Rotonda. Surt per la 2a a la ↗️dreta 🧭NE</cmt>
-    <desc>🔄Rotonda. Surt per la 2a a la ↗️dreta 🧭NE</desc>
+    <cmt>🔄Rotonda. Surt per la 2a a la ↗️dreta 🧭NE.
+Per l'anterior sortida faríem la variant per Platja d'Aro 25.V0, Palafrugell 26.V0, Torroella de Montgrí 27.V0 i Colomers 28.V0 per reconnectar en l'etapa 27 PK 1,97. Aquesta variant no disposa d'estacions de tren, però sí d'allotjament.</cmt>
+    <desc>🔄Rotonda. Surt per la 2a a la ↗️dreta 🧭NE.
+Per l'anterior sortida faríem la variant per Platja d'Aro 25.V0, Palafrugell 26.V0, Torroella de Montgrí 27.V0 i Colomers 28.V0 per reconnectar en l'etapa 27 PK 1,97. Aquesta variant no disposa d'estacions de tren, però sí d'allotjament.</desc>
     <sym>Rotonda</sym>
   </wpt>
   <wpt lat="41.840542" lon="2.809735">
