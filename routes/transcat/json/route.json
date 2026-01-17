@@ -410,6 +410,12 @@
       "km": 22.92
     },
     {
+      "id": "26.99",
+      "nom": "Enllaç Sant Jordi Desvalls",
+      "data": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/json/26.99.Estaci%C3%B3%20Sant%20Jordi%20Desvalls.json",
+      "km": 0.89
+    },
+    {
       "id": "26.V0",
       "nom": "Platja d'Aro - Palafrugell",
       "data": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/json/26.V0.Platja%20d'Aro.Palafrugell.json",
