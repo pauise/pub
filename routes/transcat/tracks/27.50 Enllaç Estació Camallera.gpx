@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx creator="https://gpx.studio" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/PowerExtension/v1 http://www.garmin.com/xmlschemas/PowerExtensionv1.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxpx="http://www.garmin.com/xmlschemas/PowerExtension/v1" xmlns:gpx_style="http://www.topografix.com/GPX/gpx_style/0/2">
+  <metadata>
+    <name>27.50 Enllaç Estació Camallera</name>
+    <desc>Camallera Etapa 27.00 PK 7,05 - Carrer de Josep Ribot - Estació Camallera</desc>
+    <author>
+      <name>gpx.studio</name>
+      <link href="https://gpx.studio"/>
+    </author>
+  </metadata>
+  <wpt lat="42.122366" lon="2.96539">
+    <ele>79.50529084852943</ele>
+    <name>🏁🚉Camallera 🚰</name>
+    <cmt>🚉Estació Camallera RG1 R11 amb 🚰Font</cmt>
+    <desc>🚉Estació Camallera RG1 R11 amb 🚰Font</desc>
+    <link href="https://www.adif.es/w/79305-camallera"/>
+    <sym>Ground Transportation</sym>
+  </wpt>
+  <wpt lat="42.122422" lon="2.963048">
+    <ele>85.97565975995984</ele>
+    <name>🟢Enllaç a 🚉Camallera ╠➡️🧭E</name>
+    <cmt>╠ Cruïlla connexió Etapa 27 PK 7,05 ➡️🧭E per Carrer de Josep Ribot</cmt>
+    <desc>╠ Cruïlla connexió Etapa 27 PK 7,05 ➡️🧭E per Carrer de Josep Ribot</desc>
+    <sym>Crossing</sym>
+  </wpt>
+  <trk>
+    <name>27.50 Enllaç Estació Camallera</name>
+    <trkseg>
+      <trkpt lat="42.122421" lon="2.963043">
+        <ele>87</ele>
+      </trkpt>
+      <trkpt lat="42.122429" lon="2.963399">
+        <ele>84.75</ele>
+      </trkpt>
+      <trkpt lat="42.122431" lon="2.963411">
+        <ele>84.5</ele>
+      </trkpt>
+      <trkpt lat="42.122531" lon="2.963887">
+        <ele>83</ele>
+      </trkpt>
+      <trkpt lat="42.122508" lon="2.964348">
+        <ele>81.5</ele>
+      </trkpt>
+      <trkpt lat="42.122443" lon="2.965289">
+        <ele>79.5</ele>
+      </trkpt>
+      <trkpt lat="42.122404" lon="2.965275">
+        <ele>79.5</ele>
+      </trkpt>
+      <trkpt lat="42.122354" lon="2.965391">
+        <ele>79</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
