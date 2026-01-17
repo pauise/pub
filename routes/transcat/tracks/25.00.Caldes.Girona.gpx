@@ -252,14 +252,14 @@ Atravessarem gran part de la ciutat sempre per 🚲carril bici però tot i així
   </wpt>
   <wpt lat="41.979145" lon="2.816351">
     <ele>78.73517501996939</ele>
-    <name>🏁Final Etapa 25.V0 🚉Girona RG1 R11 AVE i 🚏</name>
+    <name>🏁Final Etapa 25 🚉Girona RG1 R11 AVE i 🚏</name>
     <cmt>🚉Estació Girona RG1 R11 AVE i 🚏Estació intermodal Bus</cmt>
     <desc>🚉Estació Girona RG1 R11 AVE i 🚏Estació intermodal Bus</desc>
     <link href="https://www.adif.es/w/79300-girona"/>
     <sym>Ground Transportation</sym>
   </wpt>
   <trk>
-    <name>25.V0 Caldes - Girona</name>
+    <name>25.00 Caldes - Girona</name>
     <trkseg>
       <trkpt lat="41.840173" lon="2.801532">
         <ele>91.25</ele>
