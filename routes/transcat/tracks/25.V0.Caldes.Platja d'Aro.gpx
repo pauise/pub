@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <gpx creator="https://gpx.studio" version="1.1" schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/PowerExtension/v1 http://www.garmin.com/xmlschemas/PowerExtensionv1.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/PowerExtension/v1 http://www.garmin.com/xmlschemas/PowerExtensionv1.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxpx="http://www.garmin.com/xmlschemas/PowerExtension/v1" xmlns:gpx_style="http://www.topografix.com/GPX/gpx_style/0/2">
   <metadata>
-    <name>25.V0 per Palafrugell: Caldes - Platja d&apos;Aro</name>
+    <name>25.V0 Variant per Palafrugell: Caldes - Platja d&apos;Aro</name>
     <desc>Variant per Palafrugell: Aquesta Variant ens reconnecta amb l'Etapa 27 PK 1,97 i està composta de 4 etapes d'uns 20 km cadascuna, sense cap estació de tren però si aneu amb nens disposeu de Càmpings i altres allotjaments per pernoctar. Estació de Caldes de Malavella - Llagostera - Via Verda Girona a St Feliu de Guíxols - Santa Cristina d&apos;Aro - Castell d&apos;Aro - Platja d&apos;Aro.</desc>
     <author>
       <name>gpx.studio</name>
@@ -314,17 +314,17 @@ A la ➡️ tenim com 🔚escaptòria el 🏕️Càmping Mas Sant Josep en uns 5
   </wpt>
   <wpt lat="41.809121" lon="3.058473">
     <ele>6.664311541384683</ele>
-    <name>🪜🏁Final Etapa 25: 🏘️Platja d&apos;Aro</name>
+    <name>🪜🏁Final Etapa 25.V0: 🏘️Platja d&apos;Aro</name>
     <cmt>Pujem les 🪜escales i arribem al carrer principal que creua tot 🏘️Platja d&apos;Aro.
-A Palafrugell per Etapa 26 ⬅️esquerra 🧭NE sense creuar la carretera seguim per l&apos;acera a mà esquerra cap al centre de Platja d&apos;Aro
+A Palafrugell per Etapa 26.V0 ⬅️esquerra 🧭NE sense creuar la carretera seguim per l&apos;acera a mà esquerra cap al centre de Platja d&apos;Aro
 A 🏨Hotel Platja d&apos;Aro ➡️dreta 🧭SW en 100m</cmt>
     <desc>Pujem les 🪜escales i arribem al carrer principal que creua tot 🏘️Platja d&apos;Aro.
-A Palafrugell per Etapa 26 ⬅️esquerra 🧭NE sense creuar la carretera seguim per l&apos;acera a mà esquerra cap al centre de Platja d&apos;Aro
+A Palafrugell per Etapa 26.V0 ⬅️esquerra 🧭NE sense creuar la carretera seguim per l&apos;acera a mà esquerra cap al centre de Platja d&apos;Aro
 A 🏨Hotel Platja d&apos;Aro ➡️dreta 🧭SW en 100m</desc>
     <sym>Crossing</sym>
   </wpt>
   <trk>
-    <name>25.00 Caldes - Platja d&apos;Aro</name>
+    <name>25.V0 Variant per Palafrugell: Caldes - Platja d&apos;Aro</name>
     <extensions>
       <gpx_style:line>
         <gpx_style:color>db06c9</gpx_style:color>
