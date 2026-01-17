@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <gpx creator="https://gpx.studio" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/PowerExtension/v1 http://www.garmin.com/xmlschemas/PowerExtensionv1.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxpx="http://www.garmin.com/xmlschemas/PowerExtension/v1" xmlns:gpx_style="http://www.topografix.com/GPX/gpx_style/0/2">
   <metadata>
-    <name>30.D3 Alternativa Orlina</name>
-    <desc>Etapa 30.00 PK 6,60 - Carrer del Pont - Carretera a Mollet de Perelada - Carretera de Vilarnadal - Etapa 30.00 PK 8,71
+    <name>29.D3 Alternativa Orlina</name>
+    <desc>Etapa 29.00 PK 6,60 - Carrer del Pont - Carretera a Mollet de Perelada - Carretera de Vilarnadal - Etapa 29.00 PK 8,71
 Ruta alternativa per evitar creuar pel gual la riera Orlina</desc>
     <author>
       <name>gpx.studio</name>
@@ -11,7 +11,7 @@ Ruta alternativa per evitar creuar pel gual la riera Orlina</desc>
   </metadata>
   <wpt lat="42.310332581516974" lon="3.007962212864612">
     <ele>24.385172742723995</ele>
-    <name>🟢Alternativa 30.D3 🚰╬⬆️🧭N per evitar 🌊Orlina🚗</name>
+    <name>🟢Alternativa 29.D3 🚰╬⬆️🧭N per evitar 🌊Orlina🚗</name>
     <cmt>🚰Font a l&apos;esquerra. ╬ Cruïlla ⬆️recte 🧭N per Carrer de Sant Sebastià per evitar 🌊riera Orlina si ve massa ple. 
 Ruta de 1,56 kms per carretera que desconnecta en el PK 6,6 i reconnecta en el PK 8,71; de fet és 550m més curta però pot haver-hi 🚗trànsit.</cmt>
     <desc>🚰Font a l&apos;esquerra. ╬ Cruïlla ⬆️recte 🧭N per Carrer de Sant Sebastià per evitar 🌊riera Orlina si ve massa ple. 
@@ -35,14 +35,14 @@ Ruta de 1,56 kms per carretera que desconnecta en el PK 6,6 i reconnecta en el P
   <wpt lat="42.320832" lon="2.998977">
     <ele>21.51197747157502</ele>
     <name>🏁Fi Alternativa Orlina ╬⬆️</name>
-    <cmt>╬ Cruïlla. ⬆️Recte. 
-⬅️ a Perelada i Vilatenim (Figueres) per Etapa 30.00 </cmt>
-    <desc>╬ Cruïlla. ⬆️Recte. 
-⬅️ a Perelada i Vilatenim (Figueres) per Etapa 30.00 </desc>
+    <cmt>╬ Cruïlla. ⬆️Recte per continuar cap a Capmany per Etapa 29.00. 
+⬅️ a Perelada i Vilatenim (Figueres) per Etapa 29.00</cmt>
+    <desc>╬ Cruïlla. ⬆️Recte per continuar cap a Capmany per Etapa 29.00. 
+⬅️ a Perelada i Vilatenim (Figueres) per Etapa 29.00</desc>
     <sym>Crossing</sym>
   </wpt>
   <trk>
-    <name>30.D3 Alternativa Orlina</name>
+    <name>29.D3 Alternativa Orlina</name>
     <trkseg>
       <trkpt lat="42.31033" lon="3.007959">
         <ele>25.5</ele>
