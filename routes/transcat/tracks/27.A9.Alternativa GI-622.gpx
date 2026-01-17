@@ -2,7 +2,7 @@
 <gpx creator="https://gpx.studio" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/PowerExtension/v1 http://www.garmin.com/xmlschemas/PowerExtensionv1.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxpx="http://www.garmin.com/xmlschemas/PowerExtension/v1" xmlns:gpx_style="http://www.topografix.com/GPX/gpx_style/0/2">
   <metadata>
     <name>28.Ay Alternativa GI-622</name>
-    <desc>Etapa 28.00 PK y,yy - Etapa 28.00 PK z,zz per evitar un troç de carretera GI-622</desc>
+    <desc>Etapa 27.00 PK 11,9 - Etapa 27.00 PK 12,91 per evitar un troç de carretera GI-622</desc>
     <author>
       <name>gpx.studio</name>
       <link href="https://gpx.studio"/>
@@ -11,9 +11,9 @@
   <wpt lat="42.156706" lon="2.988344">
     <ele>41.12352668438117</ele>
     <name>🟢🏘️Sant Mori ╣↖️🧭NNW</name>
-    <cmt>🏘️Sant Mori , Etapa 28.00 PK y,yy.
+    <cmt>🏘️Sant Mori - Etapa 27.00 PK 11,9.
 ╣ Abandonar la GI-622 a de Sant Mori a Sant Miquel de Fluvià per desviació a ↖️l&apos;esquerra 🧭NNW</cmt>
-    <desc>🏘️Sant Mori , Etapa 28.00 PK y,yy.
+    <desc>🏘️Sant Mori - Etapa 27.00 PK 11,9.
 ╣ Abandonar la GI-622 a de Sant Mori a Sant Miquel de Fluvià per desviació a ↖️l&apos;esquerra 🧭NNW</desc>
     <sym>Crossing</sym>
   </wpt>
@@ -48,16 +48,16 @@
   <wpt lat="42.16497" lon="2.991911">
     <ele>35.517448105153136</ele>
     <name>🏁Final Alternativa GI-622 ╦</name>
-    <cmt> ╦ Cruïlla amb GI-622 i connexió amb Etapa 28.00 PK z,zz
-⬅️🧭N a Sant Miquel de Fluvià per GI-622 i Figueres per Etapa 28.00
-➡️🧭S a Sant Mori per GI-622 i Etapa 28.00</cmt>
-    <desc> ╦ Cruïlla amb GI-622 i connexió amb Etapa 28.00 PK z,zz
-⬅️🧭N a Sant Miquel de Fluvià per GI-622 i Figueres per Etapa 28.00
-➡️🧭S a Sant Mori per GI-622 i Etapa 28.00</desc>
+    <cmt> ╦ Cruïlla amb GI-622 i connexió amb Etapa 27.00 PK 12,91
+⬅️🧭N a Sant Miquel de Fluvià per GI-622 i Figueres per Etapa 27.00
+➡️🧭S a Sant Mori per GI-622 i Etapa 27.00</cmt>
+    <desc> ╦ Cruïlla amb GI-622 i connexió amb Etapa 28.00 PK 12,91
+⬅️🧭N a Sant Miquel de Fluvià per GI-622 i Figueres per Etapa 27.00
+➡️🧭S a Sant Mori per GI-622 i Etapa 27.00</desc>
     <sym>Crossing</sym>
   </wpt>
   <trk>
-    <name>28.Ay Alternativa GI-622</name>
+    <name>27.A9 Alternativa GI-622</name>
     <trkseg>
       <trkpt lat="42.156702" lon="2.98834">
         <ele>38.5</ele>
