@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <gpx creator="https://gpx.studio" version="1.1" schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/PowerExtension/v1 http://www.garmin.com/xmlschemas/PowerExtensionv1.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/PowerExtension/v1 http://www.garmin.com/xmlschemas/PowerExtensionv1.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxpx="http://www.garmin.com/xmlschemas/PowerExtension/v1" xmlns:gpx_style="http://www.topografix.com/GPX/gpx_style/0/2">
   <metadata>
-    <name>27.A0 Alternativa evitar Torrent</name>
-    <desc>Etapa 27.00 PK 5,04 - Etapa 27.00 PK 6,99. Aquesta alternativa evita entrar al poble de Torrent i retalla 370m però a canvi implica rodar 150m per Carretera Torrent-Pals força transitada.</desc>
+    <name>27.VA Alternativa evitar Torrent</name>
+    <desc>Etapa 27.V0 PK 5,04 - Etapa 27.V0 PK 6,99. Aquesta alternativa evita entrar al poble de Torrent i retalla 370m però a canvi implica rodar 150m per Carretera Torrent-Pals força transitada.</desc>
     <author>
       <name>gpx.studio</name>
       <link href="https://gpx.studio"/>
@@ -10,15 +10,15 @@
   </metadata>
   <wpt lat="41.948346" lon="3.136785">
     <ele>39.74860048142202</ele>
-    <name>🟢Alternativa 27.A0 per evitar Torrent ╣⬆️🧭N</name>
+    <name>🟢Alternativa 27.VA per evitar Torrent ╣⬆️🧭N</name>
     <cmt>╣ Cruïlla. Seguir ⬆️recte 🧭N.
-Connexió amb Etapa 27.00 PK 5,04 
-🧭W a Torrent, altres i Torroella de Montgrí per Etapa 27.00
-🧭 S a Palafrugell per Etapa 27.00</cmt>
+Connexió amb Etapa 27.V0 PK 5,04 
+🧭W a Torrent, altres i Torroella de Montgrí per Etapa 27.V0
+🧭 S a Palafrugell per Etapa 27.V0</cmt>
     <desc>╣ Cruïlla. Seguir ⬆️recte 🧭N.
-Connexió amb Etapa 27.00 PK 5,04 
-🧭W a Torrent, altres i Torroella de Montgrí per Etapa 27.00
-🧭 S a Palafrugell per Etapa 27.00</desc>
+Connexió amb Etapa 27.V0 PK 5,04 
+🧭W a Torrent, altres i Torroella de Montgrí per Etapa 27.V0
+🧭 S a Palafrugell per Etapa 27.V0</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="41.954585" lon="3.139387">
@@ -41,17 +41,17 @@ Si venim per la carretera, SPP.</desc>
   </wpt>
   <wpt lat="41.958246" lon="3.136441">
     <ele>23.43217128864572</ele>
-    <name>🏁Final Alternativa 27.A0 ╦⬆️🧭N</name>
-    <cmt>╦ Cruïlla. Connexió amb Etapa 27.00 PK 6,99:
-⬆️Recte 🧭N a Torroella de Montgrí per Etapa 27.00
-⬅️Esquerra 🧭W a Torrent i Palafrugell per Etapa 27.00</cmt>
-    <desc>╦ Cruïlla. Connexió amb Etapa 27.00 PK 6,99:
-⬆️Recte 🧭N a Torroella de Montgrí per Etapa 27.00
-⬅️Esquerra 🧭W a Torrent i Palafrugell per Etapa 27.00</desc>
+    <name>🏁Final Alternativa 27.VA ╦⬆️🧭N</name>
+    <cmt>╦ Cruïlla. Connexió amb Etapa 27.V0 PK 6,99:
+⬆️Recte 🧭N a Torroella de Montgrí per Etapa 27.V0
+⬅️Esquerra 🧭W a Torrent i Palafrugell per Etapa 27.V0</cmt>
+    <desc>╦ Cruïlla. Connexió amb Etapa 27.V0 PK 6,99:
+⬆️Recte 🧭N a Torroella de Montgrí per Etapa 27.V0
+⬅️Esquerra 🧭W a Torrent i Palafrugell per Etapa 27.V0</desc>
     <sym>Crossing</sym>
   </wpt>
   <trk>
-    <name>27.A0 Alternativa Retall Torrent</name>
+    <name>27.VA Alternativa Retall Torrent</name>
     <extensions>
       <gpx_style:line>
         <gpx_style:color>8fdb00</gpx_style:color>
