@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <gpx creator="https://gpx.studio" version="1.1" schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/PowerExtension/v1 http://www.garmin.com/xmlschemas/PowerExtensionv1.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/PowerExtension/v1 http://www.garmin.com/xmlschemas/PowerExtensionv1.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxpx="http://www.garmin.com/xmlschemas/PowerExtension/v1" xmlns:gpx_style="http://www.topografix.com/GPX/gpx_style/0/2">
   <metadata>
-    <name>27.00 Palafrugell - Torroella</name>
+    <name>27.V0 Variant per Palafrugell: Palafrugell - Torroella</name>
     <desc>Palafrugell - Sant Feliu de Boada - Sant Julià de Boada - Torrent - Fontclara - Fontanilles - Gualta - Torroella de Montgrí</desc>
     <author>
       <name>gpx.studio</name>
@@ -89,11 +89,11 @@ L&apos;enquitranat despareix en alguns trams</desc>
   </wpt>
   <wpt lat="41.94832008241414" lon="3.1367845761213857">
     <ele>39.65803589504717</ele>
-    <name>10 ╣⬅️. ⬆️27.A0</name>
+    <name>10 ╣⬅️. ⬆️27.VA</name>
     <cmt>╣ Desviar a ⬅️l&apos;esquerra. 
-⬆️Recte Inici Alternativa 27.A0 per evitar Torrent i retallar xxxm però a canvi cal fer un tram de 150m per la carretera Torrent - Pals força transitada.</cmt>
+⬆️Recte Inici Alternativa 27.VA per evitar Torrent i retallar xxxm però a canvi cal fer un tram de 150m per la carretera Torrent - Pals força transitada.</cmt>
     <desc>╣ Desviar a ⬅️l&apos;esquerra. 
-⬆️Recte Inici Alternativa 27.A0 per evitar Torrent i retallar xxxm però a canvi cal fer un tram de 150m per la carretera Torrent - Pals força transitada.</desc>
+⬆️Recte Inici Alternativa 27.VA per evitar Torrent i retallar xxxm però a canvi cal fer un tram de 150m per la carretera Torrent - Pals força transitada.</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="41.949765" lon="3.129557">
@@ -112,11 +112,11 @@ L&apos;enquitranat despareix en alguns trams</desc>
   </wpt>
   <wpt lat="41.958246" lon="3.136441">
     <ele>23.43217128864572</ele>
-    <name>13 ╦⬅️🧭N. ➡️27.A0</name>
+    <name>13 ╦⬅️🧭N. ➡️27.VA</name>
     <cmt>╦ Cruïlla. ⬅️Esquerra 🧭N.
-➡️Dreta connexió amb final Alternativa 27.A0</cmt>
+➡️Dreta connexió amb final Alternativa 27.VA</cmt>
     <desc>╦ Cruïlla. ⬅️Esquerra 🧭N.
-➡️Dreta connexió amb final Alternativa 27.A0</desc>
+➡️Dreta connexió amb final Alternativa 27.VA</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="41.961347" lon="3.134262">
@@ -310,17 +310,17 @@ Inici asfalt</desc>
   </wpt>
   <wpt lat="42.036664" lon="3.126405">
     <ele>8.354124798343467</ele>
-    <name>🏁Final Etapa 27: 🏘️Torroella de Montgrí ╬ℹ️🛒☕🍽️🏨⚕️</name>
+    <name>🏁Final Etapa 27.V0: 🏘️Torroella de Montgrí ╬ℹ️🛒☕🍽️🏨⚕️</name>
     <cmt>🏘️Torroella de Montgrí ╬ Cruïlla:
 ⬆️Recte a 🧿: Tots els serveis ℹ️🛒☕🍽️🏨⚕️
-↙️Equerra tancat just davant el monument als presoners republicans a Camallera per a Etapa 28</cmt>
+↙️Equerra tancat just davant el monument als presoners republicans a Camallera per a Etapa 28.V0</cmt>
     <desc>🏘️Torroella de Montgrí ╬ Cruïlla:
 ⬆️Recte a 🧿: Tots els serveis ℹ️🛒☕🍽️🏨⚕️
-↙️Equerra tancat just davant el monument als presoners republicans a Camallera per a Etapa 28</desc>
+↙️Equerra tancat just davant el monument als presoners republicans a Camallera per a Etapa 28.V0</desc>
     <sym>Crossing</sym>
   </wpt>
   <trk>
-    <name>27.00 Palafrugell - Torroella</name>
+    <name>27.V0 Variant per Palafrugell: Palafrugell - Torroella</name>
     <extensions>
       <gpx_style:line>
         <gpx_style:color>9600db</gpx_style:color>
