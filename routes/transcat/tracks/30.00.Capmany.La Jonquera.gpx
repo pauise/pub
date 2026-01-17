@@ -1,15 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxpx="http://www.garmin.com/xmlschemas/PowerExtension/v1" xmlns:gpx_style="http://www.topografix.com/GPX/gpx_style/0/2" creator="Wikiloc - https://www.wikiloc.com" version="1.1" schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/PowerExtension/v1 http://www.garmin.com/xmlschemas/PowerExtensionv1.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/PowerExtension/v1 http://www.garmin.com/xmlschemas/PowerExtensionv1.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd">
   <metadata>
-    <name>31.00 Capmany - La Jonquera</name>
+    <name>30.00 Capmany - La Jonquera</name>
     <desc>Capmany - Ruta Megalítica dels Estanys de La Jonquera - La Jonquera per Pirinexus</desc>
     <author>
       <name>gpx.studio</name>
       <link href="https://gpx.studio"/>
     </author>
-    <link href="https://www.wikiloc.com/bicycle-touring-trails/la-pirinexus-en-bicicleta-track-completo-96620064">
-      <text>La Pirinexus en bicicleta (Track completo) on Wikiloc</text>
-    </link>
     <time>2022-03-02T10:10:31.752Z</time>
   </metadata>
   <wpt lat="42.373123" lon="2.921084">
@@ -181,17 +178,17 @@ A la ↗️dreta camí d'accès al🌳Parc Municipal Prat d'en Lloveres amb 🥪
   </wpt>
   <wpt lat="42.419816" lon="2.871784">
     <ele>118.99110519054112</ele>
-    <name>🏁Final Etapa 31 ╬</name>
+    <name>🏁Final Etapa 30 ╬</name>
     <cmt>╬ Cruïlla amb Avinguda de Miquel Martí i Pol.
-⬅️ a Coll de Panissers i Morellàs i les Illes per Etapa 32
+⬅️ a Coll de Panissers i Morellàs i les Illes per Etapa 31
 ➡️ 🏘️La Jonquera 🧿centre: ⚕️🛏️🍽️🛒🥖</cmt>
     <desc>╬ Cruïlla amb Avinguda de Miquel Martí i Pol.
-⬅️ a Coll de Panissers i Morellàs i les Illes per Etapa 32
+⬅️ a Coll de Panissers i Morellàs i les Illes per Etapa 31
 ➡️ 🏘️La Jonquera 🧿centre: ⚕️🛏️🍽️🛒🥖</desc>
     <sym>Crossing</sym>
   </wpt>
   <trk>
-    <name>31.00 Capmany - La Jonquera</name>
+    <name>30.00 Capmany - La Jonquera</name>
     <trkseg>
     <trkpt lat="42.373123" lon="2.921107">
         <ele>109.19931297300295</ele>
