@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <gpx creator="https://gpx.studio" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/PowerExtension/v1 http://www.garmin.com/xmlschemas/PowerExtensionv1.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxpx="http://www.garmin.com/xmlschemas/PowerExtension/v1" xmlns:gpx_style="http://www.topografix.com/GPX/gpx_style/0/2">
   <metadata>
-    <name>26.A0 Alternativa St Antoni</name>
-    <desc>Etapa 26.00 PK 5,25 - Etapa 26.00 PK 7,01 per carrers del centre de Sant Antoni de Calonge per evitar el tram peatonal del Passeig Marítim d'1 km i que està prohibit fer muntat a la bici inclús amb menors d'edat.</desc>
+    <name>26.VA Variant Palafrugell: Alternativa St Antoni</name>
+    <desc>Etapa 26.V0 PK 5,25 - Etapa 26.V0 PK 7,01 per carrers del centre de Sant Antoni de Calonge per evitar el tram peatonal del Passeig Marítim d'1 km i que està prohibit fer muntat a la bici inclús amb menors d'edat.</desc>
     <author>
       <name>gpx.studio</name>
       <link href="https://gpx.studio"/>
@@ -11,9 +11,9 @@
   <wpt lat="41.840753" lon="3.095576">
     <ele>4.444485306134497</ele>
     <name>🟢Alternativa St Antoni de Calonge ╣↖️🚲</name>
-    <cmt>╣ Connexió amb Etapa 26.00 PK 5,25.
+    <cmt>╣ Connexió amb Etapa 26.V0 PK 5,25.
 Seguim a ↖️esquerres pel 🚲carril bici</cmt>
-    <desc>╣ Connexió amb Etapa 26.00 PK 5,25.
+    <desc>╣ Connexió amb Etapa 26.V0 PK 5,25.
 Seguim a ↖️esquerres pel 🚲carril bici</desc>
     <sym>Bike Lane</sym>
   </wpt>
@@ -60,17 +60,17 @@ En uns metres creuem pel ︵ pont la Riera de Calonge</desc>
   </wpt>
   <wpt lat="41.849037" lon="3.112472">
     <ele>11.595984794187169</ele>
-    <name>🏁Final Alternativa St Antoni ╬</name>
-    <cmt>╬ Cruïlla connexió amb Etapa 26 PK 7,01:
-🧭N pel ⌒ a Palafrugell per Etapa 26.00
-🧭S a Platja d&apos;Aro per Etapa 26.00</cmt>
-    <desc>╬ Cruïlla connexió amb Etapa 26 PK 7,01:
-🧭N pel ⌒ a Palafrugell per Etapa 26.00
-🧭S a Platja d&apos;Aro per Etapa 26.00</desc>
+    <name>🏁Final Alternativa 26.VA St Antoni ╬</name>
+    <cmt>╬ Cruïlla connexió amb Etapa 26.V0 PK 7,01:
+🧭N pel ⌒ a Palafrugell per Etapa 26.V0
+🧭S a Platja d&apos;Aro per Etapa 26.V0</cmt>
+    <desc>╬ Cruïlla connexió amb Etapa 26.V0 PK 7,01:
+🧭N pel ⌒ a Palafrugell per Etapa 26.V0
+🧭S a Platja d&apos;Aro per Etapa 26.V0</desc>
     <sym>Crossing</sym>
   </wpt>
   <trk>
-    <name>26.A0 Alternativa St Antoni</name>
+    <name>26.VA Alternativa St Antoni</name>
     <trkseg>
       <trkpt lat="41.840747" lon="3.095577">
         <ele>7</ele>
