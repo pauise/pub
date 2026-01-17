@@ -2,7 +2,7 @@
 <gpx creator="https://gpx.studio" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/PowerExtension/v1 http://www.garmin.com/xmlschemas/PowerExtensionv1.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxpx="http://www.garmin.com/xmlschemas/PowerExtension/v1" xmlns:gpx_style="http://www.topografix.com/GPX/gpx_style/0/2">
   <metadata>
     <name>30.B3 Alternativa Perelada Tour curt</name>
-    <desc>Etapa 30.00 PK 6,06 - Portal del Pont - Carrer del Forn - Carrer de l&apos;Oli - Claustre de Sant Doménech - Església de Sant Martí de Perelada - Casa natal de Ramon Mutaner - Casa de la Vila - Plaça de Sant Doménech - Carrer dels Tints - Etapa 30.00 PK 6,23</desc>
+    <desc>Etapa 29.00 PK 6,06 - Portal del Pont - Carrer del Forn - Carrer de l&apos;Oli - Claustre de Sant Doménech - Església de Sant Martí de Perelada - Casa natal de Ramon Mutaner - Casa de la Vila - Plaça de Sant Doménech - Carrer dels Tints - Etapa 29.00 PK 6,23</desc>
     <author>
       <name>gpx.studio</name>
       <link href="https://gpx.studio"/>
@@ -11,8 +11,8 @@
   <wpt lat="42.306437" lon="3.008637">
     <ele>19.60032224415413</ele>
     <name>🟢Alternativa 🏘️🧿Perelada Tour curt 🔄➡️🚰⌒</name>
-    <cmt>Des de la 🔄rotonda que connecta amb Etapa 30.00 PK 6,06, tombem ➡️dreta pel carrer que entra al casc. 🚰Font a mà esquerra i creuem per ⌒ sota el Portal del Pont</cmt>
-    <desc>Des de la 🔄rotonda que connecta amb Etapa 30.00 PK 6,06, tombem ➡️dreta pel carrer que entra al casc. 🚰Font a mà esquerra i creuem per ⌒ sota el Portal del Pont</desc>
+    <cmt>Des de la 🔄rotonda que connecta amb Etapa 29.00 PK 6,06, tombem ➡️dreta pel carrer que entra al casc. 🚰Font a mà esquerra i creuem per ⌒ sota el Portal del Pont</cmt>
+    <desc>Des de la 🔄rotonda que connecta amb Etapa 29.00 PK 6,06, tombem ➡️dreta pel carrer que entra al casc. 🚰Font a mà esquerra i creuem per ⌒ sota el Portal del Pont</desc>
     <sym>Tunnel</sym>
   </wpt>
   <wpt lat="42.30671" lon="3.008751">
@@ -99,16 +99,16 @@ Agafem a la ↘️dreta tancat</desc>
   <wpt lat="42.307348" lon="3.006984">
     <ele>22.19567391017983</ele>
     <name>🏁Final Alternativa Perelada Tour curt ╦</name>
-    <cmt>╦ Cruïlla amb Etapa 30.00 PK 6,23
-➡️🧭NW a Capmany per Etapa 30.00
-⬅️ 🧭SE a Vilatenim (Figueres) per Etapa 30.00</cmt>
-    <desc>╦ Cruïlla amb Etapa 30.00 PK 6,23
-➡️🧭NW a Capmany per Etapa 30.00
-⬅️ 🧭SE a Vilatenim (Figueres) per Etapa 30.00</desc>
+    <cmt>╦ Cruïlla amb Etapa 29.00 PK 6,23
+➡️🧭NW a Capmany per Etapa 29.00
+⬅️ 🧭SE a Vilatenim (Figueres) per Etapa 29.00</cmt>
+    <desc>╦ Cruïlla amb Etapa 29.00 PK 6,23
+➡️🧭NW a Capmany per Etapa 29.00
+⬅️ 🧭SE a Vilatenim (Figueres) per Etapa 29.00</desc>
     <sym>Crossing</sym>
   </wpt>
   <trk>
-    <name>30.B3 Alternativa Perelada Tour curt</name>
+    <name>29.B3 Alternativa Perelada Tour curt</name>
     <trkseg>
       <trkpt lat="42.306433" lon="3.008635">
         <ele>21.5</ele>
