@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx creator="https://gpx.studio" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/PowerExtension/v1 http://www.garmin.com/xmlschemas/PowerExtensionv1.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxpx="http://www.garmin.com/xmlschemas/PowerExtension/v1" xmlns:gpx_style="http://www.topografix.com/GPX/gpx_style/0/2">
+  <metadata>
+    <name>26.99 Enllaç Estació Sant Jordi Desvalls</name>
+    <desc>Cruïlla Carrer Mas Masó amb Carretera de Diana (Sant Jordi Desvalls) - Carrer de la Generalitat - Carrer de l&apos;Estació - Estació Sant Jordi Desvalls</desc>
+    <author>
+      <name>gpx.studio</name>
+      <link href="https://gpx.studio"/>
+    </author>
+  </metadata>
+  <wpt lat="42.072677" lon="2.958907">
+    <ele>34.616616324846895</ele>
+    <name>🟢Enllaç 🚉Sant Jordi Desvalls ╬ 🧭S</name>
+    <cmt>╬ Cruïlla, agafem 🧭S per Carrer de Diana:
+🧭W a Sant Jordi Desvalls i Girona per Etapa 26
+🧭E a Camallera i Sant Miquel de Fluvià per Etapa 27</cmt>
+    <desc>╬ Cruïlla, agafem 🧭S per Carrer de Diana:
+🧭W a Sant Jordi Desvalls i Girona per Etapa 26
+🧭E a Camallera i Sant Miquel de Fluvià per Etapa 27</desc>
+    <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="42.070439" lon="2.959178">
+    <ele>41.45453246313013</ele>
+    <name>2 ╦⬅️</name>
+    <cmt>╦ Incorporar-se a Carrer de la Generalitat a ⬅️l&apos;esquerra</cmt>
+    <desc>╦ Incorporar-se a Carrer de la Generalitat a ⬅️l&apos;esquerra</desc>
+    <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="42.070312" lon="2.964107">
+    <ele>37.295228268210195</ele>
+    <name>3 ╠➡️</name>
+    <cmt>╠ Desviar ➡️dreta per Carrer de l&apos;Estació</cmt>
+    <desc>╠ Desviar ➡️dreta per Carrer de l&apos;Estació</desc>
+    <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="42.068406" lon="2.964502">
+    <ele>40.519337102212084</ele>
+    <name>🏁🚉Sant Jordi Desvalls RG1 R11</name>
+    <cmt>🚉Estació Sant Jordi Desvalls RG1 R11</cmt>
+    <desc>🚉Estació Sant Jordi Desvalls RG1 R11</desc>
+    <sym>Ground Transportation</sym>
+  </wpt>
+  <trk>
+    <name>26.99 Enllaç Estació Sant Jordi Desvalls</name>
+    <trkseg>
+      <trkpt lat="42.072682" lon="2.958907">
+        <ele>35.25</ele>
+      </trkpt>
+      <trkpt lat="42.070433" lon="2.959192">
+        <ele>42.25</ele>
+      </trkpt>
+      <trkpt lat="42.07039" lon="2.960415">
+        <ele>38.75</ele>
+      </trkpt>
+      <trkpt lat="42.070322" lon="2.962555">
+        <ele>40</ele>
+      </trkpt>
+      <trkpt lat="42.070322" lon="2.963653">
+        <ele>39</ele>
+      </trkpt>
+      <trkpt lat="42.07031" lon="2.964147">
+        <ele>37.25</ele>
+      </trkpt>
+      <trkpt lat="42.069374" lon="2.964157">
+        <ele>40.25</ele>
+      </trkpt>
+      <trkpt lat="42.068569" lon="2.964193">
+        <ele>43</ele>
+      </trkpt>
+      <trkpt lat="42.068437" lon="2.964326">
+        <ele>42.5</ele>
+      </trkpt>
+      <trkpt lat="42.068402" lon="2.964512">
+        <ele>41.25</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
