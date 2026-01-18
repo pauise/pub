@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <gpx creator="https://gpx.studio" version="1.1" schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/PowerExtension/v1 http://www.garmin.com/xmlschemas/PowerExtensionv1.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/PowerExtension/v1 http://www.garmin.com/xmlschemas/PowerExtensionv1.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxpx="http://www.garmin.com/xmlschemas/PowerExtension/v1" xmlns:gpx_style="http://www.topografix.com/GPX/gpx_style/0/2">
   <metadata>
-    <name>32.00 Morellàs - Argelers</name>
-    <desc>Morellàs i les Illes -  El Voló - Sant Genís de Fontanes - Sant Andreu de Sueda - Argelers</desc>
+    <name>32.00 Morellàs i les Illes - Argelers</name>
+    <desc>Ruta que transcorre majoritàriament per Euro-Velo 8: Morellàs i les Illes - El Voló - Sant Genís de Fontanes - Sant Andreu de Sueda - Argelers</desc>
     <author>
       <name>gpx.studio</name>
       <link href="https://gpx.studio"/>
@@ -29,28 +29,28 @@
     <name>3 🔄1ª↗️🚲</name>
     <cmt>🔄Rotonda. Surt per la 1ª a la ↗️dreta per 🚲carril bici</cmt>
     <desc>🔄Rotonda. Surt per la 1ª a la ↗️dreta per 🚲carril bici</desc>
-    <sym>Bike Trail</sym>
+    <sym>Bike Lane</sym>
   </wpt>
   <wpt lat="42.50893" lon="2.814896">
     <ele>98.40323771599357</ele>
     <name>4 ╬➡️🚲</name>
     <cmt>╬ Cruïlla, ➡️dreta per 🚲carril bici</cmt>
     <desc>╬ Cruïlla, ➡️dreta per 🚲carril bici</desc>
-    <sym>Bike Trail</sym>
+    <sym>Bike Lane</sym>
   </wpt>
   <wpt lat="42.510208" lon="2.81623">
     <ele>96.77086930021278</ele>
     <name>5 ╬↗️︵ 🛣️╦⬅️🚲🧭N</name>
     <cmt>╬ Cruïlla SPP ↗️dreta per ︵ pont sobre 🛣️autopista A-9 ╦ i incorporar-se a ⬅️l&apos;esquerra pel 🚲carril bici 🧭N</cmt>
     <desc>╬ Cruïlla SPP ↗️dreta per ︵ pont sobre 🛣️autopista A-9 ╦ i incorporar-se a ⬅️l&apos;esquerra pel 🚲carril bici 🧭N</desc>
-    <sym>Bike Trail</sym>
+    <sym>Bike Lane</sym>
   </wpt>
   <wpt lat="42.517557" lon="2.827363">
     <ele>75.9809197413041</ele>
     <name>6 ╣↗️︵ ╣↖️🚲</name>
     <cmt>╣SPP ↗️dreta , creuar ︵ pont i ╣ desviar ↖️esquerra pel 🚲carril bici</cmt>
     <desc>╣SPP ↗️dreta , creuar ︵ pont i ╣ desviar ↖️esquerra pel 🚲carril bici</desc>
-    <sym>Bike Trail</sym>
+    <sym>Bike Lane</sym>
   </wpt>
   <wpt lat="42.517909" lon="2.831972">
     <ele>74.21347569776778</ele>
@@ -64,7 +64,7 @@
     <name>8 ╣↖️🚲🚫🔄</name>
     <cmt>╣ Desviar ↖️esquerra per 🚲carril bici i 🚫evitar 🔄rotonda</cmt>
     <desc>╣ Desviar ↖️esquerra per 🚲carril bici i 🚫evitar 🔄rotonda</desc>
-    <sym>Bike Trail</sym>
+    <sym>Bike Lane</sym>
   </wpt>
   <wpt lat="42.527712" lon="2.854264">
     <ele>76.4439787002758</ele>
@@ -80,7 +80,7 @@ La 1ª 🚲carril bici a Montesquieu</desc>
     <name>10 ╣↖️🚲🚫🔄</name>
     <cmt>╣ Desviar ↖️esquerra per 🚲carril bici i 🚫evitar 🔄rotonda</cmt>
     <desc>╣ Desviar ↖️esquerra per 🚲carril bici i 🚫evitar 🔄rotonda</desc>
-    <sym>Bike Trail</sym>
+    <sym>Bike Lane</sym>
   </wpt>
   <wpt lat="42.542468" lon="2.893069">
     <ele>54.30000000000109</ele>
@@ -103,14 +103,14 @@ La 1ª 🚲carril bici a Montesquieu</desc>
     <name>13 ╠➡️︵╦↖️🚲</name>
     <cmt>╠ Desviar ➡️dreta per ︵pont estret i ╦ incorporar-se a ↖️l&apos;esquerra per 🚲carril bici</cmt>
     <desc>╠ Desviar ➡️dreta per ︵pont estret i ╦ incorporar-se a ↖️l&apos;esquerra per 🚲carril bici</desc>
-    <sym>Bike Trail</sym>
+    <sym>Bike Lane</sym>
   </wpt>
   <wpt lat="42.54979" lon="2.914892">
     <ele>42.114020693302564</ele>
     <name>14 🐴⬆️🚲</name>
     <cmt>🐴Hípica. Seguim ⬆️recte pel 🚲carril bici</cmt>
     <desc>🐴Hípica. Seguim ⬆️recte pel 🚲carril bici</desc>
-    <sym>Bike Trail</sym>
+    <sym>Bike Lane</sym>
   </wpt>
   <wpt lat="42.549976" lon="2.91692">
     <ele>42.900000000001455</ele>
@@ -128,151 +128,151 @@ La 1ª 🚲carril bici a Montesquieu</desc>
   </wpt>
   <wpt lat="42.548882" lon="2.918163">
     <ele>43.039773442060834</ele>
-    <name>16 ╬⚠️🚗⬆️🚲</name>
+    <name>17 ╬⚠️🚗⬆️🚲</name>
     <cmt>╬ Cruïlla amb carretera. Amb ⚠️precaució 🚗trànsit creuem i seguim ⬆️recte pel 🚲carril bici</cmt>
     <desc>╬ Cruïlla amb carretera. Amb ⚠️precaució 🚗trànsit creuem i seguim ⬆️recte pel 🚲carril bici</desc>
     <sym>Alert</sym>
   </wpt>
   <wpt lat="42.548974" lon="2.921222">
     <ele>42.530873841276154</ele>
-    <name>17 ↗️🚲</name>
+    <name>18 ↗️🚲</name>
     <cmt>Ens passem a la via paral·lela de la ↗️dreta. Seguim per 🚲carril bici</cmt>
     <desc>Ens passem a la via paral·lela de la ↗️dreta. Seguim per 🚲carril bici</desc>
-    <sym>Bike Trail</sym>
+    <sym>Bike Lane</sym>
   </wpt>
   <wpt lat="42.548466" lon="2.927522">
     <ele>39.160957218567674</ele>
-    <name>18 ╣↖️╠↗️︵🚲</name>
+    <name>19 ╣↖️╠↗️︵🚲</name>
     <cmt>╣ Desviar ↖️esquerra i ╠ desviar ↗️dreta tot seguit per creuar ︵ pont i seguir pel 🚲carril bici</cmt>
     <desc>╣ Desviar ↖️esquerra i ╠ desviar ↗️dreta tot seguit per creuar ︵ pont i seguir pel 🚲carril bici</desc>
-    <sym>Bike Trail</sym>
+    <sym>Bike Lane</sym>
   </wpt>
   <wpt lat="42.548603" lon="2.937779">
     <ele>42.892519849590194</ele>
-    <name>19 ⚠️🌊⬆️🚲</name>
+    <name>20 ⚠️🌊⬆️🚲</name>
     <cmt>⚠️Precaució 🌊riuades. Seguir ⬆️recte per 🚲carril bici</cmt>
     <desc>⚠️Precaució 🌊riuades. Seguir ⬆️recte per 🚲carril bici</desc>
     <sym>Alert</sym>
   </wpt>
   <wpt lat="42.550504" lon="2.942949">
     <ele>40.98092671423251</ele>
-    <name>20 ╬⚠️🚗⬆️🚲</name>
+    <name>21 ╬⚠️🚗⬆️🚲</name>
     <cmt>╬ Cruïlla. Amb ⚠️precaució 🚗trànsit creuar ⬆️recte per 🚲carril bici</cmt>
     <desc>╬ Cruïlla. Amb ⚠️precaució 🚗trànsit creuar ⬆️recte per 🚲carril bici</desc>
     <sym>Alert</sym>
   </wpt>
   <wpt lat="42.551346" lon="2.944021">
     <ele>37.66614243555874</ele>
-    <name>21 ╠↘️🚲. ↖️a 🏰Castell de Bles 1,53km</name>
+    <name>22 ╠↘️🚲. ↖️a 🏰Castell de Bles 1,53km</name>
     <cmt>╠↘️🚲. ↖️a 🏰Castell de Bles en 1,53 kms</cmt>
     <desc>╠↘️🚲. ↖️a 🏰Castell de Bles en 1,53 kms</desc>
-    <sym>Bike Trail</sym>
+    <sym>Bike Lane</sym>
   </wpt>
   <wpt lat="42.556876" lon="2.955792">
     <ele>34.694898608246106</ele>
-    <name>22 ╬⬆️🚲</name>
+    <name>23 ╬⬆️🚲</name>
     <cmt>╬ Cruïlla, ⬆️recte per 🚲carril bici</cmt>
     <desc>╬ Cruïlla, ⬆️recte per 🚲carril bici</desc>
-    <sym>Bike Trail</sym>
+    <sym>Bike Lane</sym>
   </wpt>
   <wpt lat="42.558453" lon="2.964942">
     <ele>31.115605759993617</ele>
-    <name>23 ╣↖️╬⚠️🚗⬆️╦⬅️🚲🚫🔄</name>
+    <name>24 ╣↖️╬⚠️🚗⬆️╦⬅️🚲🚫🔄</name>
     <cmt>╣ Desviar ↖️esquerra, ╬ cruïlla amb carretera i amb⚠️precaució 🚗trànsit creuar ⬆️recte i tot seguit ╦ incorporar-se a ⬅️l&apos;esquerra per 🚲carril bici, tot per 🚫evitar la 🔄rotonda.</cmt>
     <desc>╣ Desviar ↖️esquerra, ╬ cruïlla amb carretera i amb⚠️precaució 🚗trànsit creuar ⬆️recte i tot seguit ╦ incorporar-se a ⬅️l&apos;esquerra per 🚲carril bici, tot per 🚫evitar la 🔄rotonda.</desc>
     <sym>Alert</sym>
   </wpt>
   <wpt lat="42.558672664055905" lon="2.9654313018965865">
     <ele>31.49896413288143</ele>
-    <name>24 ╦➡️🚲</name>
+    <name>25 ╦➡️🚲</name>
     <cmt>╦ Seguir a ➡️dretes pel 🚲carril bici</cmt>
     <desc>╦ Seguir a ➡️dretes pel 🚲carril bici</desc>
-    <sym>Bike Trail</sym>
+    <sym>Bike Lane</sym>
   </wpt>
   <wpt lat="42.558646" lon="2.970224">
     <ele>24.866061720113294</ele>
-    <name>25 ╬↗️🚲</name>
+    <name>26 ╬↗️🚲</name>
     <cmt>╬ Cruïlla, creuar i seguir ↗️ a dretes pel 🚲carril bici</cmt>
     <desc>╬ Cruïlla, creuar i seguir ↗️ a dretes pel 🚲carril bici</desc>
-    <sym>Bike Trail</sym>
+    <sym>Bike Lane</sym>
   </wpt>
   <wpt lat="42.558066" lon="2.970789">
     <ele>24.702878626282168</ele>
-    <name>26 ╠↗️🚲</name>
+    <name>27 ╠↗️🚲</name>
     <cmt>╠ Desviar a ↗️dretes per 🚲carril bici</cmt>
     <desc>╠ Desviar a ↗️dretes per 🚲carril bici</desc>
-    <sym>Bike Trail</sym>
+    <sym>Bike Lane</sym>
   </wpt>
   <wpt lat="42.557757" lon="2.976545">
     <ele>25.184944386222128</ele>
-    <name>27 ╠➡️╦⬅️🚲. ➡️a🏘️St Andreu🚲</name>
+    <name>28 ╠➡️╦⬅️🚲. ➡️a🏘️St Andreu🚲</name>
     <cmt>╠ Desviar ➡️dreta i ╦ incorporar-se a carretera ⬅️esquerra per 🚲carril bici.
 ➡️Dreta indicació a🏘️St Andreu per 🚲carril bici</cmt>
     <desc>╠ Desviar ➡️dreta i ╦ incorporar-se a carretera ⬅️esquerra per 🚲carril bici.
 ➡️Dreta indicació a🏘️St Andreu per 🚲carril bici</desc>
-    <sym>Bike Trail</sym>
+    <sym>Bike Lane</sym>
   </wpt>
   <wpt lat="42.557499" lon="2.979212">
     <ele>27.91113714852965</ele>
-    <name>28 ╠➡️🚲</name>
+    <name>29 ╠➡️🚲</name>
     <cmt>╠ Desviar ➡️dreta per 🚲carril bici</cmt>
     <desc>╠ Desviar ➡️dreta per 🚲carril bici</desc>
-    <sym>Bike Trail</sym>
+    <sym>Bike Lane</sym>
   </wpt>
   <wpt lat="42.551539" lon="2.997787">
     <ele>27.022408936433244</ele>
-    <name>29 ╦⬅️🚲🅿️</name>
+    <name>30 ╦⬅️🚲🅿️</name>
     <cmt>╦ Incorporar-se a ⬅️l&apos;esquerra per 🚲carril bici. Deixem un 🅿️parking a mà dreta</cmt>
     <desc>╦ Incorporar-se a ⬅️l&apos;esquerra per 🚲carril bici. Deixem un 🅿️parking a mà dreta</desc>
-    <sym>Bike Trail</sym>
+    <sym>Bike Lane</sym>
   </wpt>
   <wpt lat="42.551636" lon="3.000497">
     <ele>28.26851022932776</ele>
-    <name>30 ╦⬅️🚲</name>
+    <name>31 ╦⬅️🚲</name>
     <cmt>╦ Incorporar-se a ⬅️l&apos;esquerra per 🚲carril bici</cmt>
     <desc>╦ Incorporar-se a ⬅️l&apos;esquerra per 🚲carril bici</desc>
-    <sym>Bike Trail</sym>
+    <sym>Bike Lane</sym>
   </wpt>
   <wpt lat="42.556771" lon="2.998997">
     <ele>20.877860167064973</ele>
-    <name>31 ︵🛤️╠➡️🚲. ⬆️a🏕️500m</name>
+    <name>32 ︵🛤️╠➡️🚲. ⬆️a🏕️500m</name>
     <cmt>Creuar ︵ pont sobre 🛤️vies i ╠ desviar ➡️dreta per 🚲carril bici
 ⬆️Recte a 🏕️Càmping en 500m</cmt>
     <desc>Creuar ︵ pont sobre 🛤️vies i ╠ desviar ➡️dreta per 🚲carril bici
 ⬆️Recte a 🏕️Càmping en 500m</desc>
-    <sym>Bike Trail</sym>
+    <sym>Bike Lane</sym>
   </wpt>
   <wpt lat="42.551587" lon="3.009876">
     <ele>18.875118660749706</ele>
-    <name>32 🚳⚠️🚗🔄2ª↗️</name>
+    <name>33 🚳⚠️🚗🔄2ª↗️</name>
     <cmt>🚳Interrupció carril bici. Amb ⚠️precaució 🚗trànsit entrar a la 🔄rotonda i sortir per la 2ª a la ↗️dreta</cmt>
     <desc>🚳Interrupció carril bici. Amb ⚠️precaució 🚗trànsit entrar a la 🔄rotonda i sortir per la 2ª a la ↗️dreta</desc>
     <sym>Alert</sym>
   </wpt>
   <wpt lat="42.551235" lon="3.010369">
     <ele>18.163083255943505</ele>
-    <name>33 ↗️≡↖️🚲</name>
+    <name>34 ↗️≡↖️🚲</name>
     <cmt>↗️Abandonem via per la dreta pel ≡ pas de zebra per ↖️reprendre pel 🚲carril bici lateral</cmt>
     <desc>↗️Abandonem via per la dreta pel ≡ pas de zebra per ↖️reprendre pel 🚲carril bici lateral</desc>
-    <sym>Bike Trail</sym>
+    <sym>Bike Lane</sym>
   </wpt>
   <wpt lat="42.549981" lon="3.012319">
     <ele>16.08458055625714</ele>
-    <name>34 ╦⬅️🚲</name>
+    <name>35 ╦⬅️🚲</name>
     <cmt>╦ Al cap del carrer incorporar-se a ⬅️l&apos;esquerra per 🚲carril bici</cmt>
     <desc>╦ Al cap del carrer incorporar-se a ⬅️l&apos;esquerra per 🚲carril bici</desc>
-    <sym>Bike Trail</sym>
+    <sym>Bike Lane</sym>
   </wpt>
   <wpt lat="42.549525" lon="3.012776">
     <ele>15.590980631777756</ele>
-    <name>35 ╣⬅️</name>
+    <name>36 ╣⬅️</name>
     <cmt>╣ Desviar ⬅️esquerra per Rue des Colibris</cmt>
     <desc>╣ Desviar ⬅️esquerra per Rue des Colibris</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="42.547838" lon="3.016684">
     <ele>12.544293600698664</ele>
-    <name>36 ╣⬅️</name>
+    <name>37 ╣⬅️</name>
     <cmt>╣ Desviar ⬅️esquerra per Rue des Chardonnerets</cmt>
     <desc>╣ Desviar ⬅️esquerra per Rue des Chardonnerets</desc>
     <sym>Crossing</sym>
@@ -282,70 +282,70 @@ La 1ª 🚲carril bici a Montesquieu</desc>
   </wpt>
   <wpt lat="42.549373" lon="3.01892">
     <ele>11.896731022234587</ele>
-    <name>37 ╦➡️🧿⚠️🚗</name>
+    <name>38 ╦➡️🧿⚠️🚗</name>
     <cmt>╦ Incorporar-se a D-114 a la ➡️dreta cap al 🧿centre amb ⚠️precaució 🚗trànsit. En cas necessari utilitzeu la vorera.</cmt>
     <desc>╦ Incorporar-se a D-114 a la ➡️dreta cap al 🧿centre amb ⚠️precaució 🚗trànsit. En cas necessari utilitzeu la vorera.</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="42.548041" lon="3.020131">
     <ele>9.149162342964296</ele>
-    <name>38 ⚠️🚗︵ ╣↖️🔻╣⬅️╦⬅️⌒</name>
+    <name>39 ⚠️🚗︵ ╣↖️🔻╣⬅️╦⬅️⌒</name>
     <cmt>Amb ⚠️precaució 🚗trànsit creuar ︵ pont i seguidament  ╣desviar ↖️esquerra 🔻avall, ╣desviar ⬅️esquerra altre cop i al ╦ cap del carrer ⬅️esquerra per passar justament per sota del pont del que venim.</cmt>
     <desc>Amb ⚠️precaució 🚗trànsit creuar ︵ pont i seguidament  ╣desviar ↖️esquerra 🔻avall, ╣desviar ⬅️esquerra altre cop i al ╦ cap del carrer ⬅️esquerra per passar justament per sota del pont del que venim.</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="42.547691" lon="3.020648">
     <ele>10.835556154588838</ele>
-    <name>39 ↖️🚶⌒</name>
+    <name>40 ↖️🚶⌒</name>
     <cmt>Passar a banda ↖️esquerra per 🚶vorera per creuar ⌒ túnel</cmt>
     <desc>Passar a banda ↖️esquerra per 🚶vorera per creuar ⌒ túnel</desc>
     <sym>Tunnel</sym>
   </wpt>
   <wpt lat="42.547422" lon="3.020108">
     <ele>10.538901990541957</ele>
-    <name>40 🌳⬆️🚲</name>
+    <name>41 🌳⬆️🚲</name>
     <cmt>🌳Pel passeig amb arbres ⬆️recte per 🚲carril bici. Tram sense asfaltar</cmt>
     <desc>🌳Pel passeig amb arbres ⬆️recte per 🚲carril bici. Tram sense asfaltar</desc>
-    <sym>Road</sym>
+    <sym>End of Road</sym>
   </wpt>
   <wpt lat="42.546772" lon="3.018791">
     <ele>10.753320022580205</ele>
-    <name>41 ╦⬅️ Inici asfalt</name>
+    <name>42 ╦⬅️ Inici asfalt</name>
     <cmt>╦ Incorporar-se a Rue de la Marne a ⬅️l&apos;esquerra. Inici asfalt</cmt>
     <desc>╦ Incorporar-se a Rue de la Marne a ⬅️l&apos;esquerra. Inici asfalt</desc>
     <sym>Road</sym>
   </wpt>
   <wpt lat="42.546216" lon="3.019248">
     <ele>11.077055847924484</ele>
-    <name>42 ╠➡️</name>
+    <name>43 ╠➡️</name>
     <cmt>╠ Desviar ➡️dreta per Rue de Douaumont</cmt>
     <desc>╠ Desviar ➡️dreta per Rue de Douaumont</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="42.546026" lon="3.01901">
     <ele>11.456404293748252</ele>
-    <name>43 ╣⬅️</name>
+    <name>44 ╣⬅️</name>
     <cmt>╣Desviar ⬅️esquerra per Rue de Verdun</cmt>
     <desc>╣Desviar ⬅️esquerra per Rue de Verdun</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="42.545554" lon="3.019843">
     <ele>12.302830391774124</ele>
-    <name>44 ╬↖️🧭E</name>
+    <name>45 ╬↖️🧭E</name>
     <cmt>╬ Cruïlla. Agafem el carrer que surt ↖️lleugerament a esquerra Rue de la Résistance 🧭E</cmt>
     <desc>╬ Cruïlla. Agafem el carrer que surt ↖️lleugerament a esquerra Rue de la Résistance 🧭E</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="42.545616" lon="3.021528">
     <ele>14.177012825381166</ele>
-    <name>45 ╦➡️🧭S</name>
+    <name>46 ╦➡️🧭S</name>
     <cmt>╦ Al cap del carrer ➡️dreta per Rue d&apos;Alembert 🧭S</cmt>
     <desc>╦ Al cap del carrer ➡️dreta per Rue d&apos;Alembert 🧭S</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="42.545156" lon="3.021492">
     <ele>15.825555886795065</ele>
-    <name>46 🔄2ª↗️</name>
+    <name>47 🔄2ª↗️</name>
     <cmt>🔄Rotonda. Surt per la 2ª a la ↗️dreta Av. de la Gare</cmt>
     <desc>🔄Rotonda. Surt per la 2ª a la ↗️dreta Av. de la Gare</desc>
     <sym>Crossing</sym>
@@ -359,7 +359,7 @@ La 1ª 🚲carril bici a Montesquieu</desc>
     <sym>Ground Transportation</sym>
   </wpt>
   <trk>
-    <name>32.00 Morellàs - Argelers</name>
+    <name>32.00 Morellàs i les Illes - Argelers</name>
     <trkseg>
       <trkpt lat="42.489738" lon="2.806953">
         <ele>130.75</ele>
