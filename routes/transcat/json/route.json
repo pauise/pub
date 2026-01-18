@@ -520,8 +520,8 @@
     {
       "id": "31.00",
       "nom": "La Jonquera - Morellàs i les Illes",
-      "data": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/json/31.00.Jonquera.Morellas.json",
-      "km": 1
+      "data": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/json/31.00.Jonquera.Morell%C3%A0s.json",
+      "km": 16.59
     },
     {
       "id": "32.00",
