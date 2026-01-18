@@ -16,8 +16,8 @@ arribar a connectar o bé si s'haurà de modificar el traçat. Si bé podeu trob
 fer amb els petits: carreteres molt transitades, no evita zones muntanyoses ni vies en mal estat.
 
 La <nom>, comparada amb el mateix trajecte EV-8, de l'Estació de Vinaròs a l'Estació d'Argelers-sur-Mer la EV-8 fa 553 kms amb 5664 m desnivell positiu 
-acumulat mentre que la <nom> fa 513,6 kms i 3877 m. No només és un 7% més curta sinó que puja un 30% menys, i per tant, només això ja la converteix en 
-més assequible.
+acumulat mentre que la <nom> fa 513,6 kms i 3906 m. No només és un 7% més curta sinó que puja un 30% menys, i per tant, només això ja la converteix en 
+molt més assequible.
 
 Amés, és més adequada per fer amb els petits ja que disposa de moltes escapatòries per si cal abandonar la ruta de forma sobtada, i aquestes escapatòries 
 estan documentades amb el mateix nivell de detall que les pròpies etapes amb el seu track i fitxa.
