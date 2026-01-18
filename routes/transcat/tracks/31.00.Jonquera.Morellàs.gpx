@@ -1,15 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <gpx creator="Wikiloc - https://www.wikiloc.com" version="1.1" schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/PowerExtension/v1 http://www.garmin.com/xmlschemas/PowerExtensionv1.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/PowerExtension/v1 http://www.garmin.com/xmlschemas/PowerExtensionv1.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxpx="http://www.garmin.com/xmlschemas/PowerExtension/v1" xmlns:gpx_style="http://www.topografix.com/GPX/gpx_style/0/2">
   <metadata>
-    <name>32.00 La Jonquera - Morellàs</name>
-    <desc>La Jonquera - Coll de Panissars - Les Planes - Morellàs i les Illes tot per Pirinexus</desc>
+    <name>31.00 La Jonquera - Morellàs i les Illes</name>
+    <desc>La Jonquera - Coll de Panissars - Riunoguès - Morellàs i les Illes tot per Pirinexus</desc>
     <author>
       <name>gpx.studio</name>
       <link href="https://gpx.studio"/>
     </author>
-    <link href="https://www.wikiloc.com/bicycle-touring-trails/la-pirinexus-en-bicicleta-track-completo-96620064">
-      <text>La Pirinexus en bicicleta (Track completo) on Wikiloc</text>
-    </link>
     <time>2022-03-02T10:10:31.752Z</time>
   </metadata>
   <wpt lat="42.419867" lon="2.871768">
@@ -130,12 +127,12 @@
   </wpt>
   <wpt lat="42.454359" lon="2.858099">
     <ele>322.1398375490686</ele>
-    <name>17 🚩França🏰🪦╦⬅️</name>
-    <cmt>🚩Frontera França 🏰Torre dels Burots a la nostra esquerra. Passar per la ↗️dreta del 🪦Cementiri Militaire de Panissars
+    <name>17 🚩França📷🏰🪦╦⬅️</name>
+    <cmt>🚩Frontera França 📷Vista panoràmica 🏰Torre dels Burots a la nostra esquerra. Passar per la ↗️dreta del 🪦Cementiri Militaire de Panissars
 ╦ Incorporar-se a camí enquitranat a ⬅️l&apos;esquerra 🧭W</cmt>
     <desc>🚩Frontera França 🏰Torre dels Burots a la nostra esquerra. Passar per la ↗️dreta del 🪦Cementiri Militaire de Panissars
 ╦ Incorporar-se a camí enquitranat a ⬅️l&apos;esquerra 🧭W</desc>
-    <sym>Crossing</sym>
+    <sym>Camera</sym>
   </wpt>
   <wpt lat="42.45814301812746" lon="2.8490062517574586">
     <ele>343.9221284652402</ele>
@@ -153,14 +150,14 @@
   </wpt>
   <wpt lat="42.46251" lon="2.819506">
     <ele>331.5318426165029</ele>
-    <name>19 🏘️Riunoguès 🛏️⬆️</name>
+    <name>20 🏘️Riunoguès 🛏️⬆️</name>
     <cmt>🏘️Riunoguès: 🛏️Allotjament. ⬆️SPP </cmt>
     <desc>🏘️Riunoguès: 🛏️Allotjament. ⬆️SPP </desc>
     <sym>Hotel</sym>
   </wpt>
   <wpt lat="42.48748" lon="2.807362">
     <ele>137.58375333614075</ele>
-    <name>20 🏘️Morellàs i les Illes🏕️🛒☕🍽️🥖🛏️⚕️.╠⬆️🚰⛔</name>
+    <name>21 🏘️Morellàs i les Illes🏕️🛒☕🍽️🥖🛏️⚕️.╠⬆️🚰⛔</name>
     <cmt>🏘️Morellàs i les Illes: 🏕️Càmping 🛒Super ☕Bars 🍽️Restaurants 🥖Forn 🛏️Allotjaments ⚕️Farmàcia
 ╠ Abandonar carretera pel carrer que ve ⬆️de front en ⛔sentit contrari. 🚰Font a la dreta</cmt>
     <desc>🏘️Morellàs i les Illes: 🏕️Càmping 🛒Super ☕Bars 🍽️Restaurants 🥖Forn 🛏️Allotjaments ⚕️Farmàcia
@@ -177,7 +174,7 @@
     <sym>Crossing</sym>
   </wpt>
   <trk>
-    <name>32.00 La Jonquera - Morellàs</name>
+    <name>31.00 La Jonquera - Morellàs i les Illes</name>
     <trkseg>
       <trkpt lat="42.419868" lon="2.871779">
         <ele>117</ele>
