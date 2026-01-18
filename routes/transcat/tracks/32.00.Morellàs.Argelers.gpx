@@ -277,9 +277,6 @@ La 1ª 🚲carril bici a Montesquieu</desc>
     <desc>╣ Desviar ⬅️esquerra per Rue des Chardonnerets</desc>
     <sym>Crossing</sym>
   </wpt>
-  <wpt lat="0" lon="0">
-    <ele>0</ele>
-  </wpt>
   <wpt lat="42.549373" lon="3.01892">
     <ele>11.896731022234587</ele>
     <name>38 ╦➡️🧿⚠️🚗</name>
