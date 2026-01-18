@@ -99,35 +99,42 @@
   </wpt>
   <wpt lat="42.448579" lon="2.8477">
     <ele>328.95953695149234</ele>
-    <name>13 ╣↗️</name>
-    <cmt>╣ SPP ↗️dreta</cmt>
-    <desc>╣ SPP ↗️dreta</desc>
+    <name>13 ╬↗️ 🔺amunt</name>
+    <cmt>╬ SPP ↗️dreta 🔺amunt</cmt>
+    <desc>╬ SPP ↗️dreta 🔺amunt</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="42.45172" lon="2.844323">
     <ele>353.17136965574855</ele>
-    <name>14 ╠↖️</name>
-    <cmt>╠ SPP ↖️esquerra</cmt>
-    <desc>╠ SPP ↖️esquerra</desc>
+    <name>14 ╠↖️🏔️</name>
+    <cmt>╠ SPP ↖️esquerra. 🏔️Fi pujada</cmt>
+    <desc>╠ SPP ↖️esquerra. 🏔️Fi pujada</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="42.453319" lon="2.842835">
     <ele>345.15213753519674</ele>
-    <name>15 ╣↗️</name>
-    <cmt>╣ SPP ↗️dreta</cmt>
-    <desc>╣ SPP ↗️dreta</desc>
+    <name>15 ╣↗️🔻🏚️</name>
+    <cmt>╣ SPP ↗️dreta 🔻avall 🏚️Corral del Tronc</cmt>
+    <desc>╣ SPP ↗️dreta 🔻avall 🏚️Corral del Tronc</desc>
+    <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="42.454698" lon="2.843198">
+    <ele>320.2</ele>
+    <name>16 ╠↖️</name>
+    <cmt>╠ SPP ↖️esquerra</cmt>
+    <desc>╠ SPP ↖️esquerra</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="42.453411" lon="2.855151">
     <ele>301.2853508378392</ele>
-    <name>16 ╠↖️</name>
+    <name>17 ╠↖️</name>
     <cmt>╠ SPP ↖️esquerra</cmt>
     <desc>╠ SPP ↖️esquerra</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="42.454359" lon="2.858099">
     <ele>322.1398375490686</ele>
-    <name>17 🚩França📷🏰🪦╦⬅️</name>
+    <name>18 🚩França📷🏰🪦╦⬅️</name>
     <cmt>🚩Frontera França 📷Vista panoràmica 🏰Torre dels Burots a la nostra esquerra. Passar per la ↗️dreta del 🪦Cementiri Militaire de Panissars
 ╦ Incorporar-se a camí enquitranat a ⬅️l&apos;esquerra 🧭W</cmt>
     <desc>🚩Frontera França 🏰Torre dels Burots a la nostra esquerra. Passar per la ↗️dreta del 🪦Cementiri Militaire de Panissars
@@ -136,28 +143,28 @@
   </wpt>
   <wpt lat="42.45814301812746" lon="2.8490062517574586">
     <ele>343.9221284652402</ele>
-    <name>18 ╠⬆️. ➡️a🚱Font dels Miquelets</name>
+    <name>19 ╠⬆️. ➡️a🚱Font dels Miquelets</name>
     <cmt>╠ SPP ⬆️recte. ➡️Dreta a 🚱font no potable Font dels Miquelets</cmt>
     <desc>╠ SPP ⬆️recte. ➡️Dreta a 🚱font no potable Font dels Miquelets</desc>
     <sym>Crossing</sym>
   </wpt>
   <wpt lat="42.46067" lon="2.844626">
     <ele>357.0032506703409</ele>
-    <name>19 ⬆️🏠Mas Bardes</name>
+    <name>20 ⬆️🏠Mas Bardes</name>
     <cmt>⬆️SPP. 🏠Mas Bardes</cmt>
     <desc>⬆️SPP. 🏠Mas Bardes</desc>
     <sym>House</sym>
   </wpt>
   <wpt lat="42.46251" lon="2.819506">
     <ele>331.5318426165029</ele>
-    <name>20 🏘️Riunoguès 🛏️⬆️</name>
+    <name>21 🏘️Riunoguès 🛏️⬆️</name>
     <cmt>🏘️Riunoguès: 🛏️Allotjament. ⬆️SPP </cmt>
     <desc>🏘️Riunoguès: 🛏️Allotjament. ⬆️SPP </desc>
     <sym>Hotel</sym>
   </wpt>
   <wpt lat="42.48748" lon="2.807362">
     <ele>137.58375333614075</ele>
-    <name>21 🏘️Morellàs i les Illes🏕️🛒☕🍽️🥖🛏️⚕️.╠⬆️🚰⛔</name>
+    <name>22 🏘️Morellàs i les Illes🏕️🛒☕🍽️🥖🛏️⚕️.╠⬆️🚰⛔</name>
     <cmt>🏘️Morellàs i les Illes: 🏕️Càmping 🛒Super ☕Bars 🍽️Restaurants 🥖Forn 🛏️Allotjaments ⚕️Farmàcia
 ╠ Abandonar carretera pel carrer que ve ⬆️de front en ⛔sentit contrari. 🚰Font a la dreta</cmt>
     <desc>🏘️Morellàs i les Illes: 🏕️Càmping 🛒Super ☕Bars 🍽️Restaurants 🥖Forn 🛏️Allotjaments ⚕️Farmàcia
