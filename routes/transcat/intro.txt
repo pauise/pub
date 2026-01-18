@@ -1,8 +1,9 @@
 Què és?
 =======
 
-La <nom> i especialment la <nom> Kids és una ruta per etapes pensada per travessar Catalunya en bicicleta amb els més petits ja que transcorre majoritàriament
-per vies rurals, totes les etapes són de 2 a 4 hores a ritme dels més petits i en el 90% es disposa d'estació de tren a inici i final d'etapa.
+La <nom> i especialment la <nom> Kids és una ruta per etapes pensada per travessar Catalunya en bicicleta amb els més petits ja que transcorre 
+majoritàriament per vies rurals, totes les etapes són de 2 a 4 hores a ritme dels més petits i en el 90% es disposa d'estació de tren a inici i 
+final d'etapa.
 
 Com deiem, les etapes transcorren per pistes, camins, vies verdes, carrils bici i en menor mesura per vies poc transitades de poca pendent, sempre evitant
 muntanya, carreteres principals i camins en mal estat.
@@ -36,14 +37,17 @@ Com llegir el roadbook?
 =======================
 En el propi track hi ha waypoints amb informació tipus roadbook al més pur estil Dakarià. Exemple: 
 
-7,51 | 0,35 | ⌒🛤️╦➡️🔻🧭SE. ⬅️a🚰150m
+#n | Símbol | 7,51 | 0,35 | ⌒🛤️╦➡️🔻🧭SE. ⬅️a🚰150m
 
-Es llegeix d'esquerra a dreta. Primer tenim el km total de l'etapa. Seguit el km parcial respecte l'anterior vinyeta. Aquest és l'important. Ens està dient
-que 350m més tard de l'anterior vinyeta, trobarem un ⌒ Túnel que passarà sota la 🛤️Via fèrria i que a la sortida del túnel ╦ acaba el camí i ens hem 
-d'incorporar a la ➡️dreta 🔻avall (de baixada) en 🧭SE rumb Sud-Est. Altrament, si anem a ⬅️l'esquerra trobarem una 🚰font d'aigua potable en 150m.
+Es llegeix d'esquerra a dreta. Primer tenim el número de waypoint d'aquest track. Seguidament un únic símbol gran, visible, que simbolitza el més 
+destacable (però no tot obviament) d'aquell waypoint. Després km total de l'etapa. Seguit el km parcial respecte l'anterior vinyeta. Aquest és l'important.
+Ens està dient que 350m més tard de l'anterior vinyeta, trobarem un ⌒ Túnel que passarà sota la 🛤️Via fèrria i que a la sortida del túnel ╦ acaba el camí 
+i ens hem d'incorporar a la ➡️dreta 🔻avall (de baixada) en 🧭SE rumb Sud-Est. Altrament, si anem a ⬅️l'esquerra trobarem una 🚰font d'aigua potable en 
+150m.
 
-En ocasions, la història de la vinyeta pot arribar a quasi 100m de longitud. Cal considerar que el punt kilomètric correspon sempre a l'inici de la història. 
-És a dir, si una vinyeta diu ╦⬅️50m╦⬅️ i la següent està en 120m vol dir que aplica a només 70m més tard de la segona desviació de la primera vinyeta.
+En ocasions, la història de la vinyeta pot arribar a quasi 100m de longitud. Cal considerar que el punt kilomètric correspon sempre a l'inici de la 
+història. És a dir, si una vinyeta diu ╦⬅️50m╦⬅️ i la següent està en 120m vol dir que aplica a només 70m més tard de la segona desviació de la primera
+vinyeta.
 
 Per a més informació sobre la llegenda, vegeu "Llegenda tracks".
 
@@ -96,8 +100,8 @@ exemple a rodar a uns 10 kms/h en pla i aturar-se només 15' cada hora, lo qual 
 Navegador
 ---------
 Decideix quin serà el teu dispositiu de navegació. N'hi ha d'especifics (Garmin, Twonav..) o bé el propi mòbil. És important considerar que els dispositius 
-específics són resistents a aigua, pols i cops. Els mòbils no. Si utilitzes un mòbil, assegura't que la funda el protegeix adequadament mentre que alhora pots
-controlar-lo sense problemes.
+específics són resistents a aigua, pols i cops. Els mòbils no. Si utilitzes un mòbil, assegura't que la funda el protegeix adequadament mentre que alhora 
+pots controlar-lo sense problemes.
 
 Et sorpendrà què poc dura la bateria d'un smartphone quan navegues. La pantalla ha d'estar sempre encesa a la màxima brillantor, constantment buscant 
 cobertura, i quan en té constantment descarregant informació cartogràfica per mostrar-te en pantalla. Tot i que en cas extrem pots navegar en paper, 
@@ -118,8 +122,8 @@ Estudi de la ruta
 -----------------
 Per molt que la ruta estigui carregada al navegador, tingui tanta informació com diem, etc etc, és bàsic estudiar la ruta. Obre el track amb el gpx studio o
 amb wikiloc o amb el teu visor de GPX preferit i revisa per on va la ruta, els carrers que agafa, fonts, desviacions importants, llocs complicats on calgui
-estar alerta i tenir els peques agrupats, llocs on parar a descansar i que pugui haver ombra si fa calor, on esmorzar, on dinar, si hi ha un parc infantil a 
-prop que puguis aprofitar,... i sobretot les escaptòries per si has d'interrompre la ruta i els horaris de trens.
+estar alerta i tenir els peques agrupats, llocs on parar a descansar i que pugui haver ombra si fa calor, on esmorzar, on dinar, si hi ha un parc infantil 
+a prop que puguis aprofitar,... i sobretot les escaptòries per si has d'interrompre la ruta i els horaris de trens.
 
 Autosuficiència mecànica
 ------------------------
