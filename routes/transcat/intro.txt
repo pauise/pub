@@ -1,0 +1,142 @@
+Què és?
+=======
+
+La <nom> i especialment la <nom> Kids és una ruta per etapes pensada per travessar Catalunya en bicicleta amb els més petits ja que transcorre majoritàriament
+per vies rurals, totes les etapes són de 2 a 4 hores a ritme dels més petits i en el 90% es disposa d'estació de tren a inici i final d'etapa.
+
+Com deiem, les etapes transcorren per pistes, camins, vies verdes, carrils bici i en menor mesura per vies poc transitades de poca pendent, sempre evitant
+muntanya, carreteres principals i camins en mal estat.
+
+En què es diferencia de la EuroVelo-8?
+======================================
+Com bé sabreu, hi ha la coneguda Euro-Velo 8 que transcorre pel Mediterrani des de França fins Andalusia i que travessa Catalunya, però atenció. La EV-8 no 
+està completament desenvolupada. Concretament el seu pas per Catalunya amb prou feines un 30% i no està gens clar que els trams desenvolupats es puguin 
+arribar a connectar o bé si s'haurà de modificar el traçat. Si bé podeu trobar tracks que proposen unir els troços desenvolupats, no són assequibles per 
+fer amb els petits: carreteres molt transitades, no evita zones muntanyoses ni vies en mal estat.
+
+La <nom>, comparada amb el mateix trajecte EV-8, de l'Estació de Vinaròs a l'Estació d'Argelers-sur-Mer la EV-8 fa 553 kms amb 5664 m desnivell positiu 
+acumulat mentre que la <nom> fa 513,6 kms i 3877 m. No només és un 7% més curta sinó que puja un 30% menys, i per tant, només això ja la converteix en 
+més assequible.
+
+Amés, és més adequada per fer amb els petits ja que disposa de moltes escapatòries per si cal abandonar la ruta de forma sobtada, i aquestes escapatòries 
+estan documentades amb el mateix nivell de detall que les pròpies etapes amb el seu track i fitxa.
+
+Per altra banda, un altre factor diferencial de la <nom> és que en els propis tracks trobareu un munt d'informació útil tant de navegació com de serveis 
+essencials tals com fonts, allotjament, bars i restaurants, serveis mèdics, tallers mecànics, escapatòries de la ruta, transport públic, etc. Disposar 
+d'informació turística en una pàgina web no és útil ni pràctic quan un va muntat damunt de la bicicleta. Per aquest motiu i basant-nos en la nostra
+experiència hem incorporat tota la informació útil sintetitzada en forma d'emojis dins dels propis tracks.
+
+A més a més, en el supòsit que us quedessiu sense bateria i no disposessiu de senyal GPS, podrieu continuar la ruta si disposeu de la fitxa en paper ja
+que també té la funció de roadbook; és a dir, utilitzant el compta-quilòmetres parcial de la bicicleta, podreu seguir navegant al més pur estil Dakarià 
+interpretant la síntesi de cada vinyeta.
+
+Vegeu com llegir el roadbook.
+
+Com llegir el roadbook?
+=======================
+En el propi track hi ha waypoints amb informació tipus roadbook al més pur estil Dakarià. Exemple: 
+
+7,51 | 0,35 | ⌒🛤️╦➡️🔻🧭SE. ⬅️a🚰150m
+
+Es llegeix d'esquerra a dreta. Primer tenim el km total de l'etapa. Seguit el km parcial respecte l'anterior vinyeta. Aquest és l'important. Ens està dient
+que 350m més tard de l'anterior vinyeta, trobarem un ⌒ Túnel que passarà sota la 🛤️Via fèrria i que a la sortida del túnel ╦ acaba el camí i ens hem 
+d'incorporar a la ➡️dreta 🔻avall (de baixada) en 🧭SE rumb Sud-Est. Altrament, si anem a ⬅️l'esquerra trobarem una 🚰font d'aigua potable en 150m.
+
+En ocasions, la història de la vinyeta pot arribar a quasi 100m de longitud. Cal considerar que el punt kilomètric correspon sempre a l'inici de la història. 
+És a dir, si una vinyeta diu ╦⬅️50m╦⬅️ i la següent està en 120m vol dir que aplica a només 70m més tard de la segona desviació de la primera vinyeta.
+
+Per a més informació sobre la llegenda, vegeu "Llegenda tracks".
+
+Llegenda tracks:
+================
+Emojis de navegació:
+-------------------
+Ruta: 🟢Inici i 🏁Final 🔚Escapatòria 🔝🏔️Cota
+Direcció: ⬆️Recte ↗️Lleugerament dreta ➡️Dreta ↘️Dreta tancat ↙️Esquerra tancat ⬅️Esquerra ↖️Lleugerament esquerra 🧭Rumb
+Desviació: 🔄Rotonda  ╬ Cruïlla  ╠ Desviació a la dreta  ╦ Incorporació  ╣ ­Desviació esquerra  ⛔Direcció prohibida  🛑Stop  🔺Amunt 🔻Avall
+Passos: ︵ Pont  ⌒ Túnel  🪜Escales  ≡ Pas de zebra 🚦Semàfor 🧱Mur 🚧Barrera ⚡Alta tensió
+Referència: 🏘️Població 🧿Nucli urba/Centre  🅿️Parking  🏖️Platja  🌳Bosc/Parc/Ombra  ⛪Lloc religiós  🪦Cementiri 🏠Mas/Casa 🏚️Runes 🏰Castell
+Alerta: ‼️Màxima atenció  ⚠️Precaució  🚗Trànsit  🚫No  🚱Font No potable
+Via: 🚳Fi i 🚲inici de carril bici o via verda 🚶Vorera/zona peatonal  🌊Via fluvial  🛤️Via fèrria  🛣️Carretera
+Interés turístic: 📷Lloc pintoresc ⛲Font decorativa  🚩Altres
+
+Emojis de serveis:
+-------------------
+🏥Hospital 🛂Policia 🚒Bombers 
+🚉Estació de tren  🚏Estació de Bus
+🛝Parc infantil  🚰Font potable  🥪Taula de picnic  🪑Banc per seure 🚾Lavabos
+🛒Supermercat ☕Bar 🍽️Restaurant 🥖Forn/pastisseria 🥩Carnisseria/Xarcuteria 🔧Taller mecànic de bicicletes
+🏨Hotel 🏕️Camping 🛏️Allotjament
+⚕️Farmàcia  🏬Centre comercial  ⛽Benzinera
+ℹ️Oficina de Turisme  🐴Hípica 
+
+Com em preparo?
+===============
+Aquesta és la pregunta que cal fer-se amb prou temps d'antelació. La preparació i més amb petits, és la clau de l'èxit o millor dit, és la clau per evitar
+que no vulguin tornar a fer ruta mai més.
+
+La bicicleta
+------------
+La millor bicicleta l'ha de tenir el més feble. No té sentit que l'adult vaqgi amb una bicicleta de carbono de 5k€ i els petits vagin amb ferros. Hi ha
+bicicletes molt lleugeres per als més petits a la vora dels 500€ tals com Frog o Woom de només 5 o 6 kgs la de 14" i que podreu trobar de segona mà.
+El més feble no pot dur pes, l'adult durà la seva aigua i la dels peques. Així com les eines, recanvis, bomba, roba i menjar necessari. No et destrossis 
+l'esquena, monta alforjes a la roda de radera i practica amb pes ja que el centre de gravetat s'enradereix molt.
+
+Entrenament
+-----------
+La gran majoria de les etapes són molt assequibles, però abans de fer una inversió en bicicletes, viatge, eines, alforjes, etc poder cal tenir una idea 
+clara de quin és l'estat de forma de tots els components que aniran de ruta. És recomanable buscar una de les etapes més assequibles i més a prop de casa
+per fer un primer tanteig: A cada quan necessiten aturar-se a descansar, quines velocitats mitjanes reals surten... No us espanteu si us surten 2 kms/h el
+primer cop. Els peques, més enllà de la forma física, necessiten una adaptació mental. És a dir, han d'aprendre a parar menys i menys estona i 
+cal fer-los veure que si fan això poden veure més coses en el mateix temps. Tampoc podem demanar-los que facin mitjes més enllà de 5 kms/h reals. Si us
+serveix de referència, lo normal per 6 anys és una mitjana de 7 o 8 kms/h en pla rodant 40' i parant 20' de cada hora, o sigui, 5kms/h efectius. Per tant,
+per aquest nen o nena de 6 anys una etapa de 20kms és una tortura de 4 hores. Caldria buscar una d'entre 10 i 15 o retallar o entrenar més per arribar per
+exemple a rodar a uns 10 kms/h en pla i aturar-se només 15' cada hora, lo qual ja serien 7,5kms/h efectius i aquests 20 kms ja els faria en menys de 3h.
+
+Navegador
+---------
+Decideix quin serà el teu dispositiu de navegació. N'hi ha d'especifics (Garmin, Twonav..) o bé el propi mòbil. És important considerar que els dispositius 
+específics són resistents a aigua, pols i cops. Els mòbils no. Si utilitzes un mòbil, assegura't que la funda el protegeix adequadament mentre que alhora pots
+controlar-lo sense problemes.
+
+Et sorpendrà què poc dura la bateria d'un smartphone quan navegues. La pantalla ha d'estar sempre encesa a la màxima brillantor, constantment buscant 
+cobertura, i quan en té constantment descarregant informació cartogràfica per mostrar-te en pantalla. Tot i que en cas extrem pots navegar en paper, 
+és molt fàcil perdre's si no hi estàs acostumat. Porta una powerbank, cable i entrena navegar amb roadbook sense GPS.
+
+Un bon consell és triar un navegador que et mostri de forma clara la informació rellevant de cada waypoint (desviacions,...) així com idealment pugui
+disposar d'una alarma sonora quan t'acostes a un waypoint i una altra alarma quan t'allunyes de la ruta. Són funcionalitats bàsiques, moltes vegades no 
+pots mirar la pantalla perquè estàs concentrat en la conducció o en controlar els peques i sense adonar-te'n et saltes una desviació important. I quan te 
+n'adones no només has de donar la vota sinó que a sobre fa pujada.
+
+Per últim, idealment, per evitar consum de bateria i dades i disposar de cartografia en indrets d'escassa o nul·la cobertura, els mapes s'haurien de dur en
+offline. En el cas del Twonav, els mapes en format RMAP es poden carregar tant al dispositiu específic com a l'app del mòbil. El format RMAP es genera via
+CompeGPS o Land i es pot fer a partir dels ECW del Instituto Geográfico Nacional. Inclús es poden arribar a comprimir els ECW per reduir-los la resolució
+sense que siguin ilegibles, i convertir a RMAP després per a que ocupin molt poc. Adicionalment es poden inclús retallar, i tot això també no només amb els
+mapes de 1:25.000 i 1:50.000 sinó també amb les imatges aèries PNOA on és imprescindible retallar i comprimir ja que cada tessel·la ocupa 2Gbs.
+
+Estudi de la ruta
+-----------------
+Per molt que la ruta estigui carregada al navegador, tingui tanta informació com diem, etc etc, és bàsic estudiar la ruta. Obre el track amb el gpx studio o
+amb wikiloc o amb el teu visor de GPX preferit i revisa per on va la ruta, els carrers que agafa, fonts, desviacions importants, llocs complicats on calgui
+estar alerta i tenir els peques agrupats, llocs on parar a descansar i que pugui haver ombra si fa calor, on esmorzar, on dinar, si hi ha un parc infantil a 
+prop que puguis aprofitar,... i sobretot les escaptòries per si has d'interrompre la ruta i els horaris de trens.
+
+Autosuficiència mecànica
+------------------------
+És molt recomanable practicar d'avantmà la reparació d'una punxada i d'una cadena no només de la teva sinó també de cadascuna de les bicis dels peques. 
+Avui dia hi ha un munt de cursos online i si tens cap dubte segur que el teu mecànic de confiança et pot ajudar puntualment. Recorda, és molt més 
+còmode mirar aquests videos tranquilament a casa amb aire acondicionat que en plena solana amb els crios nerviosos i poques dades i menys bateria.
+
+Meteo
+-----
+Els peques sempre tenen més dificultat que una persona de 25 anys per tolerar temperatures extremes. Cal evitar situacions de fred i de calor extrem. 
+
+Cal tenir especial precaució en periodes de pluja i posteriors dies, ja que en algunes etapes cal creuar rieres per guals i no és el mateix creuar 
+amb 3 dits d'aigua que amb dos pams. Això és molt seriòs, si pel que sigui us trobeu a mitja ruta amb una riera crescuda, mitja volta. Si hi ha pas 
+alternatiu per carretera o el que sigui i ho voleu provar endavant, sinó desfeu camí i cap a casa. No us la jugueu i menys amb peques.
+
+Si només disposeu de les vacances d'estiu per fer ruta, caldrà rodar des de primera hora i acabar abans de les 9:30 o bé començar a partir de les 18h i dur
+llums per si decàs. Amb calor extrem caldrà carregar molta més aigua, especialment considerant que el més probable és que les fonts que puguin haver-hi en 
+ruta estiguin seques o tallades per sequera.
+
+
