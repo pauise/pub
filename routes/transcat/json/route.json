@@ -526,8 +526,8 @@
     {
       "id": "32.00",
       "nom": "Morellàs i les Illes - Argelers",
-      "data": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/json/32.00.Morellas.Argelers.json",
-      "km": 1
+      "data": "https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/transcat/json/32.00.Morell%C3%A0s.Argelers.json",
+      "km": 25.04
     }
   ]
 }
