@@ -1,0 +1,99 @@
+
+
+Reduir soroll perfil altimètric:
+================================
+
+def calculate_gain(elevations, threshold=2.0, window_size=5):
+    # 1. Smooth the data using a Moving Average
+    smoothed = []
+    for i in range(len(elevations)):
+        start = max(0, i - window_size // 2)
+        end = min(len(elevations), i + window_size // 2 + 1)
+        window = elevations[start:end]
+        smoothed.append(sum(window) / len(window))
+    
+    # 2. Calculate gain with a threshold
+    total_gain = 0
+    if not smoothed: return 0
+    
+    last_counted_elev = smoothed[0]
+    
+    for i in range(1, len(smoothed)):
+        current_elev = smoothed[i]
+        diff = current_elev - last_counted_elev
+        
+        if diff >= threshold:
+            total_gain += diff
+            last_counted_elev = current_elev
+        elif diff < -threshold:
+            # We track the descent too so we can start counting 
+            # the next climb from the new "bottom"
+            last_counted_elev = current_elev
+            
+    return total_gain
+
+Calcular PK de cada WP:
+=======================
+
+import math
+from haversine import haversine, Unit
+                  
+def project_waypoint_to_track(tp1, tp2, wp):
+    """
+    Projects waypoint wp onto the segment [tp1, tp2].
+    Returns 't': the fraction of the way along the segment (0.0 to 1.0).
+    """
+    # Using simple Cartesian approximation for very short distances
+    # x = longitude, y = latitude
+    ax, ay = tp1[1], tp1[0]
+    bx, by = tp2[1], tp2[0]
+    px, py = wp[1], wp[0]
+
+    # Vector AB
+    dx, dy = bx - ax, by - ay
+    if dx == 0 and dy == 0:
+        return 0.0
+
+    # Project point P onto line AB to find fraction 't'
+    # t = [(P-A) . (B-A)] / |B-A|^2
+    t = ((px - ax) * dx + (py - ay) * dy) / (dx*dx + dy*dy)
+    
+    # Clamp t to [0, 1] so we stay on the segment
+    return max(0.0, min(1.0, t))
+
+def get_precise_waypoint_km(track_points, waypoints):
+    # 1. Pre-calculate distances between points and cumulative distance
+    segment_lengths = []
+    cumulative_dist = [0.0]
+    for i in range(1, len(track_points)):
+        d = haversine(track_points[i-1], track_points[i], unit=Unit.KILOMETERS)
+        segment_lengths.append(d)
+        cumulative_dist.append(cumulative_dist[-1] + d)
+
+    results = []
+    for wp in waypoints:
+        # 2. Find closest point (same as before)
+        closest_idx = min(range(len(track_points)), 
+                          key=lambda i: haversine(wp, track_points[i]))
+        
+        # 3. Determine best segment (either the one before or after the closest point)
+        # We check which segment the waypoint actually projects onto
+        best_km = cumulative_dist[closest_idx]
+        
+        # Check segment AFTER closest_idx
+        if closest_idx < len(track_points) - 1:
+            t_after = project_waypoint_to_track(track_points[closest_idx], track_points[closest_idx+1], wp)
+            # If t > 0, it projects onto this segment
+            if t_after > 0:
+                best_km = cumulative_dist[closest_idx] + (t_after * segment_lengths[closest_idx])
+        
+        # Check segment BEFORE closest_idx (if it didn't project forward)
+        elif closest_idx > 0:
+            t_before = project_waypoint_to_track(track_points[closest_idx-1], track_points[closest_idx], wp)
+            best_km = cumulative_dist[closest_idx-1] + (t_before * segment_lengths[closest_idx-1])
+
+        results.append(round(best_km, 4))
+    
+    return results
+
+                
