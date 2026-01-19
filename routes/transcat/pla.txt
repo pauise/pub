@@ -1,7 +1,8 @@
-Afegir variant per Girona per muntanya i alternativa per Celrà
-Construir els gpx i json de la part de França
+Afegir variant per Girona per muntanya i alternativa per Celrà -> N/A
+Construir els gpx i json de la part de França -> ✅
+Recalcular altimetries amb DEM de ICC
 Desenvolupar generador gràfic SVG; groc a vermell fosc +pendents, blau cel a morat -pendents
-Desenvolupar enllaços de WPs
+Desenvolupar links de WPs
 Desenvolupar visor fotos associades a WPs, tipo 17.VA.23.jpg
 Desenvolupar codi QR amb URL a fitxa etapa
 Desenvolupar selector de capacitat física pels estimadors de temps
