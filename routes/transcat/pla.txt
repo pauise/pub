@@ -1,6 +1,7 @@
 Afegir variant per Girona per muntanya i alternativa per Celrà -> N/A
 Construir els gpx i json de la part de França -> ✅
 Recalcular altimetries amb DEM de ICC
+  https://geoserveis.icgc.cat/icc_ct1m/wms/service
 Desenvolupar generador gràfic SVG; groc a vermell fosc +pendents, blau cel a morat -pendents
 Desenvolupar links de WPs
 Desenvolupar visor fotos associades a WPs, tipo 17.VA.23.jpg
