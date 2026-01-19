@@ -4,6 +4,156 @@
       <!-- Test Github URL 
       https://htmlpreview.github.io/?https://raw.githubusercontent.com/pauise/pub/refs/heads/main/routes/shared/viewer/viewer.html
       -->
+      <script language="Javascript">
+         function getCookie(name) {
+                // 1. Prepare the name to look for (e.g., "stage=")
+                let nameEQ = name + "=";
+                // 2. Split all cookies into an array
+                let ca = document.cookie.split(';');
+                
+                for (let i = 0; i < ca.length; i++) {
+                    let c = ca[i];
+                    // 3. Remove leading spaces
+                    while (c.charAt(0) === ' ') {
+                        c = c.substring(1, c.length);
+                    }
+                    // 4. If this cookie starts with the name, return the value
+                    if (c.indexOf(nameEQ) === 0) {
+                        return c.substring(nameEQ.length, c.length);
+                    }
+                }
+                return null; // Return null if the cookie isn't found
+            }
+
+         // Usage:
+         // const currentStage = getCookie("stage");
+         // console.log("The value of stage is:", currentStage);
+
+
+         /**
+          * Writes a cookie with customizable options.
+          * @param {string} name - The name of the cookie (Required)
+          * @param {string|number} value - The value to store (Required)
+          * @param {number} daysToLive - Days until expiration (Default: 7)
+          * @param {string} path - URL path accessibility (Default: "/")
+          * @param {string} sameSite - Security attribute (Default: "Lax")
+          */
+         function setCookie(name, value, daysToLive = 7, path = "/", sameSite = "Lax") {
+             // 1. Calculate the expiration date
+             const date = new Date();
+             date.setTime(date.getTime() + (daysToLive * 24 * 60 * 60 * 1000));
+             const expires = "expires=" + date.toUTCString();
+         
+             // 2. Construct the cookie string
+             // EncodeURIComponent ensures special characters in the value don't break the cookie
+             document.cookie = `${name}=${encodeURIComponent(value)}; ${expires}; path=${path}; SameSite=${sameSite}`;
+             //console.log(`Cookie '${name}' set for ${daysToLive} days.`);
+         }
+
+         /**
+          * Retrieves a JSON file and parses it into an object.
+          * @param {string} url - The path or URL to the JSON file.
+          */
+         async function getJson(url) {
+             try {
+                 const response = await fetch(url);
+         
+                 // Check if the request was successful (status 200-299)
+                 if (!response.ok) {
+                     throw new Error(`HTTP error! status: ${response.status}`);
+                 }
+         
+                 // Parse the body as a JSON object
+                 const data = await response.json();
+                 
+                 console.log("JSON data received:", data);
+                 return data;
+             } catch (error) {
+                 console.error("Error fetching or parsing JSON:", error);
+             }
+         }
+
+         // Usage:
+         /*getJson('https://api.example.com/user/1')
+             .then(data => {
+                 if (data) {
+                     console.log(data.name); // Access properties directly
+                 }
+             });*/
+
+         /**
+          * Retrieves a GPX file and parses it into an XML Document.
+          * @param {string} url - The path to the .gpx file.
+          */
+         async function getGpxAsXml(url) {
+             try {
+                 const response = await fetch(url);
+         
+                 if (!response.ok) {
+                     throw new Error(`HTTP error! status: ${response.status}`);
+                 }
+         
+                 // 1. Get the data as a raw string
+                 const gpxString = await response.text();
+         
+                 // 2. Initialize the parser
+                 const parser = new DOMParser();
+         
+                 // 3. Parse the string into an XML Document
+                 const xmlDoc = parser.parseFromString(gpxString, "application/xml");
+         
+                 // 4. Check for parsing errors
+                 const errorNode = xmlDoc.querySelector('parsererror');
+                 if (errorNode) {
+                     throw new Error("Error parsing XML");
+                 }
+         
+                 return xmlDoc;
+             } catch (error) {
+                 console.error("Failed to fetch or parse GPX:", error);
+             }
+         }
+         
+         // Usage:
+         /*getGpxAsXml('path/to/route.gpx').then(xml => {
+             if (xml) {
+                 // Example: Get all track points
+                 const trackPoints = xml.getElementsByTagName("trkpt");
+                 console.log(`Found ${trackPoints.length} track points.`);
+                 
+                 // Example: Read latitude of the first point
+                 console.log("First lat:", trackPoints[0].getAttribute("lat"));
+             }
+         });*/
+
+         function downloadGeneratedHTML(fileName = "hardcopy.html") {
+             // 1. Get the current state of the entire HTML document
+             // Using document.documentElement.outerHTML captures from <html> to </html>
+             const currentHTML = document.documentElement.outerHTML;
+         
+             // 2. Create a Blob containing the HTML string
+             const blob = new Blob([currentHTML], { type: 'text/html' });
+         
+             // 3. Create a temporary "anchor" element to trigger the download
+             const link = document.createElement('a');
+             link.href = URL.createObjectURL(blob);
+             link.download = fileName;
+         
+             // 4. Programmatically click the link and then remove it
+             document.body.appendChild(link);
+             link.click();
+             document.body.removeChild(link);
+             
+             // Clean up the URL object to save memory
+             URL.revokeObjectURL(link.href);
+         }
+         
+         // Usage:
+         // You can call this after your dynamic generation logic is finished
+         // downloadGeneratedHTML('my-dynamic-page.html');
+
+         
+      </script>
    </head>
 <body>
 
