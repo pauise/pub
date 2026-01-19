@@ -152,7 +152,57 @@
          // You can call this after your dynamic generation logic is finished
          // downloadGeneratedHTML('my-dynamic-page.html');
 
-         /*
+         // nice axis scaling
+         function getStrictAltitudeMarks(minAlt, maxAlt, numMarks) {
+             const multiples = [10, 15, 20, 25, 30, 40, 50, 100, 150, 200, 250, 300, 400, 500, 1000];
+             const range = maxAlt - minAlt;
+             
+             // Find a starting step based on the range
+             let stepIndex = multiples.findIndex(m => m > range / (numMarks - 1));
+             if (stepIndex === -1) stepIndex = multiples.length - 1;
+         
+             let step, startMark, lastMark;
+         
+             // Iterate through multiples until boundaries are strictly respected
+             for (let i = stepIndex; i < multiples.length; i++) {
+                 step = multiples[i];
+                 
+                 // Calculate startMark: must be strictly less than minAlt
+                 // If minAlt is 120 and step is 20, we want 100, not 120.
+                 startMark = Math.floor(minAlt / step) * step;
+                 if (startMark === minAlt) {
+                     startMark -= step;
+                 }
+         
+                 lastMark = startMark + (step * (numMarks - 1));
+         
+                 // Check if maxAlt is strictly less than the last mark
+                 if (maxAlt < lastMark) {
+                     break; // We found the correct step
+                 }
+             }
+         
+             const marks = [];
+             for (let i = 0; i < numMarks; i++) {
+                 marks.push(startMark + (i * step));
+             }
+         
+             return { step, marks };
+         }
+         
+         // --- Testing with your scenario (120 to 190) ---
+         
+         console.log("4 Marks:", getStrictAltitudeMarks(120, 190, 4).marks);
+         // Result: [100, 150, 200, 250] (120 > 100 and 190 < 250)
+         
+         console.log("6 Marks:", getStrictAltitudeMarks(120, 190, 6).marks);
+         // Result: [100, 120, 140, 160, 180, 200] (120 > 100 and 190 < 200)
+         
+         console.log("8 Marks:", getStrictAltitudeMarks(120, 190, 8).marks);
+         // Result: [110, 125, 140, 155, 170, 185, 200, 215] 
+         // Note: If 15 is not in your 'multiples', the logic will jump to step 20.
+         
+         /* GENERACIÓ HTML :
          <ul id="myList">
             <li>Existing Item 1</li>
          </ul>
@@ -166,8 +216,18 @@
    </head>
 <body>
 
-<h1>SVG Viewer</h1>
-
+<!-- 
+Dimensions del SVG x10px: En total són 1200 d'ample per 600 d'alt que es distribuiran:
+00-05    6 +From              To+
+05-10    5 + Proporcions. Cada pastís fa 16 de radi => 32 de diàmetre i amb el text de 14px amb 1px de separació = 50px; del 50y al 100y.
+10-20    4 + WPS; cadascun fa 30, en 100 caben 3 sense solapar-se
+20-      3 + PERFIL tindrà un lienz de 1000 d'ample x 360 d'alt
+         2 + PERFIL en els 360 d'alt caben 6 marques d'alçada separades per 60px, o 4 de 90px o 8 de 45px .. 10 de 36 ja no massa apretat
+  -56    1 + PERFIL
+56-57    0 +-+-+-+-+-+-+-+-+-+-+
+57-60      0 1 2 3 4 5 6 7 10.12
+    0 20 -------------- 120 x10 px
+-->
 <svg width="1000" height="500" xmlns="http://www.w3.org/2000/svg">
   <!-- Style -->
   <style>
@@ -191,9 +251,9 @@
        <rect x="5" y="5" width="5" height="5" fill="black" />
      </pattern>
      
-     <!-- Stage portions --> 
+     <!-- Stage portions, l'alçada dels pastissos serà sempre la mateixa, 516 enlloc de 400 --> 
      <g id="pr25">
-        <line x1="0" y1="0" x2="0" y2="400" class="pr-line" />
+        <line x1="0" y1="0" x2="0" y2="516" class="pr-line" />
         <circle rx="0" cy="0" r="16" class="pr-circle" />
         <path d="M 0 0
           L 0 -16 
@@ -202,7 +262,7 @@
           class="pr-arch" />
      </g>
      <g id="pr50">
-        <line x1="0" y1="0" x2="0" y2="400" class="pr-line" />
+        <line x1="0" y1="0" x2="0" y2="516" class="pr-line" />
         <circle rx="0" cy="0" r="16" class="pr-circle" />
         <path d="M 0 0
           L 0 -16 
@@ -211,7 +271,7 @@
           class="pr-arch" />
      </g>
      <g id="pr75">
-        <line x1="0" y1="0" x2="0" y2="400" class="pr-line" />
+        <line x1="0" y1="0" x2="0" y2="516" class="pr-line" />
         <circle rx="0" cy="0" r="16" class="pr-circle" />
         <path d="M 0 0
           L 0 -16 
@@ -220,7 +280,8 @@
           class="pr-arch" />
      </g>
 
-     <!-- Waypoint -->
+     <!-- Waypoint M=Move, A=Arc i L fa la V 20px més avall del centre del arc junt amb la Z que tanca-->
+     <!-- Haurà d'haver un wp1, wp2, wp3 on la linia fins avall serà una o altra perquè estaran a diferents alçades o bé fer la linia a banda a cada cas -->
      <g id="wp">
        <line x1="0" y1="0" x2="0" y2="350" class="wp-line" />
        <path d="M -10 0
@@ -231,18 +292,47 @@
      </g>
    </defs>
    
-   <!-- Stage portion 350,100 -->
+   <!-- Stage portion la seva posició horitzontal pot variar 350,400,450 pero podria ser 500,600,800... -->
    <use href="#pr25" x="350" y="80" />
    <text x="350" y="62" class="pr-text">1h47'</text>
    <use href="#pr50" x="400" y="80" />
    <text x="400" y="62" class="pr-text">3h05'</text>
    <use href="#pr75" x="450" y="80" />
    <text x="450" y="62" class="pr-text">4h58'</text>
+   <!-- /*
+            // 1. Your list of values
+            const values = ["First Value", "Second Value", "Third Value"];
+            
+            // 2. Select all 3 elements
+            const elements = document.querySelectorAll('text.pr-text');
+            
+            // 3. Loop through the elements and use the 'index' to get the correct value
+            elements.forEach((el, index) => {
+                // We check if the value exists in our array to avoid errors
+                if (values[index] !== undefined) {
+                    el.textContent = values[index];
+                }
+            });
+
+
+            // 1. Your list of X coordinates
+            const xPositions = [100, 250, 400];
+            
+            // 2. Select all <use> elements targeting #pr25
+            // Using the attribute selector [href="#pr25"] ensures you only hit the right ones
+            const useElements = document.querySelectorAll('use[href="#pr25"]');
+            
+            // 3. Loop and update the 'x' attribute
+            useElements.forEach((el, index) => {
+                if (xPositions[index] !== undefined) {
+                    // We use setAttribute for x, y, href, etc.
+                    el.setAttribute('x', xPositions[index]);
+                }
+            });
+   */ -->
    
    <!-- Waypoint 250,150-->
    <use href="#wp" x="250" y="150" />
-   <!--line x1="250" y1="150" x2="250" y2="300" class="wp-line" />
-   <circle cx="250" cy="150" r="10" class="wp-circle" /-->
    <text x="250" y="150" class="wp-text">27</text>
 
    <!-- Gràfic principal -->
